@@ -1,0 +1,450 @@
+benevolence|n|iyilikseverlik|He was known for his {benevolence} to the poor.
+benevolent|adj|iyiliksever, hayırsever|A {benevolent} businessman paid for the school.
+berry|n|yemiş, dut türü meyve|The bird ate a red {berry}.
+bestow|v|bahşetmek, vermek|
+bestseller|n|çok satan kitap|Her novel became a {bestseller}.
+betray|v|ihanet etmek|
+bewilder|v|şaşkına çevirmek|The complicated rules {bewildered} the tourists.
+bewilderment|n|şaşkınlık|He stared at me in {bewilderment}.
+bid|v|teklif vermek (açık artırma)|
+bidding|n|teklif verme; emir|
+bikini|n|bikini|She wore a {bikini} on the beach.
+billion|n|milyar|The project cost a {billion} dollars.
+bind|v|bağlamak|
+bio|n|kısa biyografi|Read the author's {bio} on the back cover.
+biological|adj|biyolojik|She is his {biological} mother.
+biotechnology|n|biyoteknoloji|
+birdcage|n|kuş kafesi|The parrot sat in its {birdcage}.
+birthplace|n|doğum yeri|Thessaloniki is Atatürk's {birthplace}.
+bitterly|adv|acı bir şekilde; şiddetle|She cried {bitterly}.
+bizarre|adj|tuhaf, garip|
+blade|n|bıçak ağzı; yaprak (çim)|
+blast|n|patlama|
+blast|v|patlatmak; yüksek sesle çalmak|
+blaze|n|alev, yangın|
+blaze|v|alev alev yanmak|
+blend|n|karışım|
+blindly|adv|körü körüne|
+blindness|n|körlük|The disease can cause {blindness}.
+blink|v|göz kırpmak|
+bloodstream|n|kan dolaşımı|The drug enters the {bloodstream} quickly.
+bloody|adj|kanlı|
+bloody|adv|çok, lanet olası (argo)|It's {bloody} cold today!
+blooming|adj|çiçek açan, gelişen|The garden was full of {blooming} roses.
+blossom|n|çiçek (meyve ağacı)|The cherry trees are in {blossom}.
+blur|v|bulanıklaştırmak|
+blurt|n|ağzından kaçırma|His sudden {blurt} surprised everyone.
+blush|v|kızarmak (utançtan)|
+boiling|adj|kaynayan; çok sıcak|It's {boiling} in here!
+bold|n|kalın yazı|The title is in {bold}.
+bolt|n|sürgü; cıvata|Lock the door with the {bolt}.
+bolt|v|fırlamak, kaçmak|
+bombard|n|bombardıman topu (tarihî)|An old {bombard} stood near the castle gate.
+bomber|n|bombardıman uçağı; bombacı|The {bomber} was arrested.
+bombing|n|bombalama|The {bombing} killed many people.
+bony|adj|kemikli, sıska|He has long {bony} fingers.
+bookish|adj|kitap kurdu|
+booklet|n|kitapçık|Read the information {booklet}.
+bookmark|n|kitap ayracı; yer imi|Use a {bookmark} to keep your page.
+bookmark|v|yer imlerine eklemek|I {bookmarked} the website.
+boost|n|destek, artış|
+boost|v|artırmak, desteklemek|
+booth|n|kabin, stant|She called from a phone {booth}.
+bossy|adj|otoriter, emir vermeyi seven|
+botany|n|botanik|He studied {botany} at university.
+bothered|adj|zahmete katlanan, umursayan|I can't be {bothered} to cook tonight.
+bothersome|adj|can sıkıcı|
+bottle|v|şişelemek|They {bottle} the water at the source.
+bounce|n|sekme, zıplama|The ball took a strange {bounce}.
+bourbon|n|burbon viskisi|He ordered a glass of {bourbon}.
+bow|v|eğilmek, selam vermek|
+boxer|n|boksör|The {boxer} won the fight.
+bracket|n|parantez|Write the answer in {brackets}.
+brag|n|övünme|
+brake|v|fren yapmak|
+bravery|n|cesaret|He received a medal for {bravery}.
+breakable|adj|kırılabilir|
+breakdown|n|arıza; çöküş|
+breakup|n|ayrılık|After the {breakup}, she moved to Ankara.
+breathtaking|adj|nefes kesici|The view was {breathtaking}.
+breed|n|cins, ırk|
+breezy|adj|esintili; neşeli|It's a {breezy} day.
+brewery|n|bira fabrikası|They visited a {brewery} in Germany.
+brilliantly|adv|parlak bir şekilde|
+broadband|n|geniş bant internet|We have fast {broadband} at home.
+broadcast|v|yayınlamak|The match was {broadcast} live.
+broadcaster|n|yayıncı|She is a famous radio {broadcaster}.
+broaden|v|genişletmek|Travel {broadens} the mind.
+broadly|adv|genel olarak|
+brochure|n|broşür|Take a travel {brochure}.
+brother-in-law|n|kayınbirader, enişte|My {brother-in-law} is a doctor.
+browse|v|göz gezdirmek, gezinmek|
+browser|n|tarayıcı|Open the page in a different {browser}.
+bruise|n|çürük, morluk|He has a {bruise} on his arm.
+bud|n|tomurcuk|The {buds} open in spring.
+budget|adj|ekonomik, ucuz|We stayed in a {budget} hotel.
+bulimia|n|bulimiya|She was treated for {bulimia}.
+bully|v|zorbalık etmek|
+bum|n|popo; serseri|
+bumper|n|tampon|
+bun|n|çörek|I bought a sweet {bun}.
+burden|v|yük olmak|I don't want to {burden} you with my problems.
+burdensome|adj|külfetli|
+bureaucracy|n|bürokrasi|There is too much {bureaucracy}.
+burglary|n|hırsızlık (eve girerek)|There was a {burglary} next door.
+burgle|v|evini soymak|Our house was {burgled} last night.
+burial|n|gömme, defin|The {burial} took place on Friday.
+bustle|v|koşuşturmak|
+bustling|adj|hareketli, kalabalık|Istanbul is a {bustling} city.
+butcher|v|katletmek; kesmek|The soldiers {butchered} the villagers.
+buzz|n|vızıltı; heyecan|
+buzz|v|vızıldamak|
+cabinet|n|dolap; kabine|The minister joined the {cabinet}.
+cable|n|kablo|Plug the {cable} into the TV.
+calmly|adv|sakince|
+campaign|n|kampanya|
+candidate|n|aday|There are three {candidates} for the job.
+cane|n|baston; kamış|The old man walked with a {cane}.
+cannonball|n|top güllesi|The {cannonball} hit the castle wall.
+canon|n|kural, ilke; kanon|This book is part of the literary {canon}.
+capability|n|yetenek, kapasite|
+caption|n|resim altı yazısı|
+captive|n|tutsak|The {captives} were released.
+caravan|n|karavan; kervan|
+carbon|n|karbon|Diamonds are made of {carbon}.
+carbon dioxide|n|karbondioksit|Trees absorb {carbon dioxide}.
+carbon footprint|n|karbon ayak izi|Flying increases your {carbon footprint}.
+carbon monoxide|n|karbonmonoksit|{Carbon monoxide} is a dangerous gas.
+cardboard|n|mukavva, karton|They packed the books in {cardboard} boxes.
+cardigan|n|hırka|She put on a {cardigan}.
+carefree|adj|kaygısız|
+caring|adj|şefkatli, ilgili|She is a {caring} mother.
+carnival|n|karnaval|
+carpool|n|araç paylaşımı|We have a {carpool} to work.
+carve|v|oymak, kazımak|
+cascade|n|çağlayan|
+cast|n|oyuncu kadrosu; alçı|
+cast|v|atmak; rol vermek|
+casually|adv|rahat, gelişigüzel|
+catalog|n|katalog|
+catalyst|n|katalizör|
+catastrophe|n|felaket|
+catastrophic|adj|felaket boyutunda|The floods were {catastrophic}.
+catchy|adj|akılda kalıcı|
+categorization|n|sınıflandırma|The {categorization} of the books took hours.
+catering|n|yemek hizmeti, catering|Who is doing the {catering} for the wedding?
+cathedral|n|katedral|We visited the old {cathedral}.
+cause|n|neden; dava, amaç|
+cease|v|sona ermek, durmak|The factory {ceased} production.
+ceiling|n|tavan|
+cellar|n|kiler, mahzen|We keep the wine in the {cellar}.
+cellist|n|çellist|The {cellist} played beautifully.
+cello|n|çello|She plays the {cello}.
+cemetery|n|mezarlık|He is buried in the town {cemetery}.
+centigrade|n|santigrat|Water boils at 100 degrees {centigrade}.
+certificate|n|sertifika, belge|You'll get a {certificate} at the end of the course.
+certification|n|belgelendirme|The product needs safety {certification}.
+certify|v|onaylamak, belgelemek|The doctor {certified} that he was ill.
+challenge|v|meydan okumak; sorgulamak|
+chancellor|n|şansölye|The {chancellor} announced a new budget.
+chaotic|adj|kaotik, karmakarışık|The traffic was {chaotic}.
+characteristic|adj|karakteristik, tipik|
+charming|adj|çekici, hoş|They stayed in a {charming} village.
+chase|v|kovalamak|
+cheat|v|hile yapmak, aldatmak|
+checkpoint|n|kontrol noktası|The police set up a {checkpoint}.
+cheeky|adj|arsız, şımarık|Don't be {cheeky}!
+cheerfully|adv|neşeyle|
+cheerfulness|n|neşe|
+chemotherapy|n|kemoterapi|She is having {chemotherapy}.
+cherished|adj|çok değer verilen|It is one of my most {cherished} memories.
+cherry|n|kiraz|We picked {cherries} in June.
+chew|v|çiğnemek|
+chief|n|şef, başkan|The police {chief} spoke to reporters.
+childish|adj|çocukça|Stop being so {childish}!
+chimney|n|baca|Smoke came out of the {chimney}.
+chip|n|çip; parça; cips|The computer {chip} was damaged.
+chop|v|doğramak|
+chunk|n|büyük parça|
+circuit|n|devre; pist|
+circuitry|n|devre sistemi|The {circuitry} in the phone is very complex.
+circumstance|n|durum, koşul|Under no {circumstances} should you open the door.
+citywide|adj|şehir çapında|There was a {citywide} power cut.
+clam|n|midye (istiridye türü)|We had {clam} soup.
+clap|v|alkışlamak|Everyone {clapped} at the end of the show.
+clarify|v|açıklığa kavuşturmak|
+classic|n|klasik eser|This novel is a {classic}.
+classification|n|sınıflandırma|The {classification} of animals is complex.
+clause|n|cümlecik; madde (sözleşme)|This sentence has two {clauses}.
+clearness|n|açıklık, berraklık|I liked the {clearness} of his explanation.
+clerical|adj|büro, kâtiplik|She does {clerical} work.
+client|n|müşteri (hizmet)|The lawyer met her {client}.
+climate change|n|iklim değişikliği|{Climate change} affects us all.
+clog|v|tıkamak|
+closure|n|kapanış|
+clothing|n|giyim|Wear warm {clothing}.
+clumsy|adj|sakar|I'm so {clumsy}; I broke another cup.
+coach|v|antrenörlük yapmak|
+coaching|n|koçluk|She received {coaching} before the interview.
+coalition|n|koalisyon|The two parties formed a {coalition}.
+coarse|adj|kaba, pürüzlü|
+coastline|n|kıyı şeridi|Turkey has a long {coastline}.
+cocktail|n|kokteyl|She ordered a {cocktail}.
+cocoa|n|kakao|I drink hot {cocoa} in winter.
+coconut|n|hindistancevizi|We drank {coconut} milk.
+coherence|n|tutarlılık|The essay lacks {coherence}.
+coherent|adj|tutarlı|
+coincide|v|aynı zamana denk gelmek|
+coincidence|n|tesadüf|
+collapse|v|çökmek, yıkılmak|
+colleague|n|iş arkadaşı|
+collector|n|koleksiyoncu|He is a stamp {collector}.
+collocation|n|eşdizim|"Make a decision" is a common {collocation}.
+colon|n|iki nokta üst üste; kalın bağırsak|Use a {colon} before a list.
+colonial|adj|sömürge|
+coma|n|koma|He was in a {coma} for a week.
+comb|v|taramak|
+comfortably|adv|rahatça|
+commander|n|komutan|The {commander} gave the order.
+commemorate|v|anmak|
+comment|v|yorum yapmak|
+commerce|n|ticaret|Online {commerce} is growing fast.
+commercial|n|reklam filmi|I saw a {commercial} for the new phone.
+commission|n|komisyon; görevlendirme|
+commonwealth|n|topluluk, milletler topluluğu|Canada is a member of the {Commonwealth}.
+communicative|adj|iletişimsel; konuşkan|
+community|n|topluluk|
+commute|v|işe gidip gelmek|
+compassion|n|merhamet|She showed great {compassion}.
+compassionate|adj|merhametli|
+compatible|adj|uyumlu|
+compensate|v|telafi etmek, tazmin etmek|
+compensation|n|tazminat|He received {compensation} for his injury.
+competence|n|yeterlilik|She has {competence} in three languages.
+competent|adj|yetkin|He is a {competent} driver.
+compile|v|derlemek|She {compiled} a list of names.
+completion|n|tamamlanma|The {completion} of the bridge is expected next year.
+complexion|n|ten, cilt rengi|
+complexity|n|karmaşıklık|
+component|n|bileşen, parça|
+comprehension|n|anlama, kavrama|
+comprehensive|adj|kapsamlı|
+compress|n|kompres|Put a cold {compress} on your head.
+compression|n|sıkıştırma|File {compression} saves space.
+compromise|v|uzlaşmak; tehlikeye atmak|
+compulsory|adj|zorunlu|
+compute|v|hesaplamak|The computer {computes} the results.
+conceal|v|gizlemek|
+concede|v|kabul etmek (istemeyerek)|
+conceit|n|kibir|
+conceivable|adj|akla gelebilir, mümkün|It is {conceivable} that he made a mistake.
+conceive|v|tasarlamak; hamile kalmak|
+conception|n|kavram, anlayış; gebelik|His {conception} of art is different.
+concern|v|ilgilendirmek; endişelendirmek|This matter {concerns} all of us.
+concerning|prep|ilişkin, hakkında|I have a question {concerning} my bill.
+concession|n|taviz; indirim|
+concrete|adj|somut|
+concrete|n|beton|The wall is made of {concrete}.
+condemn|v|kınamak; mahkûm etmek|
+conduct|v|yürütmek; yönetmek (orkestra)|
+conductor|n|orkestra şefi; biletçi|The {conductor} raised his baton.
+cone|n|koni; külah|I'd like an ice cream {cone}.
+conference|n|konferans|She spoke at an international {conference}.
+conferencing|n|konferans görüşmesi|Video {conferencing} saves travel time.
+confess|v|itiraf etmek|
+confession|n|itiraf|He made a full {confession}.
+confidently|adv|kendinden emin şekilde|
+confine|v|sınırlamak, kapatmak|He was {confined} to bed with flu.
+confront|v|yüzleşmek|
+conjunction|n|bağlaç|"And" is a {conjunction}.
+conquest|n|fetih|The {conquest} of Istanbul was in 1453.
+conscience|n|vicdan|
+consciousness|n|bilinç|
+consensus|n|fikir birliği|
+consent|n|rıza, onay|You need your parents' {consent}.
+considerably|adv|önemli ölçüde|
+considering|conj|-dığı göz önüne alınırsa|He did well, {considering} he was ill.
+considering|prep|göz önüne alındığında|{Considering} the weather, the trip was fun.
+consistent|adj|tutarlı|
+consolation|n|teselli|
+console|v|teselli etmek|She {consoled} her crying friend.
+constant|adj|sürekli, sabit|
+consult|v|danışmak|
+consultant|n|danışman|He works as a management {consultant}.
+contaminate|v|kirletmek, bulaştırmak|
+contemporary|adj|çağdaş|
+contempt|n|küçümseme, hor görme|
+content|adj|memnun, halinden memnun|She is {content} with her life.
+contract|n|sözleşme|They signed a {contract}.
+contradict|v|çelişmek; yalanlamak|His actions {contradict} his words.
+contradiction|n|çelişki|
+contradictory|adj|çelişkili|
+controversy|n|tartışma, ihtilaf|The decision caused {controversy}.
+conveniently|adv|uygun şekilde|
+convention|n|gelenek; kongre; sözleşme|
+conventional|adj|geleneksel, alışılmış|
+converse|n|tersi, zıddı|The {converse} is also true.
+conversely|adv|tersine|
+conversion|n|dönüştürme|
+convert|v|dönüştürmek|
+convinced|adj|ikna olmuş, emin|
+cool|v|soğutmak, soğumak|
+cooperate|v|işbirliği yapmak|The two countries {cooperated} on the project.
+cooperation|n|işbirliği|
+cooperative|adj|işbirliğine yatkın|The staff were very {cooperative}.
+cope|v|başa çıkmak|She {copes} well with stress.
+copper|n|bakır|The pots are made of {copper}.
+coral|n|mercan|The divers saw beautiful {coral}.
+core|n|çekirdek, öz|
+cornerstone|n|köşe taşı, temel|Trust is the {cornerstone} of friendship.
+cornet|n|kornet (çalgı); külah|He plays the {cornet} in a brass band.
+corona|n|taç (güneş)|The sun's {corona} is visible during an eclipse.
+corporal|adj|bedensel|
+corporate|adj|kurumsal|
+corporation|n|şirket, kurum|He works for a large {corporation}.
+correct|v|düzeltmek|
+correctness|n|doğruluk|Check the {correctness} of the data.
+correspond|v|uyuşmak; yazışmak|
+correspondence|n|yazışma|
+correspondent|n|muhabir|She is a foreign {correspondent} in Paris.
+corresponding|adj|karşılık gelen|
+corridor|n|koridor|Wait in the {corridor}.
+corrupt|adj|yozlaşmış, rüşvetçi|
+corruption|n|yolsuzluk|
+costly|adj|pahalı, maliyetli|It was a {costly} mistake.
+costume|n|kostüm|
+cottage|n|kır evi, kulübe|They have a {cottage} by the sea.
+cough|n|öksürük|I have a bad {cough}.
+counter|n|tezgâh; sayaç|
+countryman|n|hemşehri, yurttaş|He met a {countryman} in London.
+countrywide|adj|ülke çapında|There was a {countrywide} strike.
+courtesy|n|nezaket|It's common {courtesy} to say thank you.
+coward|n|korkak|Don't be a {coward}!
+cowardly|adj|korkakça|
+coziness|n|sıcaklık, rahatlık|I love the {coziness} of our living room.
+cozy|adj|sıcak, rahat|
+crab|n|yengeç|
+crack|n|çatlak|
+crack|v|çatlamak, kırmak|
+craftsman|n|zanaatkâr, usta|
+crater|n|krater|The meteor left a huge {crater}.
+crawl|v|emeklemek, sürünmek|
+crease|n|kırışık|
+creation|n|yaratma, eser|
+creatively|adv|yaratıcı şekilde|
+creek|n|dere|
+creepy|adj|ürkütücü|
+crew|n|mürettebat, ekip|The {crew} prepared the ship.
+criminal|adj|suç, cezai|
+cripple|n|-
+critically|adv|eleştirel olarak; ciddi şekilde|
+criticism|n|eleştiri|
+crocodile|n|timsah|A {crocodile} was lying in the river.
+crossly|adv|kızgınca|
+crucial|adj|çok önemli, kritik|
+cruelly|adv|zalimce|
+cruelty|n|zulüm|{Cruelty} to animals is a crime.
+cruise|v|seyir yapmak; gemi turu yapmak|
+crystallize|v|kristalleşmek; netleşmek|
+cube|n|küp|Add an ice {cube} to the drink.
+cubism|n|kübizm|Picasso was a leader of {cubism}.
+cuff|n|manşet, kol ağzı|His shirt {cuff} was dirty.
+culmination|n|doruk noktası|
+culturally|adv|kültürel olarak|The city is {culturally} rich.
+cure|v|tedavi etmek, iyileştirmek|
+curl|n|bukle|She has beautiful {curls}.
+cursor|n|imleç|Move the {cursor} to the top of the page.
+cyberaddict|n|internet bağımlısı|He became a {cyberaddict} who never left his room.
+cybercafe|n|internet kafe|I checked my email in a {cybercafe}.
+cybercrime|n|siber suç|{Cybercrime} is increasing.
+cyberpet|n|sanal evcil hayvan|My son looks after his {cyberpet} every day.
+cyberschool|n|sanal okul|She studies at a {cyberschool}.
+cyberspace|n|siber uzay|Our data lives in {cyberspace}.
+cyclist|n|bisikletçi|A {cyclist} was hit by a car.
+daft|adj|aptalca, saçma|Don't be {daft}!
+damn|adj|lanet olası|
+damn|adv|çok, son derece (argo)|It's {damn} hot today.
+damn|int|kahretsin!|{Damn}! I missed the bus.
+dandelion|n|karahindiba|The field was yellow with {dandelions}.
+darling|adj|sevgili, şeker|What a {darling} little house!
+darling|n|sevgilim, canım|Good night, {darling}.
+dash|n|atılma, koşuş; tire|
+dash|v|koşmak, fırlamak|
+data|n|veri|We collected {data} from 500 people.
+database|n|veritabanı|The names are stored in a {database}.
+dated|adj|modası geçmiş|The furniture looks {dated}.
+daughter-in-law|n|gelin (oğlun eşi)|My {daughter-in-law} is a lawyer.
+dawn|n|şafak|
+daytime|n|gündüz|
+de facto|adj|fiilî|
+dear|n|canım, sevgilim|Thank you, {dear}.
+dearly|adv|çok, içtenlikle|
+debit|n|borç kaydı|The {debit} appeared on my statement.
+debit|v|hesaptan çekmek|The money was {debited} from my account.
+debit card|n|banka kartı|I paid with my {debit card}.
+decade|n|on yıl|Prices have doubled in a {decade}.
+decay|v|çürümek|
+deceive|v|aldatmak, kandırmak|
+decent|adj|düzgün, makul; terbiyeli|
+deceptive|adj|aldatıcı|
+decisive|adj|kararlı; belirleyici|
+deck|n|güverte; deste (kart)|We sat on the {deck} of the ship.
+decline|v|azalmak; reddetmek|
+decomposition|n|çürüme, ayrışma|Bacteria cause {decomposition}.
+decorate|v|süslemek, dekore etmek|
+decoration|n|süsleme|We put up the {decorations} for the party.
+decorative|adj|dekoratif|
+dedication|n|bağlılık, özveri|She showed great {dedication} to her work.
+deduce|v|sonuç çıkarmak|From the evidence, we {deduced} that he was lying.
+deduction|n|çıkarım; kesinti|The detective made a clever {deduction}.
+deem|v|addetmek, saymak|The project was {deemed} a success.
+deep|adj|derin|
+deer|n|geyik|We saw a {deer} in the forest.
+defeat|n|yenilgi|
+deficit|n|açık (bütçe)|
+deforestation|n|ormansızlaşma|{Deforestation} threatens wildlife.
+defy|v|karşı gelmek, meydan okumak|
+dehumanize|v|insanlıktan çıkarmak|
+delegate|n|delege, temsilci|Each country sent a {delegate}.
+deliberate|adj|kasıtlı|It was a {deliberate} lie.
+deliberately|adv|kasten|He {deliberately} broke the window.
+delicacy|n|lezzetli yiyecek; incelik|Baklava is a Turkish {delicacy}.
+delicately|adv|narin şekilde, incelikle|She {delicately} touched the flower.
+delight|v|sevindirmek|
+demanding|adj|zahmetli, talepkâr|
+demolish|v|yıkmak|
+denim|n|kot kumaşı|She wore a {denim} jacket.
+dense|adj|yoğun, sık|
+densely|adv|yoğun olarak|
+dental|adj|dişle ilgili|I have a {dental} appointment.
+dependable|adj|güvenilir|He is a {dependable} friend.
+deposit|v|yatırmak (para)|
+deputy|n|yardımcı, vekil|The {deputy} manager is in charge today.
+descend|v|inmek|
+descriptive|adj|betimleyici|She writes in a very {descriptive} style.
+designer|adj|markalı, tasarım|She only wears {designer} clothes.
+desirable|adj|arzu edilen|
+desire|v|arzulamak|He {desired} fame and money.
+desktop|n|masaüstü|Save the file on your {desktop}.
+desolation|n|ıssızlık; umutsuzluk|The {desolation} after the war was terrible.
+desperately|adv|umutsuzca, çaresizce|
+desperation|n|çaresizlik|
+despise|v|hor görmek, nefret etmek|
+destiny|n|kader|
+detach|v|ayırmak|
+detachment|n|ilgisizlik, mesafe|He watched with cool {detachment}.
+detailed|adj|ayrıntılı|She gave a {detailed} description.
+detect|v|tespit etmek|
+determined|adj|kararlı|
+determiner|n|belirleyici (dilbilgisi)|"The" is a {determiner}.
+developing|adj|gelişmekte olan|They help {developing} countries.
+devil|n|şeytan|The {devil} appears in many stories.
+devote|v|adamak|
+devoted|adj|kendini adamış, sadık|
+diarrhea|n|ishal|The child has {diarrhea}.
+dictator|n|diktatör|
+digest|n|özet|Read the news {digest}.
+dignify|v|onurlandırmak|
+dignity|n|onur, haysiyet|
+dilemma|n|ikilem|I'm in a {dilemma} about the job offer.
+dim|adj|loş, soluk|

@@ -1,0 +1,450 @@
+radiation|n|radyasyon|
+rage|n|öfke, hiddet|
+rail|n|ray; korkuluk|
+railroad|n|demiryolu|
+railway|n|demiryolu|The {railway} connects the two cities.
+rainfall|n|yağış miktarı|The region has low {rainfall}.
+rainforest|n|yağmur ormanı|The Amazon {rainforest} is disappearing.
+rank|n|rütbe, derece|
+rap|v|tıklatmak; rap yapmak|
+rapid|adj|hızlı|
+rapidly|adv|hızla|The city is growing {rapidly}.
+rare|adj|nadir, ender; az pişmiş|
+rarely|adv|nadiren|I {rarely} eat fast food.
+raspberry|n|ahududu|I love {raspberry} jam.
+ration|n|tayın, pay|
+rational|adj|akılcı, mantıklı|
+razor|n|ustura, tıraş bıçağı|He bought a new {razor}.
+reach|n|erişim, uzanma mesafesi|
+react|v|tepki vermek|
+realistic|adj|gerçekçi|
+reality|n|gerçeklik|
+rearrange|v|yeniden düzenlemek|
+reasonable|adj|makul, mantıklı|The prices are very {reasonable}.
+rebuild|v|yeniden inşa etmek|
+recall|v|hatırlamak|
+reception|n|resepsiyon; karşılama|
+recite|v|ezberden okumak|
+reclaim|v|geri almak|
+recognize|v|tanımak|
+recommend|v|tavsiye etmek|
+record|n|kayıt; rekor|
+recording|n|kayıt|
+recover|v|iyileşmek; geri kazanmak|
+recovery|n|iyileşme|
+recycled|adj|geri dönüştürülmüş|This bag is made of {recycled} plastic.
+recycling|n|geri dönüşüm|{Recycling} helps the environment.
+reduce|v|azaltmak|
+reduction|n|azalma, indirim|There was a {reduction} in prices.
+reef|n|resif|They went diving on the coral {reef}.
+referee|n|hakem|The {referee} blew his whistle.
+reflection|n|yansıma; düşünme|
+refreshments|n|ikram (yiyecek-içecek)|{Refreshments} will be served after the talk.
+refund|n|para iadesi|I asked for a {refund}.
+refusal|n|ret|His {refusal} to help surprised us.
+refuse|n|çöp, atık|The {refuse} is collected on Mondays.
+refuse|v|reddetmek|
+regain|v|yeniden kazanmak|
+regard|v|saymak, gözüyle bakmak|I {regard} him as my best friend.
+regarding|prep|ile ilgili, hakkında|I'm writing {regarding} your order.
+region|n|bölge|
+regional|adj|bölgesel|They speak a {regional} dialect.
+register|n|kayıt defteri; yoklama|The teacher took the {register}.
+register|v|kaydolmak, kaydetmek|
+registration|n|kayıt|{Registration} closes on Friday.
+regulation|n|yönetmelik, düzenleme|
+reject|v|reddetmek|
+relate|v|ilişkilendirmek; ilgili olmak|
+relation|n|ilişki; akraba|
+relationship|n|ilişki|
+relative|adj|göreceli|Everything is {relative}.
+relative|n|akraba|
+relatively|adv|nispeten|
+relaxing|adj|rahatlatıcı|We had a {relaxing} weekend.
+release|v|serbest bırakmak; yayımlamak|
+reliable|adj|güvenilir|
+religion|n|din|
+religious|adj|dini; dindar|
+rely|v|güvenmek, bel bağlamak|You can {rely} on me.
+remainder|n|kalan, geri kalan|I'll pay the {remainder} next month.
+remark|v|söylemek, belirtmek|She {remarked} that the room was cold.
+remarkable|adj|dikkate değer, olağanüstü|She made a {remarkable} recovery.
+remedy|n|çare, ilaç|Honey is a good {remedy} for a sore throat.
+remembrance|n|anma, hatıra|They held a service in {remembrance} of the victims.
+remote control|n|uzaktan kumanda|Where is the TV {remote control}?
+remove|v|kaldırmak, çıkarmak|
+renew|v|yenilemek|
+repay|v|geri ödemek|I'll {repay} the money next week.
+repeatedly|adv|tekrar tekrar|
+reply|v|cevap vermek|She didn't {reply} to my email.
+report|v|bildirmek, rapor etmek|
+representative|n|temsilci|A {representative} of the company will call you.
+reproduce|v|üremek; çoğaltmak|
+republic|n|cumhuriyet|
+reputation|n|itibar, şöhret|
+request|v|rica etmek, talep etmek|
+require|v|gerektirmek|
+requirement|n|gereklilik, şart|
+rescue|n|kurtarma|The {rescue} took six hours.
+rescue|v|kurtarmak|Firefighters {rescued} the family.
+researcher|n|araştırmacı|The {researchers} published their results.
+resemble|v|benzemek|
+reservation|n|rezervasyon; çekince|
+reserve|n|rezerv; yedek|We keep some money in {reserve}.
+reserve|v|ayırtmak, rezerve etmek|
+resident|adj|yerleşik, ikamet eden|He is a {resident} doctor at the hospital.
+residential|adj|yerleşim, konut|
+resist|v|direnmek, karşı koymak|I couldn't {resist} the chocolate cake.
+resolve|v|çözmek; karar vermek|
+resort|n|tatil yeri|
+resource|n|kaynak|
+respect|n|saygı|
+respect|v|saygı duymak|I {respect} your opinion.
+respectable|adj|saygın|
+respond|v|yanıt vermek|
+responsibility|n|sorumluluk|
+responsible|adj|sorumlu|
+rest|n|dinlenme; geri kalan|
+rest|v|dinlenmek|
+restore|v|eski haline getirmek, restore etmek|
+restrict|v|kısıtlamak|
+result|v|sonuçlanmak (in)|
+retail|n|perakende|She works in {retail}.
+retain|v|elinde tutmak, korumak|
+retell|v|yeniden anlatmak|{Retell} the story in your own words.
+retrospect|n|geriye bakış|In {retrospect}, I should have said no.
+reunification|n|yeniden birleşme|
+reunify|v|yeniden birleştirmek|Germany was {reunified} in 1990.
+revise|v|tekrar etmek (ders); gözden geçirmek|I need to {revise} for my exam.
+revision|n|tekrar; düzeltme|
+reward|n|ödül|
+rewrite|v|yeniden yazmak|Please {rewrite} this paragraph.
+rid|v|kurtulmak (get rid of)|
+riddle|v|delik deşik etmek|
+ridiculous|adj|gülünç, saçma|
+ripe|adj|olgun (meyve)|
+rise|n|artış, yükseliş|
+rise|v|yükselmek, doğmak (güneş)|The sun {rises} in the east.
+risk|n|risk|
+roadside|n|yol kenarı|We stopped at a {roadside} café.
+robot|n|robot|A {robot} can do this job faster.
+rolling|adj|inişli çıkışlı; yuvarlanan|
+room|v|oda paylaşmak|
+rotten|adj|çürük|
+rough|adj|kaba, pürüzlü; zor|
+round|adj|yuvarlak|They sat at a {round} table.
+round|n|tur, raunt|
+routine|n|rutin|
+rubber|n|lastik; silgi|The tyres are made of {rubber}.
+rubbish|n|çöp; saçmalık|Put the {rubbish} in the bin.
+rudely|adv|kabaca|He spoke {rudely} to the waiter.
+ruin|n|harabe, yıkıntı; mahvolma|
+runaway|n|evden kaçan kişi|The police found the young {runaway}.
+runway|n|pist|The plane is waiting on the {runway}.
+rush|v|acele etmek|
+sacred|adj|kutsal|
+sadness|n|üzüntü|
+safari|n|safari|We went on {safari} in Kenya.
+safeguard|n|güvence, koruma|
+safely|adv|güvenle|
+safety|n|güvenlik|
+salesman|n|satış elemanı|The {salesman} showed us a new car.
+salmon|n|somon|We had grilled {salmon} for dinner.
+sand|n|kum|The children played in the {sand}.
+sandal|n|sandalet|She wore {sandals} on the beach.
+satellite|n|uydu|The {satellite} sends pictures of the Earth.
+satisfaction|n|memnuniyet, tatmin|
+satisfied|adj|memnun|Are you {satisfied} with the service?
+saucepan|n|tencere (saplı)|Boil the milk in a {saucepan}.
+saucer|n|fincan tabağı|Put the cup on the {saucer}.
+scan|n|tarama; görüntüleme|
+scare|v|korkutmak|The noise {scared} the children.
+scared|adj|korkmuş|
+scary|adj|korkutucu|It was a {scary} film.
+scatter|v|saçmak, dağıtmak|
+scenic|adj|manzaralı|We took the {scenic} route along the coast.
+scholar|n|akademisyen, âlim|He is a respected {scholar} of Ottoman history.
+scholarship|n|burs|She won a {scholarship} to study in the USA.
+schoolmate|n|okul arkadaşı|I met an old {schoolmate} yesterday.
+schoolteacher|n|okul öğretmeni|My mother was a {schoolteacher}.
+science fiction|n|bilim kurgu|I love {science fiction} films.
+scold|v|azarlamak|
+scope|n|kapsam|
+score|n|skor, puan|
+score|v|gol atmak, puan almak|
+scratch|n|çizik|
+scream|v|çığlık atmak|
+sculpture|n|heykel|There is a bronze {sculpture} in the park.
+search|v|aramak|
+season|n|mevsim; sezon|
+seawater|n|deniz suyu|{Seawater} is too salty to drink.
+seaweed|n|deniz yosunu|Japanese food often uses {seaweed}.
+second|adv|ikinci olarak|
+second-hand|adj|ikinci el|I bought a {second-hand} car.
+second-hand|adv|ikinci el olarak|I bought this bike {second-hand}.
+secondary school|n|ortaokul/lise|My daughter goes to {secondary school}.
+secret|adj|gizli|
+secretly|adv|gizlice|
+secure|adj|güvenli|
+security|n|güvenlik|
+seize|v|el koymak; kavramak|
+select|adj|seçkin|Only a {select} group was invited.
+selection|n|seçim; seçki|
+self-service|adj|self servis|It's a {self-service} restaurant.
+selfish|adj|bencil|
+sensation|n|his; sansasyon|
+separation|n|ayrılık|
+sequence|n|sıra, dizi|
+series|n|dizi|
+serious|adj|ciddi|
+server|n|sunucu; garson|The {server} is down, so the website isn't working.
+service|n|hizmet|
+service|v|bakımını yapmak|
+session|n|oturum|
+setting|n|ortam, mekân; ayar|
+settle|v|yerleşmek; çözmek|
+settlement|n|yerleşim; uzlaşma|
+settler|n|yerleşimci|The first {settlers} arrived in 1620.
+severe|adj|şiddetli, ağır|
+severely|adv|ciddi şekilde|
+sex|n|cinsiyet; cinsellik|
+shadow|v|gizlice takip etmek|
+shadowy|adj|gölgeli, karanlık|
+shake|v|sallamak, titremek|
+shallow|adj|sığ|
+shame|n|utanç; yazık|
+shameful|adj|utanç verici|
+shape|v|şekillendirmek|Our experiences {shape} our personality.
+sharp|adj|keskin|
+shave|v|tıraş olmak|
+sheer|adj|tamamen, sırf; dik|
+sheet|n|çarşaf; yaprak (kâğıt)|Write on a separate {sheet} of paper.
+shelter|n|barınak, sığınak|They found {shelter} from the rain.
+sheriff|n|şerif|The {sheriff} arrested the thief.
+shift|v|kaydırmak, değiştirmek|
+shiny|adj|parlak|
+ship|v|sevk etmek, göndermek|
+shiver|v|titremek|
+shocked|adj|şok olmuş|I was {shocked} by the news.
+shocking|adj|şok edici|
+shop|v|alışveriş yapmak|I {shop} at the market on Saturdays.
+shopper|n|alışveriş yapan kişi|The streets were full of {shoppers}.
+shortage|n|kıtlık, eksiklik|There is a {shortage} of water.
+shortly|adv|kısa süre içinde|
+shout|v|bağırmak|
+shrimp|n|karides|I ordered {shrimp} with garlic.
+shut|adj|kapalı|
+sickness|n|hastalık; bulantı|
+sidewalk|n|kaldırım|Walk on the {sidewalk}, not the road.
+sigh|n|iç çekme|
+sign|v|imzalamak|
+signal|n|sinyal|
+signature|n|imza|I need your {signature} here.
+significance|n|önem|
+signpost|n|yol levhası|Follow the {signpost} to the beach.
+silent|adj|sessiz|
+silk|n|ipek|She wore a {silk} scarf.
+similarity|n|benzerlik|There is a {similarity} between the two languages.
+similarly|adv|benzer şekilde|{Similarly}, prices have gone up in Ankara.
+simplify|v|basitleştirmek|
+simultaneously|adv|aynı anda|The two events happened {simultaneously}.
+since|conj|-den beri; -dığı için|I've known her {since} we were children.
+single|n|single (şarkı); tek yön bilet|The band released a new {single}.
+sink|v|batmak|The ship {sank} in the storm.
+skate|v|paten kaymak|
+skeleton|n|iskelet|
+ski|v|kayak yapmak|
+skin|n|deri, cilt|
+skyscraper|n|gökdelen|New York has many {skyscrapers}.
+slavery|n|kölelik|{Slavery} was abolished in the 19th century.
+sleep|n|uyku|
+sleeve|n|kol (giysi)|He rolled up his {sleeves}.
+slight|n|hakaret, saygısızlık|She took his words as a {slight}.
+slightly|adv|biraz, hafifçe|
+slip|n|kayma; hata; fiş|
+slip|v|kaymak|She {slipped} on the ice.
+slogan|n|slogan|The company has a new {slogan}.
+slope|n|yokuş, eğim|
+slot|n|yuva, delik; zaman dilimi|
+slow|adv|yavaş|
+slow|v|yavaşlamak|
+smell|v|kokmak; koklamak|
+smile|v|gülümsemek|She {smiled} at me.
+smoker|n|sigara içen|He is a heavy {smoker}.
+sneeze|n|hapşırma|I heard a loud {sneeze}.
+snowboard|n|snowboard tahtası|He bought a new {snowboard}.
+snowstorm|n|kar fırtınası|The {snowstorm} closed the roads.
+soap opera|n|pembe dizi|My grandmother watches a {soap opera} every evening.
+social networking|n|sosyal ağ kullanımı|{Social networking} sites are very popular.
+socially|adv|sosyal olarak|He is {socially} very active.
+soil|v|kirletmek|
+solid|adj|katı; sağlam|
+somehow|adv|bir şekilde|
+someplace|adv|bir yerde|Let's go {someplace} quiet.
+sometime|adv|bir ara|
+sometimes|adv|bazen|
+soothe|v|yatıştırmak|
+sophomore|n|ikinci sınıf öğrencisi|She is a {sophomore} at college.
+sore|adj|ağrıyan|
+sorrow|n|keder, üzüntü|
+sort|n|tür, çeşit|
+soul|n|ruh|
+sour|adj|ekşi|
+southeast|adj|güneydoğu|A {southeast} wind was blowing.
+southeast|n|güneydoğu|Gaziantep is in the {southeast} of Turkey.
+southern|adj|güney|They live in {southern} Spain.
+southwest|adj|güneybatı|The {southwest} coast is beautiful.
+southwest|n|güneybatı|Muğla is in the {southwest} of Turkey.
+souvenir|n|hediyelik eşya, hatıra|I bought a {souvenir} for my mother.
+sparkle|n|parıltı|
+specialist|n|uzman|You should see a heart {specialist}.
+specialize|v|uzmanlaşmak|
+specially|adv|özel olarak|
+spectacular|adj|muhteşem, göz alıcı|
+spectator|n|seyirci|
+speed|v|hız yapmak|
+spelling|n|yazım, imla|Check your {spelling}.
+sphere|n|küre; alan|
+spice|n|baharat|Cumin is a common {spice} in Turkish food.
+spicy|adj|baharatlı, acı|I love {spicy} food.
+spider|n|örümcek|There's a {spider} in the bath.
+spinach|n|ıspanak|{Spinach} is full of iron.
+spiral|adj|sarmal|We climbed a {spiral} staircase.
+spirit|n|ruh; moral|
+spiritual|adj|manevi, ruhsal|
+split|n|ayrılık, bölünme|
+spoil|v|bozmak, şımartmak|
+sponge|n|sünger|
+sponsor|n|sponsor|The team has a new {sponsor}.
+sports|adj|spor|He drives a red {sports} car.
+sportsmanship|n|sportmenlik|Both teams showed good {sportsmanship}.
+stable|adj|istikrarlı, sabit|The patient is now in a {stable} condition.
+stall|n|tezgâh|
+standard|n|standart|
+star|v|başrol oynamak|
+stare|v|dik dik bakmak|
+status|n|statü, durum|
+stay|n|kalış, konaklama|
+steadily|adv|istikrarlı şekilde|
+steady|adj|sabit, düzenli|He has a {steady} job.
+steam|n|buhar|{Steam} rose from the cup.
+steel|n|çelik|The bridge is made of {steel}.
+steep|adj|dik|
+stem|v|kaynaklanmak (from)|
+stick|v|yapıştırmak; saplamak|
+sticker|n|çıkartma|The kids put {stickers} on their notebooks.
+sticky|adj|yapışkan|
+stir|v|karıştırmak|
+storage|n|depolama|
+stormy|adj|fırtınalı|It was a dark and {stormy} night.
+storyteller|n|hikâye anlatıcısı|My grandfather was a great {storyteller}.
+strain|n|gerginlik, baskı|
+strangely|adv|tuhaf bir şekilde|He was acting {strangely}.
+strategic|adj|stratejik|
+straw|n|saman; pipet|She drank her juice through a {straw}.
+strawberry|n|çilek|I'd like {strawberry} ice cream.
+stream|n|dere; akış|
+stream|v|akmak; canlı yayın yapmak|
+strengthen|v|güçlendirmek|
+stress|n|stres; vurgu|
+stressed|adj|stresli|
+stressful|adj|stresli, stres yaratan|
+stretch|v|germek, uzatmak|
+stricken|adj|etkilenmiş, perişan|The {stricken} ship sent out a signal.
+strike|v|vurmak; grev yapmak|
+strip|n|şerit|
+stripe|n|çizgi (desen)|
+struggle|n|mücadele|
+stubborn|adj|inatçı|He is as {stubborn} as a mule.
+stuck|adj|sıkışmış, takılmış|
+studio|n|stüdyo|
+stuffed|adj|doldurulmuş; tıka basa dolu|We ate {stuffed} peppers.
+stumble|v|tökezlemek|
+stun|v|sersemletmek, hayrete düşürmek|The news {stunned} everyone.
+stunning|adj|çarpıcı, nefes kesici|
+stupid|adj|aptal|That was a {stupid} mistake.
+stylish|adj|şık|
+subconscious|adj|bilinçaltı|It was a {subconscious} reaction.
+submarine|n|denizaltı|The {submarine} dived under the sea.
+substantial|adj|önemli, büyük|
+substitute|n|yedek, ikame|He came on as a {substitute}.
+suddenly|adv|aniden|
+suffer|v|acı çekmek|
+sufficient|adj|yeterli|We don't have {sufficient} time.
+suffix|n|sonek|"-ness" is a {suffix}.
+suicide|n|intihar|
+summarize|v|özetlemek|
+summit|n|zirve|
+sunbathe|v|güneşlenmek|We {sunbathed} on the beach.
+sundial|n|güneş saati|There is an old {sundial} in the garden.
+sunrise|n|gün doğumu|We woke up early to watch the {sunrise}.
+sunset|n|gün batımı|The {sunset} was beautiful.
+superior|adj|üstün|
+superstition|n|batıl inanç|Breaking a mirror is bad luck, according to {superstition}.
+supply|n|tedarik, kaynak|The water {supply} was cut off.
+support|v|desteklemek|
+supporter|n|taraftar, destekçi|
+supportive|adj|destekleyici|
+suppose|v|sanmak, farz etmek|
+supposedly|adv|güya, sözde|The film is {supposedly} very good.
+surely|adv|kesinlikle, herhalde|
+surface|n|yüzey|
+surgeon|n|cerrah|The {surgeon} operated on her heart.
+surgery|n|ameliyat|
+surprise|v|şaşırtmak|
+surprisingly|adv|şaşırtıcı biçimde|The exam was {surprisingly} easy.
+surround|v|çevrelemek, kuşatmak|
+surrounding|adj|çevredeki|We explored the {surrounding} villages.
+survival|n|hayatta kalma|The {survival} of the species is in danger.
+survivor|n|hayatta kalan|
+suspect|n|şüpheli|The police arrested a {suspect}.
+suspicion|n|şüphe|
+swarm|n|sürü (böcek)|
+swear|v|yemin etmek; küfretmek|
+sweat|n|ter|
+sweatshirt|n|sweatshirt|He wore a grey {sweatshirt}.
+swell|v|şişmek|
+swimmer|n|yüzücü|
+switch|n|düğme, şalter|
+switch|v|değiştirmek, geçmek|
+swollen|adj|şişmiş|
+sword|n|kılıç|The knight drew his {sword}.
+sympathy|n|üzüntü paylaşma, anlayış|
+symptom|n|belirti|Fever is a {symptom} of flu.
+syndrome|n|sendrom|
+systematic|adj|sistematik|
+tablet|n|tablet; hap|Take one {tablet} twice a day.
+take|n|çekim (film)|They did the scene in one {take}.
+takeaway|n|paket yemek|
+takeoff|n|kalkış (uçak)|Please fasten your seat belts for {takeoff}.
+tale|n|masal, hikâye|She told us a {tale} about a dragon.
+talented|adj|yetenekli|He is a {talented} musician.
+talk|n|konuşma|
+talkative|adj|konuşkan|She is very {talkative}.
+tank|n|tank; depo|Fill the {tank} with petrol.
+tape|v|bantlamak; kaydetmek|
+taste|n|tat; zevk|
+taste|v|tadına bakmak; tadı olmak|
+tasteless|adj|tatsız; zevksiz|The soup was {tasteless}.
+tasty|adj|lezzetli|This is a very {tasty} soup.
+tax|n|vergi|We pay {tax} on everything we buy.
+teaching|n|öğretmenlik, öğretim|
+teammate|n|takım arkadaşı|
+teamwork|n|takım çalışması|
+tear|v|yırtmak|She {tore} the letter into pieces.
+tease|n|şakacı kişi; takılma|Don't believe him; he's a {tease}.
+technique|n|teknik|She learned a new painting {technique}.
+technological|adj|teknolojik|We live in a {technological} age.
+teen|n|genç (ergen)|The film is popular with {teens}.
+telecommunications|n|telekomünikasyon|He works in {telecommunications}.
+telegram|n|telgraf|They sent a {telegram} to say they had arrived.
+teller|n|veznedar|The bank {teller} counted the money.
+temper|n|huy, öfke|
+temporary|adj|geçici|
+tempt|v|cezbetmek, ayartmak|
+tend|v|eğiliminde olmak|
+tendency|n|eğilim|
+tense|adj|gergin|The atmosphere in the room was {tense}.
+tense|n|zaman (dilbilgisi)|"Went" is the past {tense} of "go".
+tension|n|gerilim|
+tent|n|çadır|

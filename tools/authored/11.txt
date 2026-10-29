@@ -1,0 +1,450 @@
+highlight|n|en önemli/güzel an|
+hijack|n|kaçırma (uçak/araç)|The {hijack} ended after ten hours.
+hijack|v|kaçırmak (uçak/araç)|
+hilarious|adj|çok komik|The film was {hilarious}.
+hint|n|ipucu, ima|Give me a {hint}.
+holder|n|sahip, hamil; tutacak|Ticket {holders} can enter now.
+hollow|adj|içi boş, oyuk|
+holocaust|n|soykırım, büyük yıkım|A nuclear war would be a {holocaust}.
+homeward|adj|eve doğru|We began our {homeward} journey.
+hone|n|bileği taşı|He sharpened the knife on a {hone}.
+honor|v|onurlandırmak; yerine getirmek|
+honorable|adj|onurlu, şerefli|
+hood|n|kapüşon; kaput|
+hook|n|kanca, çengel|
+hook|v|takmak, kancalamak|
+hospice|n|bakımevi (ağır hastalar için)|She spent her last weeks in a {hospice}.
+hospitable|adj|misafirperver|
+hospitality|n|misafirperverlik|Turkish {hospitality} is famous.
+hospitalize|v|hastaneye kaldırmak|
+hourly|adj|saatlik|They pay an {hourly} rate.
+housekeeper|n|kâhya, ev idarecisi|The {housekeeper} cleaned the rooms.
+housemaster|n|yatılı okul yurt sorumlusu|The {housemaster} checked the students' rooms.
+housewife|n|ev hanımı|My mother was a {housewife}.
+hover|v|havada asılı durmak|A helicopter {hovered} over the building.
+hug|n|sarılma|
+hugely|adv|son derece|The film was {hugely} successful.
+human rights|n|insan hakları|They work for {human rights}.
+humane|adj|insancıl|We want {humane} treatment of animals.
+humanist|n|hümanist|Erasmus was a famous {humanist}.
+humanize|v|insanileştirmek|
+humble|adj|alçakgönüllü, mütevazı|
+humbug|n|saçmalık, sahtekârlık|"Bah! {Humbug}!" said Scrooge.
+humiliate|v|küçük düşürmek|
+humiliating|adj|küçük düşürücü|It was a {humiliating} defeat.
+humiliation|n|aşağılanma|
+hunting|n|avcılık|{Hunting} is banned in the park.
+hush|v|susturmak|She {hushed} the crying baby.
+hybrid|adj|melez, hibrit|He drives a {hybrid} car.
+hygiene|n|hijyen|Good {hygiene} prevents disease.
+hyperbole|n|mübalağa, abartma|"I've told you a million times" is {hyperbole}.
+hyphen|n|kısa çizgi, tire|"Well-known" has a {hyphen}.
+iceman|n|buz satıcısı|The {iceman} delivered ice every morning.
+icon|n|simge; ikon|Click on the {icon}.
+icy|adj|buzlu, buz gibi|
+ideally|adv|ideal olarak|
+identical|adj|aynı, özdeş|
+identification|n|kimlik; tanımlama|
+identify|v|tanımlamak, teşhis etmek|
+ideology|n|ideoloji|They have different political {ideologies}.
+idiot|n|aptal, salak|Don't be an {idiot}!
+idle|adj|aylak, boşta|
+idolize|v|tapmak, idolleştirmek|
+ignorance|n|cehalet, bilgisizlik|His {ignorance} surprised me.
+ignorant|adj|cahil, habersiz|
+illustrate|v|resimlemek; örneklerle açıklamak|
+illustration|n|resim, örnek|The book has beautiful {illustrations}.
+imagery|n|imgeler, betimleme|The poem is full of {imagery}.
+imitation|n|taklit|It's not real leather; it's an {imitation}.
+immerse|v|daldırmak; kendini vermek|
+immigrant|n|göçmen|Many {immigrants} came to the city.
+immoral|adj|ahlaksız|Stealing is {immoral}.
+immortal|adj|ölümsüz|The gods were {immortal}.
+immortality|n|ölümsüzlük|People have always dreamed of {immortality}.
+impartial|adj|tarafsız|
+impatiently|adv|sabırsızlıkla|She waited {impatiently} for the bus.
+imperative|n|emir kipi; zorunluluk|"Sit down!" is an {imperative}.
+impermanent|adj|geçici|
+implement|n|alet|Farm {implements} were stored in the barn.
+implement|v|uygulamak, hayata geçirmek|
+implication|n|sonuç, ima|
+imply|v|ima etmek|What are you {implying}?
+impolite|adj|kaba, nezaketsiz|It's {impolite} to stare.
+impolitely|adv|kabaca|He answered {impolitely}.
+import|v|ithal etmek|Turkey {imports} oil.
+impose|v|dayatmak, uygulamak|The government {imposed} a new tax.
+impossibility|n|imkânsızlık|It's a physical {impossibility}.
+impractical|adj|pratik olmayan|
+impressed|adj|etkilenmiş|I was {impressed} by her English.
+impressionism|n|izlenimcilik|Monet is a master of {impressionism}.
+impressionist|n|izlenimci ressam|Renoir was an {impressionist}.
+imprison|v|hapsetmek|
+imprisonment|n|hapis|
+improbable|adj|olası olmayan|His story seems {improbable}.
+improperly|adv|uygunsuzca|
+improved|adj|gelişmiş, iyileştirilmiş|
+impulse|n|dürtü|
+impulsive|adj|düşüncesiz, dürtüsel|
+inaccurate|adj|yanlış, hatalı|The report was {inaccurate}.
+inadequate|adj|yetersiz|The food supply was {inadequate}.
+inanimate|adj|cansız|
+inborn|adj|doğuştan|She has an {inborn} talent for music.
+incense|n|tütsü|The room smelled of {incense}.
+incentive|n|teşvik|Bonuses are an {incentive} to work harder.
+inch|v|azar azar ilerlemek|The car {inched} forward in the traffic.
+incur|v|uğramak, maruz kalmak (zarar)|
+incurable|adj|tedavisi olmayan|
+indebted|adj|minnettar; borçlu|I'm {indebted} to you for your help.
+indent|v|paragraf başı yapmak|
+independently|adv|bağımsız olarak|
+indescribable|adj|tarif edilemez|The joy was {indescribable}.
+index|n|dizin; endeks|Look up the word in the {index}.
+indifferent|adj|kayıtsız, ilgisiz|
+indignity|n|onur kırıcı durum|He suffered the {indignity} of being searched.
+indispensable|adj|vazgeçilmez|
+individual|n|birey|Every {individual} has rights.
+indulge|v|şımartmak, keyfini sürmek|
+indulgent|adj|hoşgörülü, şımartan|
+industrialize|v|sanayileştirmek|
+ineffective|adj|etkisiz|The medicine was {ineffective}.
+inert|adj|hareketsiz, durgun|
+inexperienced|adj|deneyimsiz|She is an {inexperienced} driver.
+infant|n|bebek|The {infant} slept all night.
+infect|v|enfekte etmek, bulaştırmak|
+infected|adj|enfekte|The wound became {infected}.
+infectious|adj|bulaşıcı|
+infer|v|sonuç çıkarmak|What can you {infer} from the text?
+inference|n|çıkarım|We made an {inference} from the data.
+inflammation|n|iltihap|
+inflammatory|adj|kışkırtıcı; iltihaplı|He made {inflammatory} remarks.
+inflate|v|şişirmek|
+inflation|n|enflasyon|
+influence|v|etkilemek|
+influential|adj|nüfuzlu, etkili|She is an {influential} writer.
+influenza|n|grip|{Influenza} spreads quickly in winter.
+informal|adj|resmî olmayan, gayriresmi|
+infringe|v|ihlal etmek|They {infringed} copyright laws.
+infringement|n|ihlal|This is an {infringement} of my rights.
+inhabit|v|ikamet etmek, yaşamak|
+inherit|v|miras almak|
+initial|adj|ilk, başlangıç|
+initiative|n|girişim, inisiyatif|She took the {initiative} and called the client.
+injection|n|iğne, enjeksiyon|The nurse gave me an {injection}.
+injured|adj|yaralı|The {injured} man was taken to hospital.
+innate|adj|doğuştan|Children have an {innate} ability to learn languages.
+innocently|adv|masumca|
+innovation|n|yenilik|The company is known for {innovation}.
+innovative|adj|yenilikçi|
+input|n|girdi|We need your {input} on this plan.
+inquire|v|sormak, soruşturmak|
+inseparable|adj|ayrılmaz|The two friends are {inseparable}.
+inside|adj|iç|
+inside|n|iç taraf|The {inside} of the box was empty.
+inspect|v|denetlemek|
+inspector|n|müfettiş|The {inspector} checked the restaurant.
+inspirational|adj|ilham verici|She gave an {inspirational} talk.
+instantly|adv|anında|He was killed {instantly}.
+instill|v|aşılamak|
+instinct|n|içgüdü|
+institution|n|kurum|
+instruct|v|talimat vermek|
+insufficient|adj|yetersiz|There is {insufficient} evidence.
+insult|n|hakaret|
+insult|v|hakaret etmek|
+integrate|v|bütünleştirmek, entegre olmak|
+intellectual|adj|entelektüel, zihinsel|
+intellectual|n|aydın|He was a leading {intellectual} of his time.
+intent|adj|kararlı, odaklanmış|
+interactive|adj|etkileşimli|The museum has {interactive} displays.
+interfere|v|karışmak, müdahale etmek|
+interior|n|iç kısım|The {interior} of the car is leather.
+interpersonal|adj|kişilerarası|
+interpret|v|yorumlamak; tercümanlık yapmak|
+interpretation|n|yorum|
+interpreter|n|tercüman|
+interruption|n|kesinti, araya girme|
+intersection|n|kavşak|
+intimate|adj|samimi, yakın|
+intransitive|adj|geçişsiz (fiil)|"Sleep" is an {intransitive} verb.
+intravenous|adj|damar içi|He was given {intravenous} fluids.
+intrude|v|izinsiz girmek, rahatsız etmek|
+intruder|n|davetsiz misafir|The dog barked at the {intruder}.
+intrusion|n|izinsiz giriş|It's an {intrusion} into my private life.
+invariable|adj|değişmez|His routine was {invariable}.
+invariably|adv|her zaman, değişmez şekilde|He {invariably} arrives late.
+inventor|n|mucit|Edison was a famous {inventor}.
+inverted commas|n|tırnak işareti|Put the title in {inverted commas}.
+investigate|v|araştırmak, soruşturmak|
+investigator|n|araştırmacı, müfettiş|The {investigator} found new evidence.
+investment|n|yatırım|
+investor|n|yatırımcı|{Investors} lost a lot of money.
+invisible|adj|görünmez|Air is {invisible}.
+invitingly|adv|davetkâr şekilde|The pool looked {invitingly} cool.
+invoke|v|başvurmak, anmak|
+involvement|n|katılım, dahil olma|
+ironically|adv|ironik bir şekilde|
+irrational|adj|mantıksız|He has an {irrational} fear of birds.
+irresistible|adj|karşı konulmaz|
+irresistibly|adv|karşı konulmaz şekilde|She was {irresistibly} drawn to the music.
+irresponsible|adj|sorumsuz|
+irritated|adj|sinirli, rahatsız|He was {irritated} by the noise.
+irritating|adj|sinir bozucu|
+irritation|n|sinirlilik; tahriş|
+islander|n|adalı|The {islanders} depend on fishing.
+issue|v|vermek, yayımlamak|
+italicize|v|italik yazmak|{Italicize} the book titles.
+itch|v|kaşınmak|
+jam|v|sıkıştırmak, tıkamak|
+jaw|n|çene|He broke his {jaw} in a fight.
+jealously|adv|kıskançlıkla|
+jeopardize|v|tehlikeye atmak|Don't {jeopardize} your career.
+jeweler|n|kuyumcu|The {jeweler} repaired my watch.
+jog|n|hafif koşu|
+joint|n|eklem|My knee {joint} hurts.
+journalism|n|gazetecilik|She studied {journalism}.
+judo|n|judo|He has a black belt in {judo}.
+jump|n|atlama, sıçrayış|
+junk food|n|abur cubur|Avoid {junk food}.
+juror|n|jüri üyesi|Each {juror} listened carefully.
+jury|n|jüri|The {jury} found him guilty.
+justify|v|haklı çıkarmak, gerekçelendirmek|
+kangaroo|n|kanguru|A {kangaroo} can jump very far.
+karaoke|n|karaoke|We sang {karaoke} all night.
+keen|adj|hevesli, istekli|She is {keen} on tennis.
+keeper|n|bekçi; kaleci|
+kerosene|n|gazyağı|The lamp burns {kerosene}.
+keystroke|n|tuş vuruşu|
+kneel|v|diz çökmek|
+knot|n|düğüm|
+knowingly|adv|bilerek|He {knowingly} broke the rules.
+known|adj|bilinen|
+label|n|etiket|
+laborer|n|işçi|The {laborers} built the road.
+lack|v|yoksun olmak|He {lacks} confidence.
+lame|adj|topal; zayıf (bahane)|That's a {lame} excuse.
+lance|n|mızrak|The knight carried a {lance}.
+landing|n|iniş; sahanlık|
+landlady|n|ev sahibesi|Our {landlady} lives downstairs.
+landslide|n|toprak kayması; ezici zafer|
+lap|n|kucak; tur|
+laptop|n|dizüstü bilgisayar|I work on my {laptop}.
+lark|n|tarla kuşu; şaka|The {lark} sang in the sky.
+laser|n|lazer|The doctor used a {laser} on my eyes.
+last minute|n|son dakika|
+last-minute|adj|son dakika|We booked a {last-minute} holiday.
+lastly|adv|son olarak|{Lastly}, I want to thank my family.
+later|adj|sonraki|
+latter|adj|ikinci olarak bahsedilen|The {latter} option is cheaper.
+laundry|n|çamaşır; çamaşırhane|I do the {laundry} on Sundays.
+lava|n|lav|{Lava} poured down the mountain.
+lawmaker|n|yasa koyucu|{Lawmakers} passed a new law.
+lawn|n|çimenlik|He mows the {lawn} every week.
+lawsuit|n|dava|She filed a {lawsuit} against the company.
+layabout|n|aylak, haylaz|He's a lazy {layabout}.
+leaflet|n|broşür, el ilanı|They handed out {leaflets} in the street.
+leak|n|sızıntı|
+leak|v|sızmak; sızdırmak|
+lean|v|eğilmek, yaslanmak|
+leap|n|sıçrama|
+learning|n|öğrenme|{Learning} a language takes time.
+lease|n|kira sözleşmesi|We signed a two-year {lease}.
+leash|n|tasma kayışı|
+least|pron|en az|It's the {least} I can do.
+lecturer|n|öğretim görevlisi|She is a {lecturer} in history.
+leek|n|pırasa|My mother cooks {leeks} with olive oil.
+legend|n|efsane|The {legend} says the city was built by giants.
+legendary|adj|efsanevi|
+legislate|v|yasa çıkarmak|
+legislation|n|mevzuat, yasalar|New {legislation} protects workers.
+legislative|adj|yasama|Parliament has {legislative} power.
+legislator|n|yasa koyucu|{Legislators} discussed the bill.
+legislature|n|yasama organı|The {legislature} approved the budget.
+legitimate|adj|meşru, yasal|It's a {legitimate} business.
+leisurely|adv|acele etmeden|We walked {leisurely} along the beach.
+lengthen|v|uzatmak|
+lengthy|adj|uzun, uzun süren|
+leopard|n|leopar|A {leopard} has spots.
+lest|conj|-mesin diye|Speak quietly, {lest} you wake the baby.
+level|v|düzleştirmek|
+liberal|adj|liberal, hoşgörülü|
+lick|v|yalamak|
+lid|n|kapak|
+lifeless|adj|cansız|
+lifetime|n|ömür|It's the chance of a {lifetime}.
+lighten|v|hafifletmek; aydınlatmak|
+lighting|n|aydınlatma|
+likewise|adv|aynı şekilde|
+limb|n|uzuv; dal|
+line|v|astarlamak; sıralanmak|
+linen|n|keten; çarşaf takımı|She wore a {linen} dress.
+liner|n|yolcu gemisi; astar|
+ling|n|funda; mezgit türü balık|The hills were covered in {ling}.
+linger|v|oyalanmak, sürüp gitmek|
+list|v|listelemek|
+listener|n|dinleyici|Radio {listeners} called the show.
+literal|adj|harfi harfine, gerçek|
+literally|adv|kelimenin tam anlamıyla|
+litter|n|çöp (yerlere atılan)|Don't drop {litter} in the park.
+living|n|geçim|
+load|v|yüklemek|
+loan|n|borç, kredi|I got a {loan} from the bank.
+lobby|n|lobi, giriş salonu|Wait for me in the hotel {lobby}.
+loneliness|n|yalnızlık|Old people often suffer from {loneliness}.
+long-distance|adj|uzun mesafe|
+long-term|adj|uzun vadeli|
+loosely|adv|gevşekçe|
+lousy|adj|berbat|
+lower|v|indirmek, düşürmek|They {lowered} the prices.
+lowland|n|ova, alçak arazi|The river flows through the {lowlands}.
+lucrative|adj|kârlı, kazançlı|It is a very {lucrative} business.
+lush|adj|yemyeşil, gür|The valley is {lush} and green.
+luxurious|adj|lüks|
+luxury|adj|lüks|We stayed in a {luxury} hotel.
+lyrics|n|şarkı sözleri|
+madam|n|hanımefendi|Can I help you, {madam}?
+madame|n|madam|{Madame} Curie won two Nobel Prizes.
+madness|n|delilik|
+maestro|n|usta (müzik)|The {maestro} conducted the orchestra.
+magnify|v|büyütmek|
+major|n|binbaşı; ana dal|
+make|n|marka|
+malady|n|hastalık, dert|
+malaria|n|sıtma|Mosquitoes spread {malaria}.
+mama|n|anne|{Mama}, can I have some cake?
+mango|n|mango|I love {mango} juice.
+manipulate|v|manipüle etmek|
+mansion|n|konak, malikâne|They live in a huge {mansion}.
+manual|adj|elle yapılan, manuel|He has a {manual} job.
+manual|n|kullanım kılavuzu|Read the {manual} before using it.
+manufacture|n|üretim, imalat|
+manufacture|v|üretmek, imal etmek|
+manufacturer|n|üretici|The {manufacturer} recalled the cars.
+manufacturing|n|imalat|
+marathon|n|maraton|She ran the Istanbul {marathon}.
+margin|n|kenar boşluğu; marj|
+marketing|n|pazarlama|
+martial art|n|dövüş sanatı|
+mask|n|maske|
+mass|n|kütle; yığın; ayin|
+massacre|n|katliam|The {massacre} shocked the world.
+massage|n|masaj|I had a {massage} at the spa.
+masseur|n|masör|The {masseur} worked on my back.
+master|n|usta; efendi|
+masterpiece|n|başyapıt|This painting is a {masterpiece}.
+mastery|n|ustalık, hâkimiyet|He has {mastery} of three languages.
+mate|n|arkadaş, dost; eş|
+mathematical|adj|matematiksel|
+mature|adj|olgun|She is very {mature} for her age.
+mausoleum|n|anıt mezar, türbe|Anıtkabir is Atatürk's {mausoleum}.
+mean|n|ortalama|The {mean} of 2, 4 and 6 is 4.
+means|n|araç, yol, yöntem|
+mechanize|v|makineleştirmek|
+media|n|medya|The {media} reported the story.
+medication|n|ilaç|Are you taking any {medication}?
+medieval|adj|orta çağa ait|
+mediocre|adj|vasat|
+melody|n|melodi|The song has a beautiful {melody}.
+memorial|n|anıt|They built a {memorial} for the soldiers.
+mentor|n|akıl hocası, rehber|My teacher became my {mentor}.
+merchandise|n|ticari mal|
+mercy|n|merhamet|
+merge|v|birleşmek|The two companies {merged}.
+merger|n|birleşme (şirket)|The {merger} created a giant company.
+mess|v|dağıtmak; bozmak (mess up)|
+messenger|n|haberci|The {messenger} brought bad news.
+metaphor|n|mecaz, metafor|"Time is money" is a {metaphor}.
+metric|adj|metrik|Turkey uses the {metric} system.
+micro|n|mikro bilgisayar|He wrote programs on his old {micro}.
+microbe|n|mikrop|A {microbe} is too small to see.
+microcomputer|n|mikrobilgisayar|The first {microcomputer} appeared in the 1970s.
+micrometer|n|mikrometre|A {micrometer} measures very small distances.
+microorganism|n|mikroorganizma|Bacteria are {microorganisms}.
+microphone|n|mikrofon|Speak into the {microphone}.
+microscope|n|mikroskop|
+microscopic|adj|mikroskobik|
+microscopy|n|mikroskopi|She specializes in electron {microscopy}.
+microwave|n|mikrodalga fırın|Heat the soup in the {microwave}.
+midst|n|orta, ortası (in the midst of)|
+mighty|adj|güçlü, kudretli|
+migration|n|göç|Bird {migration} happens in autumn.
+mill|n|değirmen; fabrika|The old {mill} is now a museum.
+millimeter|n|milimetre|The gap is only a {millimeter} wide.
+millionaire|n|milyoner|He became a {millionaire} at thirty.
+mimic|n|taklitçi|He is a great {mimic}.
+mine|n|maden; mayın|He worked in a coal {mine}.
+miniature|adj|minyatür|She collects {miniature} houses.
+minister|n|bakan|
+mint|n|nane; darphane|
+misconception|n|yanlış kanı|It's a common {misconception}.
+misfortune|n|talihsizlik|He had the {misfortune} to lose his job.
+misleading|adj|yanıltıcı|
+missile|n|füze|The {missile} hit its target.
+mist|n|pus, sis|The hills were covered in {mist}.
+mistreat|v|kötü davranmak|The dog had been {mistreated}.
+mistrustful|adj|güvensiz, şüpheci|She is {mistrustful} of strangers.
+misunderstand|v|yanlış anlamak|Don't {misunderstand} me.
+mix|n|karışım|
+mixture|n|karışım|
+mobility|n|hareketlilik|The elderly need help with {mobility}.
+mock|adj|deneme, sahte|We have a {mock} exam on Monday.
+modernization|n|modernleşme|
+modernize|v|modernleştirmek|
+modest|adj|alçakgönüllü; mütevazı|
+modification|n|değişiklik|
+mogul|n|kodaman, patron|He is a media {mogul}.
+mold|n|küf; kalıp|
+momentarily|adv|bir anlığına|
+momentary|adj|anlık|There was a {momentary} silence.
+monastery|n|manastır|The monks live in a {monastery}.
+moody|adj|dakikası dakikasına uymayan|
+moonlight|n|ay ışığı|
+moonscape|n|ay yüzeyi gibi manzara|The desert looked like a {moonscape}.
+moral|adj|ahlaki|It is a {moral} question.
+morality|n|ahlak|They discussed {morality} in class.
+morally|adv|ahlaken|
+mortal|adj|ölümlü|All humans are {mortal}.
+mortar|n|harç; havan|The bricks are held together with {mortar}.
+mortgage|n|ipotek, konut kredisi|They took out a {mortgage} to buy the house.
+mortify|v|utandırmak, mahcup etmek|She was {mortified} by her mistake.
+mother-in-law|n|kayınvalide|My {mother-in-law} makes great dolma.
+motion|n|hareket; önerge|
+motivated|adj|motive olmuş, istekli|
+motorbike|n|motosiklet|He rides a {motorbike}.
+motorist|n|sürücü|{Motorists} were warned about the ice.
+mount|v|monte etmek; tırmanmak|
+mournful|adj|kederli, hüzünlü|We heard a {mournful} song.
+mover|n|nakliyeci|
+moving|adj|dokunaklı; hareketli|
+muddy|adj|çamurlu|
+multiple|adj|çoklu, birden fazla|
+multiply|v|çarpmak; çoğalmak|
+mumble|n|mırıltı|I heard a {mumble} from the corner.
+mumble|v|mırıldanmak|
+murmur|n|mırıltı, uğultu|There was a {murmur} of agreement.
+muse|v|derin derin düşünmek|She {mused} about her future.
+musical|n|müzikal|We saw a {musical} in London.
+mustache|n|bıyık|
+mutability|n|değişkenlik|We discussed the {mutability} of language.
+mutable|adj|değişebilir|
+mutter|n|homurtu|He gave a {mutter} of complaint.
+mutter|v|homurdanmak, mırıldanmak|He {muttered} something angrily.
+mutton|n|koyun eti|We had {mutton} stew.
+mystify|v|şaşırtmak|His behaviour {mystified} us.
+nano|n|nano ölçek|The technology works at the {nano} level.
+narcissistic|adj|narsist|He is a {narcissistic} man.
+narrator|n|anlatıcı|The {narrator} of the story is a child.
+narrowly|adv|kıl payı|
+nationwide|adj|ülke çapında|
+nationwide|adv|ülke genelinde|The film is shown {nationwide}.
+native speaker|n|ana dili konuşan kişi|She is a {native speaker} of English.
+naughty|adj|yaramaz|The {naughty} boy broke a window.
+naval|adj|deniz kuvvetlerine ait|It is a {naval} base.
+navigate|v|yön bulmak; gezinmek|
+navigation|n|navigasyon|
+navy|n|deniz kuvvetleri|He served in the {navy}.
+neat|adj|düzenli, temiz|
+necessarily|adv|zorunlu olarak|
+necessity|n|gereklilik, ihtiyaç|
+need|n|ihtiyaç|
+needless|adj|gereksiz|
+needy|adj|muhtaç|They help {needy} families.

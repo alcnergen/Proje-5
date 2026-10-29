@@ -1,0 +1,450 @@
+term|n|dönem; terim; koşul|
+terminal|n|terminal|
+terribly|adv|çok, son derece; berbat şekilde|I'm {terribly} sorry for the delay.
+terrific|adj|harika, müthiş|You look {terrific} in that dress!
+terrified|adj|dehşete düşmüş|She is {terrified} of snakes.
+terror|n|dehşet; terör|
+terrorism|n|terörizm|The world must fight {terrorism}.
+terrorist|n|terörist|The {terrorists} were arrested.
+thankful|adj|müteşekkir|I'm {thankful} for your help.
+theft|n|hırsızlık|He reported the {theft} of his car.
+theory|n|teori, kuram|
+thirst|v|susamak; can atmak|He {thirsted} for knowledge.
+thorough|adj|kapsamlı, titiz|The police made a {thorough} search.
+threat|n|tehdit|
+threatening|adj|tehditkâr|He received a {threatening} letter.
+thriller|n|gerilim filmi/romanı|I'm reading a great {thriller}.
+through|adv|baştan sona; içinden|
+throughout|prep|boyunca, baştan başa|It rained {throughout} the day.
+thumb|n|başparmak|He cut his {thumb}.
+thump|v|yumruklamak, güm güm vurmak|He {thumped} the table angrily.
+thunder|n|gök gürültüsü|We heard {thunder} in the distance.
+thunderous|adj|gök gürültüsü gibi, gürleyen|
+thus|adv|böylece, bu nedenle|
+tick|n|tik işareti; tıkırtı|
+tick|v|işaretlemek (✓)|{Tick} the correct box.
+tide|n|gelgit|
+tie|v|bağlamak|
+tighten|v|sıkılaştırmak|{Tighten} the screws.
+tightly|adv|sıkıca|
+tile|n|fayans, kiremit|The bathroom has blue {tiles}.
+till|conj|-e kadar|Wait {till} I come back.
+timely|adj|zamanında|
+tin|n|teneke; konserve kutusu|I opened a {tin} of tomatoes.
+tiny|adj|minicik|They live in a {tiny} flat.
+tire|v|yorulmak, yormak|
+tiring|adj|yorucu|It was a long and {tiring} day.
+tissue|n|kâğıt mendil; doku|Can I have a {tissue}?
+tobacco|n|tütün|{Tobacco} is grown in the Aegean region.
+tongue|n|dil (organ)|
+toothpaste|n|diş macunu|We've run out of {toothpaste}.
+top|adj|en üst; en iyi|She is a {top} student.
+tornado|n|kasırga, hortum|The {tornado} destroyed several houses.
+toss|v|atmak, fırlatmak|He {tossed} the ball to me.
+total|adj|toplam; tam|The {total} cost was 500 lira.
+total|n|toplam|The {total} comes to fifty euros.
+totally|adv|tamamen|I {totally} agree with you.
+touch|v|dokunmak|
+tour|v|gezmek, turlamak|
+tourism|n|turizm|
+tournament|n|turnuva|Our team won the {tournament}.
+trace|n|iz|
+tracksuit|n|eşofman|He wore a {tracksuit} to the gym.
+traditionally|adv|geleneksel olarak|
+traffic jam|n|trafik sıkışıklığı|We were stuck in a {traffic jam}.
+tragedy|n|trajedi, facia|The accident was a terrible {tragedy}.
+tragic|adj|trajik|He died in a {tragic} accident.
+trail|n|patika; iz|
+transfer|v|aktarmak, transfer etmek|
+transform|v|dönüştürmek|
+transformation|n|dönüşüm|The city has undergone a {transformation}.
+transitional|adj|geçiş dönemi|
+translate|v|çevirmek (dil)|
+transport|n|ulaşım, taşıma|Public {transport} is cheap here.
+transportation|n|ulaşım|
+trash|n|çöp|Take out the {trash}, please.
+travel agent|n|seyahat acentesi|I booked the trip through a {travel agent}.
+treat|n|ikram, ısmarlama; zevk|This meal is my {treat}.
+treatment|n|tedavi; muamele|
+tremble|v|titremek|
+tremendous|adj|muazzam|
+trend|n|eğilim, trend|
+trigger|n|tetik|He pulled the {trigger}.
+trim|n|kesim, düzeltme|
+triumph|n|zafer, büyük başarı|
+tropical|adj|tropik|They went to a {tropical} island.
+trouble|v|rahatsız etmek, üzmek|
+trumpet|n|trompet|He plays the {trumpet} in a jazz band.
+trustworthy|adj|güvenilir|
+tumble|v|yuvarlanmak, düşmek|
+tuna|n|ton balığı|I had a {tuna} sandwich.
+turbulence|n|türbülans; çalkantı|
+turning|n|sapak|
+turtle|n|kaplumbağa (deniz)|A sea {turtle} laid eggs on the beach.
+twin|n|ikiz|She has a {twin} brother.
+twist|n|bükülme; beklenmedik gelişme|
+twist|v|bükmek, burkmak|
+type|v|yazmak (klavyeyle)|
+typical|adj|tipik|
+typically|adv|genellikle, tipik olarak|Turkish breakfast {typically} includes cheese and olives.
+unable|adj|-amayan, yapamayan|
+unafraid|adj|korkusuz|She was {unafraid} of the dark.
+unbelievable|adj|inanılmaz|The view was {unbelievable}.
+uncertainty|n|belirsizlik|
+unclear|adj|belirsiz, açık olmayan|
+uncontrollable|adj|kontrol edilemez|He had an {uncontrollable} desire to laugh.
+uncover|v|ortaya çıkarmak|The journalist {uncovered} the truth.
+underage|adj|reşit olmayan|It's illegal to sell alcohol to {underage} people.
+undergo|v|geçirmek (ameliyat vb.)|
+underline|v|altını çizmek|{Underline} the key words.
+underneath|prep|altında|The keys were {underneath} the newspaper.
+underpants|n|külot, don|He bought some new {underpants}.
+undo|v|çözmek; geri almak|
+undress|v|soyunmak|
+unemployed|adj|işsiz|
+unemployment|n|işsizlik|
+unexpected|adj|beklenmedik|We had an {unexpected} visitor.
+unexpectedly|adv|beklenmedik şekilde|He arrived {unexpectedly}.
+unfairly|adv|haksız yere|
+unfit|adj|formsuz; uygun olmayan|
+unfold|v|açmak; gelişmek|
+unfortunate|adj|talihsiz|
+unfriendly|adj|soğuk, düşmanca|
+unheard|adj|duyulmamış|Her cries went {unheard}.
+unify|v|birleştirmek|
+uninterested|adj|ilgisiz|He seemed {uninterested} in the game.
+uninteresting|adj|ilginç olmayan|
+union|n|birlik; sendika|
+unique|adj|eşsiz, benzersiz|
+unite|v|birleşmek, birleştirmek|
+universe|n|evren|
+unless|conj|-medikçe|You'll fail {unless} you study harder.
+unlikely|adj|olası değil|
+unlucky|adj|şanssız|
+unpack|v|bavulu boşaltmak|I {unpacked} my suitcase.
+unpredictable|adj|tahmin edilemez|
+unrelated|adj|ilgisiz, alakasız|The two events are {unrelated}.
+untidy|adj|dağınık|
+until|conj|-e kadar|Stay here {until} I come back.
+unusually|adv|alışılmadık şekilde|It was {unusually} hot for April.
+unwanted|adj|istenmeyen|
+unwell|adj|rahatsız, hasta|
+up-to-date|adj|güncel|
+update|v|güncellemek|
+uplifted|adj|ruhu yükselmiş, keyiflenmiş|I felt {uplifted} by the music.
+upload|v|yüklemek (internete)|I {uploaded} the photos to my blog.
+upper|adj|üst|
+upstairs|adj|üst kattaki|The {upstairs} bathroom is bigger.
+upstairs|n|üst kat|
+upward|adj|yukarı doğru|
+urge|n|dürtü, istek|
+urgent|adj|acil|
+usage|n|kullanım|
+used to|modal|eskiden -erdi|I {used to} live in Izmir.
+useless|adj|işe yaramaz|
+vacancy|n|boş kadro; boş oda|There is a {vacancy} for a teacher.
+vague|adj|belirsiz, muğlak|
+vain|adj|kibirli; boş, nafile|He is very {vain} about his looks.
+valuable|adj|değerli|This ring is very {valuable}.
+van|n|minibüs, kamyonet|They moved their furniture in a {van}.
+variety|n|çeşitlilik|
+various|adj|çeşitli|
+vary|v|değişmek, farklılık göstermek|
+vast|adj|engin, çok geniş|
+vegetarian|adj|vejetaryen|Do you have any {vegetarian} dishes?
+vegetarian|n|vejetaryen|She has been a {vegetarian} for years.
+vehicle|n|araç, taşıt|
+vein|n|damar (toplardamar)|
+vessel|n|gemi; kap; damar|The {vessel} sailed into the harbour.
+vet|n|veteriner|I took my cat to the {vet}.
+via|prep|üzerinden, yoluyla|We flew to London {via} Istanbul.
+vice|adj|yardımcı, başkan yardımcısı|She is the {vice} chairman of the company.
+vice president|n|başkan yardımcısı|The {vice president} spoke at the meeting.
+victim|n|kurban, mağdur|The {victims} of the earthquake need help.
+victory|n|zafer|
+video clip|n|video klip|She shared a funny {video clip}.
+view|v|görmek, değerlendirmek|
+viewpoint|n|bakış açısı|
+violence|n|şiddet|
+violently|adv|şiddetle|He shook {violently}.
+virtual|adj|sanal|
+virus|n|virüs|
+visa|n|vize|You need a {visa} to visit the USA.
+visible|adj|görünür|
+vision|n|görme; vizyon|
+visual|adj|görsel|The film has amazing {visual} effects.
+visually|adv|görsel olarak|The website is {visually} attractive.
+vivid|adj|canlı, parlak|
+vividly|adv|canlı bir şekilde|
+volcano|n|yanardağ|The {volcano} erupted last year.
+volume|n|ses düzeyi; cilt; hacim|
+volunteer|v|gönüllü olmak|
+vote|v|oy vermek|
+vowel|n|ünlü harf|"A" and "e" are {vowels}.
+voyage|n|deniz yolculuğu|The {voyage} took three weeks.
+wagon|n|yük vagonu; at arabası|The {wagon} was full of hay.
+wake|v|uyanmak, uyandırmak|
+ward|n|koğuş|
+wardrobe|n|gardırop|Hang your coat in the {wardrobe}.
+warm|v|ısıtmak|
+warmly|adv|sıcak bir şekilde, içtenlikle|They welcomed us {warmly}.
+warmth|n|sıcaklık|
+warn|v|uyarmak|
+warning|n|uyarı|
+warranty|n|garanti belgesi|The TV has a two-year {warranty}.
+warrior|n|savaşçı|He was a brave {warrior}.
+washbowl|n|lavabo, leğen|She filled the {washbowl} with water.
+waste|adj|atık|{Waste} water goes into the river.
+waste|n|israf; atık|
+waste|v|israf etmek|
+wasteful|adj|savurgan|
+waterfall|n|şelale|We swam under the {waterfall}.
+wave|v|el sallamak|
+wax|n|balmumu|The candle is made of {wax}.
+wax|v|cilalamak; ağda yapmak|He {waxed} his car.
+weakness|n|zayıflık|
+weapon|n|silah|
+weather forecast|n|hava tahmini|The {weather forecast} says it will snow.
+webcam|n|web kamerası|We talked using a {webcam}.
+weird|adj|tuhaf, acayip|
+welcome|adj|hoş karşılanan|
+well-dressed|adj|şık giyimli|She is always {well-dressed}.
+westward|adv|batıya doğru|
+wetland|n|sulak alan|Birds live in the {wetlands}.
+whale|n|balina|The blue {whale} is the largest animal.
+whatever|pron|her ne|Do {whatever} you want.
+whenever|adv|ne zaman olursa|Come {whenever} you can.
+whenever|conj|her ne zaman|{Whenever} I see him, he smiles.
+wherever|conj|her nerede|I'll follow you {wherever} you go.
+whether|conj|-ıp -madığı|I don't know {whether} he will come.
+whichever|det|hangisi olursa|Take {whichever} seat you like.
+while|n|süre, bir süre|
+whisper|n|fısıltı|She spoke in a {whisper}.
+whistle|n|düdük; ıslık|
+whoever|pron|her kim|{Whoever} wins will get a prize.
+whole|n|bütün|
+widespread|adj|yaygın|
+wildlife|n|yaban hayatı|
+wildly|adv|çılgınca|
+willingness|n|isteklilik|
+windscreen|n|ön cam|A stone cracked the {windscreen}.
+windsurfing|n|rüzgâr sörfü|We went {windsurfing} in Alaçatı.
+wing|n|kanat|
+wire|n|tel, kablo|Don't touch that {wire}.
+wither|v|solmak, kurumak|The flowers {withered} in the heat.
+witness|v|tanık olmak|
+wizard|adj|harika, müthiş (eski)|That's a {wizard} idea!
+wonder|n|harika, mucize; hayret|
+working|adj|çalışan|
+workout|n|antrenman|I did a 30-minute {workout}.
+workplace|n|işyeri|Smoking is banned in the {workplace}.
+workshop|n|atölye|We attended a writing {workshop}.
+worn|adj|eskimiş, aşınmış|
+worst|n|en kötüsü|
+worth|adj|değer|
+worthwhile|adj|değerli, zahmetine değer|It was a {worthwhile} experience.
+worthy|adj|layık, değer|
+wound|n|yara|
+wrap|n|dürüm; şal|I had a chicken {wrap} for lunch.
+wrap|v|sarmak, paketlemek|
+wrapping|n|ambalaj|Remove the {wrapping} before cooking.
+wrist|n|bilek|She broke her {wrist}.
+wristwatch|n|kol saati|He wears an old {wristwatch}.
+written|adj|yazılı|We have a {written} exam tomorrow.
+yell|n|bağırma, haykırış|He gave a {yell} of pain.
+yet|conj|ama, yine de|It's cheap, {yet} it's very good.
+yoga|n|yoga|She does {yoga} every morning.
+abandoned|adj|terk edilmiş|
+abnormally|adv|anormal şekilde|
+abolish|v|kaldırmak (yasa vb.)|
+aboriginal|adj|yerli|
+abruptly|adv|aniden, birdenbire|The meeting ended {abruptly}.
+absentee|n|devamsız kişi|There were five {absentees} today.
+absurd|adj|saçma|
+abuse|n|istismar, kötüye kullanma|
+access|v|erişmek|
+accessibility|n|erişilebilirlik|The building improved its {accessibility} for wheelchairs.
+accommodation|n|konaklama yeri|
+accordingly|adv|buna göre|
+accumulate|v|biriktirmek, birikmek|
+accusation|n|suçlama|He denied the {accusation}.
+ache|v|ağrımak|
+achievable|adj|ulaşılabilir|Set {achievable} goals.
+acid|n|asit|Lemon juice contains {acid}.
+acquisition|n|edinim; satın alma|
+actively|adv|aktif olarak|
+actual|adj|gerçek, asıl|
+acute|adj|şiddetli, akut|
+adaptable|adj|uyum sağlayabilen|
+addict|n|bağımlı|He is a coffee {addict}.
+addicted|adj|bağımlı|
+addiction|n|bağımlılık|
+additionally|adv|ayrıca, ek olarak|
+adequate|adj|yeterli|
+adequately|adv|yeterince|The room was {adequately} heated.
+adjustment|n|ayar, uyum|I made a small {adjustment} to the plan.
+administrative|adj|idari|She has an {administrative} job.
+admirable|adj|takdire şayan|
+admiringly|adv|hayranlıkla|
+admittedly|adv|kabul etmek gerekir ki|{Admittedly}, the hotel was expensive.
+adopted|adj|evlatlık|She is their {adopted} daughter.
+adoption|n|evlat edinme; benimseme|They chose {adoption} instead.
+adore|v|tapmak, çok sevmek|
+adorn|v|süslemek|
+advance|n|ilerleme; avans|
+advancement|n|ilerleme, gelişme|Technology brings {advancement}.
+advent|n|gelişi, ortaya çıkış|
+adventurous|adj|maceracı|She is very {adventurous}.
+adverse|adj|olumsuz, ters|The drug has no {adverse} effects.
+adversely|adv|olumsuz şekilde|
+adversity|n|zorluk, sıkıntı|
+affectionate|adj|sevecen, şefkatli|Our dog is very {affectionate}.
+affectionately|adv|sevgiyle|She {affectionately} called him "my lion".
+affordable|adj|uygun fiyatlı|They found an {affordable} flat.
+ageless|adj|yaşlanmayan, zamansız|
+aggressively|adv|saldırganca|He drove {aggressively}.
+agonize|v|kafa yormak, kıvranmak|She {agonized} over the decision for weeks.
+agony|n|şiddetli acı|He was in {agony} after the accident.
+aim|v|hedeflemek, nişan almak|
+aircraft|n|uçak, hava taşıtı|The {aircraft} landed safely.
+aircrew|n|uçuş ekibi|The {aircrew} welcomed the passengers.
+alcoholic|n|alkolik|He was an {alcoholic} for years.
+alcoholism|n|alkolizm|{Alcoholism} is a serious disease.
+alert|v|uyarmak|
+allegation|n|iddia|He denied the {allegations}.
+alliance|n|ittifak|
+ally|n|müttefik|
+alongside|prep|yanında, ile birlikte|She worked {alongside} her father.
+alphabetical|adj|alfabetik|
+altar|n|sunak|The couple stood at the {altar}.
+alter|v|değiştirmek|
+alternate|v|sırayla değişmek, dönüşümlü yapmak|Rain {alternated} with sunshine.
+alternatively|adv|alternatif olarak|
+altitude|n|rakım, yükseklik|
+aluminum|n|alüminyum|The can is made of {aluminum}.
+amaze|v|hayrete düşürmek|
+amazement|n|hayret|She looked at him in {amazement}.
+amazingly|adv|inanılmaz şekilde|
+ambassador|n|büyükelçi|
+ambiguity|n|belirsizlik, çift anlamlılık|There is some {ambiguity} in the contract.
+ambiguous|adj|belirsiz, muğlak|
+ammonia|n|amonyak|{Ammonia} has a strong smell.
+amongst|prep|arasında|She was {amongst} the winners.
+ample|adj|bol, yeterli|
+amplifier|n|amfi, yükseltici|He connected his guitar to an {amplifier}.
+amplify|v|yükseltmek, artırmak|The speakers {amplify} the sound.
+amuse|v|eğlendirmek|
+analogy|n|benzetme, analoji|
+analyst|n|analist|She is a financial {analyst}.
+anchor|n|çapa|The ship dropped {anchor}.
+anchorage|n|demirleme yeri|
+anchorman|n|haber sunucusu|The {anchorman} read the evening news.
+anchorperson|n|haber sunucusu|She is a famous TV {anchorperson}.
+anguish|n|ıstırap|She cried out in {anguish}.
+animate|v|canlandırmak|Her smile {animated} her face.
+anonymous|adj|isimsiz, anonim|
+antiaircraft|adj|uçaksavar|They fired {antiaircraft} guns.
+antibacterial|adj|antibakteriyel|Use {antibacterial} soap.
+anticancer|n|kanser önleyici ilaç|Scientists are testing a new {anticancer}.
+anticipate|v|öngörmek, beklemek|We {anticipate} problems.
+anticipation|n|beklenti, heyecanlı bekleyiş|
+antipollution|n|kirlilik önleme|The city spent money on {antipollution}.
+antique|adj|antika|
+antistatic|adj|statik elektrik önleyici|Use an {antistatic} cloth.
+antivirus|n|antivirüs programı|Install an {antivirus} on your computer.
+apostrophe|n|kesme işareti|Use an {apostrophe} in "it's".
+appeal|v|çağrıda bulunmak; cazip gelmek|
+applicant|n|başvuru sahibi|There were fifty {applicants} for the job.
+appreciative|adj|minnettar, takdirkâr|
+approach|v|yaklaşmak|
+appropriately|adv|uygun şekilde|Dress {appropriately} for the interview.
+approximate|adj|yaklaşık|
+arch|n|kemer (mimari)|
+archaeologist|n|arkeolog|The {archaeologist} found ancient coins.
+arctic|adj|kutup, Arktik|{Arctic} winds brought snow.
+arena|n|arena, saha|The concert was held in a huge {arena}.
+aristocracy|n|aristokrasi|The {aristocracy} lost its power.
+armful|n|kucak dolusu|She carried an {armful} of books.
+arouse|v|uyandırmak (duygu)|
+arrogant|adj|kibirli|He is rude and {arrogant}.
+artery|n|atardamar|A blocked {artery} can cause a heart attack.
+articulate|v|açıkça ifade etmek|
+artificially|adv|yapay olarak|The fruit was {artificially} coloured.
+artistry|n|ustalık, sanatkârlık|We admired the {artistry} of the carpet.
+ash|n|kül|The volcano covered the town in {ash}.
+aspiration|n|özlem, hedef|She has {aspirations} to become a doctor.
+aspire|v|arzulamak, hedeflemek|He {aspires} to be a writer.
+assault|n|saldırı|He was arrested for {assault}.
+assemble|v|toplamak; monte etmek|
+assembly|n|meclis; toplantı; montaj|
+assert|v|ileri sürmek|
+assess|v|değerlendirmek|
+assessment|n|değerlendirme|
+assumption|n|varsayım|
+assurance|n|güvence|
+assure|v|temin etmek|
+astonish|v|hayrete düşürmek|Her talent {astonished} us.
+astonished|adj|hayrete düşmüş|
+astonishing|adj|şaşırtıcı|
+astonishment|n|hayret|
+astronomy|n|astronomi|He is interested in {astronomy}.
+athletics|n|atletizm|She competes in {athletics}.
+attached|adj|ekli; bağlı|
+attainable|adj|ulaşılabilir|This goal is {attainable}.
+attainment|n|başarı, erişim|
+attendance|n|katılım, devam|
+attentive|adj|dikkatli, ilgili|
+attentively|adv|dikkatle|The students listened {attentively}.
+attractiveness|n|çekicilik|The {attractiveness} of the city draws tourists.
+attribute|n|özellik, nitelik|Patience is an important {attribute}.
+attribute|v|atfetmek|
+atypical|adj|alışılmadık|
+aubergine|n|patlıcan|Turkish cuisine uses a lot of {aubergine}.
+audit|n|denetim|
+audition|n|seçme (sanatçı)|She went to an {audition} for the musical.
+authoritative|adj|güvenilir, otoriter|It is an {authoritative} guide to birds.
+authorize|v|yetki vermek|
+availability|n|mevcudiyet, müsaitlik|Check the {availability} of rooms.
+await|v|beklemek|We {await} your reply.
+awe|n|huşu, derin hayranlık|
+ax|n|balta|He cut the wood with an {ax}.
+axis|n|eksen|
+backup|n|yedek|
+backward|adv|geriye|
+backyard|n|arka bahçe|The kids play in the {backyard}.
+bad-tempered|adj|huysuz|He is {bad-tempered} in the mornings.
+badge|n|rozet|
+balance|v|dengelemek|
+balanced|adj|dengeli|
+balky|adj|inatçı, aksi|The {balky} mule refused to move.
+ballad|n|balad|She sang a sad {ballad}.
+ballet|n|bale|We went to the {ballet}.
+ballot|n|oy pusulası; oylama|The vote was by secret {ballot}.
+ban|n|yasak|There is a {ban} on smoking here.
+ban|v|yasaklamak|They {banned} cars from the centre.
+banker|n|bankacı|He is a successful {banker}.
+bankrupt|v|iflas ettirmek|The crisis {bankrupted} the company.
+bankruptcy|n|iflas|
+barbershop|n|berber dükkânı|He went to the {barbershop} for a haircut.
+bare|v|açmak, göstermek|The dog {bared} its teeth.
+bargain|v|pazarlık etmek|
+bark|v|havlamak|
+barley|n|arpa|{Barley} is used to make beer.
+barn|n|ahır, ambar|The cows are in the {barn}.
+barometer|n|barometre|The {barometer} shows that a storm is coming.
+barren|adj|çorak, verimsiz|The land was dry and {barren}.
+barrier|n|engel, bariyer|
+bartender|n|barmen|The {bartender} made us a cocktail.
+bathhouse|n|hamam|We visited an old Turkish {bathhouse}.
+battlefield|n|savaş alanı|
+beagle|n|bigıl (köpek ırkı)|Our {beagle} loves to run.
+beak|n|gaga|The bird held a worm in its {beak}.
+beam|n|ışın; kiriş|
+bearing|n|ilgi, bağlantı; yön|
+beat|n|ritim; vuruş|
+beautify|v|güzelleştirmek|
+bellow|v|böğürmek, gürlemek|The coach {bellowed} at the players.
+belongings|n|eşyalar|Don't leave your {belongings} on the train.
+bend|n|viraj, kıvrım|
+beneficial|adj|faydalı|
+benefit|v|faydalanmak|Everyone will {benefit} from the new park.
