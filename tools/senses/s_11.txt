@@ -1,0 +1,150 @@
+irritating|adj|1|The noise was really {irritating}.
+irritation|nou|1|He showed his {irritation} by frowning.
+isolation|nou||Old people often suffer from {isolation}.
+issue|ver||The police {issued} a warning.
+itch|ver||My nose {itches}.
+item|nou|1|There are ten {items} on the list.
+jacket|nou||Take a {jacket}; it's cold.
+jade|nou|1|
+jam|nou|1|
+jam|ver||Too many people {jammed} into the bus.
+jar|nou||She keeps sugar in a glass {jar}.
+jazz|nou||He loves listening to {jazz}.
+jealous|adj||He is {jealous} of his brother's success.
+jealously|adv|1|She looked {jealously} at her sister's dress.
+jeans|nou|1|
+jelly|nou|1|
+jeopardize|ver|2|
+jewel|nou|1|
+job|nou||She has a new {job} at the bank.
+jog|nou|2|We went for a {jog} in the park.
+jog|ver|3|I {jog} every morning.
+joint|adj|1|They have a {joint} bank account.
+joke|nou||He told a funny {joke}.
+journal|nou||She writes in her {journal} every night.
+judgment|nou||I trust your {judgment}.
+jug|nou|1|
+juice|nou|1|I'd like a glass of orange {juice}.
+juicy|adj|1|
+jump|nou|6|The horse made a great {jump}.
+jumper|nou||She wore a warm {jumper}.
+junior|adj|1|
+junk|nou|1|
+just|adv|3|I've {just} arrived.
+justify|ver|1|How can you {justify} such a high price?
+keen|adj|2|
+keeper|nou|1|The park {keeper} locked the gates.
+kettle|nou|1|
+key|nou||I lost my house {key}.
+keystroke|nou||The program records every {keystroke}.
+kid|nou||The {kids} are playing outside.
+kid|ver|1|
+killer|nou||The police caught the {killer}.
+kind|adj|1|She is very {kind} to everyone.
+kindly|adj|1|
+kindly|adv||The old man {kindly} showed us the way.
+kindness|nou|3|
+king|nou||The {king} lived in a huge palace.
+kingdom|nou||The United {Kingdom} has four countries.
+kiss|nou||She gave her son a {kiss}.
+kit|nou|2|
+knit|ver|1|
+knock|nou|1|There was a {knock} at the door.
+knock|ver|2|Please {knock} before you come in.
+knot|nou||Tie a {knot} in the rope.
+known|adj||He is a {known} criminal.
+label|nou||Read the {label} before you buy it.
+laboratory|nou||The samples were sent to a {laboratory}.
+lack|nou||The project failed because of a {lack} of money.
+ladder|nou||He climbed the {ladder} to the roof.
+lake|nou|1|
+lance|nou|1|
+land|ver|1|The plane {landed} at noon.
+landscape|nou||The {landscape} here is beautiful.
+landslide|nou||A {landslide} blocked the road.
+largely|adv|1|The success was {largely} due to her.
+lark|nou|2|
+last|adv|1|When did you {last} see him?
+last|ver|1|The meeting {lasted} two hours.
+last minute|nou||She always changes her plans at the {last minute}.
+late|adj||Sorry, I'm {late}.
+lately|adv||I've been very busy {lately}.
+later|adj|1|We'll discuss it at a {later} date.
+latest|adj|1|Have you heard the {latest} news?
+laugh|nou|1|She has a lovely {laugh}.
+laughter|nou|1|We heard {laughter} from the next room.
+launch|ver|3|They {launched} a new phone.
+lawful|adj|1|It is not {lawful} to park here.
+lay|ver||{Lay} the book on the table.
+layer|nou|1|A {layer} of dust covered the furniture.
+laziness|nou|1|His {laziness} cost him the job.
+lead|ver||She {leads} a team of ten people.
+leading|adj|2|She is a {leading} expert in the field.
+leaflet|nou|3|
+league|nou|1|
+leak|ver|3|Water is {leaking} from the pipe.
+leap|nou|3|There was a big {leap} in prices.
+leap|ver|1|
+learn|ver||I want to {learn} Spanish.
+learner|nou|1|
+learning|nou|1|
+leash|nou|1|Keep your dog on a {leash}.
+least|adv||She is the {least} experienced player.
+leave|nou|1|She is on maternity {leave}.
+leave|ver||We {leave} for Izmir tomorrow.
+lecture|nou|3|The professor gave a {lecture} on history.
+lecturer|nou|2|
+left|adj||He writes with his {left} hand.
+left|adv||Turn {left} at the corner.
+left-hand|adj|2|Keep to the {left-hand} side.
+legally|adv|1|
+legislative|adj|1|
+legitimate|adj|3|
+length|nou|1|What is the {length} of the room?
+lengthen|ver|1|The tailor {lengthened} my trousers.
+lengthy|adj||We had a {lengthy} discussion.
+less|adv|2|I eat {less} than before.
+lessen|ver|2|
+lesson|nou||We have an English {lesson} today.
+lettuce|nou|3|
+level|adj||The ground isn't {level}.
+level|ver||They {levelled} the ground for the new house.
+liberal|adj||She has {liberal} views.
+liberate|ver|2|The soldiers {liberated} the prisoners.
+liberation|nou|1|They celebrated the {liberation} of the city.
+liberty|nou|3|They fought for {liberty}.
+library|nou||I borrowed a book from the {library}.
+license|ver||The shop is {licensed} to sell alcohol.
+lie|nou|1|
+lifeless|adj|1|The bird lay {lifeless} on the ground.
+lifelong|adj||They became {lifelong} friends.
+lift|nou||Take the {lift} to the fifth floor.
+lift|ver||Can you {lift} this box?
+light|ver|4|
+lighten|ver|2|Let me {lighten} your bag.
+lightly|adv|3|She touched his arm {lightly}.
+likeness|nou|1|There is a strong {likeness} between them.
+likewise|adv|1|He left early, and I did {likewise}.
+limb|nou|1|He injured a {limb} in the accident.
+limit|nou||There is a speed {limit} on this road.
+limit|ver|1|We {limit} sugar in our diet.
+limitation|nou||The plan has some {limitations}.
+limp|ver||He {limped} off the field.
+line|nou||Draw a straight {line}.
+line|ver|1|Trees {line} the street.
+linen|nou|1|
+liner|nou||They crossed the ocean on a {liner}.
+ling|nou|2|
+linger|ver||The smell {lingered} in the kitchen.
+link|nou||There is a {link} between smoking and cancer.
+link|ver||The bridge {links} the two cities.
+liquid|adj|1|The medicine comes in {liquid} form.
+list|nou||I made a shopping {list}.
+literal|adj|3|What is the {literal} meaning of this word?
+literally|adv|1|Translate the text {literally}.
+literary|adj||She loves {literary} classics.
+literature|nou||She studies English {literature}.
+litter|nou|2|
+lively|adj|1|She is a {lively} child.
+living|adj|1|He is the greatest {living} writer.
+living|nou||What do you do for a {living}?

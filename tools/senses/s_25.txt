@@ -1,0 +1,150 @@
+insecurely|adv|1|She smiled {insecurely}.
+insensitively|adv||He spoke {insensitively} about her loss.
+profess|ver|4|He {professed} his love for her.
+drawback|nou||The main {drawback} is the cost.
+resort|ver|1|They {resorted} to violence.
+estimation|nou|2|She went up in my {estimation}.
+commission|ver|2|
+liaison|nou|2|She acts as a {liaison} between the two departments.
+structurally|adv||The building is {structurally} sound.
+structural|adj||The earthquake caused {structural} damage.
+sedentary|adj||He has a {sedentary} job.
+landscape|ver|2|They {landscaped} the garden.
+consultation|nou|2|After {consultation} with my family, I decided to stay.
+engineer|ver|2|He {engineered} the deal.
+retention|nou|1|
+specification|nou|1|
+contract|ver|4|He {contracted} malaria in Africa.
+contractor|nou|1|
+chill|ver|2|{Chill} the wine before serving.
+chill|nou|1|
+chilly|adj|2|It's a bit {chilly} today.
+frost|ver|1|She {frosted} the cake.
+frosty|adj|2|The grass was {frosty} this morning.
+frostily|adv||She smiled {frostily}.
+man|ver|1|Volunteers {manned} the phones.
+unmanned|adj||They sent an {unmanned} spacecraft to Mars.
+impersonal|adj|1|
+impersonally|adv|1|The letter was written {impersonally}.
+impersonate|ver|3|
+impersonation|nou|1|
+buzzer|nou|2|
+desert|ver|1|He {deserted} his wife and children.
+desertion|nou|2|
+unoccupied|adj|3|
+stuffily|adv||"I don't eat fast food," he said {stuffily}.
+stuffiness|nou|2|
+gape|ver|1|
+repute|ver||He is {reputed} to be very rich.
+toughness|nou|1|
+plumbing|nou|1|
+usher|nou|3|
+gamely|adv||She {gamely} tried to answer the question.
+dissect|ver|1|We {dissected} a frog in biology class.
+dissection|nou|1|
+commend|ver|1|The police officer was {commended} for his bravery.
+thereby|adv||He signed the contract, {thereby} losing his rights.
+flick|ver|2|She {flicked} through a magazine.
+flicker|nou|1|
+unenviable|adj|2|She had the {unenviable} task of telling him.
+voice|ver|1|
+tread|nou|2|
+allege|ver||It is {alleged} that he stole the money.
+inclusion|nou||Her {inclusion} in the team surprised everyone.
+inclusive|adj||The price is {inclusive} of tax.
+unconvincing|adj|1|His excuse was {unconvincing}.
+recharge|ver|2|
+facilitation|nou|3|
+condition|ver|1|We are {conditioned} to fear failure.
+conditionally|adv||He was released {conditionally}.
+tone|ver|5|
+supple|adj|1|
+manicure|ver|2|
+facial|adj|1|
+facial|nou|2|
+refurbish|ver||The hotel has been {refurbished}.
+grounds|nou|1|There are no {grounds} for complaint.
+ground|ver|2|Her parents {grounded} her for a week.
+lethargically|adv||He moved {lethargically}.
+disquieting|adj||There was {disquieting} news from the hospital.
+fiercely|adv|2|She is {fiercely} independent.
+flask|nou|1|
+spacious|adj|2|
+conjure|ver|1|He {conjured} a rabbit out of a hat.
+creamy|adj|2|
+remedial|adj|1|
+posture|nou|2|Good {posture} is important.
+sedate|ver||The patient was {sedated}.
+sedate|adj|2|
+clutch|ver|2|She {clutched} her bag tightly.
+staggering|adj||The cost was {staggering}.
+dutifully|adv||She {dutifully} visited her grandmother every week.
+firm|ver|2|
+premises|nou||Smoking is not allowed on the {premises}.
+revere|ver|2|
+harbor|ver|1|She {harbored} doubts about his honesty.
+recognizable|adj|2|He was barely {recognizable}.
+recognizably|adv||The town was {recognizably} the same.
+batter|nou|2|
+amply|adv|2|She was {amply} rewarded.
+amplification|nou|2|The music needs more {amplification}.
+battered|adj|2|
+comply|ver||You must {comply} with the rules.
+compliant|adj||The building is {compliant} with safety rules.
+exuberant|adj|1|
+exuberance|nou|1|
+exuberantly|adv|1|The children laughed {exuberantly}.
+flourish|nou|1|He opened the door with a {flourish}.
+anchor|ver|2|The ship {anchored} in the bay.
+domination|nou|2|
+interjection|nou|1|
+gushing|adj|3|
+gush|nou|1|There was a {gush} of water from the pipe.
+voracious|adj||She is a {voracious} reader.
+prop|nou|2|The actors brought their own {props}.
+imp|nou|2|
+impishly|adv||He grinned {impishly}.
+wicked|adj|1|The {wicked} witch cast a spell.
+macabre|adj||He has a {macabre} sense of humour.
+tantamount|adj||His silence was {tantamount} to a confession.
+lapse|ver|4|
+relapse|ver|1|
+impede|ver|1|The snow {impeded} our progress.
+impediment|nou|1|
+taut|adj|1|Pull the rope {taut}.
+tautly|adv||The rope was stretched {tautly}.
+jersey|nou|3|
+startling|adj||The results were {startling}.
+slack|ver|1|
+slack|nou||Take up the {slack} in the rope.
+slack|adj|1|
+unwavering|adj|1|
+removed|adj|1|
+buffoon|nou|2|
+beguiling|adj|1|She has a {beguiling} smile.
+stray|ver|1|Don't {stray} too far from the path.
+stray|adj|2|
+veneration|nou|1|They hold their ancestors in {veneration}.
+ethical|adj|2|It's not {ethical} to lie to patients.
+heroine|nou|1|
+refreshing|adj|1|We had a {refreshing} swim.
+refresh|ver||A cup of tea will {refresh} you.
+zany|adj|1|He has a {zany} sense of humour.
+salve|nou||Put some {salve} on the burn.
+salvation|nou|2|The new job was his {salvation}.
+motley|adj||A {motley} crowd gathered in the square.
+justly|adv|2|
+wry|adj|1|She gave a {wry} smile.
+wryly|adv||He smiled {wryly}.
+sentient|adj|1|Animals are {sentient} beings.
+sentiment|nou|2|
+sentimental|adj|1|
+sentimentally|adv||She {sentimentally} kept all his letters.
+tangle|nou|1|Her hair was a {tangle} of curls.
+tangled|adj|1|The wires were {tangled}.
+untangle|ver|2|
+perceptive|adj|2|
+launch|nou|2|
+engross|ver|2|
+plague|ver|2|
+detritus|nou|1|

@@ -1,0 +1,150 @@
+charm|nou||The old town has a lot of {charm}.
+charming|adj|1|
+chase|nou|1|
+chase|ver|1|The dog {chased} the cat up a tree.
+chat|nou|1|
+chat show|nou||She appeared on a TV {chat show}.
+check|nou|6|The mechanic did a safety {check} on the car.
+check|ver|1|Please {check} your answers.
+checkout|nou|3|There was a long queue at the {checkout}.
+cheer|ver|2|The crowd {cheered} when the team scored.
+cheerful|adj|1|She is always {cheerful} in the morning.
+cheerfully|adv||He {cheerfully} agreed to help.
+cheerfulness|nou|1|Her {cheerfulness} made everyone smile.
+chemistry|nou||I'm studying {chemistry} at university.
+chew|ver||{Chew} your food slowly.
+chief|adj||Our {chief} aim is to help children.
+child|nou||Every {child} needs love.
+chili|nou|2|
+chin|nou|1|
+choir|nou|1|
+choke|ver|1|He {choked} on a fish bone.
+chop|ver||{Chop} the onions finely.
+Christian|adj|1|
+chunk|nou|1|He ate a big {chunk} of bread.
+church|nou||They got married in a small {church}.
+circle|ver|1|
+circuit|nou||The racing {circuit} is near Istanbul.
+circular|adj||They sat at a {circular} table.
+circumstance|nou|1|
+civil|adj||The country was torn by {civil} war.
+civilization|nou||Ancient Egyptian {civilization} lasted for thousands of years.
+claim|nou|2|His {claim} turned out to be false.
+clam|nou|1|
+clarify|ver|1|Could you {clarify} your question?
+classic|nou|1|
+classify|ver|1|Scientists {classify} animals into groups.
+clear|ver|1|They {cleared} the snow from the road.
+clearly|adv|2|Please speak {clearly}.
+clerical|adj|3|
+clerk|nou|1|
+clever|adj|2|She is a very {clever} student.
+click|nou||I heard the {click} of a camera.
+click|ver|5|{Click} here to download the file.
+climber|nou|3|The {climbers} reached the top at noon.
+clip|nou||Hold the papers together with a {clip}.
+clog|ver|1|Leaves {clogged} the drain.
+closely|adv||The police watched him {closely}.
+closure|nou|6|The road {closure} caused traffic jams.
+clothes|nou||She bought new {clothes} for school.
+cloud|nou||There isn't a {cloud} in the sky.
+cloudy|adj||It's {cloudy} today; it may rain.
+clumsy|adj|1|
+coach|ver|1|He {coaches} the school football team.
+coast|nou||We drove along the {coast}.
+coastal|adj|2|
+coat|nou|1|Put on your {coat}; it's cold.
+coconut|nou|2|
+cod|nou|3|
+code|nou|2|
+coherence|nou|2|
+coherent|adj||She gave a {coherent} explanation.
+coincide|ver|2|My birthday {coincides} with a holiday this year.
+coincidence|nou||What a {coincidence} to meet you here!
+coke|nou|2|
+collapse|nou||The {collapse} of the bridge shocked everyone.
+collapse|ver||The old building {collapsed} in the earthquake.
+collar|nou||The dog has a red {collar}.
+colleague|nou|1|I had lunch with a {colleague}.
+collect|ver||She {collects} old coins.
+collocation|nou|1|
+colonial|adj|1|The city has many {colonial} buildings.
+color|ver|1|The children {colored} the pictures.
+colorful|adj||The market is full of {colorful} fruit.
+comb|nou||I need a {comb} for my hair.
+combination|nou||The {combination} of salt and lemon is delicious.
+combine|ver|3|{Combine} the eggs and flour in a bowl.
+come|ver||Please {come} to my party.
+comfortably|adv|2|She was sitting {comfortably} by the fire.
+command|nou|1|The soldiers followed the {command}.
+commemorate|ver||A statue {commemorates} the soldiers.
+commerce|nou|1|
+commission|nou||She earns a {commission} on every sale.
+commitment|nou||Marriage is a serious {commitment}.
+common|adj||Ahmet is a {common} name in Turkey.
+common sense|nou||Use your {common sense}!
+commonwealth|nou|3|
+communicative|adj|2|She is a very {communicative} child.
+community|nou|1|The local {community} built a new park.
+commute|ver|2|I {commute} to work by train.
+comparative|nou||"Bigger" is the {comparative} of "big".
+compare|ver|1|{Compare} the two pictures.
+compassion|nou|2|
+compassionate|adj||She is a kind and {compassionate} nurse.
+compatible|adj|2|Is this app {compatible} with my phone?
+compensate|ver||Nothing can {compensate} for the loss.
+compensation|nou|1|
+competent|adj|1|
+competition|nou||She won a singing {competition}.
+competitive|adj|1|Football is a very {competitive} sport.
+complement|nou||Wine is a perfect {complement} to cheese.
+complete|adj|1|I have the {complete} set of her books.
+completely|adv|1|I {completely} forgot about the meeting.
+complex|adj||The problem is very {complex}.
+complexion|nou|1|She has a fair {complexion}.
+complexity|nou||I didn't expect the {complexity} of the task.
+complicate|ver|1|Don't {complicate} things.
+compound|nou|2|
+comprehension|nou|1|We did a reading {comprehension} test.
+compromise|nou|2|After long talks, they reached a {compromise}.
+compromise|ver|1|We had to {compromise} on the price.
+compulsory|adj||Education is {compulsory} until eighteen.
+conceal|ver||He tried to {conceal} his anger.
+concede|ver|4|The minister {conceded} defeat.
+conceit|nou|1|His {conceit} annoys everyone.
+concentrate|ver||I can't {concentrate} with this noise.
+concern|nou||There is growing {concern} about pollution.
+concern|ver|1|
+concerned|adj|1|I'm {concerned} about my father's health.
+concession|nou||The company made some {concessions} to the workers.
+conclude|ver|1|The police {concluded} that it was an accident.
+conclusion|nou|1|We came to the {conclusion} that he was right.
+confident|adj|1|She is {confident} about the exam.
+confidently|adv||He walked {confidently} onto the stage.
+confine|ver|1|
+confirmation|nou||I received a {confirmation} email.
+conflict|nou||The {conflict} lasted for years.
+confused|adj|5|I'm {confused}; can you explain again?
+confusing|adj|2|The instructions are very {confusing}.
+confusion|nou|2|There was some {confusion} about the time of the meeting.
+conscience|nou||He has a guilty {conscience}.
+consciousness|nou||She lost {consciousness} after the fall.
+consequence|nou||Every action has a {consequence}.
+consequently|adv|1|It rained heavily; {consequently}, the match was cancelled.
+conservation|nou|2|
+conservative|adj|2|
+consider|ver|5|We are {considering} moving to Izmir.
+considerable|adj||They spent a {considerable} amount of money.
+considerably|adv||Prices have risen {considerably}.
+consideration|nou|1|After careful {consideration}, we accepted the offer.
+consist|ver|4|The team {consists} of eleven players.
+consistent|adj||Her work is always {consistent}.
+consolation|nou|1|Your visit was a great {consolation} to her.
+consonant|nou|2|
+constant|adj||The baby needs {constant} attention.
+constantly|adv|2|The phone rang {constantly}.
+constitute|ver|1|Women {constitute} half of the workforce.
+constitution|nou||The new {constitution} was accepted in 1982.
+consumption|nou||Water {consumption} rises in summer.
+contact|ver|1|Please {contact} me by email.
+contain|ver|1|This drink {contains} a lot of sugar.

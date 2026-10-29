@@ -1,0 +1,150 @@
+iceman|nou|1|
+icy|adj||Be careful; the roads are {icy}.
+ID|nou|2|Please show your {ID} at the door.
+ideal|adj|1|This is the {ideal} place for a picnic.
+ideally|adv||{Ideally}, we should leave before noon.
+identification|nou|2|You need some {identification} to open an account.
+idiom|nou|4|
+idle|adj||The factory has been {idle} for months.
+idol|nou|2|
+idolize|ver||He {idolizes} his older brother.
+ill|adj|1|She has been {ill} for a week.
+illegally|adv||He parked {illegally}.
+illustrate|ver||The book is {illustrated} with photos.
+illustration|nou|1|
+imaginary|adj||The child has an {imaginary} friend.
+imagine|ver||{Imagine} a world without war.
+imitate|ver|1|Children {imitate} their parents.
+immediately|adv|1|Call the doctor {immediately}.
+immerse|ver|1|{Immerse} the vegetables in boiling water.
+immigrate|ver|3|His family {immigrated} to Germany in 1970.
+immigration|nou|1|{Immigration} has changed the country.
+impact|nou|2|The new law will have a big {impact}.
+impartial|adj|1|A judge must be {impartial}.
+imperative|nou|2|
+implement|ver|1|The government will {implement} the new plan next year.
+implication|nou|2|What are the {implications} of this decision?
+imply|ver|1|
+importantly|adv|1|More {importantly}, we need to save money.
+impractical|adj|1|High heels are {impractical} for walking.
+impress|ver|1|Her speech {impressed} everyone.
+impression|nou|1|I got the {impression} that he was unhappy.
+impressive|adj|1|The view from the top is {impressive}.
+imprisonment|nou||He was sentenced to ten years' {imprisonment}.
+improbable|adj|1|
+improper|adj|1|His behaviour was {improper}.
+improperly|adv||The food was {improperly} stored.
+improve|ver|1|I want to {improve} my English.
+improved|adj|2|The new model has an {improved} design.
+improvement|nou|1|There has been an {improvement} in his health.
+impulse|nou|2|I bought it on {impulse}.
+impulsive|adj|5|He is very {impulsive}.
+incident|nou|1|The police are investigating the {incident}.
+inconvenient|adj|2|Is this an {inconvenient} time?
+incorrect|adj||Your answer is {incorrect}.
+increase|nou||There has been an {increase} in prices.
+incredible|adj||The view was {incredible}.
+incredibly|adv|2|The exam was {incredibly} difficult.
+incur|ver|1|The company {incurred} big losses.
+incurable|adj|1|He has an {incurable} disease.
+indebted|adj|1|
+indeed|adv|1|It was {indeed} a beautiful day.
+indent|ver|1|{Indent} the first line of each paragraph.
+independence|nou||Turkey's war of {independence} ended in 1922.
+independently|adv|1|She learned to live {independently}.
+indicate|ver|4|Studies {indicate} that exercise helps memory.
+indifferent|adj|1|He seemed {indifferent} to the news.
+indispensable|adj|1|A good dictionary is {indispensable}.
+indoor|adj|1|The hotel has an {indoor} pool.
+indulge|ver||She {indulged} in a piece of chocolate cake.
+indulgent|adj|1|He has {indulgent} parents.
+industrialize|ver|2|The country {industrialized} quickly.
+inert|adj|1|He lay {inert} on the floor.
+inevitable|adj|1|Change is {inevitable}.
+infect|ver|1|The virus {infected} thousands of people.
+infection|nou||She has an ear {infection}.
+infectious|adj|1|Flu is very {infectious}.
+inflammation|nou||The cream reduces {inflammation}.
+inflate|ver|2|{Inflate} the tyres before the trip.
+influence|ver|1|Parents {influence} their children's choices.
+inform|ver|1|Please {inform} us if you change your address.
+informal|adj|1|It was an {informal} meeting.
+information|nou||I need more {information} about the course.
+informative|adj|3|
+infringe|ver|1|
+ingredient|nou||Flour is the main {ingredient} of bread.
+inhale|ver|2|Don't {inhale} the smoke.
+inherit|ver|1|She {inherited} a house from her grandmother.
+initial|adj||My {initial} reaction was surprise.
+initial|nou||Write your {initials} at the bottom.
+initiative|nou|1|
+inject|ver|1|The nurse {injected} the medicine into my arm.
+inner|adj|1|The {inner} walls are made of wood.
+innermost|adj|1|
+innocently|adv|2|She smiled {innocently}.
+innovation|nou|1|
+innovative|adj|2|It is a very {innovative} design.
+insane|adj|2|It's {insane} to drive so fast.
+inscribe|ver|1|
+insect|nou|1|
+inside|adj|2|I keep my wallet in an {inside} pocket.
+inside|adv|1|It's raining; let's go {inside}.
+inside|nou|1|
+insight|nou|1|
+insist|ver|1|
+inspect|ver|1|The officer {inspected} our passports.
+install|ver|1|We {installed} a new heater.
+instance|nou|2|
+instant|adj|1|
+instantly|adv|1|
+instead|adv|1|We didn't go out; we stayed home {instead}.
+instill|ver|1|Good teachers {instill} confidence in students.
+institution|nou||The university is a respected {institution}.
+instruct|ver|2|The teacher {instructed} us to sit down.
+instruction|nou|1|Read the {instructions} carefully.
+instrument|nou||Do you play a musical {instrument}?
+insurance|nou|1|
+intellectual|adj|2|Chess is an {intellectual} game.
+intelligence|nou||Dolphins have high {intelligence}.
+intelligent|adj||She is a very {intelligent} girl.
+intend|ver||I {intend} to finish this today.
+intense|adj||The heat was {intense}.
+intent|adj||She was {intent} on winning.
+intentionally|adv||He {intentionally} broke the rules.
+interact|ver||Children learn by {interacting} with others.
+interactive|adj|2|
+interest|nou||He has no {interest} in sport.
+interested|adj|1|I'm {interested} in history.
+interfere|ver|2|Don't {interfere} in my business.
+interior|nou|1|
+intermediate|adj|2|She is in the {intermediate} English class.
+internal|adj||The company has {internal} problems.
+interpersonal|adj||She has good {interpersonal} skills.
+interpret|ver||How do you {interpret} this poem?
+interpretation|nou|3|There are different {interpretations} of the law.
+interpreter|nou||She works as an {interpreter} at the UN.
+interrupt|ver|3|Please don't {interrupt} me.
+interruption|nou|1|I worked for hours without {interruption}.
+intersection|nou|2|Turn right at the next {intersection}.
+interval|nou|1|
+interview|ver|2|The manager {interviewed} five people for the job.
+intimate|adj|1|They are {intimate} friends.
+introduction|nou||Read the {introduction} first.
+intrude|ver|1|I don't want to {intrude}.
+intrusion|nou|2|
+invasion|nou||The {invasion} began at dawn.
+investigation|nou|2|
+investment|nou||Buying a house is a good {investment}.
+invisible|adj|1|
+invitation|nou|1|Thank you for the {invitation}.
+invite|ver||I {invited} all my friends to the party.
+invoke|ver|2|He {invoked} the law to defend himself.
+involuntarily|adv||She {involuntarily} closed her eyes.
+involve|ver|5|The job {involves} a lot of travel.
+involved|adj|1|He was {involved} in the accident.
+involvement|nou||Parents' {involvement} in school is important.
+ironically|adv|1|{Ironically}, the fire station burned down.
+ironing|nou|2|I hate doing the {ironing}.
+irregular|adj|2|He has {irregular} working hours.
+irresistible|adj|1|The cake was {irresistible}.
+irritate|ver||His voice {irritates} me.

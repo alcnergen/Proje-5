@@ -1,0 +1,150 @@
+blaze|ver|3|A fire {blazed} in the fireplace.
+blend|nou|3|This tea is a {blend} of black and green leaves.
+blend|ver|3|{Blend} the butter and sugar together.
+bless|ver||The priest {blessed} the children.
+blessing|nou|2|Good health is a {blessing}.
+blindly|adv|2|Don't {blindly} follow other people.
+block|ver||A fallen tree {blocked} the road.
+blog|nou||She writes a travel {blog}.
+bloom|nou||The roses are in full {bloom}.
+blow|nou||He received a {blow} to the head.
+blow|ver||The wind {blew} all night.
+blur|ver|3|Tears {blurred} her vision.
+blush|nou|2|
+board|ver|1|We {boarded} the plane at noon.
+boat|nou|1|
+bold|adj|1|It was a {bold} decision.
+boldly|adv||She spoke {boldly} to the director.
+bolt|ver||The horse {bolted} when it heard the noise.
+bomb|nou|1|
+bombing|nou|1|
+bond|nou||There is a strong {bond} between the sisters.
+bony|adj|1|
+bookish|adj||He was a quiet, {bookish} child.
+boom|nou|2|The tourism {boom} brought jobs to the town.
+boost|nou|1|The win gave the team a {boost}.
+boost|ver|3|The new factory will {boost} the economy.
+border|nou||We crossed the {border} at night.
+bore|ver|1|His long stories {bore} me.
+bored|adj|2|I'm {bored}; let's go out.
+boring|adj||The film was really {boring}.
+bossy|adj||My sister is very {bossy}.
+bother|nou||It's no {bother} at all.
+bother|ver|2|Sorry to {bother} you, but can you help me?
+bothersome|adj||The flies were {bothersome}.
+bottom|nou||The keys were at the {bottom} of my bag.
+bounce|nou|3|
+bounce|ver||The ball {bounced} off the wall.
+bound|adj|4|It's {bound} to rain today.
+bourbon|nou|2|
+bow|nou||The actors took a {bow}.
+bowl|ver|2|It's your turn to {bowl}.
+boyfriend|nou||Her {boyfriend} is a musician.
+bracket|nou|3|
+brag|nou||Don't believe his {brag}.
+brain|nou||The {brain} controls the body.
+brainstorming|nou||We had a {brainstorming} session for new ideas.
+brake|nou||Press the {brake} slowly.
+branch|ver|2|
+brand|nou||Which {brand} of coffee do you buy?
+bravely|adv||The firefighters acted {bravely}.
+break|ver|2|Be careful not to {break} the glass.
+breakable|adj||Pack the {breakable} items carefully.
+breakup|nou|1|
+breast|nou|3|I'd like chicken {breast} with rice.
+breathless|adj|1|She was {breathless} after the run.
+breed|nou|1|What {breed} is your dog?
+breed|ver|4|Rabbits {breed} very quickly.
+breeding|nou|4|The farm is used for horse {breeding}.
+breezy|adj|2|
+bridge|nou||They built a new {bridge} over the river.
+bright|adj||She wore a {bright} yellow dress.
+brilliant|adj||That's a {brilliant} idea!
+brilliantly|adv|2|She solved the problem {brilliantly}.
+broad|adj|1|He has very {broad} shoulders.
+broadcast|nou|2|
+broadcaster|nou|1|
+broaden|ver|2|
+broadly|adv|1|{Broadly} speaking, I agree with you.
+broccoli|nou|2|
+brotherhood|nou|3|
+brown|nou|1|
+browse|ver|3|I like to {browse} in bookshops.
+browser|nou|2|
+brush|nou||Clean your shoes with a {brush}.
+bubble|nou||The children blew soap {bubbles}.
+build|ver||They plan to {build} a new school.
+bulb|nou||The light {bulb} needs changing.
+bulimia|nou|1|
+bull|nou||The {bull} ran towards the fence.
+bully|ver|2|Older boys {bullied} him at school.
+bum|nou||He fell on his {bum}.
+bumper|nou||The car's {bumper} was damaged.
+burden|ver|2|
+burdensome|adj||The new rules are {burdensome} for small shops.
+burning|adj||We escaped from the {burning} building.
+burst|ver||The balloon {burst}.
+bust|ver|1|
+button|nou||Press the green {button}.
+buzz|ver|1|A bee was {buzzing} around my head.
+bye|nou|2|She waved {bye} to her friends.
+calculate|ver|1|
+calculation|nou|1|
+calendar|nou||I wrote the date on my {calendar}.
+call|nou|1|I'll give you a {call} tonight.
+caller|nou|1|The {caller} didn't leave a message.
+calmly|adv||She answered {calmly}.
+calmness|nou|1|
+camp|ver|1|We {camped} by the lake.
+campaign|nou||They started a {campaign} against smoking.
+can|nou|1|
+cancel|ver|1|
+candle|nou|1|
+canon|nou|1|
+cap|nou||He wore a baseball {cap}.
+capability|nou|1|The phone has video {capability}.
+capable|adj|1|She is {capable} of great things.
+capital|nou||Ankara is the {capital} of Turkey.
+caption|nou|3|Read the {caption} under the photo.
+capture|nou|4|
+capture|ver||The police {captured} the thief.
+care|ver||I don't {care} what they think.
+carefree|adj|1|We had a {carefree} summer.
+carefully|adv|1|
+careless|adj|1|It was a {careless} mistake.
+carelessly|adv|1|He {carelessly} left the door open.
+carelessness|nou|1|
+carnival|nou||The town holds a {carnival} every summer.
+carpet|nou||The {carpet} is from Kayseri.
+carriage|nou|1|
+carrot|nou||Rabbits like {carrots}.
+carton|nou|2|
+carve|ver|2|He {carved} his name on the tree.
+cascade|nou||A {cascade} of water fell from the rocks.
+cash|nou|1|Do you have any {cash}?
+cast|nou|1|The {cast} of the film is excellent.
+cast|ver|3|She was {cast} as the queen.
+casual|adj|3|He wore {casual} clothes to the party.
+casually|adv|2|She {casually} mentioned that she was leaving.
+cat|nou||Our {cat} sleeps all day.
+catastrophe|nou||The flood was a {catastrophe}.
+catchy|adj|2|The song has a {catchy} tune.
+categorize|ver||We {categorized} the books by subject.
+category|nou|1|
+cause|ver|1|
+caution|nou|1|Drive with {caution} in the rain.
+cease|ver|1|
+celebrity|nou|1|She became a {celebrity} overnight.
+cell|nou||The body is made of millions of {cells}.
+central|adj||The hotel is in a {central} location.
+certainly|adv||I will {certainly} come.
+certification|nou|3|
+certify|ver|3|
+challenge|nou|1|Learning Japanese is a real {challenge}.
+challenging|adj|1|It was a {challenging} job.
+chance|nou||This is your last {chance}.
+chapter|nou|1|Read the first {chapter} tonight.
+characteristic|adj||Hospitality is {characteristic} of Turkish people.
+characteristic|nou|1|Patience is his best {characteristic}.
+charge|nou||There is no {charge} for children.
+chariot|nou|2|

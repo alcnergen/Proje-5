@@ -1,0 +1,150 @@
+abandoned|adj|1|They found an {abandoned} house in the forest.
+able|adj|1|Will you be {able} to come tomorrow?
+abnormally|adv||It was {abnormally} cold for May.
+aboard|adv|1|All the passengers are now {aboard}.
+aboriginal|adj|2|The museum shows {aboriginal} art.
+about|adv|1|The trip takes {about} two hours.
+above|adj||Read the {above} paragraph again.
+abroad|adv|1|She wants to study {abroad}.
+absence|nou||Nobody noticed his {absence}.
+absolute|adj||I have {absolute} trust in her.
+absolutely|adv|2|You are {absolutely} right.
+absorb|ver|6|A sponge {absorbs} water.
+abstract|adj|1|Love is an {abstract} idea.
+absurd|adj|1|That's an {absurd} idea!
+abundance|nou|1|
+abuse|nou|3|Drug {abuse} is a serious problem.
+academy|nou|3|
+accept|ver||Please {accept} my apology.
+acceptable|adj|1|Is this price {acceptable} to you?
+access|nou||Do you have internet {access} at home?
+access|ver|2|You can {access} the files from any computer.
+accessibility|nou|2|
+accessible|adj|1|The beach is {accessible} by car.
+accident|nou||He had a car {accident} last year.
+accidentally|adv|3|
+accommodation|nou|4|We found cheap {accommodation} near the beach.
+accomplish|ver|2|
+accordingly|adv|1|The plan changed, and we acted {accordingly}.
+account|ver|1|Tourism {accounts} for half of the town's income.
+accumulate|ver|1|Dust {accumulates} quickly in this room.
+accuracy|nou|1|The {accuracy} of the report was checked.
+accurate|adj|1|
+accurately|adv|1|
+accusation|nou|2|
+accuse|ver||She {accused} him of lying.
+ache|ver||My legs {ache} after the long walk.
+achieve|ver||She worked hard to {achieve} her goals.
+acknowledge|ver|1|He {acknowledged} his mistake.
+acknowledgment|nou|1|There was no {acknowledgment} of her hard work.
+acquisition|nou|1|Language {acquisition} is easier for children.
+across|adv|1|He swam {across} to the other side.
+act|nou||It was an {act} of kindness.
+action|nou|1|We need {action}, not words.
+active|adj||My grandmother is still very {active}.
+actively|adv||She {actively} supports the charity.
+activity|nou|1|Swimming is a healthy {activity}.
+actor|nou||He is a famous Turkish {actor}.
+actual|adj|2|The {actual} cost was much higher.
+actually|adv|1|I {actually} prefer tea to coffee.
+adaptable|adj||Children are very {adaptable}.
+addict|nou|2|
+addicted|adj||He is {addicted} to his phone.
+addiction|nou|2|His {addiction} to gambling ruined him.
+additionally|adv||{Additionally}, you will get a free gift.
+address|nou||What is your home {address}?
+adequate|adj||The pay is not {adequate} for the work.
+adjust|ver||{Adjust} the seat before you drive.
+adjustment|nou|2|
+admirable|adj|1|Her patience is {admirable}.
+admiration|nou|1|I have great {admiration} for teachers.
+admiringly|adv||She looked at the painting {admiringly}.
+admission|nou||{Admission} to the museum is free.
+admit|ver|1|He {admitted} that he was wrong.
+adopt|ver||They decided to {adopt} a child.
+adoption|nou|2|
+adorn|ver||Flowers {adorned} the tables.
+advance|nou||There have been great {advances} in medicine.
+advance|ver||The army {advanced} towards the city.
+advanced|adj|4|She is in the {advanced} English class.
+advent|nou|1|Life changed with the {advent} of the internet.
+adverse|adj|1|
+adversely|adv||The drought {adversely} affected farmers.
+advertise|ver||They {advertise} their products on TV.
+advise|ver||The doctor {advised} me to rest.
+affection|nou||She shows a lot of {affection} for her cat.
+afford|ver|3|We can't {afford} a new car.
+afraid|adj|1|Are you {afraid} of the dark?
+after|adv||He left soon {after}.
+aged|adj|3|They have two children {aged} five and seven.
+ageless|adj||Her beauty seems {ageless}.
+agency|nou||She works for a travel {agency}.
+agent|nou||He is a secret {agent}.
+aggressive|adj|3|That dog is very {aggressive}.
+ago|adv||I moved here two years {ago}.
+agonize|ver|2|
+agony|nou|2|
+agreement|nou|1|The two countries signed an {agreement}.
+agriculture|nou|2|
+ahead|adv|1|There is a petrol station {ahead}.
+aisle|nou|2|
+alarm|ver|1|The news {alarmed} everyone.
+alert|ver||A neighbour {alerted} the police.
+alike|adj||The twins look {alike}.
+alike|adv|2|The teacher treats all students {alike}.
+all|adv||She was {all} alone.
+all right|adv|1|{All right}, let's go.
+alliance|nou||The two parties formed an {alliance}.
+allowance|nou|1|She gets a weekly {allowance} from her parents.
+ally|nou|1|Britain was an {ally} of France.
+alone|adj|1|She lives {alone} in a big house.
+alone|adv|2|He travelled {alone}.
+along|adv|2|Can I bring my sister {along}?
+aloud|adv|1|Read the text {aloud}.
+alright|adv|2|
+alternate|ver|5|
+alternative|adj|1|We need an {alternative} plan.
+alternatively|adv||{Alternatively}, we could take the bus.
+altogether|adv|2|There were twenty people {altogether}.
+always|adv|1|She {always} drinks tea in the morning.
+amaze|ver|1|His talent {amazes} me.
+amazed|adj||I was {amazed} by the view.
+amazing|adj|2|We had an {amazing} holiday.
+amazingly|adv||She sings {amazingly} well.
+ambassador|nou||The Turkish {ambassador} met the president.
+ambiguity|nou|2|
+ambiguous|adj|1|His answer was {ambiguous}.
+ambition|nou|2|Her {ambition} is to become a pilot.
+amount|nou||He spent a large {amount} of money.
+ample|adj|1|There is {ample} space for everyone.
+amplify|ver|4|
+amuse|ver|2|His jokes always {amuse} me.
+analogy|nou|2|He used an {analogy} to explain the idea.
+anchorage|nou|4|The ship found a safe {anchorage}.
+anger|nou|1|
+angrily|adv||He shouted {angrily}.
+anguish|nou|1|
+animated|adj|1|They had an {animated} discussion.
+animation|nou|5|
+announce|ver||They {announced} their engagement.
+announcement|nou|1|The pilot made an {announcement}.
+annoyance|nou|1|
+annoyed|adj|1|
+annoying|adj||That noise is really {annoying}.
+annually|adv|2|The festival is held {annually}.
+anonymous|adj||The money came from an {anonymous} donor.
+anticipation|nou|4|The children waited in {anticipation}.
+antique|adj|1|She bought an {antique} clock.
+antonym|nou||"Hot" is the {antonym} of "cold".
+anxiety|nou|2|
+anyhow|adv|1|It's late, but I'll go {anyhow}.
+anymore|adv||She doesn't live here {anymore}.
+anywhere|adv||I can't find my keys {anywhere}.
+apart|adv|1|They live two kilometres {apart}.
+ape|nou|1|
+apologize|ver||You should {apologize} to her.
+apology|nou|1|He made an {apology} for being late.
+apparent|adj|1|It soon became {apparent} that he was lying.
+apparently|adv|1|{Apparently}, the shop is closed today.
+appeal|ver|3|The idea really {appeals} to me.
+appearance|nou||She changed her {appearance} completely.

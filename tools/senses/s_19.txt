@@ -1,0 +1,150 @@
+sorry|adj|1|I'm {sorry} I'm late.
+sort|nou||What {sort} of music do you like?
+sort|ver|2|
+soul|nou||She put her heart and {soul} into the project.
+sound|adj|2|That's {sound} advice.
+sound|nou|1|I heard a strange {sound}.
+sound|ver|1|
+soup|nou||This tomato {soup} is delicious.
+sour|adj|2|Lemons taste {sour}.
+southeast|adj|2|
+southwest|adj|2|
+souvenir|nou|1|
+span|ver||The bridge {spans} the river.
+spare|adj|4|Always carry a {spare} tyre.
+spare|ver|3|Can you {spare} a few minutes?
+sparkle|nou|3|I love the {sparkle} of her diamond ring.
+sparkling|adj|2|
+speak|ver||Do you {speak} Turkish?
+speaker|nou||The {speaker} talked for an hour.
+specialist|nou|1|
+specially|adv|1|This cake was {specially} made for you.
+specialty|nou|3|
+specific|adj|2|Can you be more {specific}?
+specifically|adv||The book is written {specifically} for children.
+specify|ver|4|Please {specify} your size.
+spectacle|nou|2|The fireworks were a wonderful {spectacle}.
+spectacular|adj|1|The view from the top is {spectacular}.
+spectator|nou|1|Thousands of {spectators} watched the match.
+speech|nou|1|The president gave a {speech}.
+speed|nou||The car was travelling at high {speed}.
+speed|ver|4|He was stopped for {speeding}.
+spell|nou|4|The witch cast a {spell} on the prince.
+spell|ver|1|How do you {spell} your name?
+sphere|nou|5|The Earth is not a perfect {sphere}.
+spill|ver||Don't {spill} your coffee.
+spin|ver|3|The wheels began to {spin}.
+spirit|nou||The team showed great {spirit}.
+spite|nou|2|
+splash|nou|6|The children made a big {splash} in the pool.
+splash|ver|1|The kids {splashed} water everywhere.
+splatter|nou|2|
+split|adj|1|The party is {split} over the issue.
+split|nou|5|There was a {split} in the group.
+split|ver|1|Let's {split} the bill.
+spoil|ver||Don't {spoil} the surprise.
+sponge|nou||Clean the table with a {sponge}.
+sponsor|nou|1|
+sponsor|ver|1|A bank {sponsors} the festival.
+spoon|nou||I need a {spoon} for my soup.
+sport|nou||Football is my favourite {sport}.
+spot|nou||This is a nice {spot} for a picnic.
+spot|ver|1|I {spotted} her in the crowd.
+spread|nou|1|We must stop the {spread} of the disease.
+spy|nou||He worked as a {spy} during the war.
+squeeze|ver||{Squeeze} the lemon over the fish.
+stable|adj|2|
+stack|nou|1|
+stain|nou|1|There's a coffee {stain} on your shirt.
+stain|ver||Red wine can {stain} the carpet.
+stake|nou||There's a lot of money at {stake}.
+stall|nou|3|She runs a fruit {stall} at the market.
+stamp|nou||I need a {stamp} for this letter.
+stand|nou||We visited the company's {stand} at the fair.
+standard|adj||This is the {standard} size.
+standstill|nou|1|
+star|ver|2|Tom Hanks {stars} in the film.
+stare|ver|1|Don't {stare} at people.
+start|nou|1|It was a good {start} to the day.
+start|ver||The film {starts} at eight.
+startle|ver|2|The noise {startled} the cat.
+starvation|nou|1|Many animals died of {starvation}.
+starve|ver||Millions of people are {starving}.
+state|ver|1|
+statement|nou|1|The minister made a {statement} to the press.
+stay|ver||We {stayed} at a small hotel.
+steadily|adv|1|Prices have risen {steadily}.
+steady|adj|2|
+steal|ver|1|
+steely|adj|1|She gave him a {steely} look.
+steep|adj||The road up the hill is very {steep}.
+steer|ver|1|He {steered} the boat towards the shore.
+stem|ver|1|His problems {stem} from his childhood.
+stereotype|nou||It's just a {stereotype} that all Scots are mean.
+stern|adj||The teacher gave us a {stern} look.
+stew|nou||My mother makes a delicious beef {stew}.
+stick|nou|1|The old man walked with a {stick}.
+stick|ver|3|{Stick} the label on the box.
+sticker|nou|2|
+sticky|adj|1|My hands are {sticky} from the honey.
+still|adj|1|Keep {still} while I take the photo.
+still|adv|1|Are you {still} working?
+stimulant|nou|2|
+stink|ver|2|
+stir|ver|1|{Stir} the soup slowly.
+stockpile|nou|2|
+stomach|nou||My {stomach} hurts.
+stone|nou||He threw a {stone} into the lake.
+stop|ver|1|The bus {stopped} at the station.
+stopover|nou|2|We had a {stopover} in Dubai.
+storage|nou||We need more {storage} space.
+store|nou||I'm going to the {store} to buy milk.
+storm|nou||The {storm} destroyed many houses.
+storyteller|nou|1|
+straight|adv|1|
+straighten|ver|1|{Straighten} your tie.
+straightforward|adj|1|The instructions are quite {straightforward}.
+strain|nou|2|She's been under a lot of {strain}.
+strain|ver|1|Don't {strain} your eyes.
+strand|nou|4|A {strand} of hair fell on her face.
+strange|adj|1|What a {strange} noise!
+stranger|nou|2|
+stream|nou||We crossed a small {stream}.
+stream|ver|3|People {streamed} out of the stadium.
+strength|nou||He doesn't have the {strength} to lift it.
+stressed|adj|1|I feel very {stressed} at work.
+stressful|adj||It was a {stressful} week.
+stretch|ver||{Stretch} your arms above your head.
+stricken|adj|1|
+strictly|adv|2|
+stride|ver|1|
+strike|ver||The workers {struck} for higher wages.
+striking|adj|1|There is a {striking} difference between them.
+string|nou||Tie the box with {string}.
+strip|nou||Cut the paper into {strips}.
+strip|ver||They {stripped} the old paint off the door.
+stripe|nou|5|The flag has red and white {stripes}.
+strive|ver|1|
+stroke|nou||He had a {stroke} last year.
+stroke|ver|1|She {stroked} the cat.
+strong|adj||He's very {strong}.
+strongly|adv|1|I {strongly} disagree.
+struggle|nou|1|Life was a {struggle} for them.
+struggle|ver|1|She {struggled} to stay awake.
+stuck|adj|1|The door is {stuck}.
+study|ver|2|She {studies} medicine.
+stuff|nou|2|There's a lot of {stuff} in the garage.
+stuff|ver|1|He {stuffed} his clothes into the bag.
+stuffed|adj|1|
+stunning|adj|4|You look {stunning}!
+subdivision|nou|3|
+submit|ver|4|{Submit} your homework by Friday.
+subside|ver|1|The pain slowly {subsided}.
+substance|nou|4|This {substance} is dangerous.
+substantial|adj|1|They made a {substantial} profit.
+substitute|ver|1|You can {substitute} honey for sugar.
+subtle|adj|1|There is a {subtle} difference.
+succeed|ver|1|She {succeeded} in passing the exam.
+successfully|adv||He {successfully} completed the course.
+suddenly|adv|2|{Suddenly}, the lights went out.
+suffer|ver|3|She {suffered} a lot after his death.

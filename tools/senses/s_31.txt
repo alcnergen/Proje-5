@@ -1,0 +1,150 @@
+quantum|nou|2|
+reign|ver|1|Queen Victoria {reigned} for 63 years.
+submission|nou|1|The deadline for {submissions} is Friday.
+allegedly|adv||He {allegedly} stole the money.
+compact|adj|1|It's a {compact} car, perfect for the city.
+demon|nou|1|The story is about a {demon} that haunts a village.
+detection|nou|1|Early {detection} of cancer saves lives.
+elder|nou|1|
+grocery|nou|2|I bought some {groceries}.
+halfway|adv||We stopped {halfway} to rest.
+indication|nou|1|There is no {indication} that he is lying.
+martial|adj|3|
+realm|nou|1|It's not in the {realm} of possibility.
+streak|ver|1|The car {streaked} past us.
+subscription|nou|1|I have a {subscription} to a magazine.
+comeback|nou|2|
+median|adj|1|The {median} income has risen.
+spam|nou|2|
+stance|nou|2|
+static|adj|3|Prices have remained {static}.
+lineup|nou|1|
+placement|nou|2|She is on a work {placement} in London.
+thanksgiving|nou|1|
+chapel|nou|1|They got married in a small {chapel}.
+dimensional|adj|1|A cube is a three-{dimensional} shape.
+accommodate|ver|4|The hotel can {accommodate} 200 guests.
+continental|adj|4|
+machinery|nou||The factory has new {machinery}.
+mercury|nou|1|{Mercury} is a toxic metal.
+subscribe|ver|5|I {subscribe} to two magazines.
+activated|adj|3|
+adaptation|nou||The film is an {adaptation} of the novel.
+bail|nou|1|He was released on {bail}.
+liquor|nou|1|
+notably|adv||Many people, {notably} children, were affected.
+stark|adj|1|There is a {stark} difference between them.
+void|adj||The contract is {void}.
+civic|adj|2|
+distinctive|adj|1|She has a very {distinctive} voice.
+drone|nou|4|
+escort|ver|1|The police {escorted} him out of the building.
+indie|nou|1|
+jerk|ver|1|She {jerked} the door open.
+magnitude|nou|1|We didn't realize the {magnitude} of the problem.
+pledge|ver|1|He {pledged} to support the plan.
+vinyl|nou|2|
+affiliate|nou|2|
+asylum|nou|1|
+consistency|nou||There is no {consistency} in his work.
+denial|nou||He issued a {denial}.
+freight|nou||The goods were sent by air {freight}.
+instrumental|adj||She was {instrumental} in the project's success.
+interference|nou|1|The country rejected foreign {interference}.
+offset|ver||Higher prices were {offset} by higher wages.
+resistant|adj|2|The plants are {resistant} to cold.
+skinny|adj|1|He was a {skinny} boy.
+successor|nou||Who will be the president's {successor}?
+vector|nou||Mosquitoes are a {vector} for malaria.
+whatsoever|adj||I have no interest {whatsoever}.
+cart|nou|2|
+intake|nou|1|
+prey|nou||The lion caught its {prey}.
+bachelor|nou|1|
+clash|nou|2|There was a {clash} between the two leaders.
+frustrating|adj|1|
+hardcore|adj|1|
+mandate|nou|3|
+randomly|adv||The winners were chosen {randomly}.
+artillery|nou|1|
+canvas|nou||He painted on {canvas}.
+clearance|nou|3|The plane was given {clearance} to land.
+dame|nou|2|
+explicit|adj|1|She gave {explicit} instructions.
+explicitly|adv||He {explicitly} told me not to go.
+maritime|adj|1|
+preview|nou|2|
+reconstruction|nou|2|
+touchdown|nou|2|
+viable|adj|1|
+binary|nou|0|
+collision|nou|2|There was a {collision} between a bus and a car.
+depot|nou|2|
+distress|nou|1|She was in great {distress}.
+documentation|nou|1|You need to show your {documentation} at the border.
+plasma|nou||Blood {plasma} is mostly water.
+quarterback|nou|1|The {quarterback} threw the ball.
+sensitivity|nou||The topic needs to be handled with {sensitivity}.
+aggregate|adj|1|
+anatomy|nou||She is studying human {anatomy}.
+cement|nou||They mixed sand and {cement}.
+generator|nou|2|The hospital has its own {generator}.
+grind|ver|5|{Grind} the coffee beans.
+illusion|nou||The magician created an {illusion}.
+junction|nou|1|
+optimal|adj||This is the {optimal} temperature.
+rebellion|nou||The army crushed the {rebellion}.
+simulation|nou||Pilots train with a flight {simulation}.
+vibe|nou||The café has a nice {vibe}.
+zombie|nou|1|
+automotive|adj|1|
+bundle|nou|2|She carried a {bundle} of clothes.
+directory|nou|1|
+dodge|ver|1|He {dodged} the ball.
+elimination|nou|1|
+halt|ver|1|
+inability|nou|2|
+orthodox|adj||He uses {orthodox} methods.
+sanctuary|nou|2|
+sonic|adj|2|
+spine|nou||He injured his {spine}.
+tenure|nou|1|
+texture|nou|1|The cloth has a soft {texture}.
+biblical|adj|1|It's a {biblical} story.
+crane|ver||She {craned} her neck to see.
+delegation|nou|1|
+lounge|ver|1|
+notification|nou|2|You will receive a {notification} by email.
+theology|nou||He studied {theology}.
+ammunition|nou||The soldiers ran out of {ammunition}.
+anthem|nou|1|
+charitable|adj|1|She works for a {charitable} organization.
+fury|nou|1|She was filled with {fury}.
+humanitarian|adj|1|They sent {humanitarian} aid.
+immunity|nou||The vaccine gives {immunity} to the disease.
+lone|adj|3|A {lone} tree stood on the hill.
+meme|nou||The photo became a popular {meme}.
+paste|nou|1|
+recreational|adj|1|The park has {recreational} facilities.
+renewable|adj|2|Solar power is a {renewable} energy source.
+territorial|adj|1|There was a {territorial} dispute.
+aftermath|nou|1|
+aggression|nou|1|
+arguably|adv||It's {arguably} the best film of the year.
+blunt|ver|1|
+clarity|nou||She explained the problem with great {clarity}.
+confidential|adj||This information is {confidential}.
+discretion|nou||You can use your {discretion}.
+dope|nou|2|
+esteem|nou||She is held in high {esteem}.
+individually|adv||The teacher spoke to each student {individually}.
+inevitably|adv|2|
+lad|nou|1|
+opt|ver||She {opted} for the cheaper one.
+pharmaceutical|adj|2|
+reservoir|nou|2|The city gets its water from a {reservoir}.
+scrap|nou||He sold the car for {scrap}.
+shaft|nou||A {shaft} of light came through the window.
+spotlight|nou|2|
+trinity|nou|3|
+awhile|adv||Stay {awhile}.

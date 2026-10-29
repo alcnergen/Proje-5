@@ -1,0 +1,150 @@
+delicacy|nou|2|
+delicious|adj|2|
+delight|nou|1|The children screamed with {delight}.
+delight|ver||The show {delighted} the audience.
+delighted|adj|1|
+demanding|adj||Teaching is a {demanding} job.
+demolish|ver|1|They {demolished} the old stadium.
+dense|adj|2|We walked through a {dense} forest.
+densely|adv|2|It is a {densely} populated city.
+dental|adj|2|
+depart|ver||The train {departs} at 7:30.
+depend|ver|1|It {depends} on the weather.
+dependable|adj|1|
+dependent|adj||Children are {dependent} on their parents.
+deposit|nou||We paid a {deposit} for the flat.
+deposit|ver|2|I {deposited} the money in my account.
+depressed|adj|3|He felt {depressed} after losing his job.
+depressing|adj||The news is so {depressing}.
+depression|nou||She suffered from {depression} for years.
+depth|nou||The {depth} of the lake is 30 metres.
+derive|ver|2|She {derives} great pleasure from music.
+descend|ver|1|The plane began to {descend}.
+describe|ver||Can you {describe} the man?
+description|nou||The police have a {description} of the thief.
+descriptive|adj|1|
+designer|nou||She is a fashion {designer}.
+desirable|adj|1|A good salary is {desirable}.
+desire|nou||He has a strong {desire} to travel.
+desire|ver|1|
+desolation|nou|2|
+despair|nou|2|She cried in {despair}.
+desperate|adj|1|They were {desperate} for food and water.
+desperately|adv|1|He {desperately} needs money.
+desperation|nou|1|In {desperation}, he called the police.
+destination|nou|1|Antalya is a popular holiday {destination}.
+destiny|nou||She believes it was her {destiny} to be a doctor.
+destroy|ver|2|The fire {destroyed} the house.
+detachment|nou|1|
+determination|nou|2|She showed great {determination}.
+determine|ver|1|Tests will {determine} the cause of the illness.
+determined|adj|1|She is {determined} to win.
+determiner|nou|2|
+devastate|ver||The earthquake {devastated} the town.
+devastating|adj|2|The flood had {devastating} effects.
+develop|ver|1|They {developed} a new vaccine.
+developed|adj|2|Japan is a {developed} country.
+devil|nou|1|
+devote|ver||She {devotes} her weekends to her family.
+devoted|adj|1|He is a {devoted} father.
+devotion|nou|1|Her {devotion} to her children is beautiful.
+dial|ver|1|{Dial} 112 in an emergency.
+diamond|nou||She wore a {diamond} ring.
+diaper|nou|1|
+dictator|nou||The {dictator} ruled for thirty years.
+different|adj|1|We have very {different} tastes.
+differently|adv||Everyone learns {differently}.
+dig|nou||They found old coins at the {dig}.
+dig|ver||The dog {dug} a hole in the garden.
+digest|nou|1|
+diligent|adj|2|She is a {diligent} student.
+dime|nou|1|
+direct|adj||Is there a {direct} flight to London?
+direct|ver||She {directed} three films.
+dirty|adj|1|Your shoes are {dirty}.
+disable|ver|1|{Disable} the alarm before you enter.
+disagree|ver|1|I {disagree} with you.
+disagreement|nou|1|
+disappear|ver||The cat {disappeared} for three days.
+disappearance|nou|1|The {disappearance} of the girl worried everyone.
+disappointed|adj||I was {disappointed} with the result.
+disappointing|adj||The film was {disappointing}.
+disapprove|ver||My parents {disapprove} of my new boyfriend.
+disastrous|adj||The trip was {disastrous}.
+discharge|nou|3|
+discomfort|nou|1|
+disconnect|ver|1|
+discourage|ver||The rain {discouraged} people from coming.
+discover|ver||Scientists {discovered} a new planet.
+discredit|ver|2|The scandal {discredited} the minister.
+discriminate|ver||It is illegal to {discriminate} against women.
+discrimination|nou|1|
+discuss|ver|2|We {discussed} the plan at lunch.
+discussion|nou|2|We had a long {discussion} about politics.
+disguise|nou|2|He wore a {disguise} so nobody would recognize him.
+disguise|ver||She {disguised} herself as a man.
+dish|nou|2|Pilaf is a popular Turkish {dish}.
+dishonest|adj|1|
+dishonesty|nou|1|
+dislike|ver||I {dislike} cold weather.
+dismiss|ver||He was {dismissed} from his job.
+disorderly|adj|2|The room was in a {disorderly} state.
+disorganized|adj||The meeting was completely {disorganized}.
+dispensable|adj||No player is {dispensable} in this team.
+displace|ver|1|The war {displaced} thousands of families.
+display|nou|2|There is a beautiful {display} of flowers in the window.
+disposal|nou||The city is responsible for waste {disposal}.
+dispute|nou|1|There is a {dispute} over the land.
+disregard|nou|2|
+disrupt|ver|2|The strike {disrupted} train services.
+distance|nou||What is the {distance} from Ankara to Istanbul?
+distant|adj|1|We heard a {distant} sound.
+distinction|nou|1|We must make a {distinction} between the two cases.
+distinctly|adv|2|I {distinctly} remember his face.
+distinguish|ver|1|Can you {distinguish} between the twins?
+distinguished|adj|1|
+distortion|nou||The article was a {distortion} of the facts.
+distract|ver|1|Don't {distract} the driver.
+distraction|nou|2|Phones are a big {distraction} in class.
+distressing|adj|1|
+distribute|ver||They {distributed} food to the poor.
+distribution|nou||The {distribution} of wealth is unfair.
+distributor|nou|3|The company is a major {distributor} of films.
+disturb|ver|4|Please don't {disturb} me while I'm working.
+disturbance|nou|3|The police were called to a {disturbance} in the street.
+dive|nou|2|
+dive|ver|2|She {dived} into the pool.
+diverse|adj|1|Istanbul has a very {diverse} population.
+diversion|nou|1|Reading is a pleasant {diversion}.
+divert|ver|2|
+divide|nou|1|
+divided|adj|1|
+diving|nou|2|
+division|nou||The {division} of the money caused arguments.
+dizzy|adj|1|
+dock|nou||The ship is at the {dock}.
+dollar|nou||It costs ten {dollars}.
+domestic|adj||There are many {domestic} flights from Istanbul.
+donate|ver||She {donated} her old clothes to charity.
+donkey|nou|2|
+doom|nou||The film has a feeling of {doom}.
+door|nou||Please close the {door}.
+doorkeeper|nou|3|
+doorway|nou||She stood in the {doorway}.
+dot|nou|1|There is a red {dot} on the map.
+double|ver|1|Prices have {doubled} in a year.
+doubly|adv|1|
+doubtful|adj||It is {doubtful} that he will come.
+dove|nou|5|
+down|adj|6|Sales are {down} this year.
+downsize|ver|3|The company plans to {downsize}.
+downstairs|adj||The {downstairs} rooms are warmer.
+downward|adj|1|There is a {downward} trend in prices.
+draft|nou|5|This is only the first {draft} of my essay.
+drag|ver|1|He {dragged} the heavy box across the floor.
+drain|nou|3|The {drain} in the kitchen is blocked.
+drain|ver|3|{Drain} the pasta and add the sauce.
+dramatic|adj||There was a {dramatic} change in the weather.
+dramatically|adv|1|Prices have increased {dramatically}.
+drapery|nou|1|
+draw|nou|3|The match ended in a {draw}.

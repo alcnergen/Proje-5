@@ -1,0 +1,150 @@
+contaminate|ver|1|Chemicals {contaminated} the river.
+contemporary|adj|2|She likes {contemporary} art.
+continual|adj|1|I'm tired of his {continual} complaints.
+continually|adv||Prices are {continually} rising.
+continuous|adj|1|There was {continuous} rain for three days.
+continuously|adv|1|The machine works {continuously}.
+contrary|adj|1|They hold {contrary} opinions.
+contrast|nou|1|
+contribution|nou||Thank you for your {contribution} to the project.
+control|nou|1|The government lost {control} of the city.
+control|ver||She can't {control} her dog.
+controversial|adj||The new law is very {controversial}.
+convenience|nou|2|I love the {convenience} of online shopping.
+conveniently|adv||The hotel is {conveniently} located near the station.
+convention|nou|1|She spoke at a medical {convention}.
+conventional|adj|1|They had a {conventional} wedding.
+conversely|adv||Some like it hot; {conversely}, others prefer it cold.
+conversion|nou|2|The {conversion} from miles to kilometres is easy.
+convert|ver|2|They {converted} the old school into a hotel.
+convey|ver|1|Words can't {convey} how grateful I am.
+convince|ver||She {convinced} me to stay.
+convinced|adj|1|I'm {convinced} that he is right.
+cook|ver|1|My father {cooks} dinner on Sundays.
+cooking|nou||I love Turkish {cooking}.
+cool|adj||It's {cool} in the evenings.
+cooler|nou|1|
+cooperative|adj|3|
+copy|nou||Can I have a {copy} of the report?
+copy|ver||Don't {copy} your friend's homework.
+core|nou|2|Throw away the apple {core}.
+corn|nou||We had grilled {corn} at the beach.
+cornerstone|nou|1|
+corona|nou|1|
+corporal|adj|1|{Corporal} punishment is banned in schools.
+corporate|adj||She works in {corporate} finance.
+corporation|nou|1|
+correct|ver||The teacher {corrected} my mistakes.
+correction|nou||I made a few {corrections} to the text.
+correctly|adv||Did I pronounce your name {correctly}?
+correspondence|nou||She kept all her {correspondence} with him.
+correspondent|nou|2|
+corresponding|adj|2|Sales rose by 10% compared with the {corresponding} period last year.
+corrupt|adj|1|The police officer was {corrupt}.
+cost|nou||The {cost} of living is rising.
+cost|ver||How much does this jacket {cost}?
+couch|nou|1|
+counter|nou||Pay at the {counter}, please.
+counter|ver|1|"That's not true," she {countered}.
+country|nou||Turkey is a beautiful {country}.
+countryman|nou|1|
+couple|nou|1|They are a lovely {couple}.
+courgette|nou|2|
+court|nou||The case went to {court}.
+courtesy|nou|3|
+cover|nou||Put a {cover} on the pan.
+cover|ver|1|Snow {covered} the mountains.
+cow|nou||The {cow} gives milk every day.
+coward|nou|1|
+cowardly|adj||It was a {cowardly} attack.
+cozy|adj|1|The café is small and {cozy}.
+crab|nou||We ate {crab} at a seafood restaurant.
+crack|ver||The ice {cracked} under his feet.
+craft|nou||Pottery is a traditional {craft}.
+craftsman|nou||The table was made by a skilled {craftsman}.
+crash|nou||Two people were hurt in the car {crash}.
+crash|ver|3|The plane {crashed} into the sea.
+crazy|adj||That's a {crazy} idea!
+cream|nou||Add some {cream} to the soup.
+crease|nou||Iron the {creases} out of your shirt.
+creation|nou||The {creation} of new jobs is important.
+creatively|adv||She solved the problem {creatively}.
+creator|nou|2|
+creature|nou|1|
+credit|nou||I bought the car on {credit}.
+creek|nou|1|The children played in the {creek}.
+creepy|adj|2|The old house was really {creepy}.
+criminal|adj|3|He has a {criminal} record.
+critical|adj||The next few days are {critical}.
+critically|adv||She is {critically} ill.
+crop|nou||This year's wheat {crop} was good.
+cross|nou||Put a {cross} next to the wrong answers.
+cross|ver|1|Look both ways before you {cross} the road.
+crossly|adv||"Go away!" she said {crossly}.
+crossroads|nou|3|My career is at a {crossroads}.
+crow|nou|1|
+crowded|adj||The bus was very {crowded}.
+crown|nou||The queen wore a gold {crown}.
+cruelly|adv|2|The animals were treated {cruelly}.
+cruelty|nou|1|
+cruise|ver|4|They {cruised} around the Greek islands.
+crush|nou|3|
+cry|nou|2|We heard a {cry} for help.
+crystallize|ver||Her ideas {crystallized} after the meeting.
+culmination|nou|1|The trophy was the {culmination} of years of work.
+cultivate|ver|2|
+cultural|adj||Istanbul has a rich {cultural} life.
+culture|nou||I love learning about Japanese {culture}.
+curiously|adv|2|The child looked {curiously} at the box.
+curly|adj||She has long {curly} hair.
+currency|nou||The Turkish {currency} is the lira.
+currently|adv||She is {currently} living in Berlin.
+curse|nou||The witch put a {curse} on the prince.
+custom|nou||It's a Turkish {custom} to take off your shoes at home.
+cute|adj|1|What a {cute} baby!
+cycle|ver|4|I {cycle} to work every day.
+daily|adv|1|
+damage|nou||The storm caused a lot of {damage}.
+damaged|adj|1|The car was badly {damaged}.
+damn|adj|2|Where are my {damn} keys?
+dangerous|adj|1|
+dangerously|adv||He was driving {dangerously} fast.
+darkness|nou||The room was in total {darkness}.
+darling|nou|1|
+dash|nou||He made a {dash} for the door.
+dash|ver|1|She {dashed} out of the house.
+date|ver|2|The letter is {dated} 5 May.
+daughter|nou||Their {daughter} is a doctor.
+daze|nou|2|
+de facto|adj||He is the {de facto} leader of the group.
+deal|nou|2|We made a {deal}.
+dealer|nou|1|He is a car {dealer}.
+dear|adj||She is a {dear} friend of mine.
+dear|nou|1|
+dearly|adv|1|I love my family {dearly}.
+decade|nou|1|
+decay|ver|3|Sugar makes your teeth {decay}.
+deceive|ver||He {deceived} his friends.
+decent|adj|4|He earns a {decent} salary.
+deceptive|adj|1|Appearances can be {deceptive}.
+decisive|adj|1|It was a {decisive} victory.
+declare|ver|2|The government {declared} a national holiday.
+decline|nou|1|
+decline|ver||She {declined} the invitation.
+decoration|nou|1|
+dedicate|ver||She {dedicated} her life to helping children.
+dedication|nou|1|
+deep|adv|1|They dug {deep} into the ground.
+deeply|adv|1|I was {deeply} moved by the film.
+defender|nou|2|
+deficiency|nou||He has a vitamin D {deficiency}.
+define|ver||How do you {define} success?
+definite|adj|1|We need a {definite} answer by Friday.
+definition|nou||Look up the {definition} in a dictionary.
+deforestation|nou|2|
+defy|ver|1|The workers {defied} the ban.
+dehumanize|ver|1|War {dehumanizes} people.
+delay|nou||There was a two-hour {delay}.
+delay|ver|1|The snow {delayed} our flight.
+delete|ver|2|I {deleted} the old photos.
+deliberate|adj|1|

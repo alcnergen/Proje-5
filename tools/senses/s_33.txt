@@ -1,0 +1,150 @@
+reverend|nou|2|
+rust|ver||The old car has {rusted}.
+stud|ver|1|
+thereof|adv|1|The house and the garden {thereof} were sold.
+acceleration|nou||The car has good {acceleration}.
+arcade|nou|1|
+coil|ver||The snake {coiled} around the branch.
+contention|nou|1|It is my {contention} that the plan will fail.
+covenant|nou|1|
+ethnicity|nou||People of every {ethnicity} live here.
+eventual|adj||The {eventual} winner was a young player.
+flex|ver||He {flexed} his muscles.
+genus|nou|2|
+proxy|nou|1|
+quantitative|adj|1|We need {quantitative} data.
+termination|nou|5|The {termination} of the contract was unexpected.
+troll|nou|1|
+unpaid|adj|1|There are some {unpaid} bills.
+vest|ver|1|Power is {vested} in the parliament.
+arbitration|nou||The dispute went to {arbitration}.
+bilateral|adj|2|The two countries signed a {bilateral} agreement.
+brace|ver|1|{Brace} yourself for some bad news.
+confrontation|nou|3|She wanted to avoid a {confrontation} with her boss.
+contributor|nou|1|
+deluxe|adj|1|
+dismissal|nou|4|
+hulk|nou|1|
+incapable|adj|1|He is {incapable} of lying.
+onset|nou|1|
+presently|adv||He is {presently} working in London.
+unfinished|adj|2|The work is still {unfinished}.
+unlawful|adj|5|
+volatile|adj||The situation is very {volatile}.
+apex|nou|1|
+apocalypse|nou|1|
+boulder|nou|1|
+consolidation|nou|2|The {consolidation} of the two companies took a year.
+disruption|nou|1|
+linguistic|adj|1|
+masculine|adj|2|He has a deep {masculine} voice.
+milestone|nou|2|
+penetration|nou|3|The coat prevents the {penetration} of water.
+pod|nou|1|
+predator|nou|2|
+routinely|adv||Passengers are {routinely} checked.
+severity|nou|1|
+shady|adj|1|He was involved in some {shady} deals.
+slick|nou|3|
+tribune|nou|1|
+akin|adj|1|The feeling was {akin} to fear.
+baseline|nou|1|We need a {baseline} for comparison.
+confederate|nou|3|
+counterpart|nou|1|
+creed|nou|1|
+deploy|ver||Troops were {deployed} in the area.
+fracture|ver|5|She {fractured} her arm.
+gamma|nou|1|
+hustle|ver|1|
+indictment|nou||The {indictment} accused him of fraud.
+oracle|nou|1|
+prank|nou|2|
+premature|adj|2|It's {premature} to celebrate.
+quad|nou|4|
+responsive|adj|2|The company is very {responsive} to customers.
+rot|ver|1|
+spear|ver||He {speared} a fish.
+varsity|nou|2|
+verification|nou|1|
+vulnerability|nou|1|
+wrath|nou|1|
+yuan|nou|1|
+aide|nou|2|
+allegiance|nou|2|
+avatar|nou|1|
+contingent|nou|1|A large {contingent} of fans travelled to the match.
+entirety|nou||Read the report in its {entirety}.
+fallout|nou|2|The political {fallout} from the scandal was huge.
+inconvenience|nou|1|
+insured|adj||Is your car {insured}?
+intriguing|adj|2|That's an {intriguing} idea.
+invasive|adj|2|
+monarch|nou|1|
+persona|nou|2|
+poetic|adj||The film has a {poetic} quality.
+scoop|nou|6|She served the ice cream with a {scoop}.
+scotch|nou|2|
+scrub|ver|1|She {scrubbed} the floor.
+solicitor|nou|2|
+squadron|nou|2|
+stigma|nou|2|
+taco|nou|2|
+titan|nou|1|
+communal|adj|1|We share a {communal} kitchen.
+defect|nou|3|The car had a {defect} in its brakes.
+efficacy|nou||The {efficacy} of the drug was tested.
+manifest|ver|1|The disease {manifests} itself in many ways.
+outreach|nou||The church runs an {outreach} programme.
+procurement|nou||She works in {procurement}.
+pulp|nou||Mash the fruit to a {pulp}.
+restart|ver|1|
+rigorous|adj||The tests are very {rigorous}.
+suppression|nou|3|The {suppression} of the protests was brutal.
+theatrical|adj|1|
+turnout|nou|6|The {turnout} for the election was high.
+unanimous|adj|1|
+validation|nou|1|
+vengeance|nou||He swore {vengeance}.
+dent|ver||He {dented} his car.
+enlightenment|nou|1|
+focal|adj|1|
+gladly|adv||I'll {gladly} help you.
+heartbeat|nou|1|The doctor listened to her {heartbeat}.
+inaugural|nou|1|
+insulation|nou||Good {insulation} keeps the house warm.
+lag|ver|1|
+lure|ver||The low prices {lured} customers.
+neutrality|nou|1|
+partition|nou|1|
+rant|nou|1|
+reside|ver|1|He {resides} in Ankara.
+riverside|nou|1|
+sac|nou|4|
+sane|adj|1|No {sane} person would do that.
+susceptible|adj|1|
+vibrant|adj|1|Istanbul is a {vibrant} city.
+absorption|nou|4|The {absorption} of nutrients happens in the gut.
+backlash|nou|2|There was a {backlash} against the new law.
+congestion|nou|2|
+crunch|nou|2|The financial {crunch} hit small businesses.
+dire|adj|1|
+downhill|nou|2|
+drunken|adj||A {drunken} man was shouting in the street.
+herein|adv||The information contained {herein} is confidential.
+manly|adj|1|
+misconduct|nou|2|
+morale|nou|2|
+nerd|nou|2|
+optimization|nou||The software needs some {optimization}.
+peripheral|adj|2|That's a {peripheral} issue.
+prevalence|nou|1|The {prevalence} of obesity is rising.
+shove|ver|2|Stop {shoving} me!
+softball|nou|2|
+southeastern|adj|1|
+tangible|adj|2|We need {tangible} results.
+tilt|ver|1|
+veil|ver||Her face was {veiled}.
+crest|nou|1|
+deception|nou|2|
+derivative|nou|4|"Happiness" is a {derivative} of "happy".
+driveway|nou||He parked in the {driveway}.

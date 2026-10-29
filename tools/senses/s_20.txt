@@ -1,0 +1,150 @@
+suffering|nou|4|
+sufficiently|adv||The room wasn't {sufficiently} warm.
+suggest|ver||I {suggest} we leave early.
+suggestion|nou|1|Do you have any {suggestions}?
+suitable|adj|1|This film is not {suitable} for children.
+sum|nou||They paid a large {sum} of money.
+summarize|ver||Can you {summarize} the article?
+summary|nou||Write a short {summary} of the story.
+sunrise|nou|3|
+sunshine|nou|1|
+superb|adj|1|
+superintendent|nou|1|
+superlative|nou|3|"Best" is the {superlative} of "good".
+supervisor|nou|1|
+supper|nou|1|We had soup for {supper}.
+supply|ver|1|The company {supplies} food to schools.
+supporter|nou|1|He is a Galatasaray {supporter}.
+supportive|adj||My family is very {supportive}.
+suppose|ver||I {suppose} you're right.
+suppress|ver||She tried to {suppress} a smile.
+sure|adv||"Can I borrow your pen?" "{Sure}."
+surely|adv||{Surely} you don't believe him!
+surf|ver||He likes to {surf} the internet.
+surge|nou|2|There was a {surge} in demand.
+surprise|ver|1|The result {surprised} everyone.
+surprised|adj||I was {surprised} to see her.
+surprisingly|adv|1|
+surround|ver||The house is {surrounded} by trees.
+survey|nou|2|A recent {survey} shows that people are happier.
+survival|nou|1|
+survivor|nou|1|There were no {survivors} of the crash.
+suspect|nou|1|
+suspect|ver|2|I {suspect} he's lying.
+suspicion|nou|2|He was arrested on {suspicion} of murder.
+suspicious|adj|1|
+suspiciously|adv||He was acting {suspiciously}.
+sustain|ver|1|It's hard to {sustain} this effort.
+swarm|nou|2|A {swarm} of bees attacked us.
+swear|ver||I {swear} I didn't do it.
+sweet|adj||This cake is too {sweet}.
+swim|nou||Let's go for a {swim}.
+swimming|nou||{Swimming} is good exercise.
+swing|nou||The children played on the {swings}.
+swing|ver||The door {swung} open.
+switch|nou||Where's the light {switch}?
+switch|ver||She {switched} to a different job.
+swollen|adj||Her ankle was {swollen}.
+symbolic|adj||The dove is {symbolic} of peace.
+sympathetic|adj|3|She was very {sympathetic} when I was ill.
+sympathy|nou|2|You have my deepest {sympathy}.
+symphony|nou||The orchestra played Beethoven's ninth {symphony}.
+symptom|nou|1|
+syndrome|nou||Down {syndrome} is a genetic condition.
+tablespoon|nou|2|
+tabloid|nou|2|
+tack|ver|1|She {tacked} the poster to the wall.
+tackle|ver|1|We need to {tackle} this problem.
+tactile|adj|1|
+tag|nou|1|The price {tag} says $20.
+tail|nou||The dog wagged its {tail}.
+take|nou|2|
+takeaway|nou|1|Let's get a {takeaway} tonight.
+takeoff|nou|2|
+talent|nou|1|
+talk|nou|3|He gave a {talk} on climate change.
+tall|adj||She is very {tall}.
+tame|adj|3|The bird was very {tame}.
+tan|nou|1|
+tanned|adj|1|
+tap|nou|3|
+tap|ver|3|Someone {tapped} me on the shoulder.
+tape|ver|2|They {taped} the concert.
+target|nou||We reached our sales {target}.
+task|nou|1|It's a difficult {task}.
+taste|ver|3|{Taste} the soup and see if it needs salt.
+tattoo|nou|2|
+teach|ver|1|
+teacher|nou||My {teacher} is very kind.
+teammate|nou||He passed the ball to his {teammate}.
+teamwork|nou||Good {teamwork} is the key to success.
+tear|ver|1|
+tease|nou|3|
+tease|ver|1|Stop {teasing} your sister.
+technically|adv|3|{Technically}, the shop is closed, but they let us in.
+technology|nou|1|
+television|nou||We watched {television} all evening.
+tell|ver||{Tell} me the truth.
+temper|nou|3|He has a terrible {temper}.
+temperate|adj||Turkey has a {temperate} climate.
+temple|nou||We visited an ancient {temple}.
+temporarily|adv||The road is {temporarily} closed.
+temporary|adj||This is just a {temporary} job.
+tempt|ver||The smell of coffee {tempted} me inside.
+temptation|nou|2|I couldn't resist the {temptation} to eat the cake.
+tend|ver|1|Prices {tend} to rise in summer.
+tendency|nou||He has a {tendency} to exaggerate.
+tender|adj||The meat is very {tender}.
+tenderly|adv||She kissed the baby {tenderly}.
+tenderness|nou|3|He looked at her with great {tenderness}.
+tense|adj|1|
+terminal|nou||The bus leaves from the main {terminal}.
+terribly|adv|1|
+terrific|adj|2|
+territory|nou|3|The army entered enemy {territory}.
+test|ver||The doctor {tested} my eyes.
+testify|ver|1|She {testified} against her boss.
+testimony|nou||His {testimony} helped the police.
+thanks|nou|1|Many {thanks} for your help.
+theater|nou||We went to the {theater} last night.
+then|adv|1|We had lunch and {then} went for a walk.
+thereafter|adv||He left school in 2010 and soon {thereafter} moved to London.
+therefore|adv|1|He was ill and {therefore} couldn't come.
+thickly|adv|4|Spread the butter {thickly}.
+thickness|nou||Measure the {thickness} of the wall.
+thirst|nou|1|
+thirst|ver|2|
+thirsty|adj|2|I'm really {thirsty}.
+thorough|adj|2|
+thoroughly|adv|1|Clean the room {thoroughly}.
+though|adv||It was a hard day. I enjoyed it, {though}.
+thoughtful|adj|5|
+thread|nou||She needs a needle and {thread}.
+threat|nou|1|Pollution is a serious {threat}.
+threaten|ver||He {threatened} to call the police.
+threatening|adj|1|
+thrill|nou|3|Riding a horse for the first time was a real {thrill}.
+thrilling|adj|1|It was a {thrilling} match.
+throat|nou|1|I have a sore {throat}.
+through|adv|1|I read the book {through} in one night.
+throw|nou|1|That was a great {throw}.
+throw|ver||{Throw} the ball to me.
+thump|ver|3|
+thunder|nou|2|
+thunderous|adj|1|The crowd gave {thunderous} applause.
+tick|nou|3|Put a {tick} next to the correct answer.
+ticket|nou||I bought two {tickets} for the concert.
+tickle|ver||Stop {tickling} me!
+tide|nou||The {tide} is coming in.
+tidy|adj|1|Her room is always {tidy}.
+tie|nou|1|He wore a blue {tie}.
+tiger|nou||The {tiger} is a big cat.
+tight|adj||These jeans are too {tight}.
+tight|adv|1|
+tighten|ver|1|
+tightly|adv|1|Hold my hand {tightly}.
+time|nou||What {time} is it?
+time|ver|1|She {timed} the race.
+timeliness|nou|1|
+timely|adj|2|Thank you for your {timely} reply.
+timetable|nou|1|

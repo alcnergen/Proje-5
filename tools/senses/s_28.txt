@@ -1,0 +1,150 @@
+autonomous|adj||The region is {autonomous}.
+notoriously|adv||The roads here are {notoriously} dangerous.
+insular|adj|3|The village is very {insular}.
+revelatory|adj|1|
+prostrate|ver|1|They {prostrated} themselves before the king.
+prostrate|adj|2|
+haphazardly|adv|1|
+deficient|adj|1|
+muscle-bound|adj||He is a {muscle-bound} bodybuilder.
+posit|ver|3|The theory {posits} that the universe is expanding.
+cocoon|ver|2|The baby was {cocooned} in blankets.
+relegate|ver|2|The team was {relegated} to the second division.
+succumb|ver|1|
+palatable|adj||The food was barely {palatable}.
+rift|nou|3|There was a {rift} between the brothers.
+helm|nou|1|The captain took the {helm}.
+autopilot|nou||The plane was flying on {autopilot}.
+eminence|nou|1|She rose to {eminence} as a scientist.
+eminent|adj|1|He is an {eminent} doctor.
+mold|ver|6|Parents help to {mold} their children's character.
+unsuspected|adj||The test revealed an {unsuspected} problem.
+decentralize|ver||The government plans to {decentralize} power.
+preoccupation|nou|1|
+prolong|ver|1|They decided to {prolong} their stay.
+audit|ver|1|The accounts are {audited} every year.
+pressurize|ver|3|They {pressurized} him into signing.
+denote|ver|1|A red flag {denotes} danger.
+denotation|nou|2|
+jargon|nou|3|
+declination|nou|4|
+spatial|adj||He has good {spatial} awareness.
+integration|nou|1|
+extracurricular|adj|1|The school offers many {extracurricular} activities.
+encompass|ver||The course {encompasses} history and art.
+abundantly|adv||She made it {abundantly} clear.
+crystallization|nou|1|
+prescriptive|adj||The rules are too {prescriptive}.
+retrospection|nou|1|In {retrospection}, I made the right choice.
+brevity|nou|2|
+uncanny|adj|2|She has an {uncanny} resemblance to her mother.
+tactically|adv||The team played {tactically} well.
+gambit|nou|2|
+bauble|nou|2|
+correlation|nou||There is a {correlation} between smoking and cancer.
+correlate|ver|1|Income {correlates} with education.
+combustion|nou||The engine works by internal {combustion}.
+painstakingly|adv||The house was {painstakingly} restored.
+mesh|ver|3|
+lyrical|adj|2|
+lyrically|adv||She wrote {lyrically} about the sea.
+bona fide|adj|2|
+moribund|adj|1|
+solicit|ver|1|The charity {solicits} donations.
+philanthropic|adj|1|
+precocious|adj|1|She was a {precocious} child.
+connote|ver|1|
+connotation|nou|2|
+herald|ver|1|
+herald|nou||The first flowers are a {herald} of spring.
+philistine|nou|1|
+induce|ver|1|Some drugs can {induce} sleep.
+lament|ver|2|He {lamented} his lost youth.
+lamentation|nou|1|
+conduit|nou||The pipe is a {conduit} for water.
+rebound|ver|1|
+rebound|nou|3|He caught the {rebound} and scored.
+proposition|nou||That's an attractive {proposition}.
+interlude|nou|1|
+beneficiary|nou|1|
+recuperate|ver|4|She is {recuperating} after surgery.
+irrevocable|adj||The decision is {irrevocable}.
+unnerving|adj||It was an {unnerving} experience.
+protrude|ver|1|
+protrusion|nou|1|
+qualitative|adj|1|There is a {qualitative} difference between them.
+procedural|adj|1|
+demystify|ver||The book {demystifies} science for children.
+floodgates|nou|1|The new law could open the {floodgates} to more claims.
+imperceptible|adj||The change was almost {imperceptible}.
+imperceptibly|adv||The light faded {imperceptibly}.
+blurb|nou||I read the {blurb} on the back of the book.
+provincial|adj|1|He works for the {provincial} government.
+indolent|adj||He was an {indolent} student.
+indolently|adv||He lay {indolently} in the sun.
+engender|ver|1|
+emolument|nou||His {emoluments} include a car and a house.
+posterity|nou|2|The photos were saved for {posterity}.
+venomous|adj|1|
+dissension|nou|1|
+melodious|adj|1|She has a {melodious} voice.
+melancholy|adj|1|The song has a {melancholy} tune.
+brink|nou|3|The company is on the {brink} of collapse.
+loiter|ver||Teenagers {loiter} outside the shop.
+topple|ver|2|
+intrinsic|adj|1|The ring has little {intrinsic} value.
+merit|nou|1|
+clinch|ver|6|The goal {clinched} the victory.
+splinter|ver|1|
+reproach|ver||She {reproached} him for being late.
+dissemination|nou|3|
+dissemble|ver|1|
+mangle|ver|4|
+mutinous|adj|1|The crew became {mutinous}.
+prissy|adj|1|
+homestead|nou|3|
+computerize|ver|2|The library has {computerized} its records.
+incumbent|adj|3|The {incumbent} president won again.
+nonchalant|adj||He tried to look {nonchalant}.
+nonchalantly|adv|1|
+mesmeric|adj||Her voice had a {mesmeric} effect.
+stultify|ver|3|The boring routine {stultified} his mind.
+wallow|ver|1|Stop {wallowing} in self-pity.
+ponderous|adj|3|
+ponderously|adv|2|The elephant moved {ponderously}.
+lassitude|nou|2|
+ebb|ver|3|His strength was slowly {ebbing}.
+wane|ver|1|Her interest in the project {waned}.
+antediluvian|adj|2|
+ostensible|adj|1|The {ostensible} reason for his visit was business.
+menace|nou|1|Drunk drivers are a {menace}.
+menacingly|adv||The dog growled {menacingly}.
+nigh|adv|2|It was well {nigh} impossible.
+austere|adj|1|The room was {austere}.
+austerely|adv||The room was {austerely} furnished.
+idiosyncratic|adj||She has an {idiosyncratic} style.
+kinetic|adj||The ball has {kinetic} energy.
+mediate|ver|1|The UN {mediated} between the two countries.
+mediation|nou|1|
+exorcist|nou|2|
+mundanity|nou|2|
+mediocrity|nou|1|I was disappointed by the {mediocrity} of the food.
+dubiously|adv|2|
+antithesis|nou|1|Love is the {antithesis} of hate.
+antithetical|adj||Violence is {antithetical} to our beliefs.
+parameter|nou|2|
+detract|ver||The noise {detracted} from our enjoyment.
+interrogation|nou||He was taken for {interrogation}.
+interrogative|adj|2|
+interrogatively|adv|1|
+perverse|adj|1|He takes a {perverse} pleasure in arguing.
+perversity|nou|1|
+opaque|adj|1|The glass is {opaque}.
+opacity|nou|2|
+remit|ver|1|Please {remit} payment within 30 days.
+recourse|nou|1|They had no {recourse} to the law.
+pedestal|nou||The statue stands on a {pedestal}.
+lurid|adj|2|The newspaper printed {lurid} details of the crime.
+luridly|adv||The crime was {luridly} described.
+rife|adj|1|
+polysyllabic|adj|2|

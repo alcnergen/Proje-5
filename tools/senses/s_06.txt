@@ -1,0 +1,150 @@
+draw|ver||She likes to {draw} animals.
+dreamy|adj|1|
+dress|ver|1|He {dressed} quickly and left.
+dressed|adj|1|
+drink|nou||Would you like a {drink}?
+drive|nou|5|She has the {drive} to succeed.
+drive|ver|1|Can you {drive}?
+drop|ver||Be careful not to {drop} the plates.
+dropout|nou|1|
+drown|ver|3|He almost {drowned} in the sea.
+drum|nou||He plays the {drum} in a band.
+drunk|adj|1|
+dry|adj|1|Keep the bread in a {dry} place.
+dude|nou|1|
+due|adj|2|The train is {due} at six.
+dull|adj|4|The lesson was really {dull}.
+dumb|adj||That was a {dumb} question.
+dump|ver|1|Don't {dump} rubbish in the river.
+duplicate|nou|2|I made a {duplicate} of the key.
+duplication|nou|2|We want to avoid the {duplication} of work.
+duty|nou|2|It's my {duty} to help my parents.
+dwarf|nou|2|
+eagerly|adv||The children waited {eagerly} for the holiday.
+eagerness|nou|1|His {eagerness} to learn impressed the teacher.
+ear|nou||She whispered in my {ear}.
+early|adj|1|We had an {early} breakfast.
+early|adv||I got up {early} today.
+earnest|adj|1|He is a serious and {earnest} young man.
+earnings|nou|2|Her {earnings} doubled this year.
+earthquake|nou||The {earthquake} damaged many buildings.
+ease|ver|2|This medicine will {ease} the pain.
+easily|adv|1|She passed the exam {easily}.
+eastern|adj|1|Kars is in {eastern} Turkey.
+eastward|adv||The storm is moving {eastward}.
+easygoing|adj|3|My father is very {easygoing}.
+ecological|adj|1|
+ecologically|adv||The project is {ecologically} friendly.
+ecology|nou||She studies the {ecology} of the Black Sea.
+economic|adj||The country has serious {economic} problems.
+ecstasy|nou|2|
+edit|ver|1|She {edits} a fashion magazine.
+edition|nou|1|I bought the new {edition} of the dictionary.
+educate|ver|1|Schools {educate} children.
+effectively|adv|1|The new medicine works {effectively}.
+efficiency|nou|2|The new system improved {efficiency}.
+efficient|adj|1|This is a very {efficient} heater.
+effort|nou|2|It took a lot of {effort} to finish the job.
+either|adv||I don't like it {either}.
+elbow|nou||He hurt his {elbow}.
+elderly|adj||She looks after her {elderly} parents.
+elective|adj|2|Music is an {elective} subject.
+electric|adj||They bought an {electric} car.
+electrical|adj||We need an {electrical} engineer.
+electricity|nou||The village has no {electricity}.
+elegance|nou|1|She dresses with great {elegance}.
+elegant|adj|1|She wore an {elegant} black dress.
+elegantly|adv|1|The room was {elegantly} decorated.
+elemental|adj|3|Fire is an {elemental} force.
+elementary|adj|1|This is an {elementary} mistake.
+eligible|adj||You are {eligible} for a discount.
+eloquence|nou||Everyone admired her {eloquence}.
+elsewhere|adv||Let's look for a hotel {elsewhere}.
+embarrassed|adj|1|I was {embarrassed} when I forgot her name.
+embarrassing|adj|2|It was an {embarrassing} mistake.
+embarrassment|nou|1|His face turned red with {embarrassment}.
+embassy|nou|1|
+embrace|nou|1|She held her son in a warm {embrace}.
+emerge|ver|1|The sun {emerged} from behind the clouds.
+emergence|nou|1|The {emergence} of the internet changed everything.
+emergency|nou|1|Call 112 in an {emergency}.
+emotional|adj||It was an {emotional} goodbye.
+emotionally|adv|1|He spoke {emotionally} about his father.
+emperor|nou|1|
+emphasis|nou||The school puts {emphasis} on languages.
+employ|ver||The factory {employs} 500 people.
+employment|nou||It's hard to find {employment} here.
+empty|adj||The fridge is {empty}.
+enable|ver||The scholarship {enabled} her to study abroad.
+enclose|ver|3|
+encounter|nou|3|I had a strange {encounter} on the bus.
+encouraging|adj|1|The results are very {encouraging}.
+end|ver|1|The film {ends} at ten.
+endanger|ver|1|Smoking {endangers} your health.
+ending|nou|5|I didn't like the {ending} of the book.
+endless|adj|1|
+endlessly|adv|4|He talks {endlessly} about football.
+endorse|ver|2|
+endurance|nou|1|Marathon runners need great {endurance}.
+endure|ver||They {endured} a long, cold winter.
+enduring|adj|1|
+energetic|adj|1|The children are very {energetic}.
+enforce|ver|1|
+engage|ver|1|She {engages} in many sports.
+engaged|adj|1|The children were {engaged} in a game.
+engagement|nou||They announced their {engagement}.
+engine|nou|1|
+engineer|nou|1|
+engulf|ver|2|Flames {engulfed} the building.
+enhance|ver|2|Good lighting can {enhance} a room.
+enjoy|ver||I {enjoy} reading in the evening.
+enterprise|nou|2|She runs a small {enterprise}.
+entertain|ver|1|The clown {entertained} the children.
+enthusiasm|nou||She started her new job with great {enthusiasm}.
+enthusiast|nou|2|
+enthusiastic|adj||The fans were very {enthusiastic}.
+enthusiastically|adv|1|They clapped {enthusiastically}.
+entirely|adv|1|I {entirely} agree with you.
+envelope|nou||Put the letter in an {envelope}.
+environment|nou||We must protect the {environment}.
+environmentally|adv||The building is {environmentally} friendly.
+envy|ver|1|
+episode|nou|3|
+equally|adv|2|Share the cake {equally}.
+equity|nou|2|
+erupt|ver|5|The volcano {erupted} last night.
+escape|ver|1|The prisoners {escaped} at night.
+especially|adv||I love fruit, {especially} cherries.
+essence|nou|3|
+essential|adj|1|Water is {essential} for life.
+essentially|adv||The two plans are {essentially} the same.
+establish|ver||The school was {established} in 1923.
+establishment|nou||This is a family {establishment}.
+estate|nou|2|They live on a large {estate} in the country.
+estimate|nou|1|Can you give me an {estimate} of the cost?
+eternity|nou|1|
+ethic|nou|1|
+evacuate|ver|1|Thousands were {evacuated} before the storm.
+evaluate|ver||Teachers {evaluate} students' progress.
+evenly|adv|1|Divide the money {evenly}.
+event|nou||The concert was the biggest {event} of the year.
+ever|adv|1|Have you {ever} been to Paris?
+everyday|adj|1|
+everywhere|adv||I looked {everywhere} for my keys.
+evident|adj|1|It was {evident} that she was tired.
+evidently|adv||{Evidently}, nobody was at home.
+evil|nou|1|Good always defeats {evil} in fairy tales.
+evolution|nou||Darwin developed the theory of {evolution}.
+exact|adj|1|What is the {exact} time?
+exactly|adv|1|That's {exactly} what I wanted.
+exactness|nou||The job requires {exactness}.
+exaggerate|nou|0|
+exalt|ver||The poem {exalts} the beauty of nature.
+examine|ver|2|The doctor {examined} my throat.
+examiner|nou|1|The {examiner} gave me a good mark.
+excellence|nou|1|The school is known for its {excellence}.
+excellent|adj||She is an {excellent} cook.
+exceptional|adj|2|She is an {exceptional} student.
+excess|nou|1|
+excessive|adj|1|
+exchange|ver|1|They {exchanged} gifts at New Year.

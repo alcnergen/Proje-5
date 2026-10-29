@@ -1,0 +1,150 @@
+chisel|ver|3|He {chiseled} his name into the stone.
+telltale|adj||There were {telltale} signs of a break-in.
+niche|nou||The company found a {niche} in the market.
+exhilarating|adj|2|Skiing is an {exhilarating} sport.
+hack|ver|6|Someone {hacked} into my email account.
+hack|nou|3|
+suburbia|nou|1|
+characterization|nou|2|The novel is famous for its {characterization}.
+sprawl|nou|1|
+sprawl|ver|1|
+ingenuity|nou|2|The puzzle requires great {ingenuity}.
+benign|adj|1|Luckily, the tumour was {benign}.
+benignly|adv||The old man smiled {benignly}.
+explosively|adv|2|The gas burned {explosively}.
+bequeath|ver||She {bequeathed} her house to her niece.
+synthetically|adv||The drug is produced {synthetically}.
+elastic|adj|1|The material is very {elastic}.
+appall|ver|1|
+appallingly|adv||The service was {appallingly} slow.
+abound|ver|1|Rumours {abound} about the singer's private life.
+sap|nou|1|
+monotonously|adv||The rain fell {monotonously}.
+turn to|ver|2|When she was in trouble, she {turned to} her friends.
+ingenious|adj||What an {ingenious} idea!
+plaque|nou|2|
+neutralization|nou|4|
+salivate|ver|1|The smell of food made the dog {salivate}.
+cessation|nou||They called for a {cessation} of hostilities.
+remorseless|adj||He was a {remorseless} killer.
+inexcusable|adj|1|
+inexcusably|adv|2|He was {inexcusably} late.
+unassisted|adj|2|
+heighten|ver|2|The music {heightened} the tension.
+fixture|nou|1|The sinks and other {fixtures} are included in the price.
+bulk|nou|2|The {bulk} of the work is done.
+digitalize|ver|1|
+complementary|adj||The two colours are {complementary}.
+staple|nou|1|Rice is a {staple} food in Asia.
+wares|nou|2|
+testament|nou||The building is a {testament} to his skill.
+succulent|adj||We had a {succulent} steak.
+spartan|adj|4|
+exude|ver|2|She {exudes} confidence.
+timidity|nou|1|
+unravel|ver|2|The detective {unravelled} the mystery.
+concurrence|nou|1|
+unpromising|adj||The weather looked {unpromising}.
+quirk|ver||His lips {quirked} into a smile.
+indignantly|adv||"I'm not lying!" she said {indignantly}.
+eccentricity|nou||His {eccentricity} made him famous.
+locomotion|nou|2|
+enthuse|ver|2|
+belligerent|adj|1|
+stoicism|nou|1|
+deliberate|ver|1|
+reclusive|adj|1|The {reclusive} writer never gave interviews.
+brief|nou|2|
+oblique|adj|2|She made an {oblique} reference to his past.
+blight|nou|2|
+blight|ver||The scandal {blighted} his career.
+puritanical|adj|3|He has a {puritanical} attitude to alcohol.
+brood|ver|1|Stop {brooding} about your problems.
+disdainful|adj|1|She gave him a {disdainful} look.
+zoology|nou||She studied {zoology} at university.
+hypothesis|nou|1|Scientists tested the {hypothesis}.
+parasitic|adj|1|Malaria is a {parasitic} disease.
+utilitarian|adj|1|
+predilection|nou|2|She has a {predilection} for sweet food.
+commensurate|adj||The salary is {commensurate} with experience.
+vindicate|ver|1|The results {vindicated} her decision.
+vindication|nou|2|The verdict was a {vindication} of his innocence.
+parable|nou|1|The book is a {parable} about greed.
+poise|ver|2|The company is {poised} for success.
+ally|ver||The two countries {allied} against their enemy.
+callous|adj|1|It was a {callous} remark.
+callously|adv||He {callously} ignored her tears.
+derelict|adj||The building has been {derelict} for years.
+derelict|nou|1|
+materialistic|adj|1|
+utter|adj|1|
+recitation|nou|2|The evening ended with a poetry {recitation}.
+extant|adj||It is the oldest {extant} copy of the book.
+denounce|ver||The minister {denounced} the attack.
+echo|ver||His voice {echoed} through the cave.
+requisition|nou|1|The army made a {requisition} for more supplies.
+substantiate|ver|1|There is no evidence to {substantiate} the claim.
+inscrutable|adj||He gave her an {inscrutable} smile.
+indulgence|nou|3|Chocolate is my only {indulgence}.
+indulgently|adv||She smiled {indulgently} at the children.
+automate|ver||The factory has been fully {automated}.
+athleticism|nou||The player is known for his {athleticism}.
+acreage|nou||The farm has a large {acreage}.
+imposition|nou|2|I hope my visit isn't an {imposition}.
+stipulation|nou|3|The only {stipulation} is that you return it by Friday.
+allot|ver|1|
+allotment|nou|1|
+forfeiture|nou|1|
+blitz|nou|2|
+tenacious|adj|2|She is a {tenacious} player.
+exact|ver|1|
+capacious|adj||She carried a {capacious} handbag.
+unequivocal|adj|1|The answer was an {unequivocal} no.
+unequivocally|adv||He {unequivocally} denied the claims.
+provocation|nou||He gets angry at the slightest {provocation}.
+portraiture|nou|2|
+circumnavigation|nou||Magellan's {circumnavigation} of the globe took three years.
+abject|adj|2|They live in {abject} poverty.
+articulation|nou|3|
+articulate|adj|1|
+spurious|adj|1|The claim is completely {spurious}.
+spuriously|adv||He was {spuriously} accused.
+posture|ver|1|Politicians {posture} for the cameras.
+calorific|adj||Chocolate is very {calorific}.
+voracity|nou|1|
+brandish|ver|2|
+repose|ver|4|She {reposed} on the sofa.
+repose|nou|1|Her face was calm in {repose}.
+unencumbered|adj|2|
+gauche|adj||He felt {gauche} at the party.
+domesticity|nou|2|She was tired of {domesticity}.
+accrue|ver|1|Interest {accrues} on the account.
+proliferation|nou|2|The {proliferation} of mobile phones changed our lives.
+blandishment|nou|1|
+pluck|nou|1|
+carbonize|ver|2|
+graft|nou|1|
+adornment|nou|1|
+idle|ver|1|
+conjecture|nou|2|His theory is pure {conjecture}.
+malleable|adj|2|Gold is a {malleable} metal.
+ore|nou|1|
+promenade|nou|2|
+informant|nou|1|
+overlay|ver|1|The wood was {overlaid} with gold.
+nostalgically|adv||She spoke {nostalgically} about her childhood.
+grievance|nou|3|
+proportional|adj||The punishment should be {proportional} to the crime.
+habitation|nou|2|
+ornate|adj||The church has an {ornate} ceiling.
+presuppose|ver|1|Your argument {presupposes} that he is guilty.
+centralized|adj||France has a {centralized} government.
+transmitter|nou||The radio {transmitter} was damaged.
+diffuse|adj|1|
+diffuse|ver|1|
+hindsight|nou||With {hindsight}, it was a mistake.
+materialization|nou|1|The {materialization} of their dream took years.
+stabilize|ver|1|Prices have {stabilized}.
+pervasive|adj||Corruption is {pervasive} in the system.
+pervasiveness|nou||The {pervasiveness} of social media worries parents.
+secure|ver|1|

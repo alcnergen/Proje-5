@@ -1,0 +1,139 @@
+elf|nou|1|
+exemption|nou||He got an {exemption} from military service.
+fuzzy|adj||The photo is a bit {fuzzy}.
+graffiti|nou|1|
+intervene|ver|1|The police had to {intervene}.
+nexus|nou|1|
+samurai|nou|1|
+satire|nou||The film is a {satire} on politics.
+speedy|adj|2|We wish you a {speedy} recovery.
+sway|ver||The trees {swayed} in the wind.
+terminate|ver|1|The contract was {terminated}.
+withstand|ver||The building can {withstand} earthquakes.
+compartment|nou|2|
+cove|nou|1|
+disrespectful|adj|1|Don't be {disrespectful} to your teacher.
+erosion|nou||Trees help prevent soil {erosion}.
+flare|nou||The ship fired a {flare}.
+incidence|nou|1|There is a high {incidence} of heart disease here.
+intimacy|nou||There was a real {intimacy} between them.
+mileage|nou|1|
+mutant|nou|2|
+pup|nou|1|
+restraint|nou|2|She showed great {restraint}.
+smack|ver|1|She {smacked} him across the face.
+southwestern|adj|1|
+stalking|nou|2|
+substrate|nou|3|The plants grow on a rocky {substrate}.
+theoretically|adv|1|{Theoretically}, it should work.
+unused|adj|1|She returned the {unused} tickets.
+affiliation|nou|1|He has no political {affiliation}.
+amnesty|nou|2|
+cache|nou|3|
+crooked|adj|1|The picture is {crooked}.
+cultivation|nou|5|The {cultivation} of rice needs a lot of water.
+displacement|nou|6|
+disrespect|nou|1|
+distorted|adj|2|
+hash|nou|1|
+inactive|adj|6|He has been {inactive} since his injury.
+puck|nou|2|
+stationary|adj|1|The car was {stationary} at the lights.
+tar|nou|1|
+temporal|adj|2|The study looks at {temporal} changes.
+universally|adv||She is {universally} admired.
+warp|ver|2|
+alpine|adj|1|
+bipolar|adj|1|He was diagnosed with {bipolar} disorder.
+conceptual|adj||We need a {conceptual} framework.
+differentiate|ver|1|
+empirical|adj|1|There is no {empirical} evidence.
+enlarged|adj|1|The X-ray showed an {enlarged} heart.
+heavyweight|nou|3|
+mantle|nou|3|The Earth's {mantle} lies below the crust.
+metabolic|adj|1|
+militant|adj|2|They are a {militant} group.
+ottoman|nou|3|
+presume|ver||I {presume} you're tired.
+regulator|nou|2|
+sanctioned|adj|2|
+savannah|nou|3|
+vastly|adv||The two systems are {vastly} different.
+wisely|adv||She spent her money {wisely}.
+adaptive|adj||Animals have {adaptive} behaviours.
+affinity|nou|4|She has an {affinity} for music.
+bale|nou|1|
+casualty|nou|1|
+chap|nou|1|He's a nice {chap}.
+courthouse|nou|2|
+crank|nou|4|
+dissolution|nou|5|
+enclosure|nou|1|
+evangelical|adj|1|
+factual|adj|2|
+falsely|adv|2|He was {falsely} accused.
+fraudulent|adj||He was arrested for {fraudulent} activity.
+geek|nou|2|
+knockout|nou|2|
+paradigm|nou||This is a new {paradigm} in medicine.
+perpetual|adj|1|They live in {perpetual} fear.
+regeneration|nou|4|
+scarce|adv||I could {scarce} believe it.
+stint|nou|1|He did a two-year {stint} in the army.
+suicidal|adj||He was feeling {suicidal}.
+unidentified|adj|1|
+utmost|adj|1|It is of the {utmost} importance.
+adulthood|nou|1|
+attendant|nou|1|
+binge|nou|2|
+brutality|nou|2|
+calculus|nou|3|
+cerebral|adj|2|He suffered a {cerebral} haemorrhage.
+chant|ver|2|The crowd {chanted} his name.
+communion|nou|2|
+crimson|adj|1|She wore a {crimson} dress.
+grad|nou|2|
+hereby|adv||I {hereby} declare the meeting open.
+interestingly|adv||{Interestingly}, the results were the same.
+mound|nou||There was a {mound} of earth in the garden.
+nominal|adj|2|They paid a {nominal} fee.
+poke|ver|1|She {poked} him in the ribs.
+referral|nou|2|The doctor gave me a {referral} to a specialist.
+segregation|nou|2|
+sinister|adj|1|There was something {sinister} about him.
+abide|ver|2|
+accumulation|nou|1|
+authoritarian|adj|1|The country has an {authoritarian} government.
+avail|ver|3|Please {avail} yourself of our services.
+banquet|nou||A {banquet} was held in her honour.
+buff|nou|1|
+claw|nou|1|
+compatibility|nou|2|
+exposition|nou||The book gives a clear {exposition} of the theory.
+fundraiser|nou|2|
+geometric|adj||The rug has a {geometric} pattern.
+gracious|adj|3|She was {gracious} to everyone.
+hum|ver|1|
+lumber|nou|1|
+multitude|nou|1|There are a {multitude} of reasons.
+orbital|adj|1|
+outgoing|adj|3|
+overhaul|ver|2|The system needs to be {overhauled}.
+readiness|nou|1|The troops are in a state of {readiness}.
+slender|adj|1|She has {slender} fingers.
+superiority|nou|1|They had the {superiority} in numbers.
+surreal|adj|2|The whole experience was {surreal}.
+unreal|adj|1|The situation felt {unreal}.
+wicket|nou|1|
+blackout|nou|3|There was a {blackout} during the storm.
+clad|adj|1|
+drip|ver|1|
+fearful|adj|1|She was {fearful} of the dark.
+kernel|nou|2|
+swipe|ver|1|
+tang|nou|1|
+toxicity|nou|1|
+blockade|nou|1|
+cartridge|nou|3|The printer needs a new ink {cartridge}.
+defective|adj|3|The machine was {defective}.
+deportation|nou|1|He faces {deportation}.

@@ -1,0 +1,150 @@
+loan|nou|1|
+locate|ver|1|I couldn't {locate} the hotel on the map.
+location|nou||The hotel is in a great {location}.
+lodge|nou|4|
+log|nou||He put another {log} on the fire.
+logical|adj|1|That is a {logical} explanation.
+loneliness|nou|2|
+long|adj||She has {long} black hair.
+long|adv|1|Have you been waiting {long}?
+long-distance|adj|1|I made a {long-distance} call to my sister.
+loose|adj|3|These trousers are too {loose}.
+loosely|adv|2|Tie the rope {loosely}.
+lorry|nou|2|
+lost|adj|2|We got {lost} in the old town.
+lot|nou|1|A {lot} of people came to the party.
+lottery|nou||He won the {lottery}.
+loud|adj|1|The music is too {loud}.
+loud|adv||Can you speak a bit {louder}?
+loudly|adv|1|He laughed {loudly}.
+lousy|adj|1|The weather was {lousy}.
+lovely|adj|1|
+lover|nou|2|
+low|adj||The prices are very {low}.
+lower|ver|1|
+loyalty|nou|1|Dogs are known for their {loyalty}.
+lush|adj|1|
+luxurious|adj|2|They stayed in a {luxurious} hotel.
+lyric|adj|4|
+lyrics|nou|1|I don't understand the {lyrics} of this song.
+machine|nou||The {machine} is broken.
+madam|nou|1|
+madness|nou|4|It would be {madness} to go out in this storm.
+magazine|nou|1|She reads a fashion {magazine}.
+magnify|ver||A microscope {magnifies} small objects.
+mail|nou||Has the {mail} arrived?
+main|adj|1|This is the {main} entrance.
+main course|nou|1|
+mainly|adv||The students are {mainly} from Turkey.
+maintenance|nou||The building needs regular {maintenance}.
+major|nou||My {major} is economics.
+majority|nou|2|The party won a {majority} in the election.
+make|nou|1|What {make} is your car?
+maker|nou|3|
+malady|nou|2|
+mama|nou|1|
+man|nou||A tall {man} opened the door.
+manage|ver|2|She {manages} a small hotel.
+manipulate|ver||He tried to {manipulate} his friends.
+manual|nou|1|
+manufacture|nou||The {manufacture} of cars is a big industry.
+manufacture|ver||The factory {manufactures} shoes.
+March|nou||Spring starts in {March}.
+march|ver|3|The soldiers {marched} through the town.
+margin|nou||Write your notes in the {margin}.
+marine|adj|5|The aquarium has many {marine} animals.
+mark|nou||There's a dirty {mark} on your shirt.
+mark|ver||The teacher {marked} our tests.
+marked|adj|1|There was a {marked} improvement in her work.
+marry|ver||He wants to {marry} her.
+marvelous|adj|1|We had a {marvelous} time.
+mash|ver|3|
+mask|nou||Wear a {mask} in the hospital.
+mass|nou||A {mass} of people gathered in the square.
+massive|adj|1|They live in a {massive} house.
+master|nou||The dog followed its {master}.
+mastery|nou|1|
+mate|nou||He went out with his {mates}.
+material|nou||This {material} is very soft.
+maximum|nou|1|
+mean|adj|2|Don't be so {mean} to your sister.
+means|nou|1|The internet is a {means} of communication.
+measure|nou||The government took {measures} to reduce crime.
+mechanic|nou|2|
+mechanize|ver|3|Farming was {mechanized} in the 1950s.
+medical|adj||She needs {medical} help.
+medication|nou|1|
+medicine|nou|2|Take this {medicine} three times a day.
+medieval|adj|1|We visited a {medieval} castle.
+mediocre|adj|1|The food was {mediocre}.
+meditate|ver|2|She {meditates} every morning.
+meditation|nou|2|{Meditation} helps me relax.
+medium|adj|1|
+medium|nou|1|Television is a powerful {medium}.
+meet|ver||Let's {meet} at six.
+mend|ver||Can you {mend} my jacket?
+mental|adj||Exercise is good for your {mental} health.
+mention|nou|1|There was no {mention} of the accident in the news.
+mention|ver||Did she {mention} her new job?
+merchandise|nou||The shop sells football {merchandise}.
+mercy|nou|1|The prisoners asked for {mercy}.
+mere|adj|1|She was a {mere} child when it happened.
+merger|nou|1|
+merry|adj|1|
+mess|nou|1|Your room is a {mess}!
+mess|ver|2|Don't {mess} up my desk.
+messy|adj||My brother's room is always {messy}.
+microscopic|adj||Bacteria are {microscopic}.
+middle|adj|1|She is the {middle} child.
+middle|nou||Stand in the {middle} of the room.
+migration|nou|4|
+mile|nou||The beach is a {mile} from here.
+mind|nou||Music calms my {mind}.
+minimize|ver|1|
+minimum|nou|1|
+minister|nou||The {minister} visited the school.
+minor|adj|1|It's only a {minor} problem.
+minority|nou||Only a {minority} of people voted no.
+mint|nou||Add fresh {mint} to the salad.
+mirror|nou||She looked in the {mirror}.
+mischief|nou|1|
+miserable|adj|1|She felt {miserable} all day.
+misery|nou|2|The war brought {misery} to millions.
+mislead|ver|2|
+misleading|adj||The advertisement is {misleading}.
+miss|ver|2|I {miss} my family.
+misunderstanding|nou|1|There was a {misunderstanding} about the date.
+mix|nou|2|The city has an interesting {mix} of old and new.
+mix|ver|1|{Mix} the flour and the eggs.
+mixture|nou||Pour the {mixture} into a bowl.
+mobile|adj|2|We need a {mobile} medical team.
+mobile|nou|3|
+model|ver|4|She {models} clothes for a famous brand.
+moderate|adj||The car was going at a {moderate} speed.
+modernization|nou|1|The {modernization} of the railway cost millions.
+modernize|ver|1|They {modernized} the old kitchen.
+modest|adj|1|He is very {modest} about his success.
+modification|nou||We made a few {modifications} to the plan.
+modify|ver||You can {modify} the settings.
+mold|nou||There is {mold} on the bread.
+momentarily|adv|1|She paused {momentarily}.
+monitor|ver|1|Doctors {monitor} his heart rate.
+mood|nou||She is in a good {mood} today.
+moody|adj|2|Teenagers can be very {moody}.
+moral|nou||The {moral} of the story is: never give up.
+morally|adv|1|It is {morally} wrong to lie.
+more|adv||Please speak {more} slowly.
+mortal|adj|1|
+mortify|ver|3|
+motivated|adj||She is a highly {motivated} student.
+motor|nou||The boat has a small {motor}.
+mount|nou||{Mount} Ararat is the highest mountain in Turkey.
+mount|ver||They {mounted} the TV on the wall.
+mouse|nou||A {mouse} ran across the kitchen.
+mover|nou|4|The {movers} carried our sofa upstairs.
+muddy|adj||Take off your {muddy} boots.
+mule|nou|1|
+multiple|adj||He suffered {multiple} injuries.
+multiply|ver|1|{Multiply} five by three.
+mum|nou|2|
+mumble|ver||He {mumbled} something I couldn't hear.

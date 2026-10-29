@@ -1,0 +1,150 @@
+domestically|adv|1|The cars are made {domestically}.
+domesticate|ver|2|Humans {domesticated} dogs thousands of years ago.
+domestication|nou|1|The {domestication} of horses changed history.
+eccentric|nou|1|
+eccentrically|adv|1|
+render|ver|1|The news {rendered} him speechless.
+rendering|nou|1|
+pathos|nou|1|The film is full of {pathos}.
+tailor|ver|1|We {tailor} our courses to your needs.
+apprentice|ver||He was {apprenticed} to a carpenter.
+precision|nou||The work requires great {precision}.
+perfect|ver||She spent years {perfecting} her English.
+nondescript|adj||He lives in a {nondescript} building.
+negligible|adj|1|
+negligently|adv||The driver acted {negligently}.
+voluntarily|adv||He left the job {voluntarily}.
+paternal|adj|4|My {paternal} grandmother lives in Bursa.
+maternal|adj|4|My {maternal} grandfather was a doctor.
+impoverished|adj|1|
+bypass|ver||The new road {bypasses} the town.
+cynic|nou|1|
+cynically|adv||He smiled {cynically}.
+sarcasm|nou||"Great job," she said with {sarcasm}.
+sarcastically|adv||"Oh, wonderful," he said {sarcastically}.
+misplace|ver|1|
+symptomatic|adj|1|Fever is {symptomatic} of infection.
+degrade|ver|2|
+degrading|adj|2|It was a {degrading} experience.
+degradation|nou|1|
+discourse|nou|1|
+nocturnal|adj|1|Owls are {nocturnal} birds.
+hibernate|ver|1|Bears {hibernate} in winter.
+hibernation|nou|1|The bear came out of {hibernation}.
+convict|ver||He was {convicted} of theft.
+convict|nou|2|
+latent|adj|1|
+wrench|ver||He {wrenched} the door open.
+reminisce|ver||We {reminisced} about our school days.
+intuition|nou|1|My {intuition} told me not to trust him.
+intuitively|adv||She knew {intuitively} that something was wrong.
+marginal|adj||There was only a {marginal} improvement.
+crudely|adv|1|
+strap|ver|1|
+strapping|adj||He is a {strapping} young man.
+scoff|ver|1|
+fiddle|ver|5|Stop {fiddling} with your phone.
+unmusical|adj|1|I'm completely {unmusical}.
+repertory|nou|2|
+premier|adj|1|It's the country's {premier} university.
+fanatic|nou||He's a football {fanatic}.
+fanatically|adv||They support their team {fanatically}.
+acoustic|adj||He plays the {acoustic} guitar.
+realist|nou|2|
+recessive|adj|2|
+prolific|adj|1|He was a {prolific} writer.
+fragmentation|nou|1|
+campaign|ver|2|
+astray|adv|1|The letter went {astray}.
+duration|nou|1|Please stay seated for the {duration} of the flight.
+durable|adj|2|These boots are very {durable}.
+naive|adj|3|It was {naive} of me to trust him.
+naively|adv||I {naively} believed every word.
+impervious|adj||He seemed {impervious} to criticism.
+ludicrous|adj|2|That's a {ludicrous} idea.
+gruesome|adj||It was a {gruesome} murder.
+mingle|ver|2|Guests {mingled} at the party.
+churn|ver|1|They {churn} the cream to make butter.
+buffer|ver|2|The trees {buffer} the house from the wind.
+irately|adv||He complained {irately}.
+docile|adj|3|The horse is very {docile}.
+fiend|nou|1|
+transfix|ver|1|
+temperamental|adj|2|She is a {temperamental} artist.
+temperamentally|adv||He is {temperamentally} unsuited to the job.
+contest|ver||He {contested} the decision in court.
+ventilate|ver|2|Open the windows to {ventilate} the room.
+homely|adj|2|The hotel has a {homely} atmosphere.
+bureaucratically|adv|1|The office is run {bureaucratically}.
+adjustable|adj|1|
+muscular|adj||He has {muscular} arms.
+versatile|adj|3|She is a {versatile} actress.
+uninspiring|adj||It was an {uninspiring} speech.
+mutually|adv||The deal is {mutually} beneficial.
+somber|adj|2|The mood was {somber}.
+somberly|adv||He spoke {somberly} about the war.
+clutter|nou|1|
+dislodge|ver|1|The wind {dislodged} some roof tiles.
+transit|nou|2|
+circulate|ver|1|Rumours {circulated} quickly.
+phenomenally|adv||The book was {phenomenally} successful.
+firewall|nou|2|The {firewall} protects our network.
+gig|nou|6|The band has a {gig} on Friday.
+antiquity|nou|1|
+restoration|nou||The church is under {restoration}.
+restorative|adj|1|
+rotate|ver|1|The Earth {rotates} once a day.
+till|nou|3|
+coupled|adj|1|
+itinerary|nou|3|
+charter|ver|1|
+charter|nou|1|
+terrain|nou||The {terrain} is rocky.
+resilient|adj|1|Children are very {resilient}.
+resilience|nou|1|
+enterprising|adj||An {enterprising} student started her own business.
+integral|adj|1|Music is an {integral} part of our culture.
+magnetic|adj||The compass needle is {magnetic}.
+magnetically|adv|1|The door is held shut {magnetically}.
+credible|adj|1|His story is not {credible}.
+acutely|adv|1|She was {acutely} aware of the danger.
+fissure|nou|2|
+pendulous|adj||The tree has {pendulous} branches.
+drill|ver|1|{Drill} a hole in the wall.
+squander|ver|1|He {squandered} all his money.
+adjoin|ver|1|The kitchen {adjoins} the dining room.
+wizened|adj||She had a {wizened} face.
+tract|nou|1|
+sprout|ver||The seeds began to {sprout}.
+sprout|nou|1|
+hypocritically|adv||He {hypocritically} told us not to smoke.
+harvest|ver||Farmers {harvest} wheat in summer.
+commercially|adv||The film was {commercially} successful.
+uniformity|nou|2|
+numb|adj|1|My fingers were {numb} with cold.
+numb|ver||The cold {numbed} my toes.
+amateur|nou|1|
+amateur|adj|1|He is an {amateur} photographer.
+retrace|ver|1|We {retraced} our steps to find the keys.
+chart|ver|2|They {charted} a new course.
+insubordinate|adj|1|The soldier was {insubordinate}.
+insubordination|nou|1|
+subordinate|nou|1|
+primitively|adv|2|
+embark|ver|2|She {embarked} on a new career.
+expedite|ver|1|We'll {expedite} your order.
+maneuver|ver|1|She {maneuvered} the car into the space.
+maneuver|nou||It was a clever {maneuver}.
+plunge|ver|3|He {plunged} into the pool.
+plunge|nou|2|
+debut|nou|1|She made her {debut} at the age of ten.
+debut|ver|3|The band {debuted} in 2010.
+turmoil|nou|2|
+scathing|adj||The critic wrote a {scathing} review.
+convoluted|adj|2|
+undaunted|adj|1|She was {undaunted} by the difficulties.
+gutsy|adj||That was a {gutsy} decision.
+deprivation|nou||Sleep {deprivation} is dangerous.
+elusive|adj|3|Success remained {elusive}.
+elude|ver|1|The thief {eluded} the police.
+incision|nou|2|

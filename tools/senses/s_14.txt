@@ -1,0 +1,150 @@
+outside|nou|2|
+outsider|nou|1|
+outskirts|nou||They live on the {outskirts} of the city.
+outward|adj|1|She showed no {outward} signs of fear.
+outwardly|adv|2|{Outwardly} she was calm, but inside she was afraid.
+over|adv|1|Come {over} here.
+overall|adj|2|The {overall} cost was 5,000 lira.
+overboard|adv|2|He fell {overboard} during the storm.
+overcome|ver|2|She {overcame} her fear of flying.
+overemphasize|ver||Don't {overemphasize} small mistakes.
+overestimate|ver|1|I {overestimated} how much time we had.
+overlap|nou|2|There is some {overlap} between the two courses.
+overlook|ver|1|I {overlooked} a small mistake.
+overnight|adv|1|We stayed {overnight} in a small hotel.
+overseas|adv|1|She works {overseas}.
+overstep|ver|1|
+overthrow|ver|1|
+overtime|adv||I worked {overtime} last week.
+overtime|nou|1|
+overturn|ver|2|
+overwhelm|ver|1|
+overwhelming|adj|1|The response was {overwhelming}.
+overwork|nou||He fell ill from {overwork}.
+own|adj||I have my {own} room.
+pa|nou|1|
+pace|nou||He walked at a slow {pace}.
+pack|nou|3|
+packet|nou|3|
+paddle|nou|4|
+paid|adj|1|
+painful|adj|1|The injury was very {painful}.
+paint|ver|2|We {painted} the kitchen blue.
+pale|adj||You look {pale}; are you ill?
+pandemic|adj|1|The flu became {pandemic}.
+panel|nou||A {panel} of experts discussed the problem.
+panic|nou||People ran in {panic}.
+papaya|nou|2|
+paper|nou||Write your name on the {paper}.
+parade|nou||We watched the Republic Day {parade}.
+pardon|nou|1|
+pardon|ver|2|The president {pardoned} the prisoner.
+parental|adj|2|
+parking|nou|2|{Parking} is difficult in the city centre.
+part|ver|1|They {parted} at the station.
+partial|adj|1|The plan was only a {partial} success.
+participate|ver|2|
+particularly|adv|1|I {particularly} liked the music.
+partisan|nou|1|
+partnership|nou|2|The two companies formed a {partnership}.
+pass|ver||She {passed} her driving test.
+passage|nou||Read the {passage} and answer the questions.
+passion|nou||She has a {passion} for music.
+passionately|adv|1|
+passport|nou||Don't forget your {passport}.
+past|adj|1|
+past|adv||A bus went {past}.
+pastor|nou|1|
+pastoral|adj|3|The painting shows a {pastoral} scene.
+patch|nou||There is a {patch} on his jeans.
+patient|nou|1|The doctor saw ten {patients} today.
+patriotism|nou||The song is full of {patriotism}.
+patron|nou|3|
+pattern|nou||I like the {pattern} on your dress.
+pause|ver||She {paused} before answering.
+pave|ver||They {paved} the road last summer.
+paw|nou|1|
+pay|ver||I'll {pay} for dinner.
+peace|nou||The two countries signed a {peace} agreement.
+peacefully|adv||The protest ended {peacefully}.
+peculiar|adj|1|There's a {peculiar} smell in here.
+peel|nou|2|
+peel|ver||{Peel} the potatoes.
+peep|nou|2|
+peg|nou|1|
+pen|nou|1|
+pencil|nou||Write with a {pencil}.
+people|nou|1|Many {people} came to the concert.
+percentage|nou|1|
+perception|nou||Our {perception} of time changes with age.
+perfectly|adv|2|She speaks English {perfectly}.
+perform|ver||The band {performed} in Istanbul.
+persist|ver|2|If the pain {persists}, see a doctor.
+persistence|nou|2|
+persistent|adj|1|She has a {persistent} cough.
+person|nou|1|She is a very kind {person}.
+personal|adj||This is my {personal} opinion.
+personification|nou|1|She is the {personification} of kindness.
+personify|ver|3|
+personnel|nou|1|
+perspective|nou|1|
+perspiration|nou||{Perspiration} ran down his face.
+persuasion|nou||After some {persuasion}, he agreed.
+petty|adj|2|
+phantom|adj||She felt {phantom} pain in her lost leg.
+phase|nou|1|The project is in its final {phase}.
+philosophy|nou||She studied {philosophy} at university.
+phoenix|nou|3|
+phrasal verb|nou||"Give up" is a {phrasal verb}.
+phrase|nou|1|
+physical|adj||He does a lot of {physical} exercise.
+pi|nou|1|
+pick|ver||{Pick} a card.
+picnic|nou|1|We had a {picnic} in the park.
+picture|ver|1|
+picturesque|adj||We visited a {picturesque} village.
+piece|nou||Would you like a {piece} of cake?
+pile|nou|1|There is a {pile} of books on the desk.
+pilgrim|nou|3|
+pill|nou||Take one {pill} a day.
+pin|nou|4|
+pin|ver|2|She {pinned} the photo to the wall.
+pint|nou|1|
+piracy|nou|1|
+pitch|nou||The players ran onto the {pitch}.
+pitch|ver|1|He {pitched} the ball to me.
+place|nou||This is a nice {place} to live.
+plague|nou||The {plague} killed millions in the Middle Ages.
+plain|adj|6|She wore a {plain} white shirt.
+plan|ver|2|We are {planning} a trip to Spain.
+plane|nou||The {plane} landed safely.
+plant|nou||Water the {plants} every day.
+plant|ver|1|We {planted} tomatoes in the garden.
+platform|nou|1|The train leaves from {platform} 3.
+player|nou|1|He is a famous football {player}.
+playful|adj||The kitten is very {playful}.
+playground|nou|2|
+plead|ver||She {pleaded} with him to stay.
+pleasantly|adv|2|I was {pleasantly} surprised.
+pleasing|adj||The design is very {pleasing}.
+plenty|nou|1|There is {plenty} of food for everyone.
+plot|nou|3|The film has a very simple {plot}.
+pluck|ver||She {plucked} a flower from the garden.
+plug|ver|5|{Plug} the TV in.
+plum|nou|2|
+pocket|nou||He put his hands in his {pockets}.
+poetry|nou|1|
+point|ver|1|She {pointed} at the map.
+point of view|nou|1|Try to see it from my {point of view}.
+pointless|adj|2|It's {pointless} to argue with him.
+poison|ver||Someone tried to {poison} the king.
+pole|nou||The flag hangs from a tall {pole}.
+polish|nou||He cleaned his shoes with {polish}.
+polite|adj|1|
+politely|adv||She {politely} refused the offer.
+politeness|nou|1|
+politically|adv|2|
+politics|nou||He is interested in {politics}.
+polity|nou|2|
+pollute|ver||Factories {pollute} the air.
+pond|nou||There are ducks on the {pond}.

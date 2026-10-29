@@ -1,0 +1,150 @@
+derision|nou|1|
+agile|adj|1|Cats are very {agile}.
+dwarf|ver|1|The new tower {dwarfs} the old buildings.
+etch|ver|4|The date was {etched} into the glass.
+etching|nou|1|
+rapture|nou|2|She listened to the music in {rapture}.
+arduous|adj|1|It was an {arduous} climb.
+ardor|nou|1|He spoke with great {ardor}.
+proverbial|adj|2|He was like the {proverbial} kid in a candy shop.
+rumination|nou|1|After much {rumination}, he decided to leave.
+armory|nou||The soldiers took guns from the {armory}.
+apostle|nou|1|
+blubber|nou|1|
+trifle|nou|3|
+trifle|ver|3|He is not a man to be {trifled} with.
+eke out|ver|2|
+embody|ver|3|She {embodies} the spirit of the team.
+embodiment|nou|1|He is the {embodiment} of kindness.
+wistful|adj||She gave a {wistful} smile.
+wistfully|adv||He looked {wistfully} at the old photos.
+mercantile|adj|3|Venice was a great {mercantile} power.
+skew|ver||The results were {skewed} by a few extreme cases.
+subsist|ver||They {subsist} on rice and beans.
+subsistence|nou|1|They live at {subsistence} level.
+subsidize|ver|1|The government {subsidizes} public transport.
+bout|nou|2|
+hinder|ver|1|The rain {hindered} our work.
+hindrance|nou|1|
+tacitly|adv||He {tacitly} agreed to the plan.
+surreptitious|adj|1|She took a {surreptitious} look at her phone.
+surreptitiously|adv||He {surreptitiously} checked his watch.
+allegorical|adj||The story is {allegorical}.
+seedy|adj|2|They stayed in a {seedy} hotel.
+temper|ver|4|
+unadulterated|adj|1|
+incongruous|adj||The modern building looks {incongruous} in the old village.
+incongruously|adv||He was {incongruously} dressed in a suit at the beach.
+deaden|ver|6|
+attributive|adj||In "a red car", "red" is an {attributive} adjective.
+surge|ver|3|The crowd {surged} forward.
+farcical|adj||The trial was {farcical}.
+reverberation|nou||The {reverberations} of the scandal are still felt.
+reverberate|ver||The sound {reverberated} around the hall.
+ingenuous|adj|2|It was {ingenuous} of her to believe him.
+remonstrate|ver|1|
+inexorable|adj|2|The {inexorable} rise of prices worries everyone.
+tranquilize|ver|2|
+republican|adj|2|The country has a {republican} system.
+supreme|adj|2|
+ministry|nou||She works for the {Ministry} of Health.
+mode|nou||Switch your phone to silent {mode}.
+combat|nou|2|
+catholic|adj|1|
+semi|nou|1|
+equivalent|nou|1|There is no exact {equivalent} in Turkish.
+grey|adj||She has {grey} hair.
+chamber|nou|4|The upper {chamber} of parliament voted against the law.
+exposure|nou|2|{Exposure} to the sun can damage your skin.
+makeup|nou||She doesn't wear any {makeup}.
+amendment|nou|2|
+defensive|adj|2|
+sin|nou||Lying is a {sin}.
+poll|nou|1|
+removal|nou|1|We arranged the {removal} of the old furniture.
+representation|nou||Women need better {representation} in parliament.
+premium|nou||You pay a {premium} for the best seats.
+domain|nou|5|Medicine is not my {domain}.
+footage|nou|1|The news showed {footage} of the fire.
+triple|nou|3|
+collective|adj|1|
+default|nou||This is the {default} setting.
+distinct|adj|1|The two languages are quite {distinct}.
+framework|nou||We need a legal {framework}.
+loop|nou|2|Tie the rope in a {loop}.
+sole|nou|3|
+experimental|adj||The drug is still {experimental}.
+gulf|nou|1|The ship sailed into the {Gulf}.
+anime|nou|0|
+mainstream|nou||His ideas are now part of the {mainstream}.
+spectrum|nou|2|
+alpha|nou|1|"{Alpha}" is the first letter of the Greek alphabet.
+tribute|nou|1|
+democrat|nou|2|
+municipal|adj|2|The {municipal} elections are next month.
+warrant|ver|1|The situation {warrants} action.
+unity|nou||The country needs {unity}.
+advocate|ver|2|He {advocates} a ban on smoking.
+gravity|nou||The apple fell because of {gravity}.
+imperial|adj|1|The {imperial} army invaded the region.
+operational|adj|2|The new airport will be {operational} next year.
+vulnerable|adj|1|Old people are {vulnerable} to the cold.
+beta|nou|0|
+chronic|adj||She suffers from {chronic} back pain.
+incorporated|adj|2|The company was {incorporated} in 1990.
+punk|nou|5|
+situated|adj||The hotel is {situated} near the beach.
+consecutive|adj|1|
+gospel|nou|3|She sings in a {gospel} choir.
+grid|nou|1|
+parliamentary|adj|1|
+vintage|nou|1|
+lens|nou||The camera has a good {lens}.
+underlying|adj|1|
+indigenous|adj||The {indigenous} people of Australia.
+infinite|adj|1|The universe may be {infinite}.
+installation|nou|1|The {installation} of the software takes ten minutes.
+liability|nou|1|
+vocal|adj|3|She is a {vocal} critic of the government.
+portfolio|nou|2|The artist showed us her {portfolio}.
+productivity|nou|1|
+buffalo|nou|4|
+harsh|adj||The winter was very {harsh}.
+intensity|nou||The storm increased in {intensity}.
+inventory|nou||The shop takes an {inventory} every month.
+judicial|adj||The {judicial} system needs reform.
+wrestling|nou||{Wrestling} is a popular sport in Turkey.
+accordance|nou|1|The work was done in {accordance} with the rules.
+applicable|adj||The rule is not {applicable} to children.
+breach|nou|1|
+closet|nou|1|
+reportedly|adv||The singer is {reportedly} getting married.
+adjacent|adj|2|The hotel is {adjacent} to the station.
+electoral|adj|1|
+interface|nou||The app has a simple {interface}.
+oriented|adj||It's a family-{oriented} hotel.
+variable|adj|1|The weather is very {variable}.
+victorian|adj|1|
+artwork|nou||The museum displays {artwork} from around the world.
+diplomatic|adj||They are trying to find a {diplomatic} solution.
+generic|nou|2|
+handful|nou|1|Only a {handful} of people came.
+locally|adv|1|
+overview|nou||The report gives an {overview} of the problem.
+parish|nou|1|
+pathetic|adj|3|That was a {pathetic} excuse.
+array|nou|2|The shop sells an {array} of cheeses.
+brutal|adj|1|It was a {brutal} attack.
+seemingly|adv||It was a {seemingly} simple question.
+cult|nou|3|He left the {cult} after ten years.
+governance|nou|2|Good {governance} is essential.
+riot|nou|1|
+setup|nou|2|I like the {setup} of the new office.
+vacuum|nou||Nature abhors a {vacuum}.
+comparable|adj|1|
+historically|adv|1|{Historically}, the city was a trade centre.
+hub|nou||The city is a transport {hub}.
+layout|nou|1|
+administrator|nou|1|
+momentum|nou|1|The campaign is gaining {momentum}.
+optical|adj||It was an {optical} illusion.

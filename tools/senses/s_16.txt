@@ -1,0 +1,150 @@
+quantify|ver|2|It's hard to {quantify} the damage.
+quantity|nou||Buy food in large {quantities}.
+quarrel|ver||The children {quarrelled} over the toy.
+queen|nou||The {queen} visited the hospital.
+quick|adj|2|Let's have a {quick} lunch.
+quickly|adv|1|
+quiet|adj|2|It's very {quiet} here at night.
+quiet|nou|3|
+quietly|adv|1|She spoke {quietly}.
+quit|ver|2|He {quit} his job last month.
+quite|adv|1|The film was {quite} good.
+quotable|adj|1|Her speech was very {quotable}.
+quotation|nou||The book starts with a {quotation} from Rumi.
+rack|nou|1|Put your bag on the luggage {rack}.
+radiate|ver|6|She {radiated} happiness.
+radiation|nou||{Radiation} from the sun can damage your skin.
+radical|nou|3|He was a {radical} in his youth.
+radically|adv||The city has changed {radically}.
+rafter|nou|1|
+rage|nou|1|He was shaking with {rage}.
+rail|nou||Hold on to the {rail}.
+railroad|nou|2|They built a {railroad} across the country.
+railway|nou|2|
+raise|ver||{Raise} your hand if you know the answer.
+rally|nou||Thousands attended the {rally}.
+ramp|nou|1|
+range|nou||The shop sells a wide {range} of shoes.
+range|ver|1|Prices {range} from 10 to 50 lira.
+ranger|nou|2|
+rap|nou|5|He listens to {rap}.
+rapid|adj|1|There was a {rapid} rise in prices.
+rash|adj|1|It was a {rash} decision.
+rate|nou||The unemployment {rate} is rising.
+rather|adv|2|It's {rather} cold today.
+rating|nou|1|
+rattle|nou|2|
+raw|adj||Don't eat {raw} chicken.
+reach|nou|1|Keep medicines out of the {reach} of children.
+react|ver||How did she {react} to the news?
+readily|adv|1|The book is {readily} available.
+real|adv||It was {real} nice to see you.
+realization|nou|1|The {realization} that she was lost scared her.
+realize|ver|1|I didn't {realize} it was so late.
+really|adv|4|I'm {really} tired.
+rear|adj||Sit in the {rear} seat.
+rearrange|ver||We {rearranged} the furniture.
+reasonably|adv|1|The hotel is {reasonably} priced.
+rebel|nou|2|
+rebel|ver|1|
+rebuild|ver||They {rebuilt} the town after the earthquake.
+recall|ver||I can't {recall} his name.
+receipt|nou|2|
+recently|adv||I {recently} moved to Ankara.
+reception|nou||Leave your key at {reception}.
+recession|nou|1|
+reckon|ver||I {reckon} it will rain later.
+reclaim|ver|1|You can {reclaim} your luggage here.
+recognize|ver||I didn't {recognize} you with glasses.
+recommend|ver|2|Can you {recommend} a good restaurant?
+recommendation|nou||I bought it on your {recommendation}.
+reconsider|ver|1|Please {reconsider} your decision.
+recover|ver|2|He is {recovering} from the flu.
+recovery|nou|2|She made a quick {recovery}.
+recreation|nou|1|The park is used for {recreation}.
+rectangular|adj|1|It's a {rectangular} table.
+recycle|ver|2|We {recycle} paper and glass.
+red|adj|1|
+red|nou||She was dressed in {red}.
+redo|ver|1|
+reduction|nou|1|
+redundant|adj|1|Remove the {redundant} words.
+reed|nou||The lake is surrounded by {reeds}.
+refer|ver||She often {refers} to her childhood.
+referent|adj||The {referent} object is not clear.
+reflect|ver|5|The lake {reflected} the mountains.
+reflection|nou||She saw her {reflection} in the window.
+reflective|adj|2|
+refreshments|nou|1|
+refuge|nou|3|
+refund|nou|1|
+refusal|nou|1|
+regain|ver|1|She slowly {regained} her strength.
+regard|nou||She has great {regard} for her teacher.
+regardless|adv||He went out {regardless}.
+region|nou||The Aegean {region} is famous for olives.
+register|nou|1|
+register|ver||You need to {register} online.
+regret|ver||I {regret} saying that.
+regular|adj|6|Take the medicine at {regular} intervals.
+regularly|adv|1|I {regularly} go to the gym.
+regulate|ver|1|A thermostat {regulates} the temperature.
+regulation|nou||There are strict safety {regulations}.
+reinforce|ver|1|
+reinforcement|nou||The army sent {reinforcements}.
+reject|ver||They {rejected} my application.
+rejoin|ver|1|
+relation|nou|6|The two countries have good {relations}.
+relationship|nou|2|They have a close {relationship}.
+relative|nou|1|She has {relatives} in Germany.
+relaxation|nou|5|
+relaxed|adj||She looked {relaxed} after the holiday.
+release|ver||The prisoner was {released} yesterday.
+relevant|adj||Your question isn't {relevant}.
+reliable|adj|1|He is a very {reliable} worker.
+relief|nou|1|It was a {relief} to hear the news.
+relieve|ver|1|This medicine will {relieve} the pain.
+relieved|adj|1|
+religious|adj|1|They celebrate many {religious} holidays.
+reluctant|adj||He was {reluctant} to help.
+remainder|nou|1|
+remaining|adj||The {remaining} money is yours.
+remains|nou|1|They found the {remains} of a Roman city.
+remark|ver|1|
+remarkable|adj|1|
+remarkably|adv|1|
+remedy|nou|2|
+remembrance|nou|2|
+remind|ver|1|{Remind} me to call my mother.
+reminder|nou||I got a {reminder} about the bill.
+remote|adj|4|They live in a {remote} village.
+rent|ver||We {rent} a flat near the sea.
+reorganize|ver|1|They {reorganized} the department.
+repair|nou||The road is under {repair}.
+repeatedly|adv||I {repeatedly} told him to stop.
+repertoire|nou|2|
+replacement|nou||We need a {replacement} for the broken window.
+report|nou||Write a {report} on the meeting.
+represent|ver||She {represented} Turkey at the Olympics.
+repress|ver|3|
+reprint|nou|1|
+reproduce|ver||Rabbits {reproduce} quickly.
+republic|nou||Turkey became a {republic} in 1923.
+reputation|nou|1|The school has an excellent {reputation}.
+request|nou|1|
+request|ver|1|I {requested} a window seat.
+requirement|nou|3|A degree is a {requirement} for this job.
+rescue|ver|1|
+research|nou||She is doing {research} on cancer.
+research|ver|1|He {researched} the history of the town.
+residence|nou|1|What is your place of {residence}?
+resident|adj|1|
+resident|nou||The {residents} complained about the noise.
+residential|adj|1|They live in a quiet {residential} area.
+resignation|nou||He handed in his {resignation}.
+resolution|nou||My New Year's {resolution} is to exercise more.
+resolve|ver||We {resolved} the problem quickly.
+resonant|adj|1|
+resort|nou|1|We stayed at a beach {resort}.
+resource|nou||Water is a precious {resource}.
+respectable|adj|1|She comes from a {respectable} family.

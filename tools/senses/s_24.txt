@@ -1,0 +1,150 @@
+hence|adv|1|He was ill, {hence} his absence.
+offspring|nou|3|The bird feeds its {offspring} insects.
+oblige|ver|1|The law {obliges} companies to pay taxes.
+collaborate|ver|1|The two artists {collaborated} on the album.
+collaborator|nou|3|She thanked her {collaborators} on the project.
+collaboration|nou|1|The book was a {collaboration} between two writers.
+showy|adj|1|She wore {showy} jewellery.
+wrangle|ver|1|They {wrangled} over the price for hours.
+advantageous|adj||The deal is {advantageous} to both sides.
+fanciful|adj||That's a rather {fanciful} idea.
+poise|nou|3|
+customary|adj|1|It is {customary} to remove your shoes.
+insightful|adj||She made some {insightful} comments.
+notable|adj|1|
+vicious|adj|4|
+withdrawn|adj|2|
+depict|ver|1|The painting {depicts} a stormy sea.
+uneventful|adj||The flight was {uneventful}.
+pertinent|adj|1|She asked some {pertinent} questions.
+daydream|ver||He {daydreams} in class.
+simplicity|nou|5|I love the {simplicity} of the design.
+blockbuster|nou|2|
+resonate|ver|2|His speech {resonated} with voters.
+sequel|nou|2|
+acidic|adj|1|
+align|ver|1|{Align} the pictures on the wall.
+alignment|nou|2|
+manipulation|nou|1|The election was full of {manipulation}.
+deceit|nou|3|
+alienate|ver|1|His comments {alienated} many voters.
+persuasively|adv||She argued {persuasively}.
+confinement|nou|3|He spent years in solitary {confinement}.
+minutiae|nou||He loves the {minutiae} of history.
+peasant|nou|2|
+inexplicable|adj||His behaviour was {inexplicable}.
+harass|ver|1|Stop {harassing} me!
+harassment|nou||She complained of {harassment} at work.
+believably|adv|1|
+cleverness|nou|2|I admired her {cleverness}.
+persecute|ver||They were {persecuted} for their beliefs.
+smug|adj||He had a {smug} smile on his face.
+smugly|adv||"I told you so," he said {smugly}.
+ferociously|adv||The dog barked {ferociously}.
+hostile|adj||The crowd was {hostile}.
+hostility|nou||There is open {hostility} between them.
+dismay|ver|1|
+dismay|nou|1|
+ruthless|adj||He was a {ruthless} dictator.
+ruthlessness|nou|1|
+awe|ver||The size of the mountain {awed} us.
+crumble|ver||The old wall is {crumbling}.
+crumb|nou|3|There were {crumbs} all over the table.
+pace|ver|1|He {paced} up and down the room.
+closeness|nou|1|There is a deep {closeness} between the sisters.
+rarity|nou|3|
+evoke|ver|5|
+repellant|nou|2|
+repellant|adj|2|
+flashback|nou|1|
+cite|ver||She {cited} several studies in her essay.
+citation|nou||The book has many {citations}.
+ecstatically|adv||The fans cheered {ecstatically}.
+substantially|adv|1|Prices have risen {substantially}.
+favorably|adv||The critics reacted {favorably}.
+rumble|nou|1|We heard the {rumble} of thunder.
+roundup|nou|2|Here is a {roundup} of today's news.
+indefinite|adj|2|He's on {indefinite} leave.
+indefinitely|adv||The meeting was postponed {indefinitely}.
+fuse|ver|1|The music {fuses} jazz and rock.
+fusion|nou|2|
+robust|adj|1|He is a {robust} young man.
+dismally|adv|2|The team played {dismally}.
+crave|ver|1|
+prospective|adj||The {prospective} buyers looked around the house.
+remotely|adv|2|I'm not {remotely} interested.
+splatter|ver|2|
+exhaust|ver||The long walk {exhausted} me.
+chaotically|adv|1|People ran {chaotically} in all directions.
+apprehensive|adj|2|She was {apprehensive} about the interview.
+settee|nou|2|
+ploy|nou|2|
+dither|ver|1|
+overalls|nou|1|
+unison|nou|2|The children answered in {unison}.
+acre|nou|1|
+ewe|nou|3|
+victoriously|adv||The team returned {victoriously}.
+baldly|adv||He told her {baldly} that she had failed.
+popularization|nou|2|
+lapse|nou|1|A {lapse} in concentration caused the accident.
+ceaseless|adj||The {ceaseless} noise kept me awake.
+ceaselessly|adv||She worked {ceaselessly}.
+climax|nou|2|The {climax} of the film is very exciting.
+anticlimactic|adj|1|The ending was rather {anticlimactic}.
+scramble|nou|1|
+forfeit|ver||The team {forfeited} the match.
+intellect|nou||She is a woman of great {intellect}.
+shed|ver|4|Trees {shed} their leaves in autumn.
+exodus|nou|1|
+immortalize|ver|2|The poet {immortalized} her in his poems.
+faction|nou|1|
+physique|nou|1|He has a powerful {physique}.
+otter|nou|2|
+absolute|nou||There are no {absolutes} in art.
+divergence|nou|4|There is a {divergence} of opinion.
+divergent|adj|1|
+superficial|adj|1|He has only a {superficial} knowledge of the subject.
+aesthetic|adj||The building has great {aesthetic} appeal.
+aesthetically|adv||The room is {aesthetically} pleasing.
+scrutinize|ver|1|She {scrutinized} the contract.
+woo|ver|1|
+criteria|nou|1|
+plausible|adj|1|
+plausibly|adv||He could {plausibly} claim it was an accident.
+instinctively|adv||She {instinctively} reached for the baby.
+inheritance|nou||She received a large {inheritance}.
+inherent|adj|1|Every job has {inherent} risks.
+inherently|adv||The plan is {inherently} dangerous.
+tune|ver|2|He {tuned} his guitar.
+spontaneous|adj|2|
+spontaneously|adv|1|
+institute|ver|1|
+fatality|nou|1|There were two {fatalities} in the crash.
+angle|ver|1|She {angled} the camera towards the stage.
+stiffen|ver|1|Her body {stiffened} with fear.
+meaningless|adj||His words were {meaningless}.
+candidly|adv||She spoke {candidly} about her illness.
+vitality|nou|2|She is full of {vitality}.
+provoke|ver|1|His remarks {provoked} anger.
+provocatively|adv||She smiled {provocatively}.
+clench|ver|2|
+haggle|ver||We {haggled} over the price of the carpet.
+obscure|ver||Clouds {obscured} the moon.
+obscure|adj|4|He was an {obscure} poet.
+obscurely|adv||She felt {obscurely} guilty.
+elevate|ver|2|
+elevation|nou|5|The town is at an {elevation} of 2,000 metres.
+succession|nou|1|She had a {succession} of jobs.
+formality|nou|1|The interview is just a {formality}.
+pioneer|ver|2|He {pioneered} the use of the drug.
+pioneer|nou||She was a {pioneer} in computer science.
+quest|nou|2|
+rudiments|nou||She taught me the {rudiments} of cooking.
+rudimentary|adj|1|
+paddle|ver|1|
+immensely|adv||I enjoyed the film {immensely}.
+trying|adj|1|It was a {trying} day.
+tinker|ver|3|He likes to {tinker} with old cars.
+tinker|nou|2|
+insecure|adj|3|She feels {insecure} about her looks.

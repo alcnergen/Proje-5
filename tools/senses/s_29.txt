@@ -1,0 +1,150 @@
+syllabic|adj|1|
+superfluous|adj|2|Remove any {superfluous} words.
+superfluously|adv||He added {superfluously} that he was tired.
+summarily|adv||He was {summarily} dismissed.
+infallible|adj||Doctors are not {infallible}.
+depravity|nou|1|The film shows human {depravity}.
+deprecate|ver|1|He {deprecated} the use of violence.
+arcane|adj||The rules are {arcane}.
+divination|nou|3|
+hitch|ver||They {hitched} a ride to the city.
+prone|adj|1|He is {prone} to colds.
+scavenger|nou|3|
+vermin|nou|2|The house was full of {vermin}.
+emulate|ver|1|She tried to {emulate} her older sister.
+emulation|nou|1|
+brouhaha|nou|2|
+magnanimous|adj|1|
+magnanimously|adv||He {magnanimously} forgave them.
+euphemistic|adj||"Passed away" is a {euphemistic} expression for "died".
+euphemistically|adv||The war was {euphemistically} called a "conflict".
+redundancy|nou|2|Remove any {redundancy} from your essay.
+colloquial|adj||"Gonna" is a {colloquial} form.
+colloquium|nou|1|
+colloquially|adv||It is {colloquially} known as "the Big Apple".
+allude|ver||She {alluded} to his past mistakes.
+disparaging|adj||He made {disparaging} remarks about her work.
+disparagingly|adv||She spoke {disparagingly} of her boss.
+disparagement|nou|2|
+huddle|ver|1|We {huddled} together to keep warm.
+huddle|nou|2|A {huddle} of people stood at the door.
+topography|nou|1|
+topographically|adv||The area is {topographically} diverse.
+confabulate|ver|2|
+confabulation|nou|1|
+malice|nou|1|
+malicious|adj||He spread {malicious} rumours.
+maverick|nou|1|
+diligently|adv||She studied {diligently}.
+turret|nou|1|
+impressionistic|adj|1|He gave an {impressionistic} account of the trip.
+parochial|adj|2|They have a {parochial} view of the world.
+gravitate|ver|2|Young people {gravitate} towards cities.
+haughtily|adv||She looked at him {haughtily}.
+axiomatic|adj|1|
+enduringly|adv||The song is {enduringly} popular.
+reissue|ver|2|The album was {reissued} last year.
+solitary|adj|1|He leads a {solitary} life.
+solitary|nou|1|He spent a month in {solitary}.
+solitariness|nou|1|
+solitude|nou|2|
+adhere|ver||You must {adhere} to the rules.
+adhesion|nou|3|The glue has strong {adhesion}.
+proscription|nou|1|
+dribble|ver|3|He {dribbled} the ball past two players.
+dribble|nou|3|
+prise|ver|1|
+rickety|adj|1|
+consign|ver|2|
+consignment|nou|1|
+converse|adj|2|The {converse} is also true.
+sterility|nou|1|
+rhetorical|adj|2|It was a {rhetorical} question.
+rhetorically|adv||"Who knows?" he asked {rhetorically}.
+flighty|adj|1|
+flightiness|nou||Her {flightiness} annoyed him.
+impeccable|adj|1|
+impeccably|adv||He was {impeccably} dressed.
+romp|ver|3|The team {romped} to victory.
+romper|nou|2|
+meticulous|adj|2|She is {meticulous} about her work.
+meticulously|adv||The room was {meticulously} cleaned.
+ingratiating|adj|2|He gave an {ingratiating} smile.
+ingratiatingly|adv||He smiled {ingratiatingly}.
+shimmer|ver|1|The lake {shimmered} in the moonlight.
+hull|nou|6|
+cull|ver|1|They {culled} the sick animals.
+quiver|nou|2|
+angularity|nou|2|
+dampen|ver|1|
+conglomerate|nou|2|
+singe|ver|1|He {singed} his eyebrows on the candle.
+fabled|adj||They searched for the {fabled} city of gold.
+glint|ver|1|
+infernal|adj|3|
+presentational|adj||She has good {presentational} skills.
+embed|ver|1|
+reconcile|ver|1|
+reconciliation|nou|1|There was a {reconciliation} between the brothers.
+conciliatory|adj|2|
+conciliation|nou|3|The government made a gesture of {conciliation}.
+preconception|nou||Try to forget your {preconceptions}.
+baroque|adj|2|
+condone|ver||We cannot {condone} violence.
+unobtrusive|adj||The staff were polite and {unobtrusive}.
+unobtrusively|adv||She left the room {unobtrusively}.
+brim|ver|1|Her eyes {brimmed} with tears.
+hazard|ver|1|
+qualm|nou|1|
+besiege|ver||The castle was {besieged} for months.
+cloister|nou|2|
+cloistered|adj|1|She led a {cloistered} life.
+resuscitate|ver|1|
+resuscitation|nou||The doctors tried {resuscitation}.
+resoundingly|adv||The plan was {resoundingly} rejected.
+ordain|ver|3|He was {ordained} as a priest.
+elated|adj|2|
+elation|nou|2|
+hysterically|adv||She laughed {hysterically}.
+jarring|adj||The colours are {jarring}.
+suffuse|ver|2|Her face was {suffused} with joy.
+totter|ver||The old man {tottered} across the room.
+contemptuously|adv||He laughed {contemptuously}.
+forlornly|adv||The dog waited {forlornly} by the door.
+rebuke|nou||She received a sharp {rebuke}.
+aberration|nou|1|
+emulsify|ver|1|
+additive|adj|2|
+confection|nou|1|
+proximal|adj||The {proximal} end of the bone is near the body.
+feign|ver|2|He {feigned} illness to stay home.
+paradoxically|adv||{Paradoxically}, the more you rest, the more tired you feel.
+stringently|adv||The rules are {stringently} enforced.
+standing|nou|1|The scandal damaged his {standing}.
+torrential|adj|3|We were caught in {torrential} rain.
+banish|ver|1|He was {banished} from the kingdom.
+knack|nou||She has a {knack} for languages.
+fruition|nou|3|
+tantalizingly|adv||The prize was {tantalizingly} close.
+scroll|nou|2|
+collide|ver||The two cars {collided}.
+leavening|nou|2|Yeast is used as a {leavening}.
+indiscretion|nou|2|
+telescopic|adj|3|The camera has a {telescopic} lens.
+telescopically|adv||The antenna extends {telescopically}.
+hamper|ver|1|Bad weather {hampered} the search.
+fractious|adj|2|The baby was tired and {fractious}.
+assimilate|ver|2|Immigrants {assimilated} into the local culture.
+intersperse|ver|1|Sunny spells will be {interspersed} with showers.
+verbatim|adv||He repeated the speech {verbatim}.
+verily|adv||{Verily}, I say unto you.
+veritable|adj|1|The garden is a {veritable} paradise.
+unfeasible|adj||The plan is {unfeasible}.
+cascade|ver|1|
+smattering|nou|2|
+corpus|nou|2|They studied a {corpus} of English texts.
+neophyte|nou|2|
+formidably|adv||She is {formidably} intelligent.
+squint|ver|3|He {squinted} in the bright sunlight.
+hoist|ver|1|They {hoisted} the flag.
+buzzard|nou|2|

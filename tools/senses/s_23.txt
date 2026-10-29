@@ -1,0 +1,150 @@
+wildlife|nou||The park is full of {wildlife}.
+wildly|adv|2|The crowd cheered {wildly}.
+will|nou||He signed his {will} before he died.
+willingness|nou||She showed a {willingness} to learn.
+win|nou|1|It was a great {win} for the team.
+wind|ver||The road {winds} through the hills.
+winding|adj|1|We drove up a {winding} road.
+window|nou||Open the {window}, please.
+wing|nou||The bird hurt its {wing}.
+wink|nou|2|
+winner|nou|1|
+wire|nou|2|
+wire|ver|1|The house was {wired} for electricity.
+wish|nou|2|Make a {wish}!
+wit|nou|1|
+withdraw|ver||I need to {withdraw} some money.
+woman|nou|1|She is a strong {woman}.
+wonder|nou|1|The children watched in {wonder}.
+wood|nou||The table is made of {wood}.
+worker|nou||The factory has 200 {workers}.
+working|adj|1|She is a {working} mother.
+world|nou||She wants to travel around the {world}.
+worldly|adj|2|He is a {worldly} man who has travelled a lot.
+worldwide|adj|1|
+worm|nou||The bird caught a {worm}.
+worn|adj|1|His shoes were {worn} and old.
+worried|adj|2|I'm {worried} about my exam.
+worry|nou|2|Money is a constant {worry}.
+worse|adj|1|The weather is {worse} today.
+worse|adv||He sings {worse} than I do.
+worse|nou||There's {worse} to come.
+worsen|ver|1|The pain {worsened} at night.
+worst|adj||It was the {worst} day of my life.
+worst|adv||He played {worst} of all.
+worst|nou|1|Prepare for the {worst}.
+worth|adj|2|This painting is {worth} a lot of money.
+worthless|adj|1|
+worthy|adj|1|He is a {worthy} winner.
+wound|nou||The soldier had a deep {wound}.
+wrap|nou|2|
+wrapping|nou|1|
+write|ver||She {writes} a letter every week.
+writing|nou|4|I can't read his {writing}.
+written|adj|1|
+wrongly|adv|1|He was {wrongly} accused.
+yard|nou||The kids are playing in the {yard}.
+yawn|nou||He gave a big {yawn}.
+yearn|ver|1|
+yell|ver|1|Don't {yell} at me!
+yellow|adj||She has a {yellow} dress.
+yet|adv|2|I haven't finished {yet}.
+young|adj||She is too {young} to drive.
+zone|nou|3|
+zoom|nou|0|
+exterior|nou|2|
+cloak|nou|2|
+avid|adj|2|He is an {avid} reader.
+marvel|ver|1|
+clinical|adj|1|The drug is in {clinical} trials.
+forensic|adj|2|
+juvenile|adj|1|
+accustomed|adj||I'm not {accustomed} to the cold.
+traumatic|adj|2|The accident was a {traumatic} experience.
+constraint|nou|3|
+revealing|adj|2|The interview was very {revealing}.
+conform|ver|2|
+norms|nou|1|
+quirk|nou|1|
+oddity|nou|3|
+compel|ver|1|The law {compels} drivers to wear seat belts.
+compulsion|nou|1|He felt a {compulsion} to check his phone.
+assertion|nou|1|
+individuality|nou|1|She expresses her {individuality} through her clothes.
+conformity|nou|2|Schools often demand {conformity}.
+unconventional|adj|2|She has an {unconventional} lifestyle.
+congregate|ver||Crowds {congregated} in the square.
+rally|ver|3|Fans {rallied} behind the team.
+self-conscious|adj|2|She feels {self-conscious} about her teeth.
+wary|adj|1|Be {wary} of strangers.
+exhibitionist|nou|2|
+isolate|ver||The village was {isolated} by the snow.
+isolated|adj|6|They live in an {isolated} village.
+humble|ver|2|The defeat {humbled} the champion.
+refreshingly|adv|2|She was {refreshingly} honest.
+effortless|adj|2|She made it look {effortless}.
+vegetation|nou||The island is covered in thick {vegetation}.
+brief|ver||The officer {briefed} his team.
+respite|nou|1|
+purity|nou|1|
+comprise|ver|1|The team {comprises} ten players.
+plaster|nou||He put a {plaster} on the cut.
+plaster|ver|5|They {plastered} the walls.
+induct|ver|1|He was {inducted} into the Hall of Fame.
+induction|nou||New employees go through an {induction} week.
+stock|ver|1|The shop {stocks} organic food.
+geologically|adv||The area is {geologically} interesting.
+house|ver|1|The museum {houses} many famous paintings.
+specimen|nou||The doctor took a blood {specimen}.
+vertical|adj|1|Draw a {vertical} line.
+knowledgeable|adj||He's very {knowledgeable} about wine.
+hanging|nou|2|{Hanging} was abolished in Britain in 1965.
+formulate|ver|2|We need to {formulate} a plan.
+sacrifice|nou||Her parents made many {sacrifices} for her.
+sacrifice|ver||He {sacrificed} his career for his family.
+cleanly|adv|1|The bone broke {cleanly}.
+endorsement|nou|3|The plan received the minister's {endorsement}.
+stretching|nou|2|
+continuity|nou|1|
+shambles|nou|1|
+claustrophobic|adj|1|
+tactful|adj|2|She gave a {tactful} answer.
+tactfully|adv||He {tactfully} changed the subject.
+blister|nou|3|
+blister|ver|1|My feet {blistered} after the long walk.
+beforehand|adv||Let me know {beforehand} if you're coming.
+coverage|nou|3|The election got a lot of media {coverage}.
+unplug|ver||{Unplug} the TV before you go.
+rediscover|ver||She {rediscovered} her love of painting.
+subtly|adv||The colours change {subtly}.
+brainwash|ver|1|They were {brainwashed} by the advertisements.
+implicate|ver|1|He was {implicated} in the robbery.
+craft|ver||She {crafted} a beautiful vase.
+expire|ver|1|My passport {expires} next month.
+con|ver|1|
+con|nou|3|
+puzzle|ver|1|His behaviour {puzzled} me.
+damply|adv||Her hair clung {damply} to her face.
+ghostly|adj||We heard a {ghostly} voice.
+carrier|nou|5|The airline is a low-cost {carrier}.
+apt|adj|4|That's an {apt} description.
+portable|adj|1|
+placidly|adv|1|The cows grazed {placidly}.
+unmanageable|adj|4|
+appliance|nou|2|
+tedious|adj|1|The work was {tedious}.
+tedium|nou|1|
+exert|ver|2|He {exerted} pressure on the government.
+extortion|nou|3|He was arrested for {extortion}.
+alleviate|ver|1|
+elaboration|nou|3|The plan needs some {elaboration}.
+detestable|adj|1|
+suds|nou|1|
+agreeable|adj||We had an {agreeable} evening.
+prowl|ver|1|A cat {prowled} around the garden.
+speculate|ver|1|It's too early to {speculate} about the cause.
+speculative|adj|2|
+reenact|ver|3|They {reenacted} the famous battle.
+torment|ver|1|He was {tormented} by guilt.
+torment|nou|2|She lived in {torment} for years.
+extravagance|nou|3|Buying a new car was an {extravagance}.

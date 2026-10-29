@@ -52,9 +52,9 @@ Görsel dil, [TasteCode](https://github.com/Leonxlnx/tastecode) Design Mode'un t
 ## Veri kaynakları ve dürüst notlar
 
 - **Kelime listesi:** Oxford 3000/5000 ve Cambridge English Vocabulary Profile telif hakkıyla korunduğu için yeniden dağıtılamıyor. Onların yerine aynı CEFR ölçeğine göre etiketlenmiş açık listeler kullanıldı: **CEFR-J Vocabulary Profile 1.5** (A1–B2, Tokyo Yabancı Diller Üniversitesi, atıfla ticari kullanım serbest) ve **Octanove Vocabulary Profile C1/C2** (CC BY-SA 4.0). Bu iki liste 9.703 kelime veriyor. Havuzu 11.500'ün üzerine çıkarmak için İngilizce kullanım sıklığı verisinden (wordfreq) listelerde olmayan en yaygın 1.525 kelime eklendi; bunların seviyesi kullanım sıklığına göre **tahmin** edildi (çoğu C1).
-- **İngilizce tanımlar:** Princeton WordNet 3.0 (kelimenin en yaygın anlamı). Bazı tanımlar kelimenin farklı bir anlamını verebilir.
-- **Türkçe anlamlar, ~4.800 örnek cümle ve phrasal verb listesi** uygulama için elle hazırlandı; diğer örnek cümleler WordNet'ten geliyor. Hata görürseniz `tools/authored/*.txt` dosyasında düzeltip veriyi yeniden üretebilirsiniz.
-- **AI görseller:** Her kelime için görsel, açıldığı anda ücretsiz [Pollinations.ai](https://pollinations.ai) servisinde yapay zekâyla üretilir ve cihazda önbelleğe alınır. Servis yavaşsa/limitliyse görsel yerine harf kartı görünür. Ayarlar'dan kapatılabilir veya kendi görsel servisinizin adresi (`{prompt}`, `{word}`, `{seed}` yer tutucularıyla) girilebilir. Soyut kelimelerde (ör. *nevertheless*) görseller doğal olarak daha az anlamlıdır.
+- **İngilizce tanımlar:** Princeton WordNet 3.0. Her kelimede Türkçe anlama uyan WordNet anlamı seçildi: önce Türkçe WordNet (KeNet) eşleştirmesiyle otomatik, kalan ~3.500 çok anlamlı kelimede elle (`tools/sense_picks.txt`). Uygun anlam yoksa tanım gösterilmez.
+- **Türkçe anlamlar, ~8.600 örnek cümle ve phrasal verb listesi** uygulama için elle hazırlandı; diğer örnek cümleler seçilen WordNet anlamından geliyor. 11.227 kelimenin 11.212'sinde örnek cümle var. Hata görürseniz `tools/authored/*.txt` dosyasında düzeltip veriyi yeniden üretebilirsiniz.
+- **Görseller:** Somut kelimelerde (~410 kelime) Microsoft Fluent Emoji (MIT) çizimleri uygulamayla birlikte gelir ve çevrimdışı çalışır. Soyut kelimelerde görsel gösterilmez. AI görseller isteğe bağlıdır: Ayarlar'dan açılıp kendi görsel servisinizin adresi (`{prompt}`, `{word}`, `{seed}` yer tutucularıyla) girilebilir.
 - **Phrasal verb seviyeleri** English Vocabulary Profile'a göre yaklaşık olarak belirlendi.
 - Cümle tamamlamada çeldiriciler aynı tür ve biçimden rastgele seçildiği için nadiren ikinci bir şık da cümleye uyabilir.
 - Hakaret/argo içeren birkaç kelime ve tek başına soru olamayan dilbilgisi kelimeleri (a, the, he, is…) havuzdan çıkarıldı.
@@ -66,7 +66,10 @@ pip install nltk
 # WordNet: nltk_data/corpora/wordnet (https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet.zip)
 NLTK_DATA=/yol/nltk_data python3 tools/base_list.py   # CEFR listeleri + WordNet → tools/base.json
 NLTK_DATA=/yol/nltk_data python3 tools/extra_list.py 1625   # + sık kullanılan ek kelimeler (pip install wordfreq; names korpusu gerekir)
+NLTK_DATA=/yol/nltk_data python3 tools/review_senses.py apply   # elle seçilen anlamlar → tools/sense_picks.txt
+NLTK_DATA=/yol/nltk_data python3 tools/align_senses.py KENET.xml ili-map-pwn30.tab   # anlam eşleştirme
 python3 tools/build_data.py                             # + Türkçe/örnekler → data/words.js, data/phrasal.js
+python3 tools/map_illustrations.py FLUENT_EMOJI_DIR      # görseller
 python3 tools/make_icons.py                             # ikonlar
 ```
 

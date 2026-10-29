@@ -1,0 +1,150 @@
+muscle|nou||He has strong arm {muscles}.
+mushroom|nou|5|
+music|nou||I listen to {music} every day.
+musical|adj|2|She comes from a very {musical} family.
+mutable|adj||Fashion is highly {mutable}.
+mysterious|adj||A {mysterious} man called last night.
+mystify|ver|1|
+nap|nou||I had a short {nap} after lunch.
+napkin|nou|1|
+narrowly|adv||He {narrowly} escaped death.
+national|adj||Football is the {national} sport.
+nationalist|nou|2|
+nationality|nou||What is your {nationality}?
+nationwide|adj||There was a {nationwide} strike.
+native|adj|2|English is not her {native} language.
+natural|adj||She has {natural} talent.
+naturally|adv|1|{Naturally}, I was very pleased.
+naughty|adj|2|
+navigate|ver|3|He {navigated} the boat through the storm.
+navigation|nou|1|The ship's {navigation} system failed.
+near|adv|1|Don't come too {near}.
+nearby|adj||We had lunch at a {nearby} café.
+nearly|adv||I {nearly} missed the bus.
+neat|adj|1|Her room is always {neat}.
+necessarily|adv|3|Expensive food isn't {necessarily} better.
+necessary|adj||Is it {necessary} to book a table?
+necessity|nou||A car is a {necessity} in the countryside.
+neck|nou|1|She wore a scarf around her {neck}.
+need|ver||I {need} a new phone.
+needless|adj||{Needless} to say, he was late again.
+negatively|adv|2|
+neglect|nou||The old house was in a state of {neglect}.
+negotiation|nou|1|After long {negotiations}, they signed the deal.
+neighbor|nou||Our {neighbor} has a big dog.
+neighborhood|nou||This is a quiet {neighborhood}.
+nerves|nou|1|I always have {nerves} before an exam.
+nervous|adj|2|I feel {nervous} before job interviews.
+nervously|adv|1|She laughed {nervously}.
+neutral|adj||Switzerland stayed {neutral} in the war.
+nevertheless|adv||It was raining; {nevertheless}, we went out.
+new|adj||I bought a {new} car.
+newborn|adj|1|
+newcomer|nou|2|He is a {newcomer} to the city.
+next door|adv||My best friend lives {next door}.
+night|nou||I couldn't sleep last {night}.
+nightlife|nou||Istanbul has great {nightlife}.
+no|adv|3|"Are you tired?" "{No}, I'm fine."
+nobility|nou|1|
+noble|adj||It was a {noble} thing to do.
+nod|ver|2|
+noise|nou|2|Stop making that {noise}!
+noisily|adv||The children played {noisily}.
+noisy|adj|1|
+nomination|nou|1|The film received five {nominations}.
+nonprofessional|adj||The play was performed by {nonprofessional} actors.
+north|adv||We drove {north} towards the Black Sea.
+north|nou||Samsun is in the {north} of Turkey.
+northeast|adj|1|
+northeastern|adj|1|
+northwest|adj|1|
+northwest|nou|4|
+northwestern|adj|1|
+not|adv||I'm {not} hungry.
+note|nou|2|She left me a {note} on the table.
+notice|nou|1|There is a {notice} on the door.
+notice|ver|2|
+noticeable|adj|4|There was a {noticeable} change in his behaviour.
+notion|nou|2|I like the {notion} of free education.
+notorious|adj||The city is {notorious} for its traffic.
+noun|nou|1|
+nourishment|nou||Plants get {nourishment} from the soil.
+nowadays|adv||{Nowadays}, everyone has a smartphone.
+nuclear|adj||They built a {nuclear} power station.
+nuisance|nou|2|
+numerical|adj|1|Put the files in {numerical} order.
+nurse|ver|1|She {nursed} her mother back to health.
+nursery|nou|1|
+nutrient|nou|1|
+obedience|nou||The dog was trained in {obedience}.
+obedient|adj||He is an {obedient} child.
+object|ver|1|Many people {objected} to the new law.
+objective|adj||Try to be {objective}.
+obligation|nou|1|You are under no {obligation} to buy.
+observation|nou||The patient is under {observation}.
+observe|ver|4|Scientists {observed} the birds for months.
+obsess|ver|2|He is {obsessed} with football.
+obstacle|nou|1|Lack of money is the main {obstacle}.
+obtain|ver|1|You must {obtain} a visa first.
+obviously|adv||{Obviously}, he was lying.
+occasion|nou|2|We met on several {occasions}.
+occasional|adj|1|I have the {occasional} glass of wine.
+occasionally|adv||I {occasionally} go to the theatre.
+occupation|nou||What is your {occupation}?
+occupy|ver||The army {occupied} the city.
+occur|ver|1|The accident {occurred} at night.
+o'clock|adv||The film starts at eight {o'clock}.
+odd|adj||That's an {odd} thing to say.
+off|adj||The lights are {off}.
+off|adv|3|Take your coat {off}.
+offend|ver|1|I hope I didn't {offend} you.
+offensive|adj|3|His comments were {offensive}.
+offer|ver||She {offered} me a cup of tea.
+offhand|adv|1|I can't tell you the price {offhand}.
+officer|nou|3|A police {officer} helped us.
+official|nou|1|A government {official} answered our questions.
+officially|adv|2|The bridge was {officially} opened yesterday.
+offshore|adj|2|
+Olympia|nou|2|
+Olympic|adj|1|
+on|adv|3|Is the TV {on}?
+once|adv|1|I've been there only {once}.
+online|adj|2|
+only|adj|1|She is an {only} child.
+opening|nou|2|We went to the {opening} of the new museum.
+openly|adv||He spoke {openly} about his problems.
+operate|ver|3|Can you {operate} this machine?
+opinion|nou|1|In my {opinion}, he is right.
+opponent|nou|1|
+oppose|ver|1|Many people {oppose} the plan.
+opposite|adj|5|They have {opposite} opinions.
+opposite|adv||She lives {opposite}.
+opposite|nou|1|
+opposition|nou||There was strong {opposition} to the project.
+oppress|ver|1|The dictator {oppressed} the people.
+oppression|nou|2|They lived under {oppression} for years.
+oral|adj|1|We have an {oral} exam tomorrow.
+orderly|adj|2|The room was clean and {orderly}.
+ordinary|adj|1|It was just an {ordinary} day.
+organ|nou||The heart is a vital {organ}.
+organization|nou||She works for a charity {organization}.
+organize|ver||We {organized} a party for her.
+organized|adj|2|She is very {organized}.
+original|nou|1|This is a copy; the {original} is in the museum.
+originate|ver|1|The game {originated} in China.
+orphan|nou|1|
+out|adv|1|She is {out} at the moment.
+outdistance|ver||The runner {outdistanced} all the others.
+outdo|ver||She tried to {outdo} her sister.
+outdoor|adj|1|We love {outdoor} activities.
+outfit|nou|2|
+outgrow|ver|1|
+outlet|nou|1|The company has a new {outlet} in Ankara.
+outline|ver|1|She {outlined} her plan.
+outlive|ver||She {outlived} her husband by ten years.
+outlook|nou|1|
+outrage|nou|1|
+outrageous|adj|2|The prices are {outrageous}.
+outshine|ver|2|She {outshone} all the other singers.
+outside|adj|1|The {outside} walls are white.
+outside|adv|1|The children are playing {outside}.

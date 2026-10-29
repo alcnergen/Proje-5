@@ -1,0 +1,150 @@
+universal|adj||Music is a {universal} language.
+unjustly|adv||He was {unjustly} accused.
+unkind|adj|1|It was {unkind} of you to say that.
+unknown|adj||The cause of the fire is {unknown}.
+unlike|adj|1|The two sisters are quite {unlike}.
+unlikely|adj|1|It's {unlikely} to rain today.
+unload|ver|2|
+unlock|ver|1|I {unlocked} the door.
+unmistakable|adj|2|The smell of coffee was {unmistakable}.
+unmistakably|adv|1|She was {unmistakably} angry.
+unnatural|adj|1|Her smile looked {unnatural}.
+unpredictable|adj|1|The weather here is {unpredictable}.
+unrealistic|adj||Your plan is {unrealistic}.
+unreasonable|adj|1|
+unrelated|adj|1|
+unreliable|adj|2|The bus service is very {unreliable}.
+unrest|nou|1|
+unsafe|adj|2|
+unselfish|adj|1|
+unstoppable|adj||The team seemed {unstoppable}.
+unsure|adj|2|I'm {unsure} what to do.
+untidy|adj||His room is always {untidy}.
+untreated|adj|1|If left {untreated}, the infection can spread.
+unusual|adj|1|It's {unusual} for him to be late.
+unwanted|adj|1|We sold our {unwanted} furniture.
+unwilling|adj|1|
+unwise|adj|1|It would be {unwise} to go out in the storm.
+unworldly|adj|2|He was a shy, {unworldly} young man.
+up|adv||She looked {up} at the sky.
+upbringing|nou|2|
+update|ver||Please {update} your password.
+upgrade|nou|6|The office needs a computer {upgrade}.
+upgrade|ver|2|We {upgraded} our phones.
+upper|adj||She lives on the {upper} floor.
+upright|adj||Keep your back {upright}.
+upset|adj|1|She was {upset} about the news.
+upset|ver|2|His words {upset} her.
+upside down|adv||The picture is hanging {upside down}.
+upstairs|adv|1|The bedrooms are {upstairs}.
+upstairs|nou||The {upstairs} of the house needs painting.
+up-to-date|adj|1|We need {up-to-date} information.
+upward|adj|1|There is an {upward} trend in prices.
+urge|nou|2|I had an {urge} to call her.
+urge|ver|2|The doctor {urged} him to stop smoking.
+urgent|adj||I have an {urgent} message for you.
+urgently|adv||We {urgently} need help.
+usage|nou||Water {usage} rises in summer.
+useful|adj|1|This is a {useful} book.
+usher|ver||The waiter {ushered} us to our table.
+utility|nou|2|The {utility} of this tool is clear.
+utter|ver||She didn't {utter} a word.
+vacancy|nou|2|
+vain|adj|1|
+valentine|nou|2|She sent him a {valentine}.
+value|ver||I {value} your friendship.
+van|nou|5|
+vanish|ver|2|The magician made the rabbit {vanish}.
+vanity|nou|1|His {vanity} annoys everyone.
+varied|adj|1|She has a {varied} diet.
+vary|ver|1|Prices {vary} from shop to shop.
+vast|adj||Russia is a {vast} country.
+vehicle|nou||The {vehicle} was parked outside.
+vein|nou||The nurse found a {vein} in my arm.
+venture|nou|3|
+venue|nou|1|
+verbal|adj||They made a {verbal} agreement.
+verbally|adv|2|He was {verbally} attacked.
+verse|nou|3|
+verse|ver|2|She is well {versed} in history.
+very|adj|2|This is the {very} book I wanted.
+very|adv|1|I'm {very} tired.
+vibrate|ver|1|
+vibration|nou||I felt the {vibration} of my phone.
+video|nou|2|Let's watch a {video}.
+viewpoint|nou|1|Try to see it from my {viewpoint}.
+vigor|nou|2|
+vigorously|adv||He shook his head {vigorously}.
+violent|adj|1|He was a {violent} man.
+virtual|adj|2|We took a {virtual} tour of the museum.
+visibly|adv|1|She was {visibly} upset.
+visit|ver||We {visited} my grandparents.
+vital|adj|1|Exercise is {vital} for good health.
+vividly|adv||I {vividly} remember that day.
+vocabulary|nou|2|Reading helps you build your {vocabulary}.
+volunteer|nou|2|
+vote|ver||Did you {vote} in the election?
+vow|nou||They made a {vow} to love each other forever.
+vowel|nou|2|
+voyage|nou|1|
+wagon|nou|1|
+wait|ver||Please {wait} here.
+waiter|nou|1|
+wake|nou|3|The boat left a long {wake}.
+wake|ver||I {woke} up at six.
+walkabout|nou|2|
+walker|nou|3|
+wander|ver||We {wandered} around the old town.
+want|ver|1|I {want} a new phone.
+war|nou||The {war} lasted five years.
+ward|nou|3|He is in the children's {ward}.
+warm|adj||It's {warm} today.
+warmly|adv|1|
+warmth|nou|1|We enjoyed the {warmth} of the fire.
+warn|ver|1|I {warned} him about the danger.
+wash|nou|2|My car needs a {wash}.
+wash|ver||{Wash} your hands before eating.
+wasp|nou|2|
+waste|nou|2|It's a {waste} of time.
+waste|ver|1|Don't {waste} money on that.
+wasteful|adj|2|It's {wasteful} to throw away good food.
+watch|nou|1|
+watch|ver||We {watched} a film last night.
+water|nou||Can I have a glass of {water}?
+water|ver|2|Don't forget to {water} the plants.
+wave|nou||The {waves} were very high.
+wave|ver|1|She {waved} goodbye.
+wax|ver|1|
+weak|adj||She felt {weak} after the illness.
+weaken|ver|1|The illness {weakened} his heart.
+weakly|adv||She smiled {weakly}.
+wear|ver|1|She is {wearing} a red dress.
+wearisome|adj||It was a long and {wearisome} journey.
+web|nou|5|You can find it on the {web}.
+wed|ver||They {wed} in June.
+week|nou||I'll see you next {week}.
+weekly|adv||We meet {weekly}.
+weight|nou||He has lost {weight}.
+weird|adj|2|That's a {weird} idea.
+welcome|adj||You're always {welcome} here.
+welcome|nou|2|They gave us a warm {welcome}.
+welcome|ver|2|
+well|adj|1|I don't feel {well}.
+well|adv|1|She sings very {well}.
+well-balanced|adj|2|
+well-known|adj|1|He is a {well-known} actor.
+west|adv||We drove {west}.
+westward|adv||The ship sailed {westward}.
+wet|adj||My shoes are {wet}.
+wheel|nou||The car has four {wheels}.
+while|nou||Wait here for a {while}.
+whistle|nou||The referee blew his {whistle}.
+white|nou||She was dressed in {white}.
+whole|adj|1|I ate the {whole} cake.
+whole|nou|2|The parts make up a {whole}.
+wide|adj|1|The river is very {wide}.
+wide|adv|2|Open your mouth {wide}.
+widely|adv|2|English is {widely} spoken.
+widen|ver||They are going to {widen} the road.
+wild|adj||There are {wild} animals in the forest.
+wilderness|nou|3|They got lost in the {wilderness}.

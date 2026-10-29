@@ -1,0 +1,150 @@
+selfish|adj||Don't be so {selfish}; share your toys.
+send|ver||I'll {send} you the photos.
+senior|nou|2|
+sense|nou|3|Dogs have a strong {sense} of smell.
+sense|ver|3|She {sensed} that something was wrong.
+sensible|adj||That's a {sensible} idea.
+separate|ver||{Separate} the eggs.
+separation|nou|5|The {separation} from his family was hard.
+sequence|nou|1|Put the pictures in the right {sequence}.
+serial|adj|1|
+seriously|adv|1|Please take this {seriously}.
+servant|nou||The rich family had many {servants}.
+service|ver|2|I need to have my car {serviced}.
+session|nou||The training {session} lasts two hours.
+setting|nou|1|The hotel is in a beautiful {setting}.
+settlement|nou|3|Both sides agreed to a {settlement}.
+settler|nou|1|
+severe|adj|1|There was a {severe} storm last night.
+severely|adv|1|He was {severely} injured.
+sew|ver|1|My grandmother {sews} her own clothes.
+sexual|adj||The film has some {sexual} content.
+shabby|adj|1|
+shadow|nou||The tree cast a long {shadow}.
+shadow|ver|1|The detective {shadowed} the suspect.
+shadowy|adj|1|We walked through a {shadowy} forest.
+shake|ver|1|{Shake} the bottle before use.
+shaken|adj||She was {shaken} by the accident.
+shame|nou||He felt deep {shame}.
+shameful|adj|1|His behaviour was {shameful}.
+share|ver||We {share} a flat.
+sharp|adv||The meeting starts at ten {sharp}.
+sharply|adv|4|Prices rose {sharply}.
+shatter|ver||The glass {shattered}.
+shave|ver||He {shaves} every morning.
+sheep|nou||The farmer has fifty {sheep}.
+sheer|adj|1|It was {sheer} luck.
+shell|nou|2|We collected {shells} on the beach.
+shell|ver|3|{Shell} the peas.
+shift|nou|3|She works the night {shift}.
+shift|ver|3|He {shifted} the boxes to the other room.
+shine|ver||The sun is {shining}.
+shiny|adj|1|She has {shiny} black shoes.
+ship|ver|1|We {ship} our products all over the world.
+shipping|nou|1|
+shipwreck|nou|1|Divers explored the old {shipwreck}.
+shock|ver|1|The news {shocked} everyone.
+shocking|adj|2|The pictures were {shocking}.
+shooting|nou|2|There was a {shooting} in the city centre.
+shop|ver|1|
+shoplifting|nou||He was arrested for {shoplifting}.
+shopper|nou|1|
+shopping|nou|1|We went {shopping} on Saturday.
+short|adv|1|He stopped {short}.
+short|nou|0|
+shortly|adv|2|The doctor will see you {shortly}.
+shortness|nou|4|The {shortness} of the holiday disappointed us.
+shot|nou||He fired a {shot}.
+shoulder|nou||She put her bag on her {shoulder}.
+showcase|nou||The festival is a {showcase} for young artists.
+shrimp|nou|2|
+shut|adj||The shop is {shut} on Sundays.
+shut|ver|1|
+shy|adj|1|She was too {shy} to speak.
+sick|adj|1|She is {sick} today.
+sickness|nou||He missed work because of {sickness}.
+sigh|nou|1|She gave a {sigh} of relief.
+significance|nou|1|The discovery is of great {significance}.
+significantly|adv|2|Prices have increased {significantly}.
+signify|ver|1|A red light {signifies} danger.
+silence|nou|2|There was {silence} in the room.
+silent|adj|1|The house was {silent}.
+silly|adj|1|Don't be {silly}!
+similar|adj||Our houses are very {similar}.
+simple|adj|2|The test was {simple}.
+simplification|nou|3|
+simplify|ver||Let me {simplify} the explanation.
+simply|adv||I {simply} don't understand.
+sincere|adj|1|Please accept my {sincere} thanks.
+sincerity|nou|2|I don't doubt his {sincerity}.
+singer|nou|1|
+single|adj|4|Is she married or {single}?
+single|nou|1|
+singular|adj|5|"Child" is the {singular} form.
+sink|nou|1|
+sit|ver||Please {sit} down.
+site|nou|1|This is the {site} of the new hospital.
+situation|nou|2|I'm in a difficult {situation}.
+skate|nou|1|
+skate|ver||She {skates} on the frozen lake.
+skeleton|nou||A human {skeleton} has 206 bones.
+sketch|ver|1|He {sketched} the old church.
+skill|nou||Reading is an important {skill}.
+skilled|adj||We need {skilled} workers.
+skillfully|adv||She {skillfully} parked the car.
+skim|ver|3|I {skimmed} the newspaper.
+skip|ver|2|He often {skips} breakfast.
+slam|ver|1|
+slaughter|nou|3|
+slave|nou||He was sold as a {slave}.
+slavery|nou|2|
+sleep|ver||I {slept} for ten hours.
+slice|nou||Can I have a {slice} of bread?
+slice|ver|3|
+slide|nou||The children love the {slide} in the park.
+slight|adj|1|I have a {slight} headache.
+slim|adj|1|She is tall and {slim}.
+slip|nou|2|It was just a small {slip}.
+slope|nou|1|The house stands on a steep {slope}.
+slot|nou|2|Put a coin in the {slot}.
+slow|adv|1|Go {slow} on this road.
+slow|ver||The car {slowed} at the corner.
+slowly|adv|1|
+smash|ver||The ball {smashed} the window.
+smell|ver||The bread {smells} delicious.
+smith|nou|0|
+smoke|nou|1|There was {smoke} coming from the kitchen.
+smoker|nou|1|
+smoking|nou|1|
+smooth|adj|1|Her skin is very {smooth}.
+smoothly|adv|1|Everything went {smoothly}.
+snap|ver|3|
+sneak|ver|1|He {sneaked} out of the house.
+sneer|nou|1|
+snore|nou|1|
+snow|ver|1|It {snowed} all night.
+snowball|nou|4|
+snowy|adj|1|
+so|adv||I'm {so} happy for you.
+soak|nou|2|Give the beans a long {soak}.
+soak|ver|1|{Soak} the rice for an hour.
+soar|ver|1|Prices {soared} last year.
+sociable|adj|1|She is very {sociable}.
+social|adj||Humans are {social} animals.
+socially|adv|1|
+society|nou||We live in a modern {society}.
+sock|nou|1|
+soft|adj||This pillow is very {soft}.
+softly|adv|1|She spoke {softly}.
+soil|nou||The {soil} here is very rich.
+soil|ver||He {soiled} his new shirt.
+solidity|nou|3|The company is known for its financial {solidity}.
+soliloquy|nou|2|
+solo|adj||She made a {solo} trip around the world.
+someday|adv||{Someday}, I'll visit Japan.
+somehow|adv|1|We'll finish the job {somehow}.
+somewhat|adv|1|I was {somewhat} surprised.
+soothe|ver|2|The music {soothed} the baby.
+sophisticated|adj|2|It's a {sophisticated} computer system.
+sore|adj|1|I have a {sore} throat.
+sorrow|nou|1|She couldn't hide her {sorrow}.

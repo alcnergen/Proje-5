@@ -175,7 +175,7 @@ evil|n|kötülük|
 evolution|n|evrim|
 evolve|v|evrimleşmek, gelişmek|
 exactness|n|kesinlik|
-exaggerate|n|abartı|
+exaggerate|n|-|
 exaggeration|n|abartı|
 exalt|v|yüceltmek|
 examinee|n|sınava giren|Each {examinee} gets a number.

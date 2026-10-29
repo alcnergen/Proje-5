@@ -1,0 +1,150 @@
+cellular|adj|1|The study looks at {cellular} changes in the body.
+landmark|nou||The tower is a famous {landmark}.
+liable|adj|4|You will be {liable} for any damage.
+trademark|nou|2|
+haul|ver|1|They {hauled} the boat out of the water.
+leverage|nou|2|The union used its {leverage} to win higher wages.
+militia|nou||The {militia} took control of the town.
+verify|ver|1|Please {verify} your email address.
+abusive|adj|1|He became {abusive} when he was drunk.
+inclined|adj|1|I'm {inclined} to agree with you.
+ninja|nou|1|
+problematic|adj|1|The situation is {problematic}.
+promotional|adj|1|
+underway|adj||Work on the new bridge is {underway}.
+wee|adj|1|Just a {wee} bit of milk, please.
+dough|nou|1|
+fellowship|nou|2|We enjoyed the {fellowship} of our neighbours.
+fragile|adj|1|Be careful, the glass is {fragile}.
+fringe|nou||She had a {fringe} cut.
+judiciary|nou|2|
+operative|adj|1|The law will be {operative} from next year.
+pickup|nou||He drives a {pickup} truck.
+radius|nou||The circle has a {radius} of 5 cm.
+sovereignty|nou|1|
+stunt|nou|1|
+thrust|ver|1|He {thrust} his hands into his pockets.
+arbitrary|adj||The decision seemed {arbitrary}.
+compilation|nou|1|
+genesis|nou|1|
+incorporate|ver|1|We {incorporated} his ideas into the plan.
+therapeutic|adj|1|
+gel|nou|1|
+heroic|adj|5|The firefighters made a {heroic} effort.
+mat|nou|1|Wipe your feet on the {mat}.
+nationally|adv|2|
+renewal|nou|2|
+swamp|nou|1|Alligators live in the {swamp}.
+treason|nou|1|
+vanilla|nou|2|
+activation|nou|3|
+borough|nou|1|
+diagnostic|adj|1|They ran some {diagnostic} tests.
+differential|nou|2|
+dominance|nou|2|The company has {dominance} in the market.
+economically|adv|3|The country is growing {economically}.
+nationalism|nou||{Nationalism} grew after the war.
+outright|adv|2|She told him {outright} that she disagreed.
+oversight|nou|1|
+prototype|nou||The engineers built a {prototype}.
+startup|nou|2|She works for a tech {startup}.
+congregation|nou|1|The priest spoke to the {congregation}.
+consolidated|adj|1|
+coordinate|ver||She {coordinates} the project.
+guru|nou|3|
+lace|ver|4|
+maiden|nou|1|
+marketplace|nou||The {marketplace} was full of people.
+metallic|adj||The car is {metallic} blue.
+nickel|nou||Can I borrow a {nickel}?
+redemption|nou|1|
+replay|nou|2|
+slate|ver|1|The meeting is {slated} for Monday.
+tee|nou|3|
+token|nou||Please accept this gift as a {token} of our thanks.
+twilight|nou||We walked home in the {twilight}.
+unprecedented|adj||The storm caused {unprecedented} damage.
+bash|nou|2|We're having a birthday {bash}.
+battalion|nou|1|
+inferior|adj|2|These goods are {inferior}.
+intro|nou|2|
+kindle|ver|2|They {kindled} a fire.
+manor|nou|1|
+protestant|adj|1|
+reliance|nou|2|We must reduce our {reliance} on oil.
+taxation|nou|3|
+atlas|nou|2|
+cavalry|nou|1|
+definitive|adj|3|This is the {definitive} answer.
+extraction|nou|3|The dentist recommended an {extraction}.
+filthy|adj|1|His clothes were {filthy}.
+flush|ver||Don't forget to {flush} the toilet.
+font|nou|1|
+glue|ver|1|{Glue} the pieces together.
+predominantly|adv||The area is {predominantly} rural.
+providence|nou|2|
+reproductive|adj||She studies the {reproductive} system.
+righteous|adj|1|He was a {righteous} man.
+thankfully|adv|2|{Thankfully}, nobody was hurt.
+vent|ver|1|She {vented} her anger on her brother.
+capitalist|adj|1|
+constable|nou|3|
+counselor|nou|1|
+curb|nou|1|
+destined|adj|2|He was {destined} to become a great leader.
+inconsistent|adj|1|His work is {inconsistent}.
+populated|adj||It's a densely {populated} city.
+probation|nou|2|He was put on {probation} for two years.
+receptor|nou|1|
+reproduction|nou||The painting is a {reproduction}.
+amended|adj|1|
+bodily|adv||He was lifted {bodily} into the car.
+exempt|adj|1|Students are {exempt} from the fee.
+foremost|adj|1|He is one of the {foremost} experts in the field.
+forge|ver|2|He {forged} his father's signature.
+lightweight|nou|1|
+notch|ver|2|
+omega|nou|2|
+parole|nou|3|
+questionable|adj|1|His motives are {questionable}.
+traction|nou|1|The tyres have good {traction}.
+antenna|nou||The car has a radio {antenna}.
+bravo|nou|2|
+fairness|nou|1|We believe in {fairness} for all.
+floral|adj|1|
+memoir|nou|1|
+pathway|nou|2|
+scripture|nou|2|
+stereo|nou|1|
+activate|ver|2|
+biased|adj||The newspaper is {biased}.
+dispatch|ver|1|They {dispatched} a team to the area.
+foil|nou|1|Wrap the fish in {foil}.
+horrific|adj|2|It was a {horrific} accident.
+payroll|nou|1|The company has 500 people on its {payroll}.
+photographic|adj|1|
+pinch|ver||He {pinched} my arm.
+resurrection|nou|2|The film saw a {resurrection} of his career.
+rover|nou|1|
+statutory|adj|2|
+stellar|adj|1|
+transplant|ver|3|Doctors {transplanted} a new heart into the patient.
+turf|nou||The players ran onto the {turf}.
+unveiled|adj||The {unveiled} plans surprised everyone.
+accelerated|adj||She took an {accelerated} course.
+ark|nou|2|
+cue|nou|1|
+disciplinary|adj|1|He faced {disciplinary} action.
+eligibility|nou||Check your {eligibility} for the grant.
+finite|adj|1|
+flagship|nou||This is the company's {flagship} store.
+gore|ver|1|
+terminated|adj|2|
+valuation|nou|1|We had a {valuation} done on the house.
+authorization|nou|3|You need {authorization} to enter.
+bounty|nou|1|
+compass|nou||We used a {compass} to find our way.
+dwelling|nou||The house is a private {dwelling}.
+initiate|ver|1|They {initiated} talks with the union.
+jealousy|nou|1|She felt a pang of {jealousy}.
+renovation|nou|1|The hotel is closed for {renovation}.

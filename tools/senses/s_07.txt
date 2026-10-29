@@ -1,0 +1,150 @@
+excitement|nou|1|The children were full of {excitement}.
+exciting|adj|1|It was an {exciting} match.
+exclaim|ver||"How beautiful!" she {exclaimed}.
+exclude|ver|1|Don't {exclude} anyone from the game.
+exclusion|nou|1|
+exclusive|adj|1|The hotel has an {exclusive} beach.
+excursion|nou|1|We went on an {excursion} to Cappadocia.
+execute|ver|6|The plan was {executed} perfectly.
+executive|nou|1|
+exercise|ver||I {exercise} every morning.
+exhausted|adj|3|I'm {exhausted} after the long trip.
+exhausting|adj|2|It was an {exhausting} day.
+exhaustion|nou|1|
+exhibition|nou||We visited a photo {exhibition}.
+exile|nou||The poet lived in {exile} for many years.
+exist|ver|1|Do ghosts really {exist}?
+existence|nou|1|Scientists doubt the {existence} of life on Mars.
+existing|adj|1|We need to improve the {existing} system.
+expand|ver|2|Metals {expand} when heated.
+expansion|nou|1|The company plans an {expansion} into Europe.
+expected|adj||The {expected} rain never came.
+expedition|nou|3|They went on an {expedition} to the North Pole.
+expense|nou|1|Travel is a big {expense} for us.
+experiment|nou||We did an {experiment} in the chemistry lab.
+experiment|ver|2|She likes to {experiment} with new recipes.
+expert|adj|1|
+explain|ver|1|Can you {explain} this rule to me?
+exploration|nou|1|Space {exploration} is very expensive.
+explore|ver|2|We {explored} the old town on foot.
+explorer|nou|1|
+explosive|adj|1|
+express|nou|2|We took the {express} to the airport.
+express|ver||He finds it hard to {express} his feelings.
+expression|nou||"Break a leg" is an English {expression}.
+exquisite|adj|3|
+extension|nou|1|I asked for an {extension} for my essay.
+extensively|adv||She has travelled {extensively} in Asia.
+external|adj||The {external} walls need painting.
+extinct|adj|1|Dinosaurs are {extinct}.
+extinction|nou|2|Many animals face {extinction}.
+extra|nou||The price includes all the {extras}.
+extract|nou|2|
+extract|ver|1|The dentist {extracted} my tooth.
+extraordinarily|adv||She is {extraordinarily} talented.
+extreme|adj|1|The {extreme} heat killed many plants.
+extremely|adv|2|
+eye|nou||She has blue {eyes}.
+fabulous|adj|1|We had a {fabulous} time.
+face|nou|1|She has a beautiful {face}.
+face to face|adv||We finally met {face to face}.
+facilitate|ver|1|The new road will {facilitate} trade.
+facilities|nou|1|
+facility|nou|1|The city has a new sports {facility}.
+fade|ver||The colours {faded} in the sun.
+faint|adj|1|There was a {faint} smell of smoke.
+fair|nou||We went to the book {fair}.
+fairly|adv|1|The test was {fairly} easy.
+faithful|adj|1|He is a {faithful} friend.
+fake|adj||The police found {fake} passports.
+fall|ver||Leaves {fall} in autumn.
+fallen|adj|1|The road was blocked by a {fallen} tree.
+false|adj|1|Is this statement true or {false}?
+falter|ver|1|The economy began to {falter}.
+familiar|adj||Your face looks {familiar}.
+familiarize|ver||Take time to {familiarize} yourself with the rules.
+fan|nou|1|
+fancy|nou|3|
+fancy|ver|2|Do you {fancy} a cup of tea?
+fantastic|adj|2|The food was {fantastic}.
+fantasy|nou||She lives in a world of {fantasy}.
+far|adv|2|How {far} is the station?
+faraway|adj||He dreamed of {faraway} countries.
+fare|nou|2|
+farm|nou||They live on a {farm}.
+farming|nou||{Farming} is hard work.
+farmland|nou|2|
+farther|adv|2|We walked {farther} into the forest.
+farthest|adv|1|Who can throw the ball {farthest}?
+fascinate|ver||Space has always {fascinated} me.
+fascinating|adj|1|
+fascination|nou|1|He has a {fascination} with old cars.
+fashionable|adj|1|She always wears {fashionable} clothes.
+fast|adj|1|He drives a {fast} car.
+fast|adv|1|Don't drive so {fast}.
+fasten|ver|4|Please {fasten} your seat belt.
+fatal|adj|1|It was a {fatal} accident.
+faulty|adj|1|The machine has a {faulty} part.
+favor|nou|1|Could you do me a {favor}?
+favorable|adj|1|The film got {favorable} reviews.
+favorite|adj|2|
+favorite|nou|1|This song is my {favorite}.
+fear|nou||She has a {fear} of flying.
+feast|nou||They prepared a {feast} for the wedding.
+feat|nou||Climbing Everest is an amazing {feat}.
+feature|nou|1|The phone has many new {features}.
+feature|ver|1|The film {features} a famous actor.
+fed up|adj||I'm {fed up} with this weather.
+feel|nou|3|I like the {feel} of silk.
+feel|ver||I {feel} tired today.
+fellow|nou||He's a nice {fellow}.
+fence|nou|1|
+festive|adj||The streets have a {festive} atmosphere.
+fetch|ver|1|Can you {fetch} me a glass of water?
+fever|nou|1|The child has a high {fever}.
+fiber|nou|2|
+fictional|adj|1|Sherlock Holmes is a {fictional} detective.
+fierce|adj|2|There was a {fierce} argument.
+fifth|nou|2|He finished {fifth} in the race.
+figurative|adj|1|The word is used in a {figurative} sense.
+figure|ver|1|I {figured} you'd be hungry.
+file|ver||Please {file} these documents.
+filial|adj|2|
+fill|ver|1|{Fill} the glass with water.
+filling|nou||The pie has an apple {filling}.
+final|adj||This is your {final} chance.
+find|ver||I can't {find} my phone.
+fine|adv|1|
+fine|ver||He was {fined} for speeding.
+finely|adv|1|Chop the garlic {finely}.
+finish|nou|2|The {finish} of the race was exciting.
+fire brigade|nou|2|
+firearm|nou||Police found a {firearm} in his car.
+firm|adj||The bed is very {firm}.
+firmly|adv|3|
+firmness|nou|2|
+first|adj|1|January is the {first} month of the year.
+first lady|nou|2|
+fish|ver|2|We went to {fish} in the lake.
+fit|adj|3|He goes to the gym to keep {fit}.
+fit|nou|1|He had a {fit} when he saw the bill.
+fit|ver||These shoes don't {fit} me.
+fitness|nou|2|Swimming improves your {fitness}.
+fix|nou||This is only a quick {fix}.
+fix|ver||Can you {fix} my bike?
+fixed|adj|1|The shop has {fixed} prices.
+flag|nou|1|
+flash|nou||Don't use a {flash} in the museum.
+flash|ver|1|The lights {flashed} on and off.
+flat|adv|2|She refused {flat}.
+flat|nou||They live in a small {flat}.
+flavor|nou|2|
+flaw|nou|1|There is a {flaw} in this glass.
+flesh|nou|3|The {flesh} of the melon is sweet.
+flexibility|nou|2|I like the {flexibility} of my job.
+flexibly|adv||We need to think {flexibly}.
+flight|nou||Our {flight} leaves at noon.
+flip|ver||{Flip} a coin to decide.
+float|ver||The boat {floated} down the river.
+flock|nou|5|
+flood|nou||The {flood} destroyed many homes.

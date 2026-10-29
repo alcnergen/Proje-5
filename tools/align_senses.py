@@ -10,7 +10,10 @@ A sense matches when one of its Turkish lemmas equals one of our Turkish glosses
 
 When no sense matches we keep a definition only from the sense with the
 highest SemCor frequency and drop WordNet's example (an authored example is
-used instead when one exists). Rewrites def/ex in tools/base.json and writes a
+used instead when one exists). Senses picked by hand in tools/sense_picks.txt
+(written by review_senses.py apply) override the automatic choice; "-" there
+means no WordNet sense fits the Turkish meaning, so no definition is kept.
+Rewrites def/ex in tools/base.json and writes a
 report to tools/align_report.txt.
 
 usage: NLTK_DATA=... python3 tools/align_senses.py KENET_XML ILI_MAP_TAB
@@ -88,6 +91,14 @@ def forms_rx(w):
     return re.compile(r'\b(' + b + r'(?:s|es|ed|d|ing|er|est)?|' + stem + r'(?:ied|ies|ing|ed|ier|iest)|' + b + r'[a-z](?:ed|ing|er|est))\b', re.I)
 
 
+picks = {}
+pf = os.path.join(HERE, 'sense_picks.txt')
+if os.path.exists(pf):
+    for line in open(pf, encoding='utf-8'):
+        p3 = line.rstrip('\n').split('|')
+        if len(p3) == 3:
+            picks[(p3[0].lower(), p3[1])] = p3[2]
+
 base = json.load(open(os.path.join(HERE, 'base.json'), encoding='utf-8'))
 stats = defaultdict(int)
 report = []
@@ -104,7 +115,15 @@ for e in base:
     for g in re.split(r'[;,/]', tr.get((e['w'].lower(), e['pos']), '')):
         gl |= variants(g)
     match = None
-    for s in ss:
+    pick = picks.get((e['w'].lower(), e['pos']))
+    if pick == '-':
+        stats['picked_none'] += 1
+        e['def'], e['ex'], e['sense_ok'] = '', '', False
+        continue
+    if pick:
+        match = wn.synset(pick)
+        stats['picked'] += 1
+    for s in ([] if match else ss):
         key = (s.offset(), 'a' if s.pos() in 'as' else s.pos())
         if gl & tr_by_offset.get(key, set()):
             match = s

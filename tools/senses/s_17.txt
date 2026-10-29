@@ -1,0 +1,150 @@
+respectably|adv|2|He was {respectably} dressed.
+respond|ver||She didn't {respond} to my message.
+responsible|adj|2|Who is {responsible} for this mess?
+rest|nou|2|You need some {rest}.
+rest|ver|2|Let's {rest} for ten minutes.
+restrict|ver|3|The new law {restricts} smoking in public places.
+restriction|nou||There are {restrictions} on travel.
+resume|ver|1|The match {resumed} after the rain.
+retard|ver|1|Cold weather {retards} plant growth.
+retell|ver|3|
+retreat|nou|2|The cottage is a quiet {retreat} in the hills.
+retreat|ver||The army {retreated}.
+retrieve|ver|1|I {retrieved} my bag from the lost property office.
+return|nou||We look forward to your {return}.
+reunification|nou||The {reunification} of Germany took place in 1990.
+reunion|nou|1|
+reveal|ver|2|He {revealed} the secret to his friend.
+revenue|nou|1|
+reverence|nou|1|They spoke of him with {reverence}.
+reverse|ver|5|
+review|nou|2|The film got good {reviews}.
+review|ver||Let's {review} the main points.
+revise|ver|1|
+revision|nou|1|The plan needs some {revision}.
+revival|nou|1|There has been a {revival} of interest in folk music.
+revolutionary|adj|1|
+revolutionize|ver|1|The internet {revolutionized} communication.
+revolve|ver|2|The Earth {revolves} around the sun.
+reward|nou|1|He received a {reward} for finding the wallet.
+reward|ver||The company {rewards} hard work.
+rhyme|ver|2|
+ribbon|nou|4|
+rich|adj|1|He became {rich} by selling cars.
+rid|ver||We need to get {rid} of these old boxes.
+riddle|ver|1|The wall was {riddled} with bullet holes.
+ride|nou|1|
+ride|ver|1|She learned to {ride} a horse.
+rider|nou|1|
+ridiculous|adj|2|You look {ridiculous} in that hat.
+right|adj||That's the {right} answer.
+right|adv||Turn {right} at the bank.
+right-hand|adj|1|
+rightly|adv||She was {rightly} angry.
+rim|nou||There was a crack in the {rim} of the cup.
+ring|nou||He gave her a diamond {ring}.
+ring|ver||The phone is {ringing}.
+ripe|adj||These bananas aren't {ripe} yet.
+rise|nou||There has been a {rise} in prices.
+ritual|nou|1|
+roar|ver||The lion {roared}.
+roast|ver|1|We {roasted} a chicken for dinner.
+rob|ver|1|
+robbery|nou|1|
+robin|nou|1|
+rock|ver|1|She {rocked} the baby to sleep.
+rocky|adj|1|We walked along a {rocky} path.
+role|nou||She played the main {role} in the film.
+roll|nou||I had a cheese {roll} for lunch.
+rolling|adj||We drove through {rolling} hills.
+romance|nou|1|
+romantic|adj||We had a {romantic} dinner.
+roof|nou||The {roof} is leaking.
+room|ver||She {rooms} with a friend at university.
+rosy|adj|1|
+rotten|adj||The apples are {rotten}.
+rough|adj||The sea was {rough} today.
+roughly|adv|1|There were {roughly} fifty people.
+round|adv||Turn {round} and look at me.
+round|nou||He was knocked out in the third {round}.
+round|ver|6|
+roundabout|nou|1|
+routine|nou||Exercise is part of my daily {routine}.
+row|nou|1|We sat in the front {row}.
+royal|adj|1|The {royal} family lives in a palace.
+royalty|nou|1|The writer receives {royalties} on every book.
+rude|adj||Don't be {rude} to your teacher.
+ruin|ver|1|The rain {ruined} our picnic.
+ruinous|adj|1|The war was {ruinous} for the economy.
+rule|ver|1|
+runaway|nou|2|
+runner|nou||She is a fast {runner}.
+running|nou|2|{Running} is good for your heart.
+runway|nou|4|
+rural|adj||They live in a {rural} area.
+rush|nou||There's no {rush}.
+rush|ver|1|She {rushed} to the hospital.
+sack|ver||He was {sacked} for being late.
+sacred|adj|3|The river is {sacred} to Hindus.
+sadly|adv|1|{Sadly}, he died last year.
+sadness|nou|2|There was {sadness} in her eyes.
+safe|adj|1|Is it {safe} to swim here?
+safeguard|nou|1|The law is a {safeguard} for workers.
+safeguard|ver|1|
+safely|adv||They arrived {safely}.
+safety|nou|1|{Safety} is our first priority.
+sag|nou||There is a {sag} in the middle of the bed.
+sage|nou|1|
+sail|ver|3|We {sailed} to the island.
+sailing|nou|2|
+sake|nou|1|He moved to the coast for the {sake} of his health.
+sale|nou|1|The {sale} of the house took months.
+salesmanship|nou||Good {salesmanship} helped him sell the car.
+sample|nou|1|
+sandy|adj|2|
+sanitary|adj||The {sanitary} conditions were poor.
+sanitation|nou|1|
+satisfactory|adj|2|The results were {satisfactory}.
+satisfied|adj|1|
+satisfy|ver|2|
+saucer|nou|2|
+save|ver||I'm {saving} money for a car.
+saw|ver||He {sawed} the wood in half.
+say|nou||Everyone should have a {say} in the decision.
+say|ver||What did you {say}?
+scale|nou|2|We didn't realize the {scale} of the problem.
+scan|nou|2|The doctor looked at the {scan}.
+scan|ver|2|
+scarcely|adv|2|I could {scarcely} believe it.
+scare|ver|1|
+scared|adj||Don't be {scared}.
+scarf|nou|1|
+scenery|nou|2|The {scenery} in Cappadocia is amazing.
+scenic|adj|1|
+schedule|nou|1|
+scheduled|adj||The {scheduled} flight was cancelled.
+scheme|nou|1|
+scholar|nou|1|
+science|nou||She loves {science}.
+scope|nou|1|This is beyond the {scope} of the project.
+score|ver|1|He {scored} two goals.
+scramble|ver|2|We {scrambled} up the rocks.
+scratch|nou||There's a {scratch} on my car.
+scream|ver||She {screamed} when she saw the snake.
+screen|nou||My phone {screen} is broken.
+screen|ver|4|The film will be {screened} next week.
+scribble|nou|1|
+sculpture|nou|1|
+search|nou||The {search} for the missing boy continued all night.
+search|ver||I {searched} everywhere for my keys.
+seat|nou|1|Is this {seat} free?
+second|adv||First, I'm tired; {second}, I'm hungry.
+second|nou||Wait a {second}.
+secret|adj|1|They had a {secret} meeting.
+sector|nou||He works in the public {sector}.
+secure|adj|2|Keep your passport in a {secure} place.
+seek|ver||They {sought} help from the police.
+select|adj|1|
+selection|nou||The shop has a large {selection} of books.
+self|nou|1|
+self-confident|adj||She is a {self-confident} young woman.

@@ -1,0 +1,150 @@
+application|nou|2|I sent my job {application} yesterday.
+appoint|ver|1|They {appointed} her as the new manager.
+appointment|nou||I have a dentist {appointment} at three.
+appreciate|ver||I really {appreciate} your help.
+appreciation|nou||She showed her {appreciation} with a small gift.
+appreciative|adj|1|The audience was very {appreciative}.
+approve|ver|1|The bank {approved} my loan.
+apron|nou|1|
+arch|nou||We walked under an old stone {arch}.
+argue|ver|2|My brothers always {argue} about football.
+arm|nou||She broke her {arm} skiing.
+around|adv|1|Is there a bank {around} here?
+arouse|ver||The story {aroused} my curiosity.
+arrangement|nou||We made an {arrangement} to meet on Friday.
+arrest|nou||The police made three {arrests}.
+articulate|ver|5|She {articulated} her ideas clearly.
+artificial|adj||These flowers are {artificial}.
+ashamed|adj||He felt {ashamed} of his behaviour.
+aside|adv|1|She stepped {aside} to let me pass.
+asleep|adj|1|The baby is {asleep}.
+aspiration|nou|2|
+assemble|ver|1|It took an hour to {assemble} the bookcase.
+assembly|nou||The school {assembly} starts at nine.
+assert|ver|1|He {asserted} that he was innocent.
+assess|ver||Teachers {assess} students every term.
+assessment|nou|4|The {assessment} of the damage took a week.
+assign|ver|1|The teacher {assigned} us a project.
+assignment|nou|1|I have to finish my {assignment} tonight.
+assist|ver|1|Volunteers {assisted} the elderly.
+associate|ver||I {associate} this song with summer.
+assure|ver||I {assure} you that it is safe.
+astonished|adj||She was {astonished} by the news.
+astonishing|adj|1|The results were {astonishing}.
+attach|ver|1|Please {attach} a photo to the form.
+attachment|nou||I sent the file as an {attachment}.
+attack|nou|5|The {attack} happened at night.
+attain|ver|1|
+attainment|nou|1|The {attainment} of her goals made her happy.
+attempt|nou||He passed his test at the first {attempt}.
+attend|ver|1|Over 200 people {attended} the meeting.
+attendance|nou|1|{Attendance} at lessons is compulsory.
+attention|nou||Please pay {attention} to the teacher.
+attentive|adj|2|The students were very {attentive}.
+attitude|nou|1|She has a positive {attitude} to life.
+attraction|nou||The Blue Mosque is a major tourist {attraction}.
+attractiveness|nou|1|
+atypical|adj|2|This weather is {atypical} for July.
+audience|nou|1|The {audience} clapped for ten minutes.
+audit|nou|1|The company had a financial {audit}.
+audition|nou|2|
+authoritative|adj|2|
+authorize|ver|1|The manager {authorized} the payment.
+auxiliary|adj|1|The hospital has an {auxiliary} power supply.
+avenue|nou||They live on a quiet {avenue}.
+average|nou|1|The {average} age of the students is twenty.
+avoid|ver|1|Try to {avoid} the city centre at rush hour.
+award|nou||She won an {award} for her book.
+award|ver|1|He was {awarded} a medal.
+aware|adj|1|Are you {aware} of the risks?
+awareness|nou|1|The campaign raised {awareness} of the problem.
+away|adv|5|The beach is five kilometres {away}.
+awe|nou|1|We looked at the mountains in {awe}.
+awful|adj||The weather was {awful}.
+awkward|adj|6|There was an {awkward} silence.
+axis|nou||The Earth turns on its {axis}.
+back|adj|1|We left through the {back} door.
+back|ver|3|My family {backed} my decision.
+backpacking|nou||We went {backpacking} in Asia.
+backup|nou|4|Always keep a {backup} of your files.
+backward|adv|1|He took a step {backward}.
+bacon|nou|1|
+badly|adv|2|He played {badly} in the final.
+bake|ver|1|My mother {baked} a cake.
+balance|nou||I lost my {balance} and fell.
+balance|ver|1|It's hard to {balance} work and family.
+bald|adj|2|My father went {bald} at forty.
+ballad|nou|1|
+ban|ver|2|
+band|nou|5|My brother plays in a rock {band}.
+bang|nou||We heard a loud {bang}.
+bang|ver|1|He {banged} his head on the door.
+bank|ver||I {bank} my salary every month.
+bank account|nou||I opened a {bank account} last week.
+bar|ver|1|
+barbecue|nou|2|
+barely|adv|2|I could {barely} hear him.
+bark|nou|4|
+barn|nou|1|
+barrel|nou||The price of oil is 80 dollars a {barrel}.
+barren|adj|1|
+base|ver|1|The film is {based} on a true story.
+baseball|nou|1|They play {baseball} in the park.
+basic|adj|3|I have a {basic} knowledge of Spanish.
+bat|nou||A {bat} flew out of the cave.
+bat|ver|4|It's your turn to {bat}.
+batch|nou|1|
+bathhouse|nou|2|
+battery|nou||My phone {battery} is dead.
+bay|nou||We swam in a quiet {bay}.
+beam|nou||A {beam} of light came through the window.
+bear|ver|3|I can't {bear} this noise.
+bearing|nou|1|This has no {bearing} on the decision.
+beautifully|adv||She sings {beautifully}.
+bedside|nou||She sat at his {bedside} all night.
+before|adv|1|I've seen this film {before}.
+beg|ver||The child {begged} for an ice cream.
+begin|ver||The lesson {begins} at nine.
+beginner|nou|1|
+behalf|nou|1|I'm calling on {behalf} of my father.
+behavior|nou||His {behavior} at school has improved.
+behind|adv|1|He walked {behind}.
+being|nou||Every living {being} needs water.
+belief|nou||She has a strong {belief} in God.
+bell|nou||The school {bell} rang.
+belly|nou||The baby has a round {belly}.
+below|adv|1|
+belt|nou||He wore a leather {belt}.
+bench|nou||We sat on a {bench} in the park.
+bend|ver||{Bend} your knees.
+beneficial|adj||Exercise is {beneficial} to health.
+benefit|nou|2|The new park is a {benefit} to the town.
+benevolence|nou|1|
+benevolent|adj|1|
+bent|adj|2|The old man walked with a {bent} back.
+berry|nou|1|
+besides|adv||I'm tired, and {besides}, it's late.
+best|adj|1|She is my {best} friend.
+best|adv|1|He likes football {best}.
+bestow|ver|2|The king {bestowed} gifts on his guests.
+better|adj|1|This phone is {better} than the old one.
+better|adv|1|She speaks English {better} than me.
+bewilder|ver|2|
+bid|ver|1|He {bid} 500 lira for the painting.
+bidding|nou|1|He went there at his father's {bidding}.
+bill|ver|1|The hotel {billed} us for the extra night.
+bin|nou|1|
+bind|ver||They {bound} his hands with rope.
+bit|nou|1|Can I have a {bit} of cake?
+bite|nou||The dog gave him a {bite} on the leg.
+bitter|adj|6|
+bitterly|adv|1|
+black|adj|1|She has long {black} hair.
+black|nou|1|She always dresses in {black}.
+blade|nou|4|The {blade} of this knife is very sharp.
+blame|ver|1|Don't {blame} me for your mistakes.
+blank|adj|1|Write your name on a {blank} sheet of paper.
+blanket|nou||It's cold; take another {blanket}.
+blast|nou|4|The {blast} broke every window in the street.
+blast|ver|3|They {blasted} the rock to build the road.
+blaze|nou|1|Firefighters fought the {blaze} for hours.

@@ -1,0 +1,150 @@
+graphic|adj|5|The book gives a {graphic} description of the war.
+graphically|adv|3|He {graphically} described the accident.
+graphics|nou|1|
+grasp|nou|1|She has a good {grasp} of grammar.
+grass|nou|1|
+grateful|adj|1|I'm {grateful} for your help.
+gratitude|nou||She expressed her {gratitude} to the doctors.
+grave|nou|2|They put flowers on his {grave}.
+gravitation|nou|1|Newton explained {gravitation}.
+gravy|nou|1|
+gray|nou|1|
+greatness|nou|1|
+greedy|adj|1|He is too {greedy} to share.
+green|nou||The children played on the village {green}.
+greet|ver|1|She {greeted} us with a smile.
+grief|nou|1|She was overcome with {grief}.
+grieve|ver|1|The family is still {grieving}.
+grill|nou|1|We had lunch at a seafood {grill}.
+grill|ver|1|We {grilled} fish on the beach.
+grilled|adj|1|
+grim|adj||The news was {grim}.
+grip|nou|1|Keep a firm {grip} on the rope.
+grip|ver|1|
+grocery store|nou||I bought milk at the {grocery store}.
+gross|adj||His {gross} salary is 50,000 lira.
+ground floor|nou|1|We live on the {ground floor}.
+grow|ver||Tomatoes {grow} well here.
+growing|adj||There is {growing} interest in electric cars.
+growth|nou||The country had strong economic {growth}.
+guarantee|nou|1|The TV has a two-year {guarantee}.
+guarantee|ver||We {guarantee} fast delivery.
+guard|nou|1|A security {guard} stood at the door.
+guard|ver|2|Two soldiers {guard} the gate.
+guess|nou|2|
+guess|ver||{Guess} how old I am.
+guide|nou|1|
+guide|ver||She {guided} us through the museum.
+guideline|nou|3|
+guilt|nou|2|
+gulp|nou|1|He drank the water in one {gulp}.
+gun|nou|1|The robber had a {gun}.
+guy|nou|1|He's a nice {guy}.
+gymnastic|adj|2|
+hail|ver|5|It {hailed} for ten minutes.
+haircut|nou|2|
+half-price|adv||Children travel {half-price}.
+hall|nou||The concert {hall} was full.
+hammer|nou||He hit the nail with a {hammer}.
+hammer|ver|1|He {hammered} the nail into the wall.
+hand|ver|1|Can you {hand} me that book?
+handicap|nou|1|
+handicraft|nou|1|
+handle|ver|1|She {handles} all the complaints.
+handout|nou|1|
+handsome|adj|1|He is a tall, {handsome} man.
+handwriting|nou||I can't read your {handwriting}.
+handy|adj||A small knife is {handy} when camping.
+hang|nou|1|You'll soon get the {hang} of it.
+happen|ver||What {happened} last night?
+happily|adv|1|They lived {happily} ever after.
+hard|adv|1|She works very {hard}.
+hardly|adv|2|I can {hardly} hear you.
+hardship|nou||The family faced great {hardship}.
+harm|nou|1|
+harm|ver||Smoking {harms} your health.
+harmful|adj||Too much sun is {harmful} to your skin.
+harmony|nou|3|
+harness|nou|1|
+harvest|nou||This year's {harvest} was good.
+hastily|adv||He {hastily} packed his bag.
+hasty|adj|2|Don't make a {hasty} decision.
+hat|nou||She wore a straw {hat}.
+hatch|nou|3|
+hatching|nou|1|
+haunting|adj|1|The song has a {haunting} melody.
+hazard|nou|1|Ice on the road is a {hazard}.
+hazardous|adj||The job is {hazardous}.
+headquarters|nou|1|The company's {headquarters} are in Istanbul.
+health|nou||Smoking is bad for your {health}.
+healthy|adj||Eat a {healthy} breakfast.
+heap|nou|1|
+hear|ver||Did you {hear} that noise?
+heartwarming|adj||It was a {heartwarming} story.
+hearty|adj|2|We had a {hearty} breakfast.
+heat|nou||The {heat} in August is terrible.
+heat|ver|1|{Heat} the milk slowly.
+heavenly|adj|1|
+hedge|nou|1|He cut the {hedge} in the garden.
+height|nou||What is your {height}?
+hell|nou||The war was {hell} for everyone.
+helpless|adj|1|She felt {helpless} when her son was ill.
+herd|nou||A {herd} of cows crossed the road.
+heritage|nou||The old city is part of our {heritage}.
+hidden|adj||They found a {hidden} door.
+high|adv|1|The plane flew {high} above the clouds.
+highlight|nou|1|The {highlight} of the trip was the boat tour.
+highlight|ver|1|The report {highlights} the main problems.
+highly|adv|1|I {highly} recommend this book.
+hijack|ver|2|Terrorists {hijacked} the plane.
+hike|nou|1|We went for a {hike} in the mountains.
+hill|nou|1|Their house is on a {hill}.
+hip|nou|1|
+hire|ver||We {hired} a car for the week.
+historic|adj||It was a {historic} moment.
+historical|adj||She writes {historical} novels.
+history|nou||I love Ottoman {history}.
+HIV|nou|2|
+hold|nou|1|Keep a tight {hold} on the rope.
+hold|ver||{Hold} my hand.
+hole|nou||There's a {hole} in my sock.
+hollow|adj|1|The tree trunk is {hollow}.
+holocaust|nou|1|
+home|adv|1|I'm going {home}.
+hometown|nou||I visit my {hometown} every summer.
+honest|adj|1|He is an {honest} man.
+honestly|adv|2|Please answer {honestly}.
+honesty|nou|1|
+honor|ver|1|He was {honored} for his bravery.
+hook|nou||Hang your coat on the {hook}.
+hook|ver||{Hook} the bag on the chair.
+hop|nou|1|
+hopefully|adv|2|{Hopefully}, it will be sunny tomorrow.
+horizon|nou||The sun disappeared below the {horizon}.
+horn|nou||The driver sounded his {horn}.
+horrible|adj||The food was {horrible}.
+horrify|ver||The news {horrified} the nation.
+horror|nou||She watched in {horror}.
+horse|nou||She rides a {horse} every weekend.
+hospice|nou|2|
+hospitable|adj|2|The villagers were very {hospitable}.
+host|nou||Our {host} cooked a wonderful dinner.
+hot|adj||It's very {hot} today.
+household|nou||Every {household} received a letter.
+hover|ver|3|
+hug|nou||Give me a {hug}.
+huge|adj||They live in a {huge} house.
+human|adj||It's {human} nature to make mistakes.
+humane|adj|2|
+humanist|nou|2|
+humanize|ver||The writer {humanizes} his characters.
+humbug|nou|1|
+humiliate|ver||He {humiliated} her in front of everyone.
+humiliation|nou|1|He suffered the {humiliation} of losing his job.
+humor|nou|4|I love her sense of {humor}.
+hunting|nou|1|
+hurriedly|adv||She {hurriedly} left the room.
+hurry|nou||Sorry, I'm in a {hurry}.
+hurry|ver|2|
+hurt|adj|1|Is anyone {hurt}?
+hurt|ver|6|My back {hurts}.

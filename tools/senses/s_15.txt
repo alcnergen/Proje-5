@@ -1,0 +1,150 @@
+pool|nou||The hotel has a swimming {pool}.
+pop|ver|3|The balloon {popped}.
+popcorn|nou|2|
+popularize|ver|2|He {popularized} science on TV.
+pork|nou|1|
+port|nou|1|
+portrait|nou|2|She painted a {portrait} of her mother.
+positively|adv|2|She reacted {positively} to the news.
+possess|ver||He {possesses} great talent.
+possessed|adj|2|
+possession|nou|2|The fire destroyed all their {possessions}.
+possessive|adj|3|He is very {possessive} of his girlfriend.
+possibility|nou|1|There is a {possibility} of rain.
+possible|adj|1|Is it {possible} to change the date?
+post|nou|3|She applied for a teaching {post}.
+post|ver|1|He {posted} a notice on the door.
+post office|nou|1|
+potential|nou|1|
+pound|nou|2|It costs ten {pounds}.
+pound|ver|1|He {pounded} on the door.
+powder|nou|1|
+power|nou||The storm cut off the {power}.
+powerful|adj|1|He has a very {powerful} car.
+powerfully|adv|1|The wind blew {powerfully}.
+practical|adj|1|We need a {practical} solution.
+practically|adv|1|The bus was {practically} empty.
+practice|nou||I need more {practice}.
+practice|ver|2|
+praise|nou|1|The teacher gave her a lot of {praise}.
+prayer|nou||She said a {prayer} for her son.
+precious|adj|2|She lost a {precious} ring.
+precise|adj|1|Give me the {precise} time.
+precisely|adv|1|The train arrived {precisely} at noon.
+predicament|nou||He found himself in a difficult {predicament}.
+predicate|ver|3|The plan is {predicated} on low prices.
+predicative|adj||In "She is happy", "happy" is {predicative}.
+predict|ver|1|
+prediction|nou|2|
+predictor|nou|2|Grades are a good {predictor} of success.
+prefect|nou||She is a school {prefect}.
+preferable|adj||Walking is {preferable} to driving.
+preference|nou||Do you have a {preference} for tea or coffee?
+pregnant|adj||She is six months {pregnant}.
+prehistoric|adj|1|They found {prehistoric} cave paintings.
+preoccupy|ver|1|Money problems {preoccupied} him.
+prepare|ver||I need to {prepare} for the exam.
+prepared|adj|2|
+prescription|nou||The doctor gave me a {prescription}.
+present|nou|2|Thank you for the birthday {present}.
+present|ver||She {presented} her project to the class.
+presenter|nou|1|
+preservation|nou|1|
+preserve|ver||We must {preserve} old buildings.
+president|nou||The {president} gave a speech.
+presidential|adj|1|The {presidential} election is next year.
+press|nou||The {press} reported the story.
+prestigious|adj|1|She studies at a {prestigious} university.
+presumably|adv||{Presumably}, he missed the bus.
+pretend|adj||The children had a {pretend} tea party.
+pretend|ver|1|He {pretended} to be ill.
+pretty|adj|1|She is a very {pretty} girl.
+prevail|ver|4|Justice will {prevail}.
+prevent|ver||We must {prevent} accidents.
+prevention|nou||{Prevention} is better than cure.
+preventive|adj|1|
+previous|adj|1|I met her on a {previous} visit.
+previously|adv||She {previously} worked in a bank.
+price|ver|1|The house is {priced} at a million lira.
+pride|nou||She felt great {pride} in her son.
+priest|nou|1|
+primarily|adv||The course is {primarily} for beginners.
+prime|adj|1|
+primitive|adj|1|They used {primitive} tools.
+principal|adj||Tourism is the {principal} industry here.
+principal|nou|2|The {principal} spoke to the students.
+print|nou|1|The {print} is too small to read.
+prison|nou|1|
+privately|adv|1|Can we talk {privately}?
+pro|nou|1|
+probability|nou|2|There is a high {probability} of rain.
+probable|adj|1|It is {probable} that he will win.
+probe|nou|1|The police started a {probe} into the accident.
+process|ver||Your application is being {processed}.
+proclaim|ver|1|The country {proclaimed} its independence.
+procrastination|nou|1|
+producer|nou||He is a film {producer}.
+production|nou||Car {production} rose last year.
+profession|nou|2|Teaching is a noble {profession}.
+professional|adj|1|She is a {professional} singer.
+professional|nou|1|
+profile|nou||I updated my online {profile}.
+profitable|adj||It is a very {profitable} business.
+program|nou||What's your favourite TV {program}?
+program|ver|2|She {programs} robots.
+programming|nou|2|
+progress|nou||She is making good {progress}.
+prohibition|nou||There is a {prohibition} on smoking here.
+project|ver|1|She {projects} confidence.
+projection|nou|1|Sales {projections} for next year are good.
+prominence|nou|1|She rose to {prominence} as a singer.
+prominent|adj|2|He is a {prominent} lawyer.
+promise|nou||He kept his {promise}.
+promote|ver|2|She was {promoted} to manager.
+prompt|adj||Thank you for your {prompt} reply.
+prompt|nou|2|Type your password at the {prompt}.
+prompt|ver|2|The accident {prompted} new safety rules.
+promptly|adv|1|She {promptly} answered the letter.
+proof|nou||Do you have any {proof}?
+proper|adj|1|Wear {proper} shoes for walking.
+properly|adv|1|Close the door {properly}.
+proposal|nou||They accepted our {proposal}.
+prosecute|ver|2|He was {prosecuted} for theft.
+prospect|nou||There is little {prospect} of finding a job.
+prosperity|nou|2|
+prosperous|adj|1|They live in a {prosperous} area.
+protective|adj|2|She wears {protective} gloves at work.
+protest|nou||There was a {protest} outside parliament.
+protest|ver|2|Students {protested} against the new fees.
+proudly|adv||She {proudly} showed us her medal.
+prove|ver||Can you {prove} it?
+proven|adj||It is a {proven} method.
+provide|ver|1|The hotel {provides} free breakfast.
+province|nou||Konya is a large {province}.
+provision|nou||The {provision} of clean water is important.
+proximity|nou|1|
+psychologically|adv|1|He is {psychologically} strong.
+public|adj|1|This is a {public} park.
+publicity|nou|1|The film got a lot of {publicity}.
+publicize|ver|1|
+publisher|nou|1|
+pull|ver|1|{Pull} the door to open it.
+punch|ver|1|He {punched} the wall.
+punctuation|nou|2|
+puppy|nou|1|
+purchase|nou|1|Keep the receipt as proof of {purchase}.
+purify|ver|1|This machine {purifies} the water.
+purple|adj|1|
+purple|nou|1|{Purple} is her favourite colour.
+purpose|nou||What is the {purpose} of your visit?
+purposeful|adj|1|She walked with {purposeful} steps.
+purse|nou||She took a coin from her {purse}.
+pursuit|nou|1|The police were in {pursuit} of the thief.
+push|nou|1|Give the door a {push}.
+push|ver|1|{Push} the button.
+put|ver||{Put} the book on the table.
+puzzled|adj||She looked {puzzled}.
+qualification|nou|1|What {qualifications} do you need for this job?
+qualified|adj||She is a {qualified} nurse.
+qualify|ver|1|Our team {qualified} for the final.
+quality|adj|1|

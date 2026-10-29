@@ -1,0 +1,150 @@
+tip|nou||We left a {tip} for the waiter.
+tip|ver|3|Do you {tip} taxi drivers here?
+tire|ver||Long walks {tire} me.
+tiresome|adj||The journey was long and {tiresome}.
+toast|nou|1|I had {toast} for breakfast.
+today|adv|2|What are you doing {today}?
+today|nou||{Today} is my birthday.
+together|adv|3|We went to school {together}.
+toilet|nou||Where is the {toilet}?
+tolerant|adj||She is {tolerant} of other people's opinions.
+tolerate|ver|1|I won't {tolerate} rude behaviour.
+toll|nou|1|We paid a {toll} to cross the bridge.
+tone|nou||Don't speak to me in that {tone}.
+tongue|nou||The dog licked me with its {tongue}.
+too|adv|1|This coffee is {too} hot.
+tool|nou||A hammer is a useful {tool}.
+tornado|nou|1|
+torture|ver|2|
+touch|nou|1|I felt a gentle {touch} on my arm.
+tough|adj|2|It was a {tough} decision.
+tour|nou|1|We went on a {tour} of the city.
+tour|ver||They {toured} Italy last summer.
+tower|nou||The church has a tall {tower}.
+toxic|adj||These chemicals are {toxic}.
+toy|nou||The child played with his {toys}.
+trace|nou|6|The police found no {trace} of him.
+trace|ver|1|The police {traced} the call.
+track|nou||This is my favourite {track} on the album.
+track|ver|2|Scientists {track} the movements of whales.
+trade|ver||The two countries {trade} with each other.
+traditional|adj||We had a {traditional} Turkish breakfast.
+traditionally|adv||{Traditionally}, the bride wears white.
+traffic|nou||There was heavy {traffic} this morning.
+trail|nou||We followed a {trail} through the forest.
+trail|ver|1|Our team is {trailing} by two goals.
+train|ver|2|She is {training} for the marathon.
+trainer|nou|1|
+training|nou|1|
+traitor|nou|1|
+tramp|nou|1|A {tramp} was sleeping on the bench.
+trample|nou||
+transcript|nou|1|Can I see a {transcript} of the interview?
+transfer|nou||The {transfer} of money took two days.
+transfer|ver||He was {transferred} to another school.
+transform|ver|2|The new paint {transformed} the room.
+transformation|nou|1|
+transient|adj|2|
+transition|nou|1|
+transitional|adj||This is a {transitional} period for the company.
+translation|nou||I read the book in {translation}.
+transmission|nou|1|
+transportation|nou|1|Public {transportation} is cheap here.
+trap|nou|1|The mouse was caught in a {trap}.
+trash|nou|1|
+traverse|nou|4|
+treat|nou|2|
+treat|ver|1|She {treats} her staff very well.
+treatment|nou||She is receiving {treatment} for cancer.
+trek|nou|2|
+tremble|ver||Her hands were {trembling}.
+tremor|nou|1|
+trend|nou||It's the latest fashion {trend}.
+triangle|nou||A {triangle} has three sides.
+trick|ver||He {tricked} me into paying for his dinner.
+tricky|adj|2|That's a {tricky} question.
+trim|nou|4|I need a {trim}, not a full haircut.
+trivial|adj|1|
+troop|nou|1|
+trophy|nou|2|
+tropic|adj|1|
+tropical|adj|1|
+trouble|ver|3|What's {troubling} you?
+trunk|nou||The elephant raised its {trunk}.
+trust|nou|5|There is no {trust} between them.
+trust|ver|1|I {trust} you completely.
+trustworthy|adj|1|He is a {trustworthy} friend.
+truth|nou|2|Tell me the {truth}.
+truthful|adj|1|
+try|nou||Let's give it a {try}.
+tube|nou||A {tube} of toothpaste.
+tug|nou|1|
+tuition|nou|1|{Tuition} fees have gone up.
+tumble|ver|1|He {tumbled} down the stairs.
+tune|nou||She hummed a happy {tune}.
+turbulence|nou||The plane hit some {turbulence}.
+turkey|nou||We eat {turkey} at Christmas.
+turn|nou|3|It's your {turn}.
+turning|nou|1|Take the second {turning} on the left.
+turtle|nou|2|
+twice|adv|1|
+twinkle|nou|2|There was a {twinkle} in his eye.
+twist|nou|1|The story has a surprising {twist}.
+twisted|adj||The metal was {twisted} after the crash.
+type|nou|1|What {type} of music do you like?
+type|ver|1|She {types} very fast.
+tyrant|nou||The king was a cruel {tyrant}.
+ugly|adj||It's an {ugly} building.
+ultimate|adj|1|This is the {ultimate} test.
+umbrella|nou||Take an {umbrella}; it's raining.
+unable|adj|1|I was {unable} to sleep.
+unacceptable|adj|2|This behaviour is {unacceptable}.
+unafraid|adj|2|
+unashamedly|adv||She cried {unashamedly}.
+unattractive|adj|1|He thinks he's {unattractive}.
+unauthorized|adj|2|
+unavailable|adj||The manager is {unavailable} today.
+unaware|adj||She was {unaware} of the danger.
+unbeatable|adj|1|
+unbelievable|adj|1|
+uncertainty|nou|1|There is a lot of {uncertainty} about the future.
+unchanged|adj|1|The town has remained {unchanged} for years.
+uncharacteristic|adj||It was {uncharacteristic} of him to be late.
+uncle|nou||My {uncle} lives in Izmir.
+uncomfortably|adv||The room was {uncomfortably} hot.
+unconcerned|adj|1|He seemed {unconcerned} about the problem.
+uncontrollable|adj|4|
+uncover|ver|1|
+underage|adj|1|
+underestimate|ver|3|Don't {underestimate} your opponent.
+undergo|ver||He {underwent} surgery last week.
+underground|adv|2|The cables run {underground}.
+underneath|adv|2|She wore a coat with a sweater {underneath}.
+undertake|ver|1|
+underwater|adj|1|
+undo|ver|4|I can't {undo} this knot.
+undressed|adj|2|
+unease|nou|2|
+uneasy|adj|3|I felt {uneasy} about the meeting.
+unemployed|adj||He has been {unemployed} for a year.
+unemployment|nou||{Unemployment} is rising.
+unenthusiastic|adj||The students were {unenthusiastic} about the trip.
+uneven|adj|1|The floor is {uneven}.
+unexpectedly|adv|1|
+unfair|adj||It's {unfair} to blame her.
+unfairly|adv||He was {unfairly} dismissed.
+unfamiliar|adj||The city was {unfamiliar} to me.
+unfashionable|adj||Those shoes are {unfashionable} now.
+unfit|adj|2|I'm too {unfit} to run a marathon.
+unfold|ver||She {unfolded} the map.
+unfortunate|adj|1|It was an {unfortunate} accident.
+unfriendly|adj|3|The neighbours were {unfriendly}.
+unhappy|adj|1|She looked {unhappy}.
+unhealthy|adj||Fast food is {unhealthy}.
+uniform|adj|1|The houses are {uniform} in size.
+unify|ver|2|The new leader {unified} the country.
+uninterested|adj|1|
+uninteresting|adj|1|The film was long and {uninteresting}.
+unique|adj|1|Each person's fingerprints are {unique}.
+unite|ver||The two groups {united} against the plan.
+united|adj|1|

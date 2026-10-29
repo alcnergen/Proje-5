@@ -1,0 +1,150 @@
+flow|nou||The {flow} of traffic was slow.
+flow|ver|2|The river {flows} into the sea.
+fluency|nou|3|Reading improves your {fluency}.
+fluent|adj|2|
+fluid|adj|1|The situation is still {fluid}.
+flutter|nou|4|
+fly|ver||Birds {fly} south in winter.
+foggy|adj||It was a cold, {foggy} morning.
+fold|ver||{Fold} the paper in half.
+folk|nou|1|Old {folk} like to talk about the past.
+following|adj||We met again the {following} day.
+folly|nou||It would be {folly} to drive in this storm.
+fond|adj|3|I'm very {fond} of my aunt.
+fondly|adv||She remembers her childhood {fondly}.
+fondness|nou|2|He has a {fondness} for old films.
+fool|nou|1|
+fool|ver|1|You can't {fool} me.
+foolishly|adv||I {foolishly} left my bag on the bus.
+forbid|ver|1|My parents {forbid} me to go out at night.
+forcefully|adv||She argued {forcefully} for change.
+foreign|adj||Do you speak any {foreign} languages?
+foresee|ver|1|
+forever|adv|1|I will love you {forever}.
+forget|ver||Don't {forget} your keys.
+fork|nou||Eat with a knife and {fork}.
+form|nou||Please fill in this {form}.
+formally|adv|1|The bridge was {formally} opened by the mayor.
+format|nou|1|
+format|ver|2|{Format} the document before printing.
+formation|nou||Scientists study the {formation} of stars.
+former|adj|2|He is a {former} president.
+formidable|adj|1|She is a {formidable} opponent.
+formula|nou||Learn the {formula} for the area of a circle.
+forth|adv|1|He walked back and {forth}.
+forthcoming|adj|2|Tickets for the {forthcoming} concert are on sale.
+fortnight|nou||We're going on holiday for a {fortnight}.
+fortunate|adj|1|We were {fortunate} to find a hotel.
+fortunately|adv||{Fortunately}, nobody was hurt.
+foul|adj|1|There was a {foul} smell in the kitchen.
+found|ver||The company was {founded} in 1990.
+foundation|nou||The {foundation} helps poor students.
+fragment|nou|2|
+fragrance|nou|1|
+frame|ver||She {framed} the photo and hung it on the wall.
+frankly|adv||{Frankly}, I don't like him.
+fraud|nou|1|
+freak|ver||She {freaked} out when she saw the spider.
+free|adj||Are you {free} tomorrow evening?
+free|ver||They {freed} the birds from the cage.
+freeze|ver||Water {freezes} at zero degrees.
+frequency|nou|1|The {frequency} of the buses has improved.
+frequent|adj|1|He is a {frequent} visitor here.
+fresh|adj||We bought {fresh} fish at the market.
+freshman|nou|1|
+friend|nou|1|She is my best {friend}.
+friendliness|nou|2|
+friendly|adj|1|The people here are very {friendly}.
+frigate|nou|1|
+frighten|ver||The loud noise {frightened} the baby.
+frightened|adj|1|The child was {frightened} of the dog.
+front|nou||Sit at the {front} of the class.
+frontier|nou|2|They crossed the {frontier} at night.
+frozen|adj|5|We bought {frozen} vegetables.
+fruit|nou||Eat more {fruit} and vegetables.
+frustrated|adj||I feel {frustrated} when nobody listens.
+frustration|nou||He shouted in {frustration}.
+fry|nou|3|
+fry|ver||{Fry} the onions in oil.
+fully|adv|1|I {fully} understand your problem.
+fun|nou|1|We had a lot of {fun} at the party.
+function|ver||The machine isn't {functioning} properly.
+fund|ver|6|The project is {funded} by the government.
+funk|nou|3|
+funky|adj|3|She wears {funky} clothes.
+fur|nou|2|
+furious|adj|2|
+furiously|adv|3|She shouted {furiously} at him.
+furor|nou|2|
+further|adj||For {further} information, call us.
+further|adv|3|We can't go any {further}.
+furthest|adv|2|
+fuss|nou||Don't make a {fuss} about it.
+gaiety|nou|2|
+gain|nou|1|There was a {gain} in weight.
+gain|ver||She {gained} a lot of experience abroad.
+gap|nou|2|There is a {gap} in the fence.
+garbage|nou|1|Take out the {garbage}.
+garment|nou||This {garment} must be washed by hand.
+gas|nou||We cook with {gas}.
+gasp|nou||She gave a {gasp} of surprise.
+gate|nou|1|
+gather|ver|1|People {gathered} in the square.
+gay|adj||He is openly {gay}.
+gaze|nou||She felt his {gaze} on her.
+general|nou||The {general} gave the order to attack.
+generalization|nou|2|
+generalize|ver||It's wrong to {generalize} about people.
+generate|ver|3|Wind turbines {generate} electricity.
+generation|nou||Three {generations} live in the same house.
+generous|adj||He is very {generous} with his money.
+genetic|adj|2|It is a {genetic} disease.
+genius|nou||Einstein was a {genius}.
+genre|nou|1|
+gentleman|nou|1|
+gently|adv|2|She {gently} touched his hand.
+genuinely|adv|1|
+geographic|adj||The area has a unique {geographic} position.
+getaway|nou|2|The thieves made their {getaway} in a stolen car.
+ghetto|nou||He grew up in a poor {ghetto}.
+girl|nou||The little {girl} was crying.
+girlfriend|nou|2|He went to the cinema with his {girlfriend}.
+give|ver||Please {give} me a glass of water.
+giveaway|nou|2|
+given|adj|1|We have to finish within a {given} time.
+glad|adj|3|I'm {glad} you came.
+glare|nou|2|She gave him an angry {glare}.
+gleam|nou|1|
+glee|nou|1|
+glimpse|nou|2|I caught a {glimpse} of the singer.
+glint|nou|1|
+gloomy|adj||It was a {gloomy} winter day.
+glorify|ver||The film {glorifies} war.
+glory|nou|1|The team returned home in {glory}.
+glow|nou|5|We sat in the {glow} of the fire.
+go|nou|3|
+go|ver||Let's {go} to the beach.
+god|nou||The ancient Greeks believed in many {gods}.
+godly|adj|1|She was a {godly} woman.
+gold|adj|1|She wore a {gold} necklace.
+gold|nou||The price of {gold} went up.
+goods|nou|4|The shop sells electrical {goods}.
+gorge|nou|1|
+gossip|ver|1|
+govern|ver|3|The country is {governed} by a parliament.
+government|nou||The {government} announced new taxes.
+governmental|adj||It is a {governmental} organization.
+gown|nou||She wore a long evening {gown}.
+grace|nou|2|She dances with {grace}.
+graceful|adj|1|
+grade|nou||She got a good {grade} in maths.
+grade|ver|4|
+gradual|adj|1|There was a {gradual} improvement in his health.
+gradually|adv||The weather {gradually} got warmer.
+graduate|nou|1|
+graduate|ver||She {graduated} from university last year.
+graduation|nou||My parents came to my {graduation}.
+grain|nou||The farmers grow {grain}.
+grand|adj||They stayed in a {grand} hotel.
+grant|nou|1|
+grant|ver||The bank {granted} him a loan.
