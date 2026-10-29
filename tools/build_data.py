@@ -45,8 +45,8 @@ words = []
 for e in base:
     if e.get('tr') == '-':  # offensive / unsuitable entry, excluded on purpose
         continue
-    if e['level'] == 'A1' or not e.get('tr'):
-        if e['level'] != 'A1': missing.append(e['w'] + '|' + e['pos'])
+    if not e.get('tr'):
+        missing.append(e['w'] + '|' + e['pos'])
         continue
     ex = e.get('ex', '')
     if ex and '{' not in ex:

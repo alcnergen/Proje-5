@@ -1,0 +1,450 @@
+verve|n|şevk, canlılık|She sang with great {verve}.
+vicious|adj|kötü niyetli, vahşi|It was a {vicious} attack.
+viciously|adv|vahşice|The dog barked {viciously}.
+victorious|adj|muzaffer, galip|The {victorious} team returned home.
+victoriously|adv|zaferle|
+violet|adj|menekşe rengi|She has {violet} eyes.
+vitality|n|canlılık, yaşam gücü|
+voice|v|dile getirmek|She {voiced} her concerns.
+voluntarily|adv|gönüllü olarak|
+voluntary|adj|gönüllü|
+voracious|adj|doymak bilmez, obur|
+voraciously|adv|açgözlülükle|She reads {voraciously}.
+wares|n|satılık mallar|The traders sold their {wares} in the market.
+wary|adj|temkinli, ihtiyatlı|
+washtub|n|çamaşır leğeni|She washed the clothes in a {washtub}.
+waterfront|n|sahil şeridi, rıhtım|We had dinner on the {waterfront}.
+wayside|n|yol kenarı|Flowers grew by the {wayside}.
+whilst|conj|-iken|He arrived {whilst} I was cooking.
+wicked|adj|kötü, şeytani; harika (argo)|
+wickedly|adv|kötü niyetle; muzipçe|She smiled {wickedly}.
+withdrawn|adj|içine kapanık|He became quiet and {withdrawn}.
+wizened|adj|buruşuk, pörsümüş|
+woo|v|gönlünü kazanmaya çalışmak|The company is {wooing} new customers.
+wooded|adj|ağaçlık|They walked through a {wooded} valley.
+wrangle|v|çekişmek|
+wrench|v|burkmak; zorla çekmek|
+wry|adj|alaycı, buruk|
+wryly|adv|buruk bir şekilde|
+zany|adj|tuhaf, maskara|
+aberration|n|sapma, anormallik|This mistake is an {aberration}.
+abhor|v|nefret etmek, tiksinmek|I {abhor} violence.
+abhorrent|adj|iğrenç, tiksindirici|Racism is {abhorrent}.
+abhorrently|adv|iğrenç şekilde|He behaved {abhorrently}.
+abject|adj|sefil, perişan|
+abundantly|adv|bol bol; son derece|
+accountability|n|hesap verebilirlik|There must be {accountability} in government.
+accrue|v|birikmek|
+acreage|n|arazi büyüklüğü|
+acrobatic|adj|akrobatik|He made an {acrobatic} save.
+acrobatically|adv|akrobatik şekilde|She leapt {acrobatically} over the wall.
+acrobatics|n|akrobasi|The circus had amazing {acrobatics}.
+ad lib|adj|doğaçlama|His speech was {ad lib}.
+ad-lib|v|doğaçlama yapmak|The actor forgot his lines and {ad-libbed}.
+additive|n|katkı maddesi|This food has no {additives}.
+additive|adj|toplamsal, eklenen|The effects are {additive}.
+adept|adj|usta, becerikli|She is {adept} at solving problems.
+adept|n|usta|He is an {adept} at chess.
+adhere|v|bağlı kalmak, uymak; yapışmak|
+adhesion|n|yapışma|
+adornment|n|süs|She wore no {adornment}.
+adulterate|v|katkı karıştırıp bozmak|They {adulterated} the milk with water.
+affectation|n|yapmacıklık|His accent is an {affectation}.
+aghast|adj|dehşete düşmüş|She was {aghast} at the price.
+agile|adj|çevik|
+agility|n|çeviklik|Cats have great {agility}.
+all-encompassing|adj|her şeyi kapsayan|It was an {all-encompassing} plan.
+allegorical|adj|alegorik|
+allegory|n|alegori|The story is an {allegory} of good and evil.
+allot|v|tahsis etmek, ayırmak|Each speaker was {allotted} ten minutes.
+allotment|n|pay; hobi bahçesi|He grows vegetables on his {allotment}.
+allude|v|ima etmek, değinmek|
+allusion|n|ima, gönderme|The poem has an {allusion} to the Bible.
+ally|v|ittifak kurmak|
+amorphous|adj|biçimsiz|The plan is still {amorphous}.
+amorphously|adv|biçimsizce|The cloud spread {amorphously}.
+anarchic|adj|anarşik|
+angst|n|kaygı, bunalım|Teenage {angst} is common.
+angsty|adj|kaygılı, bunalımlı|He writes {angsty} songs.
+angular|adj|köşeli|She has an {angular} face.
+angularity|n|köşelilik|The {angularity} of the building is striking.
+annex|n|ek bina|The office is in the {annex}.
+annex|v|ilhak etmek|The country {annexed} the region.
+anonymity|n|isimsizlik|He spoke on condition of {anonymity}.
+antediluvian|adj|tufan öncesi, çok eski|My grandfather has {antediluvian} ideas.
+anthology|n|antoloji|It is an {anthology} of Turkish poetry.
+anthropological|adj|antropolojik|They did an {anthropological} study.
+anthropologically|adv|antropolojik açıdan|The site is {anthropologically} important.
+anticlimactically|adv|beklentiyi boşa çıkaracak şekilde|The film ended {anticlimactically}.
+antidote|n|panzehir|There is no {antidote} for this poison.
+antithesis|n|karşıt, tam tersi|
+antithetical|adj|tamamen karşıt|
+apostle|n|havari; savunucu|He was an {apostle} of free trade.
+apprehend|v|tutuklamak; kavramak|The police {apprehended} the thief.
+aptitude|n|yetenek, kabiliyet|She has an {aptitude} for languages.
+arcane|adj|gizemli, az bilinen|
+arcanely|adv|anlaşılmaz şekilde|The rules are {arcanely} complex.
+archetypal|adj|tipik, ilk örnek niteliğinde|He is the {archetypal} hero.
+archetype|n|ilk örnek, arketip|She is the {archetype} of a modern woman.
+archival|adj|arşivsel|They used {archival} photos.
+ardor|n|şevk, tutku|
+arduous|adj|çetin, zahmetli|
+arduously|adv|zahmetle|They climbed {arduously} up the mountain.
+armory|n|cephanelik|
+articulate|adj|kendini iyi ifade eden|She is very {articulate}.
+articulation|n|ifade etme; boğum|
+artifact|n|eser, eşya (tarihî)|The museum has ancient {artifacts}.
+artifice|n|hile, kurnazlık|He used {artifice} to win.
+assimilate|v|özümsemek; asimile olmak|
+assimilation|n|özümseme; asimilasyon|The {assimilation} of new ideas takes time.
+astringent|n|büzücü madde|Use an {astringent} on oily skin.
+athleticism|n|atletiklik|
+attributive|adj|niteleyici (sıfat)|
+attrition|n|yıpratma, azalma|They won by a war of {attrition}.
+attuned|adj|uyumlu, duyarlı|She is {attuned} to her children's needs.
+audit|v|denetlemek|
+austere|adj|sade, sert|
+austerely|adv|sadece, sert şekilde|
+austerity|n|kemer sıkma; sadelik|The government introduced {austerity} measures.
+authenticity|n|özgünlük, gerçeklik|They checked the {authenticity} of the painting.
+automate|v|otomatikleştirmek|
+autonomous|adj|özerk|
+autonomously|adv|bağımsız olarak|The robot works {autonomously}.
+autopilot|n|otomatik pilot|
+averse|adj|karşı, isteksiz|I'm not {averse} to a little hard work.
+avian|adj|kuşlarla ilgili|They studied {avian} flu.
+axiom|n|aksiyom, belit|It is an {axiom} that hard work pays.
+axiomatic|adj|apaçık, kanıt gerektirmeyen|It is {axiomatic} that children need love.
+babble|v|gevezelik etmek, saçmalamak|
+banish|v|sürgün etmek; kovmak|
+banishment|n|sürgün|He was sentenced to {banishment}.
+baroque|adj|barok|We visited a {baroque} church.
+bauble|n|ucuz süs|She bought a cheap {bauble}.
+behest|n|emir, istek|He came at the {behest} of his boss.
+belligerence|n|kavgacılık|His {belligerence} scared everyone.
+belligerent|adj|kavgacı, saldırgan|He became {belligerent} when drunk.
+beneficiary|n|yararlanıcı, lehdar|She is the {beneficiary} of the will.
+bereft|adj|yoksun; kederli|He was {bereft} of hope.
+bereftly|adv|kederle|She stared {bereftly} at the empty room.
+besiege|v|kuşatmak|
+blandishment|n|dil dökme, tatlı söz|She resisted his {blandishments}.
+blight|n|hastalık; bela|Poverty is a {blight} on society.
+blight|v|mahvetmek|
+blitz|v|yoğun saldırı yapmak|They {blitzed} the city with ads.
+blitz|n|yıldırım saldırı; yoğun kampanya|There was a media {blitz} about the film.
+blubber|n|balina yağı|Whales have a thick layer of {blubber}.
+blubbery|adj|yağlı, şişko|The seal has a {blubbery} body.
+blurb|n|tanıtım yazısı (kitap)|
+bogus|adj|sahte|He showed a {bogus} passport.
+bona fide|adj|gerçek, hakiki|She is a {bona fide} expert.
+bout|n|nöbet; maç|He had a {bout} of flu.
+brandish|v|sallamak (silah)|He {brandished} a knife.
+breadwinner|n|evin geçimini sağlayan|She is the family {breadwinner}.
+brevity|n|kısalık, özlülük|{Brevity} is the soul of wit.
+brief|n|talimat, görev tanımı|The designer followed the {brief}.
+brim|v|ağzına kadar dolmak|
+brimstone|n|kükürt|The preacher spoke of fire and {brimstone}.
+brink|n|eşik, kenar|
+brood|v|kara kara düşünmek|
+brood|n|bir batında doğan yavrular|The hen sat on her {brood}.
+brouhaha|n|yaygara|There was a {brouhaha} over the new law.
+buccaneer|v|korsanlık yapmak|They {buccaneered} along the coast.
+buccaneer|n|korsan|The {buccaneer} attacked the ship.
+buffoonery|n|soytarılık|The audience laughed at his {buffoonery}.
+burgeoning|adj|hızla gelişen|There is a {burgeoning} market for apps.
+buzzard|n|şahin|A {buzzard} circled above the field.
+caffeinate|v|kafein eklemek|They {caffeinate} the drink.
+calamitous|adj|felaket getiren|The decision was {calamitous}.
+calamitously|adv|felaketle sonuçlanacak şekilde|The plan failed {calamitously}.
+calamity|n|felaket|
+callous|adj|duygusuz, katı yürekli|
+callously|adv|katı yüreklilikle|
+calorific|adj|kalorili|
+capacious|adj|geniş, ferah|
+carbonize|v|kömürleştirmek|The fire {carbonized} the wood.
+cascade|v|çağlayan gibi akmak|Water {cascaded} down the rocks.
+catastrophically|adv|felaket boyutunda|The bridge failed {catastrophically}.
+cay|n|alçak ada, resif adası|We sailed to a small {cay}.
+centralized|adj|merkezileşmiş|
+choreographical|adj|koreografik|It was a {choreographical} masterpiece.
+choreography|n|koreografi|The {choreography} was beautiful.
+chronologically|adv|kronolojik olarak|List the events {chronologically}.
+chronology|n|kronoloji|The book has a {chronology} of the war.
+chrysalis|n|koza (kelebek)|The butterfly came out of its {chrysalis}.
+cinematographer|n|görüntü yönetmeni|The {cinematographer} won an award.
+cinematography|n|sinematografi|The film's {cinematography} is stunning.
+circumnavigate|v|etrafını dolaşmak (dünyayı)|He {circumnavigated} the globe.
+circumnavigation|n|çevresini dolaşma|
+clinch|v|kesinleştirmek, garantilemek|
+cloister|n|manastır avlusu|The monks walked in the {cloister}.
+cloistered|adj|dünyadan uzak|
+coax|v|ikna etmek, kandırmak|She {coaxed} the cat out of the tree.
+cocoon|v|sarmalamak, korumak|
+cogent|adj|ikna edici|She made a {cogent} argument.
+cogently|adv|ikna edici şekilde|He argued {cogently}.
+cognitive|adj|bilişsel|Games improve {cognitive} skills.
+collide|v|çarpışmak|
+collider|n|çarpıştırıcı|The Large Hadron {Collider} is in Switzerland.
+colloquial|adj|günlük konuşma diline ait|
+colloquially|adv|konuşma dilinde|
+colloquium|n|kolokyum, bilimsel toplantı|She spoke at a {colloquium}.
+combustion|n|yanma|
+commensurate|adj|orantılı|
+commensurately|adv|orantılı olarak|Salaries rose {commensurately}.
+commode|n|lazımlık sandalye; şifonyer|There was a {commode} by the bed.
+commodity|n|emtia, mal|Oil is a valuable {commodity}.
+compellingly|adv|etkileyici şekilde|She wrote {compellingly} about the war.
+computerize|v|bilgisayara geçirmek|
+conciliation|n|uzlaştırma|
+conciliatory|adj|uzlaştırıcı|He made a {conciliatory} gesture.
+concurrence|n|mutabakat; eş zamanlılık|There is {concurrence} on this point.
+condensation|n|yoğuşma|There was {condensation} on the window.
+condone|v|göz yummak|
+conduit|n|kanal, boru|
+confabulate|v|sohbet etmek; uydurmak|The old men {confabulated} in the café.
+confabulation|n|sohbet; uydurma anı|His story was a {confabulation}.
+confection|n|şekerleme, tatlı|The shop sells sweet {confections}.
+confrontational|adj|kavgacı, çatışmacı|He has a {confrontational} style.
+confrontationally|adv|çatışmacı şekilde|She spoke {confrontationally}.
+conglomerate|n|holding, şirketler grubu|He runs a huge {conglomerate}.
+conjecture|v|tahmin yürütmek|Scientists {conjecture} that life exists elsewhere.
+conjecture|n|tahmin, varsayım|
+connotation|n|yan anlam|The word has negative {connotations}.
+connote|v|çağrıştırmak|"Home" {connotes} warmth.
+consign|v|teslim etmek; havale etmek|The old books were {consigned} to the attic.
+consignment|n|sevkiyat, gönderi|A {consignment} of goods arrived.
+consternation|n|şaşkınlık, endişe|The news caused {consternation}.
+constrained|adj|kısıtlanmış|We are {constrained} by the budget.
+contagion|n|bulaşma|Fear spread like a {contagion}.
+contemptuous|adj|küçümseyici|She gave him a {contemptuous} look.
+contemptuously|adv|küçümseyerek|
+contractual|adj|sözleşmeye dayalı|They have a {contractual} obligation.
+contractually|adv|sözleşme gereği|We are {contractually} bound to finish.
+contraption|n|garip alet|He built a strange {contraption}.
+contrive|v|tasarlamak, becermek|
+converse|adj|ters, zıt|
+cordon|v|kordon altına almak|Police {cordoned} off the area.
+corpse|n|ceset|
+corpus|n|derlem, külliyat|
+correlate|n|karşılık gelen öğe|Stress is a {correlate} of illness.
+correlate|v|ilişkilendirmek|
+correlation|n|korelasyon, bağıntı|
+cosmic|adj|kozmik|They studied {cosmic} rays.
+cosset|v|şımartmak|She {cossets} her children.
+counsel|n|tavsiye; avukat|She gave me wise {counsel}.
+counterproductive|adj|ters etki yapan|Punishment can be {counterproductive}.
+counterproductively|adv|ters etki yaratacak şekilde|He acted {counterproductively}.
+crippling|adj|felç edici, ağır|They have {crippling} debts.
+crony|n|yakın arkadaş, yandaş|He gave jobs to his {cronies}.
+crystallization|n|kristalleşme|The {crystallization} of sugar takes time.
+cull|v|ayıklamak; itlaf etmek|
+cultish|adj|tarikat gibi|The band has a {cultish} following.
+curate|v|derlemek, küratörlük yapmak|She {curates} an art exhibition.
+curator|n|küratör|The {curator} showed us the paintings.
+dampen|v|ıslatmak; azaltmak|The rain {dampened} our spirits.
+deaden|v|hafifletmek, köreltmek|The pills {deadened} the pain.
+decentralize|v|ademi merkezileştirmek|
+declination|n|sapma açısı|The compass {declination} was measured.
+deficient|adj|eksik, yetersiz|Her diet is {deficient} in iron.
+deficiently|adv|yetersizce|The room was {deficiently} heated.
+deliberate|v|enine boyuna düşünmek|The jury {deliberated} for hours.
+delicatessen|n|şarküteri|I bought cheese at the {delicatessen}.
+demystification|n|gizemini çözme|The book offers a {demystification} of science.
+demystify|v|anlaşılır kılmak|
+denotation|n|düz anlam|The {denotation} of the word is simple.
+denote|v|göstermek, belirtmek|
+denounce|v|kınamak, ihbar etmek|
+denunciation|n|kınama|He made a public {denunciation} of the plan.
+depraved|adj|ahlaken bozuk|It was a {depraved} act.
+depravity|n|ahlaksızlık|
+deprecate|v|kınamak, karşı çıkmak|
+deprecatingly|adv|küçümseyerek|She laughed {deprecatingly}.
+depressive|adj|depresif|He suffers from {depressive} illness.
+derelict|adj|terk edilmiş, harap|
+derelict|n|evsiz, serseri|A {derelict} slept on the bench.
+derision|n|alay|His idea was met with {derision}.
+derisive|adj|alaycı|She gave a {derisive} laugh.
+derisively|adv|alay ederek|They laughed {derisively}.
+deterrent|n|caydırıcı|Prison is a {deterrent} to crime.
+detract|v|gölgelemek, değerini düşürmek|
+deviant|n|sapkın|He was labelled a {deviant}.
+deviant|adj|sapkın|They studied {deviant} behaviour.
+deviantly|adv|normdan sapan şekilde|He acted {deviantly}.
+diffuse|adj|dağınık; yaygın|The light was soft and {diffuse}.
+diffuse|v|yaymak|The smell {diffused} through the house.
+diligently|adv|özenle, çalışkanca|
+diminish|v|azalmak, azaltmak|His strength {diminished} with age.
+disdainful|adj|küçümseyen|
+disparage|v|kötülemek, küçümsemek|
+disparagement|n|kötüleme|His {disparagement} of her work hurt her.
+disparaging|adj|küçük düşürücü|
+disparagingly|adv|küçümseyici şekilde|
+dispersal|n|dağıtma, dağılma|The {dispersal} of seeds is done by wind.
+disperse|v|dağılmak, dağıtmak|The crowd {dispersed}.
+dissemble|v|gizlemek, rol yapmak|He {dissembled} his true feelings.
+disseminate|v|yaymak|They {disseminate} information online.
+dissemination|n|yayma|The {dissemination} of news is fast today.
+dissension|n|anlaşmazlık|There was {dissension} within the party.
+distill|v|damıtmak; özünü çıkarmak|
+distillation|n|damıtma|Whiskey is made by {distillation}.
+divination|n|kehanet|She practised {divination} with cards.
+dole out|v|dağıtmak, pay etmek|They {dole out} food to the poor.
+domesticity|n|ev hayatı|
+drabness|n|renksizlik, tekdüzelik|The {drabness} of the city depressed him.
+dribble|v|salya akıtmak; top sürmek|
+dribble|n|damla, sızıntı; top sürme|A {dribble} of water came from the tap.
+drudgery|n|angarya|Housework can be {drudgery}.
+dubiously|adv|şüpheyle|She looked at it {dubiously}.
+dwarf|v|cüce bırakmak, gölgede bırakmak|
+dwarfism|n|cücelik|{Dwarfism} is a genetic condition.
+ebb|v|azalmak, çekilmek|
+eccentricity|n|tuhaflık|
+echo|n|yankı|
+echo|v|yankılanmak|
+echolocate|v|ses yansımasıyla yön bulmak|Bats {echolocate} to find food.
+echolocation|n|ekolokasyon|Dolphins use {echolocation}.
+economize|v|tasarruf etmek|
+ecotourism|n|ekoturizm|{Ecotourism} is growing in Turkey.
+edification|n|aydınlatma, eğitme|The talk was for our {edification}.
+edifice|n|yapı, bina|
+edify|v|aydınlatmak, eğitmek|The book is meant to {edify} readers.
+egalitarian|adj|eşitlikçi|It is an {egalitarian} society.
+egalitarian|n|eşitlikçi|She is a true {egalitarian}.
+eke out|v|idare etmek, zar zor geçinmek|They {eke out} a living from farming.
+elasticity|n|esneklik|Skin loses {elasticity} with age.
+elated|adj|çok mutlu|She was {elated} by the news.
+elation|n|coşku, sevinç|He felt great {elation}.
+electrode|n|elektrot|The doctor placed an {electrode} on his chest.
+elephantine|adj|fil gibi, hantal|He moved with {elephantine} steps.
+embed|v|yerleştirmek, gömmek|The stone was {embedded} in the wall.
+embodiment|n|somut örnek, cisimleşme|
+embody|v|somutlaştırmak|
+eminence|n|seçkinlik|
+eminent|adj|seçkin, ünlü|
+emolument|n|ücret, maaş|
+emulate|v|örnek almak, taklit etmek|
+emulation|n|örnek alma|Her success is worthy of {emulation}.
+emulsification|n|emülsiyon oluşturma|Egg yolk helps {emulsification}.
+emulsifier|n|emülgatör|Lecithin is an {emulsifier}.
+emulsify|v|emülsiyon haline getirmek|Whisk the oil to {emulsify} it.
+enabler|n|kolaylaştırıcı|Technology is an {enabler} of change.
+encompass|v|kapsamak|
+encumber|v|engellemek, yük olmak|He was {encumbered} with heavy bags.
+encumbrance|n|yük, engel|The debt is an {encumbrance}.
+enduringly|adv|kalıcı olarak|
+engender|v|doğurmak, yol açmak|The policy {engendered} anger.
+enthuse|v|coşkuyla söz etmek|She {enthused} about the trip.
+ephemera|n|kısa ömürlü şeyler|He collects old tickets and other {ephemera}.
+ephemeral|adj|geçici, kısa ömürlü|
+ephemerality|n|geçicilik|The poem is about the {ephemerality} of life.
+epoxy|n|epoksi yapıştırıcı|He glued it with {epoxy}.
+equable|adj|sakin, ılımlı|She has an {equable} temper.
+equilibrium|n|denge|The market reached {equilibrium}.
+etch|v|kazımak|
+etching|n|gravür|The museum has an {etching} by Rembrandt.
+ethos|n|ahlak anlayışı, ruh|The company has a strong {ethos}.
+euphemism|n|örtmece|"Pass away" is a {euphemism} for "die".
+euphemistic|adj|örtmeceli|
+euphemistically|adv|örtmeceli bir şekilde|
+euphoria|n|aşırı mutluluk|There was {euphoria} after the win.
+euphoric|adj|aşırı mutlu|The fans were {euphoric}.
+euphorically|adv|coşkuyla|They celebrated {euphorically}.
+evokingly|adv|çağrıştırıcı şekilde|She wrote {evokingly} about her village.
+exact|v|zorla almak, talep etmek|They {exacted} revenge.
+exalted|adj|yüce, yüksek|He held an {exalted} position.
+exaltedly|adv|yüceltilmiş şekilde|She spoke {exaltedly} of her teacher.
+exorcism|n|şeytan çıkarma|The film shows an {exorcism}.
+exorcist|n|şeytan çıkaran kişi|The {exorcist} came to the house.
+extant|adj|günümüze kalmış|
+extracurricular|adj|ders dışı|
+extracurricular|n|ders dışı etkinlik|She has many {extracurriculars}.
+exude|v|yaymak, saçmak|
+fabled|adj|efsanevi|
+fabricate|v|uydurmak; imal etmek|
+fabrication|n|uydurma; imalat|
+fabulate|v|masal uydurmak|He likes to {fabulate} about his past.
+fabulation|n|masal uydurma|His story was pure {fabulation}.
+facsimile|n|tıpkıbasım, kopya|This is a {facsimile} of the original letter.
+fallacy|n|yanılgı, safsata|It's a {fallacy} that money brings happiness.
+farcical|adj|gülünç, saçma|
+feign|v|-mış gibi yapmak|
+ferocity|n|vahşet|The {ferocity} of the storm surprised us.
+fete|n|şenlik|The school held a summer {fete}.
+figuratively|adv|mecazi olarak|I'm speaking {figuratively}.
+flagging|adj|azalan, gevşeyen|The team's {flagging} energy returned.
+flatout|adv|son hızla; açıkça|He worked {flatout} to finish.
+flightiness|n|havailik|
+flighty|adj|havai, değişken|She is a bit {flighty}.
+flit|v|uçuşmak|Butterflies {flitted} among the flowers.
+floe|n|buz kütlesi|A polar bear stood on an ice {floe}.
+floodgates|n|bent kapakları|
+fluctuate|v|dalgalanmak|Prices {fluctuate} every day.
+fluctuation|n|dalgalanma|
+forfeiture|n|hak kaybı, müsadere|The crime led to {forfeiture} of property.
+forlorn|adj|bıçare, terk edilmiş|She looked {forlorn}.
+forlornly|adv|kederle|
+formidably|adv|heybetli şekilde|
+fractious|adj|huysuz, kavgacı|
+frolic|v|oynaşmak, hoplayıp zıplamak|Lambs {frolicked} in the field.
+fruition|n|gerçekleşme|His plans came to {fruition}.
+gale|n|fırtına (şiddetli rüzgâr)|A {gale} blew all night.
+gambit|n|açılış hamlesi, taktik|It was a clever {gambit}.
+gauche|adj|beceriksiz, patavatsız|
+genomic|adj|genomik|They study {genomic} data.
+genomically|adv|genom açısından|The two species are {genomically} similar.
+glint|v|parıldamak|The knife {glinted} in the light.
+glitz|n|gösteriş, şatafat|I don't like the {glitz} of Hollywood.
+glitzy|adj|şatafatlı|It was a {glitzy} party.
+glory in|v|keyfini çıkarmak, övünmek|He {glories in} his success.
+gout|n|gut hastalığı|He suffers from {gout}.
+graft|n|aşı (bitki/doku); rüşvet|The skin {graft} was a success.
+gravitate|v|-e doğru çekilmek|
+gravitational|adj|kütleçekimsel|The {gravitational} pull of the moon causes tides.
+gravitationally|adv|kütleçekimsel olarak|The planets are {gravitationally} bound.
+grievance|n|şikâyet, dert|The workers had a {grievance}.
+habitation|n|ikamet, yerleşim|The house is fit for {habitation}.
+hamper|v|engellemek|
+haphazard|adj|gelişigüzel|
+haphazardly|adv|rastgele|The books were stacked {haphazardly}.
+hapless|adj|talihsiz|The {hapless} tourist lost his passport.
+happenstance|n|tesadüf|We met by {happenstance}.
+haughtily|adv|kibirle|
+haughty|adj|kibirli|She gave a {haughty} reply.
+hauntingly|adv|akıldan çıkmayacak şekilde|The music is {hauntingly} beautiful.
+hazard|v|tahminde bulunmak, göze almak|I'd {hazard} a guess that he is forty.
+headmistress|n|okul müdiresi|The {headmistress} called my parents.
+helm|n|dümen|
+herald|v|habercisi olmak|The flowers {herald} spring.
+herald|n|haberci, müjdeci|
+hermetic|adj|hava geçirmez|The jar has a {hermetic} seal.
+hermit|n|münzevi, inzivaya çekilmiş kişi|He lived like a {hermit}.
+hinder|v|engellemek|
+hindrance|n|engel|The rain was a {hindrance}.
+hindsight|n|sonradan anlama|
+histrionic|adj|abartılı, yapmacık|She gave a {histrionic} performance.
+histrionically|adv|abartılı şekilde|He wept {histrionically}.
+hitch|v|bağlamak; otostop yapmak|
+hitherto|adv|şimdiye kadar|The area was {hitherto} unknown.
+hoist|v|kaldırmak (vinçle)|
+homestead|n|çiftlik evi|They lived on a {homestead} in the hills.
+hotelier|n|otelci|The {hotelier} owns three hotels.
+huddle|v|sokulmak, toplanmak|
+huddle|n|küme, toplanma|
+hull|n|gövde (gemi)|The ship's {hull} was damaged.
+hypnotherapy|n|hipnoterapi|She tried {hypnotherapy} to stop smoking.
+hypothesis|n|hipotez|
+hypothesize|v|varsaymak|Scientists {hypothesize} that the virus came from bats.
+hypothetical|adj|varsayımsal|It's a {hypothetical} question.
+hysteria|n|isteri|There was mass {hysteria}.
+hysterical|adj|histerik; çok komik|
+hysterically|adv|histerik şekilde|
+idiomatic|adj|deyimsel|"Kick the bucket" is an {idiomatic} expression.
+idiomatically|adv|deyimsel olarak|She speaks English {idiomatically}.
+idiosyncrasy|n|kişisel tuhaflık|Everyone has their {idiosyncrasies}.
+idiosyncratic|adj|kendine özgü|
+idle|v|rölantide çalışmak; boş durmak|The engine {idled} at the light.
+ignominious|adj|utanç verici|They suffered an {ignominious} defeat.
+ignominiously|adv|utanç verici şekilde|He was {ignominiously} dismissed.
+impeccable|adj|kusursuz|Her English is {impeccable}.
+impeccably|adv|kusursuzca|
+imperceptible|adj|fark edilemez|

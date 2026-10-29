@@ -1,0 +1,303 @@
+# phrasal verb | CEFR (approx., English Vocabulary Profile based) | Türkçe | English definition | example with {form}
+get up|A2|kalkmak (yataktan)|rise from bed after sleeping|I {get up} at seven every morning.
+wake up|A2|uyanmak|stop sleeping|I {woke up} late on Sunday.
+sit down|A2|oturmak|move into a sitting position|Please {sit down} and relax.
+stand up|A2|ayağa kalkmak|rise to a standing position|Everyone {stood up} when the teacher came in.
+turn on|A2|açmak (cihaz)|start a machine or light|Can you {turn on} the light?
+turn off|A2|kapatmak (cihaz)|stop a machine or light|Don't forget to {turn off} the TV.
+put on|A2|giymek|dress yourself in clothes|{Put on} your coat; it's cold.
+take off|A2|çıkarmak (giysi); havalanmak|remove clothes; leave the ground (plane)|Please {take off} your shoes at the door.
+look for|A2|aramak|try to find|I'm {looking for} my keys.
+look at|A2|bakmak|direct your eyes towards|{Look at} that beautiful bird!
+come back|A2|geri gelmek|return|When will you {come back}?
+go back|A2|geri dönmek|return to a place|I want to {go back} to Antalya next year.
+go out|A2|dışarı çıkmak|leave home for entertainment|We {went out} for dinner last night.
+come in|A2|içeri girmek|enter|{Come in} and close the door.
+get on|A2|binmek (otobüs, tren)|enter a bus, train or plane|We {got on} the bus at the station.
+get off|A2|inmek (araçtan)|leave a bus, train or plane|{Get off} the bus at the next stop.
+fill in|A2|doldurmak (form)|complete a form|Please {fill in} this form.
+pick up|A2|almak, yerden kaldırmak; arabayla almak|lift; collect someone|I'll {pick up} the kids from school.
+grow up|A2|büyümek, yetişmek|become an adult|I {grew up} in a small village.
+find out|B1|öğrenmek, ortaya çıkarmak|discover a fact|I {found out} the truth yesterday.
+give up|B1|vazgeçmek, bırakmak|stop doing or trying something|She {gave up} smoking last year.
+look after|B1|bakmak, ilgilenmek|take care of|Can you {look after} my cat this weekend?
+look forward to|B1|dört gözle beklemek|feel happy about something that will happen|I'm {looking forward to} the holiday.
+look up|B1|(sözlükte) bakmak|search for information in a book or online|{Look up} the word in a dictionary.
+put off|B1|ertelemek|delay doing something|Don't {put off} your homework until tomorrow.
+carry on|B1|devam etmek|continue|{Carry on} with your work, please.
+turn up|B1|gelmek, ortaya çıkmak; sesini açmak|arrive; increase the volume|Only five people {turned up} for the meeting.
+turn down|B1|reddetmek; sesini kısmak|refuse an offer; reduce volume|He {turned down} the job offer.
+set off|B1|yola çıkmak|start a journey|We {set off} early in the morning.
+run out of|B1|tükenmek, bitmek|use all of something|We've {run out of} milk.
+get along|B1|iyi geçinmek|have a friendly relationship|I {get along} well with my colleagues.
+get on with|B1|iyi geçinmek; devam etmek|have a good relationship with; continue|She {gets on with} everyone at work.
+break down|B1|bozulmak (araç); yıkılmak (duygusal)|stop working (machine); lose control of emotions|Our car {broke down} on the motorway.
+take up|B1|başlamak (hobi)|start a new hobby or activity|I've {taken up} yoga.
+throw away|B1|atmak, çöpe atmak|get rid of something|Don't {throw away} those boxes.
+call back|B1|geri aramak|return a phone call|I'll {call back} later.
+check in|B1|giriş yapmak (otel, havaalanı)|register at a hotel or airport|We {checked in} at the hotel at noon.
+check out|B1|çıkış yapmak (otel); incelemek|leave a hotel; look at something|We have to {check out} before eleven.
+come across|B1|rastlamak|find by chance|I {came across} an old photo of my grandparents.
+dress up|B1|şık giyinmek; kılık değiştirmek|wear formal or special clothes|We {dressed up} for the wedding.
+eat out|B1|dışarıda yemek|eat at a restaurant|Let's {eat out} tonight.
+fall over|B1|düşmek, devrilmek|fall to the ground|She {fell over} on the ice.
+get back|B1|geri dönmek; geri almak|return; recover|When did you {get back} from Paris?
+give back|B1|geri vermek|return something to its owner|{Give back} my pen, please.
+go on|B1|devam etmek; olmak|continue; happen|What's {going on} here?
+hang up|B1|telefonu kapatmak; asmak|end a phone call; hang clothes|She {hung up} without saying goodbye.
+hurry up|B1|acele etmek|do something more quickly|{Hurry up}! We're late.
+join in|B1|katılmak|take part in an activity|Everyone {joined in} the song.
+keep on|B1|sürdürmek, devam etmek|continue doing|He {kept on} talking during the film.
+let down|B1|hayal kırıklığına uğratmak|disappoint|I won't {let down} my team.
+look out|B1|dikkat etmek|be careful|{Look out}! There's a car coming.
+make up|B1|uydurmak; barışmak; telafi etmek|invent; become friends again|He {made up} a story about his dog.
+move in|B1|taşınmak (yeni eve)|start living in a new home|They {moved in} last week.
+move out|B1|taşınıp çıkmak|leave the home where you live|She {moved out} of her parents' house.
+pay back|B1|borcunu ödemek|return borrowed money|I'll {pay back} the money next week.
+put away|B1|yerine kaldırmak|put something where it is kept|{Put away} your toys, please.
+put up with|B1|katlanmak, tahammül etmek|tolerate|I can't {put up with} this noise.
+ring up|B1|telefon etmek|phone someone|I'll {ring up} the hotel to book a room.
+run away|B1|kaçmak|escape from a place|The dog {ran away} from home.
+show off|B1|hava atmak, gösteriş yapmak|try to impress others|He likes to {show off} his new car.
+slow down|B1|yavaşlamak|reduce speed|{Slow down}! You're driving too fast.
+sort out|B1|halletmek, düzenlemek|solve a problem; organize|We need to {sort out} this problem.
+take back|B1|geri almak; iade etmek|return something to a shop|I {took back} the shoes because they were too small.
+tidy up|B1|toplamak, düzenlemek|make a place neat|{Tidy up} your room before dinner.
+try on|B1|denemek (giysi)|put on clothes to see if they fit|Can I {try on} this jacket?
+wash up|B1|bulaşık yıkamak|wash dishes after a meal|I'll {wash up} after dinner.
+work out|B1|spor yapmak; çözmek|exercise; solve|I {work out} at the gym three times a week.
+write down|B1|not almak, yazmak|write something on paper|{Write down} my phone number.
+cut down on|B1|azaltmak|reduce the amount of|I'm trying to {cut down on} sugar.
+deal with|B1|ilgilenmek, başa çıkmak|handle a problem or task|She {deals with} customer complaints.
+fill up|B1|doldurmak|make completely full|{Fill up} the tank, please.
+get over|B1|atlatmak, iyileşmek|recover from illness or a bad experience|It took him months to {get over} the flu.
+get together|B1|bir araya gelmek|meet socially|Let's {get together} next weekend.
+go off|B1|çalmak (alarm); patlamak; bozulmak|ring; explode; become bad (food)|The alarm {went off} at six.
+hold on|B1|beklemek; sıkı tutunmak|wait; grip firmly|{Hold on} a minute, please.
+keep up with|B1|ayak uydurmak|move at the same speed as|I can't {keep up with} the new technology.
+lie down|B1|uzanmak|move into a lying position|I need to {lie down} for a while.
+pass away|B1|vefat etmek|die (polite)|Her grandfather {passed away} last year.
+point out|B1|belirtmek, dikkat çekmek|mention something important|She {pointed out} a mistake in my essay.
+put out|B1|söndürmek|stop a fire burning|Firefighters {put out} the fire.
+set up|B1|kurmak|establish; arrange|They {set up} a new company.
+take care of|B1|ilgilenmek, bakmak|look after|Who will {take care of} the baby?
+turn into|B1|dönüşmek|become something different|The caterpillar {turned into} a butterfly.
+wait for|B1|beklemek|stay until someone comes or something happens|I'm {waiting for} the bus.
+believe in|B1|inanmak|be sure something exists or is good|Do you {believe in} ghosts?
+belong to|B1|ait olmak|be owned by|This bag {belongs to} Ayşe.
+calm down|B1|sakinleşmek|become less angry or excited|{Calm down} and tell me what happened.
+cheer up|B1|neşelenmek, neşelendirmek|become or make happier|This song always {cheers up} my mood.
+clean up|B1|temizlemek|make a place clean|We {cleaned up} after the party.
+count on|B1|güvenmek, bel bağlamak|rely on|You can {count on} me.
+drop off|B1|bırakmak (arabayla); uyuklamak|take someone somewhere and leave them|I'll {drop off} the kids at school.
+fall down|B1|düşmek; yıkılmak|fall to the ground|The old wall {fell down} in the storm.
+figure out|B1|anlamak, çözmek|understand or solve|I can't {figure out} how this works.
+get rid of|B1|kurtulmak, başından atmak|remove or throw away|We need to {get rid of} these old clothes.
+go ahead|B1|başlamak, devam etmek|start or continue|"Can I ask a question?" "{Go ahead}."
+hand in|B1|teslim etmek (ödev)|give work to a teacher|{Hand in} your essays on Friday.
+hand out|B1|dağıtmak|distribute|The teacher {handed out} the tests.
+leave out|B1|dışarıda bırakmak, atlamak|not include|Don't {leave out} any details.
+log in|B1|oturum açmak|enter a computer system|{Log in} with your password.
+put down|B1|yere koymak|place on a surface|{Put down} that knife!
+stay up|B1|geç saate kadar oturmak|not go to bed|We {stayed up} until 2 a.m.
+switch off|B1|kapatmak|turn off|{Switch off} your phones, please.
+switch on|B1|açmak|turn on|{Switch on} the computer.
+take part in|B1|katılmak|participate|Fifty students {took part in} the race.
+think about|B1|düşünmek|consider|I'm {thinking about} changing my job.
+bring up|B2|yetiştirmek; gündeme getirmek|raise a child; mention a subject|She was {brought up} by her grandmother.
+come up with|B2|(fikir) bulmak, ortaya atmak|think of an idea or plan|She {came up with} a brilliant idea.
+look down on|B2|küçümsemek, hor görmek|think you are better than someone|Don't {look down on} people who are poor.
+look up to|B2|saygı duymak, örnek almak|admire and respect|I've always {looked up to} my father.
+take after|B2|(birine) çekmek, benzemek|look or behave like an older relative|She {takes after} her mother.
+get away with|B2|paçayı kurtarmak|not be punished for something wrong|He cheated and {got away with} it.
+call off|B2|iptal etmek|cancel|They {called off} the match because of rain.
+back up|B2|desteklemek; yedeklemek|support; copy data|Always {back up} your files.
+blow up|B2|patlamak, havaya uçurmak; şişirmek|explode; fill with air|They {blew up} the old bridge.
+break up|B2|ayrılmak (ilişki)|end a relationship|They {broke up} after five years.
+break into|B2|zorla girmek|enter a building illegally|Thieves {broke into} our house.
+bring about|B2|yol açmak, neden olmak|cause to happen|The internet {brought about} huge changes.
+bring back|B2|hatırlatmak; geri getirmek|cause to remember; return|This song {brings back} memories.
+catch up|B2|yetişmek, arayı kapatmak|reach the same level as others|I missed a week of school and need to {catch up}.
+come along|B2|gelmek, eşlik etmek; ilerlemek|go somewhere with someone; progress|Do you want to {come along}?
+come down with|B2|(hastalığa) yakalanmak|become ill with|I think I'm {coming down with} a cold.
+come over|B2|uğramak, ziyarete gelmek|visit someone's home|Why don't you {come over} for dinner?
+cut off|B2|kesmek (bağlantı, elektrik)|stop the supply of|They {cut off} our electricity.
+drop out|B2|okulu bırakmak|leave school or a course early|He {dropped out} of university.
+end up|B2|sonunda bir duruma düşmek|finally be in a situation|We {ended up} staying at home.
+fall out|B2|bozuşmak, küsmek|stop being friends after an argument|She {fell out} with her sister.
+fall apart|B2|dağılmak, parçalanmak|break into pieces; fail|My old shoes are {falling apart}.
+get by|B2|idare etmek, geçinmek|manage to live with difficulty|I can {get by} in German.
+get down to|B2|(işe) koyulmak|start doing something seriously|Let's {get down to} business.
+get through|B2|atlatmak; telefonla ulaşmak|survive a difficult time; reach by phone|We'll {get through} this together.
+give in|B2|pes etmek, boyun eğmek|stop resisting|Finally, his parents {gave in} and bought him a phone.
+give away|B2|bedava vermek; ele vermek|give for free; reveal a secret|She {gave away} all her old books.
+go over|B2|gözden geçirmek|check carefully|Let's {go over} the plan again.
+go through|B2|yaşamak (zor bir şey); incelemek|experience; examine|She {went through} a difficult divorce.
+hang out|B2|takılmak, vakit geçirmek|spend time relaxing|We {hang out} at the café after school.
+hold up|B2|geciktirmek; soymak|delay; rob|Sorry I'm late; I was {held up} in traffic.
+keep up|B2|sürdürmek, devam ettirmek|continue at the same level|{Keep up} the good work!
+let in|B2|içeri almak|allow to enter|Please {let in} the dog.
+look into|B2|araştırmak, incelemek|investigate|The police are {looking into} the case.
+make out|B2|seçebilmek, anlamak|see or hear with difficulty|I couldn't {make out} what he said.
+make up for|B2|telafi etmek|compensate|I'll {make up for} being late.
+mix up|B2|karıştırmak|confuse two things|I always {mix up} their names.
+pass out|B2|bayılmak|faint|He {passed out} in the heat.
+pull over|B2|kenara çekmek (araç)|drive to the side of the road and stop|The police told him to {pull over}.
+put forward|B2|öne sürmek|suggest an idea|She {put forward} a new plan.
+put up|B2|kurmak, asmak; misafir etmek|build; hang; let someone stay|We {put up} the tent near the lake.
+run into|B2|rastlamak; çarpmak|meet by chance; hit|I {ran into} an old friend at the market.
+see off|B2|uğurlamak|go to the station or airport to say goodbye|We {saw off} our cousins at the airport.
+set out|B2|yola koyulmak; açıklamak|start a journey; explain clearly|They {set out} at dawn.
+settle down|B2|düzen kurmak; sakinleşmek|start a quiet life; become calm|He wants to {settle down} and have children.
+show up|B2|ortaya çıkmak, gelmek|arrive (often unexpectedly)|He {showed up} two hours late.
+speak up|B2|daha yüksek sesle konuşmak; fikrini söylemek|talk louder; give your opinion|Could you {speak up}, please?
+stand out|B2|göze çarpmak, sivrilmek|be easy to notice|Her red dress {stood out} in the crowd.
+stand for|B2|anlamına gelmek; savunmak|represent; support|What does "UN" {stand for}?
+stick to|B2|bağlı kalmak|continue doing or following|{Stick to} the plan.
+take over|B2|devralmak, kontrolü ele geçirmek|take control of|A big company {took over} the factory.
+take in|B2|anlamak, kavramak; kandırmak|understand; deceive|It was too much information to {take in}.
+take on|B2|üstlenmek; işe almak|accept a responsibility; employ|She {took on} too much work.
+think over|B2|enine boyuna düşünmek|consider carefully|I'll {think over} your offer.
+try out|B2|denemek|test something|I want to {try out} the new restaurant.
+turn out|B2|ortaya çıkmak, ... olduğu anlaşılmak|happen in the end; prove to be|The party {turned out} to be fun.
+use up|B2|tüketmek, bitirmek|use all of something|We've {used up} all the paper.
+warm up|B2|ısınmak (spor öncesi)|prepare your body for exercise|Always {warm up} before running.
+wear out|B2|yıpranmak; çok yormak|become damaged by use; make very tired|My shoes {wore out} after a year.
+work on|B2|üzerinde çalışmak|spend time improving something|I'm {working on} my pronunciation.
+account for|B2|açıklamak; oluşturmak (oran)|explain; form a part of|Tourism {accounts for} 10% of the economy.
+add up|B2|toplamak; mantıklı gelmek|calculate a total; make sense|His story doesn't {add up}.
+break out|B2|patlak vermek|start suddenly (war, fire)|A fire {broke out} in the kitchen.
+call for|B2|gerektirmek; talep etmek|need; demand|This situation {calls for} quick action.
+carry out|B2|yürütmek, gerçekleştirmek|perform a task|Scientists {carried out} an experiment.
+come out|B2|çıkmak, yayımlanmak|be published or released|Her new book {comes out} next month.
+come up|B2|gündeme gelmek; ortaya çıkmak|be mentioned; happen unexpectedly|Something {came up} and I couldn't come.
+do without|B2|-sız idare etmek|manage without something|I can't {do without} coffee in the morning.
+fit in|B2|uyum sağlamak|feel part of a group|It was hard to {fit in} at my new school.
+get across|B2|anlatmak, iletmek|communicate an idea|He couldn't {get across} his message.
+go up|B2|artmak, yükselmek|increase|Prices have {gone up} again.
+go down|B2|azalmak, düşmek|decrease|The temperature {went down} at night.
+hand over|B2|teslim etmek, devretmek|give control or possession|He {handed over} the keys to the new owner.
+keep away from|B2|uzak durmak|avoid going near|{Keep away from} the edge of the cliff.
+leave behind|B2|geride bırakmak|not take with you|I {left behind} my umbrella on the bus.
+look back on|B2|geçmişe dönüp bakmak|think about the past|I {look back on} my school days with pleasure.
+miss out|B2|kaçırmak (fırsat)|lose a chance to enjoy something|Don't {miss out} on this great offer.
+pull out|B2|çekilmek|withdraw from|The company {pulled out} of the deal.
+put through|B2|(telefonu) bağlamak|connect someone by phone|Could you {put through} my call to the manager?
+rule out|B2|olasılık dışı bırakmak|exclude a possibility|The police have {ruled out} murder.
+run over|B2|(araçla) ezmek|hit with a vehicle|A car {ran over} the cat.
+see to|B2|ilgilenmek, halletmek|deal with|I'll {see to} the arrangements.
+sign up|B2|kaydolmak|register for an activity|I {signed up} for a Spanish course.
+stand by|B2|desteklemek; hazır beklemek|support; be ready|I'll {stand by} you whatever happens.
+step down|B2|istifa etmek, görevi bırakmak|resign from a position|The president {stepped down} after ten years.
+take apart|B2|parçalarına ayırmak|separate into pieces|He {took apart} the engine.
+talk into|B2|ikna etmek|persuade someone to do something|He was {talked into} buying a new car.
+throw up|B2|kusmak|vomit|He felt sick and {threw up}.
+track down|B2|izini bulmak|find after searching|The police {tracked down} the thief.
+watch out|B2|dikkat etmek|be careful|{Watch out} for pickpockets.
+wipe out|B2|yok etmek|destroy completely|The disease {wiped out} the population.
+zoom in|B2|yakınlaştırmak|make an image bigger|{Zoom in} on the map.
+abide by|C1|uymak (kurala)|follow a rule or decision|You must {abide by} the rules.
+act up|C1|yaramazlık yapmak; sorun çıkarmak|behave badly; not work properly|My car is {acting up} again.
+bank on|C1|güvenmek, bel bağlamak|depend on|Don't {bank on} getting a pay rise.
+bear out|C1|doğrulamak|prove to be true|The results {bear out} our theory.
+blurt out|C1|ağzından kaçırmak|say suddenly without thinking|She {blurted out} the secret.
+boil down to|C1|özünde ... olmak|be the main point|It all {boils down to} money.
+bounce back|C1|toparlanmak, eski haline gelmek|recover quickly|The economy {bounced back} after the crisis.
+brush up on|C1|tazelemek (bilgi)|improve a skill you had before|I need to {brush up on} my French.
+butt in|C1|lafa karışmak|interrupt rudely|Sorry to {butt in}, but I have a question.
+cave in|C1|çökmek; boyun eğmek|collapse; finally agree|The government {caved in} to the protesters.
+chip in|C1|katkıda bulunmak (para)|contribute money|We all {chipped in} for her present.
+clamp down on|C1|sıkı önlem almak|take strict action against|The police are {clamping down on} speeding.
+come across as|C1|... izlenimi vermek|seem to have a quality|He {comes across as} very confident.
+come down to|C1|-e bağlı olmak, özünde ... olmak|depend on; be about|It {comes down to} who you know.
+cope with|C1|başa çıkmak|deal successfully with|She {copes with} stress very well.
+crack down on|C1|sert tedbir almak|act strictly against|The city is {cracking down on} illegal parking.
+do away with|C1|kaldırmak, son vermek|get rid of|They {did away with} school uniforms.
+dwell on|C1|üzerinde durmak, takılmak|think too much about something bad|Don't {dwell on} the past.
+face up to|C1|yüzleşmek, kabul etmek|accept a difficult situation|You must {face up to} your problems.
+fall back on|C1|başvurmak (yedek olarak)|use when other things fail|We can {fall back on} our savings.
+fall through|C1|suya düşmek, gerçekleşmemek|fail to happen|Our holiday plans {fell through}.
+fend off|C1|savuşturmak|defend yourself against|She {fended off} the attack.
+gloss over|C1|üstünü örtmek, geçiştirmek|avoid discussing|The report {glosses over} the problems.
+hold back|C1|geri tutmak; engellemek|stop yourself; prevent progress|She {held back} her tears.
+iron out|C1|çözmek (küçük sorunları)|solve small problems|We need to {iron out} a few details.
+jot down|C1|not almak (hızlıca)|write quickly|Let me {jot down} your address.
+kick off|C1|başlamak|start|The festival {kicks off} on Friday.
+lay off|C1|işten çıkarmak|dismiss workers|The factory {laid off} 200 workers.
+live up to|C1|(beklentiyi) karşılamak|be as good as expected|The film didn't {live up to} my expectations.
+make do with|C1|idare etmek (eldekiyle)|manage with what is available|We'll have to {make do with} this old car.
+mull over|C1|üzerinde düşünmek|think carefully about|I need to {mull over} your offer.
+nod off|C1|uyuklamak|fall asleep|Grandpa {nodded off} in front of the TV.
+opt out|C1|katılmamayı seçmek|choose not to take part|You can {opt out} of the scheme.
+own up|C1|itiraf etmek|admit doing something wrong|Nobody {owned up} to breaking the window.
+pan out|C1|sonuçlanmak, gelişmek|develop in a particular way|Let's see how things {pan out}.
+phase out|C1|aşamalı olarak kaldırmak|gradually stop using|They are {phasing out} plastic bags.
+pick on|C1|sataşmak, uğraşmak|treat unfairly or bully|Stop {picking on} your little brother.
+piece together|C1|parçaları birleştirmek|understand by combining facts|The police {pieced together} what happened.
+play down|C1|önemsiz göstermek|make something seem less important|The government {played down} the crisis.
+pull through|C1|atlatmak (hastalık)|recover from serious illness|The doctors think she will {pull through}.
+rope in|C1|ikna edip dahil etmek|persuade to help|They {roped in} their friends to help them move.
+run up against|C1|karşılaşmak (sorunla)|encounter a difficulty|We {ran up against} a lot of opposition.
+scrape by|C1|kıt kanaat geçinmek|manage to live with very little money|They {scrape by} on a small pension.
+set about|C1|-e girişmek, koyulmak|start doing something|She {set about} cleaning the house.
+set back|C1|geciktirmek; mal olmak|delay progress; cost|The rain {set back} the building work.
+single out|C1|seçip ayırmak|choose one from a group|The teacher {singled out} Ali for praise.
+size up|C1|tartmak, değerlendirmek|examine and judge|She {sized up} the situation quickly.
+sound out|C1|nabız yoklamak|find out someone's opinion|I'll {sound out} my boss about a raise.
+spell out|C1|açıkça belirtmek|explain in detail|Do I have to {spell out} everything for you?
+stem from|C1|-den kaynaklanmak|be caused by|His problems {stem from} his childhood.
+stick up for|C1|savunmak, arka çıkmak|defend or support|She always {sticks up for} her friends.
+string along|C1|oyalamak, kandırmak|deceive someone for a long time|He {strung along} his girlfriend for years.
+take aback|C1|şaşırtmak|surprise or shock|I was {taken aback} by his rudeness.
+tell off|C1|azarlamak|speak angrily to someone|The teacher {told off} the noisy students.
+tie in with|C1|uyuşmak, bağlantılı olmak|be connected with|This {ties in with} what we discussed.
+tip off|C1|gizlice haber vermek|warn secretly|Someone {tipped off} the police.
+tone down|C1|yumuşatmak|make less extreme|You should {tone down} your language.
+touch on|C1|değinmek|mention briefly|The lecture {touched on} climate change.
+turn over|C1|devretmek; çevirmek|give control; flip|They {turned over} the documents to the police.
+weigh up|C1|tartmak, değerlendirmek|consider carefully|{Weigh up} the pros and cons.
+whip up|C1|çabucak hazırlamak; kışkırtmak|make quickly; cause strong feelings|I'll {whip up} something for dinner.
+wind down|C1|gevşemek, rahatlamak|relax after activity|I read a book to {wind down}.
+wriggle out of|C1|-den sıyrılmak|avoid doing something|He always {wriggles out of} the washing-up.
+ward off|C2|savuşturmak, uzak tutmak|prevent something harmful|Garlic is said to {ward off} colds.
+egg on|C2|kışkırtmak, gaza getirmek|encourage someone to do something bad|The crowd {egged on} the two fighters.
+fritter away|C2|çarçur etmek|waste time or money|He {frittered away} his inheritance.
+hammer out|C2|uzun tartışmalarla karara varmak|reach an agreement after much discussion|They {hammered out} a deal.
+lash out|C2|saldırmak, ateş püskürmek|attack verbally or physically|He {lashed out} at the journalists.
+peter out|C2|yavaş yavaş sönmek|gradually come to an end|The conversation {petered out}.
+rake in|C2|para kırmak|earn a lot of money|The film {raked in} millions.
+root out|C2|kökünü kazımak|find and remove|We must {root out} corruption.
+skirt around|C2|kaçamak yapmak, etrafından dolaşmak|avoid dealing with|He {skirted around} the question.
+stave off|C2|önlemek, ertelemek|prevent for a time|They ate bread to {stave off} hunger.
+swear by|C2|-e çok güvenmek|have great confidence in|My mother {swears by} herbal tea.
+tease out|C2|ortaya çıkarmak (bilgi)|obtain information with effort|The teacher {teased out} the answer from the students.
+waffle on|C2|boş laf etmek|talk a lot without saying anything|He {waffled on} for an hour.
+while away|C2|vakit öldürmek|spend time in a relaxed way|We {whiled away} the afternoon by the pool.
+bog down|C2|batmak, saplanmak|cause to be stuck|The talks got {bogged down} in details.
+brush aside|C2|önemsememek|refuse to consider|She {brushed aside} our concerns.
+chicken out|C2|korkup vazgeçmek|decide not to do something out of fear|He {chickened out} of the bungee jump.
+cotton on|C2|çakmak, anlamak|begin to understand|It took me a while to {cotton on} to the joke.
+drum up|C2|toplamak (destek)|try to get support or business|They're trying to {drum up} support.
+fob off|C2|başından savmak|try to satisfy someone with an excuse|The shop tried to {fob off} customers with excuses.
+gear up|C2|hazırlanmak|prepare for something|The city is {gearing up} for the festival.
+hole up|C2|saklanmak|hide somewhere|The thieves {holed up} in an old farmhouse.
+lap up|C2|zevkle kabul etmek|enjoy eagerly|She {lapped up} the attention.
+muddle through|C2|bir şekilde idare etmek|succeed despite poor organization|We'll {muddle through} somehow.
+paper over|C2|üstünü örtmek|hide a problem|They tried to {paper over} their differences.
+rein in|C2|dizginlemek|control more strictly|The government must {rein in} spending.
+rustle up|C2|çabucak hazırlamak|make quickly|I can {rustle up} a quick meal.
+shrug off|C2|umursamamak|treat as unimportant|He {shrugged off} the criticism.
+sift through|C2|elemek, dikkatle incelemek|examine carefully|Police {sifted through} the evidence.
+spur on|C2|teşvik etmek|encourage|The crowd {spurred on} the runners.
+water down|C2|sulandırmak, yumuşatmak|make weaker|The plan was {watered down}.
+whittle down|C2|azaltmak (yavaş yavaş)|reduce gradually|We {whittled down} the list to five names.
+zero in on|C2|odaklanmak|focus attention on|The report {zeroes in on} the main problem.
+dish out|C2|dağıtmak (eleştiri, öğüt)|give out freely|He loves to {dish out} advice.
+ease off|C2|azalmak, hafiflemek|become less|The rain began to {ease off}.
+flesh out|C2|ayrıntılandırmak|add more details|Can you {flesh out} your proposal?
+mete out|C2|vermek (ceza)|give a punishment|The judge {meted out} harsh sentences.
+pore over|C2|dikkatle incelemek|study carefully|She {pored over} the old maps.
+reel off|C2|bir çırpıda sıralamak|say a list quickly|He {reeled off} the names of all the players.
+splash out|C2|bol para harcamak|spend a lot of money|We {splashed out} on a new car.
+sponge off|C2|sırtından geçinmek|live on someone else's money|He {sponges off} his parents.
+stumble upon|C2|tesadüfen bulmak|find by chance|I {stumbled upon} a great café.

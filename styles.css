@@ -108,8 +108,8 @@ p { margin: 0; }
 }
 .menu-item:active { transform: scale(.985); }
 .menu-item .emoji { font-size: 30px; width: 48px; height: 48px; display: grid; place-items: center; border-radius: 14px; background: var(--surface-2); flex: none; }
-.menu-item .t { font-weight: 700; }
-.menu-item .d { color: var(--muted); font-size: 13px; margin-top: 2px; }
+.menu-item .t { font-weight: 700; display: block; }
+.menu-item .d { color: var(--muted); font-size: 13px; margin-top: 2px; display: block; }
 .menu-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .menu-grid .menu-item { flex-direction: column; align-items: flex-start; gap: 8px; }
 

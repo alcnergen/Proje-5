@@ -1,0 +1,450 @@
+meaningless|adj|anlamsız|
+meaninglessly|adv|anlamsızca|He stared {meaninglessly} at the wall.
+mechanism|n|mekanizma|
+methodical|adj|yöntemli, sistemli|She is very {methodical} in her work.
+midwife|n|ebe|The {midwife} helped deliver the baby.
+mingle|v|karışmak, kaynaşmak|
+minutiae|n|ince ayrıntılar|
+misplace|v|yanlış yere koymak|I've {misplaced} my glasses.
+monotonous|adj|monoton, tekdüze|
+monotonously|adv|tekdüze şekilde|
+monotony|n|tekdüzelik|
+motley|adj|rengârenk, karışık|
+mountaineer|n|dağcı|The {mountaineer} reached the top of Everest.
+munch|v|kıtır kıtır yemek|He {munched} an apple.
+muscular|adj|kaslı|
+mutually|adv|karşılıklı olarak|
+mythological|adj|mitolojik|Pegasus is a {mythological} horse.
+mythology|n|mitoloji|I love Greek {mythology}.
+naive|adj|saf, toy|
+naively|adv|safça|
+naivety|n|saflık|Her {naivety} surprised me.
+naturalness|n|doğallık|
+neglectful|adj|ihmalkâr|He was a {neglectful} father.
+negligent|adj|ihmalkâr|The driver was {negligent}.
+negligently|adv|ihmalkârca|
+negligible|adj|önemsiz, ihmal edilebilir|The difference is {negligible}.
+neutralization|n|etkisiz hale getirme|The {neutralization} of the acid took minutes.
+neutralize|v|etkisiz hale getirmek|
+niche|n|niş, özel alan|
+nocturnal|adj|gece aktif olan|
+nondescript|adj|sıradan, özelliksiz|
+norms|n|normlar|Social {norms} differ between cultures.
+notable|adj|dikkate değer|There were some {notable} exceptions.
+notwithstanding|prep|-e rağmen|{Notwithstanding} the rain, the event went ahead.
+numb|adj|uyuşmuş|
+numb|v|uyuşturmak|
+oblige|v|zorunda bırakmak; minnettar kılmak|
+obscure|v|gizlemek, örtmek|
+obscure|adj|belirsiz, az bilinen|
+obscurely|adv|belirsizce|
+occupant|n|oturan, sakin|The {occupants} of the car were unhurt.
+occupational|adj|mesleki|Back pain is an {occupational} hazard.
+oddity|n|tuhaflık|The old house is an {oddity} in the street.
+offspring|n|döl, çocuklar|
+orchard|n|meyve bahçesi|They have an apple {orchard}.
+ordinarily|adv|normalde|{Ordinarily}, I walk to work.
+organizational|adj|örgütsel|She has good {organizational} skills.
+ornamental|adj|süs|There's an {ornamental} pond in the garden.
+orphan|v|yetim bırakmak|He was {orphaned} at five.
+otter|n|su samuru|An {otter} swam in the river.
+outset|n|başlangıç|I told you at the {outset}.
+overalls|n|iş tulumu|The painter wore white {overalls}.
+overdraft|v|hesabını eksiye düşürmek|He {overdrafted} his account again.
+overdraft|n|ek hesap, eksi bakiye|I have a large {overdraft}.
+oversee|v|denetlemek|
+overseer|n|denetçi|The {overseer} checked the work.
+pace|v|bir aşağı bir yukarı yürümek|
+paddle|v|kürek çekmek; suda yürümek|We {paddled} the canoe down the river.
+panorama|n|panorama|The {panorama} from the hill was beautiful.
+panoramic|adj|panoramik|The hotel has {panoramic} views.
+parasite|n|parazit, asalak|The dog had a {parasite}.
+paternal|adj|baba tarafından, babaya ait|
+paternalistic|adj|babacan (korumacı)|The government is too {paternalistic}.
+pathos|n|acındırma duygusu|
+paywall|n|ücretli erişim duvarı|The article is behind a {paywall}.
+peacock|n|tavus kuşu|The {peacock} spread its tail.
+peasant|n|köylü (tarihsel)|The {peasants} worked the land.
+pedicure|n|pedikür|She had a {pedicure}.
+pendulous|adj|sarkık|
+pendulum|n|sarkaç|The {pendulum} of the clock swung.
+peninsula|n|yarımada|Anatolia is a {peninsula}.
+perceptive|adj|anlayışlı, sezgisi güçlü|She is a very {perceptive} teacher.
+perceptively|adv|sezgiyle|He {perceptively} noticed the problem.
+perfect|v|mükemmelleştirmek|
+perpetuate|v|sürdürmek, kalıcılaştırmak|Films {perpetuate} stereotypes.
+persecute|v|zulmetmek|
+persecution|n|zulüm|They fled from religious {persecution}.
+personalization|n|kişiselleştirme|The app allows {personalization}.
+personalize|v|kişiselleştirmek|You can {personalize} your phone.
+persuasively|adv|ikna edici biçimde|
+pertain to|v|ilgili olmak|These rules {pertain to} all students.
+pertinent|adj|ilgili, yerinde|
+phenomenal|adj|olağanüstü|Her success was {phenomenal}.
+phenomenally|adv|olağanüstü derecede|
+physicality|n|bedensellik|The dancer's {physicality} was impressive.
+physique|n|fizik, vücut yapısı|
+pigeon|n|güvercin|{Pigeons} fill the square.
+pinnacle|n|zirve, doruk|
+pioneer|v|öncülük etmek|
+pioneer|n|öncü|
+placid|adj|sakin, uysal|
+placidly|adv|sakince|
+plague|v|başına bela olmak|Injuries have {plagued} the team.
+plaque|n|plaket; diş taşı|There's a {plaque} on the wall.
+plaster|n|sıva; yara bandı|
+plaster|v|sıvamak; sıvamak (kaplamak)|
+plausibility|n|akla yatkınlık|I doubt the {plausibility} of his story.
+plausible|adj|akla yatkın|It's a {plausible} explanation.
+plausibly|adv|akla yatkın şekilde|
+pleasurable|adj|zevkli|
+ploy|n|taktik, oyun|It was a {ploy} to get attention.
+plumbing|n|sıhhi tesisat|The {plumbing} in the old house is bad.
+plummet|v|hızla düşmek|Prices {plummeted}.
+plunge|v|dalmak; hızla düşmek|
+plunge|n|dalış; ani düşüş|There was a {plunge} in prices.
+poetess|n|kadın şair|She was a famous {poetess}.
+poise|n|kendine hâkimiyet, duruş|She answered with {poise}.
+popularization|n|yaygınlaştırma|The {popularization} of science is important.
+portable|adj|taşınabilir|I have a {portable} speaker.
+portable|n|taşınabilir cihaz|He bought a small {portable}.
+portray|v|tasvir etmek, canlandırmak|
+portrayal|n|canlandırma, tasvir|His {portrayal} of the king was brilliant.
+pose|v|poz vermek; teşkil etmek|
+possessor|n|sahip|He is the proud {possessor} of a new car.
+posture|n|duruş|
+pounce|v|üzerine atılmak|The cat {pounced} on the mouse.
+preach|v|vaaz vermek; nutuk çekmek|
+preacher|n|vaiz|The {preacher} spoke for an hour.
+precision|n|kesinlik, hassasiyet|
+predecessor|n|selef, önceki|She is better than her {predecessor}.
+premier|adj|birinci, önde gelen|
+premier|n|başbakan|The {premier} met the president.
+premise|n|öncül, varsayım|The film's {premise} is interesting.
+premises|n|bina ve arazisi|
+primitively|adv|ilkel şekilde|They lived {primitively} in caves.
+principally|adv|başlıca|The course is {principally} for beginners.
+privileged|adj|ayrıcalıklı|She comes from a {privileged} family.
+profess|v|iddia etmek, beyan etmek|
+professionalism|n|profesyonellik|We admire her {professionalism}.
+profound|adj|derin|
+profoundly|adv|derinden|The war {profoundly} changed him.
+prohibitive|adj|engelleyici (fiyat)|The cost is {prohibitive}.
+prohibitively|adv|aşırı derecede (pahalı)|Houses are {prohibitively} expensive.
+proliferate|v|hızla çoğalmak|
+prolific|adj|verimli, üretken|
+prolifically|adv|bol eser vererek|He wrote {prolifically}.
+prop|v|dayamak, desteklemek|He {propped} the door open.
+prop|n|dayanak; sahne aksesuarı|
+prophet|n|peygamber; kâhin|The {prophet} warned the people.
+prophetic|adj|kehanet niteliğinde|His words were {prophetic}.
+prospective|adj|muhtemel, olası|
+protagonist|n|başkahraman|The {protagonist} is a young girl.
+provisions|n|erzak|They packed {provisions} for the trip.
+provocative|adj|kışkırtıcı|
+provocatively|adv|kışkırtıcı şekilde|
+provoke|v|kışkırtmak, yol açmak|
+prowl|v|sinsi sinsi dolaşmak|
+psyche|n|ruh, ruhsal yapı|War affects the human {psyche}.
+psychiatric|adj|psikiyatrik|He was treated in a {psychiatric} hospital.
+psychiatrist|n|psikiyatrist|She went to see a {psychiatrist}.
+purity|n|saflık|The {purity} of the water was tested.
+puzzle|v|şaşırtmak|
+quarry|n|taş ocağı; av|
+query|v|sorgulamak|I {queried} the bill.
+quest|n|arayış|His {quest} for truth never ended.
+quip|n|espri, nükte|He made a {quip} about the weather.
+quip|v|espri yapmak|"Better late than never," he {quipped}.
+quirk|n|tuhaflık, garip alışkanlık|It's one of his little {quirks}.
+quirky|adj|tuhaf, ilginç|She has a {quirky} sense of humour.
+quirky|n|tuhaf kimse|The town is full of {quirkies}.
+radiator|n|kalorifer peteği; radyatör|The {radiator} is very hot.
+rally|v|toplanmak, bir araya gelmek|
+rapport|n|uyum, yakın ilişki|She has a good {rapport} with her students.
+rarity|n|nadir şey|Snow is a {rarity} here.
+raunchily|adv|-|
+raunchy|adj|-|
+readable|adj|okunaklı; okunası|The book is very {readable}.
+realism|n|gerçekçilik|The film has great {realism}.
+realist|n|gerçekçi|She is a {realist}.
+reap|v|biçmek; elde etmek|You {reap} what you sow.
+reassurance|n|güvence|She needed {reassurance}.
+reassure|v|güven vermek, rahatlatmak|
+recall|n|hatırlama; geri çağırma|
+recess|n|tatil, teneffüs; girinti|The children played during {recess}.
+recessive|adj|çekinik|Blue eyes are a {recessive} trait.
+recharge|v|yeniden şarj etmek|I need to {recharge} my phone.
+recognizable|adj|tanınabilir|
+recognizably|adv|tanınabilir şekilde|
+rediscover|v|yeniden keşfetmek|
+reenact|v|yeniden canlandırmak|
+refresh|v|tazelemek, canlandırmak|
+refreshing|adj|ferahlatıcı|
+refreshingly|adv|ferahlatıcı şekilde|
+refurbish|v|yenilemek, tadilat yapmak|
+refurbishment|n|tadilat|The hotel is closed for {refurbishment}.
+relapse|v|nüksetmek, tekrar kötüleşmek|He {relapsed} after a week.
+relapse|n|nüksetme|She had a {relapse}.
+relinquish|v|vazgeçmek, bırakmak|
+reluctantly|adv|isteksizce|He {reluctantly} agreed.
+remedial|adj|telafi edici, iyileştirici|He takes {remedial} maths classes.
+reminisce|v|anılarını anmak|
+reminiscent|adj|anımsatan|The smell is {reminiscent} of my childhood.
+remorse|n|vicdan azabı|He showed no {remorse}.
+remorsefully|adv|pişmanlıkla|She looked at him {remorsefully}.
+remorseless|adj|acımasız|
+remorselessly|adv|acımasızca|The rain fell {remorselessly}.
+remotely|adv|uzaktan; hiç (olumsuz)|
+removed|adj|uzak|The idea is far {removed} from reality.
+render|v|hale getirmek; sunmak|
+rendering|n|yorumlama; çizim|Her {rendering} of the song was beautiful.
+renown|n|ün, şöhret|He is a scientist of great {renown}.
+repel|v|uzak tutmak, itmek|This spray {repels} mosquitoes.
+repellant|n|kovucu|Use insect {repellant}.
+repellant|adj|itici, iğrenç|He found the idea {repellant}.
+repertory|n|repertuvar tiyatrosu|
+repute|v|... olarak bilinmek|
+resent|v|içerlemek, gücenmek|
+resilience|n|dayanıklılık, toparlanma gücü|Children show great {resilience}.
+resilient|adj|dayanıklı|
+resin|n|reçine|Pine trees produce {resin}.
+resonate|v|yankılanmak; etki uyandırmak|
+resort|v|başvurmak (çare olarak)|
+respite|n|mola, soluklanma|The rain gave us a short {respite} from the heat.
+restoration|n|restorasyon|
+restorative|adj|güç verici|A walk has a {restorative} effect.
+retention|n|tutma, elde tutma|Staff {retention} is a problem.
+retrace|v|aynı yoldan geri gitmek|
+revealing|adj|açığa vuran|
+revere|v|hürmet etmek|He is {revered} as a hero.
+riveting|adj|sürükleyici|The film was {riveting}.
+robust|adj|sağlam, güçlü|
+robustly|adv|sağlam şekilde|The house is {robustly} built.
+rotate|v|dönmek, döndürmek|
+roundup|n|özet|
+rudimentary|adj|temel, ilkel|He has a {rudimentary} knowledge of Spanish.
+rudiments|n|temel bilgiler|
+rumble|v|gürlemek, guruldamak|My stomach {rumbled}.
+rumble|n|gürültü, gümbürtü|
+rustle|v|hışırdamak|
+rustle|n|hışırtı|I heard a {rustle} in the bushes.
+ruthless|adj|acımasız|
+ruthlessness|n|acımasızlık|He was known for his {ruthlessness}.
+sacrifice|n|fedakârlık; kurban|
+sacrifice|v|feda etmek|
+salivate|v|salya akıtmak|
+saloon|n|salon, meyhane; sedan|They drank in the {saloon}.
+salvage|v|kurtarmak|They {salvaged} some furniture from the fire.
+salvation|n|kurtuluş|
+salve|n|merhem|
+sanctity|n|kutsallık|We respect the {sanctity} of life.
+sap|n|ağaç özü|{Sap} flowed from the tree.
+sarcasm|n|iğneleme, alay|
+sarcastic|adj|alaycı|Don't be so {sarcastic}.
+sarcastically|adv|alaycı şekilde|
+sauna|n|sauna|We relaxed in the {sauna}.
+scathing|adj|sert, kırıcı|
+scenario|n|senaryo|
+scoff|v|alay etmek|They {scoffed} at my idea.
+scorn|n|küçümseme|She looked at him with {scorn}.
+scornful|adj|küçümseyici|He gave a {scornful} laugh.
+scornfully|adv|küçümseyerek|She {scornfully} refused the offer.
+scramble|n|kapışma, koşuşturma|There was a {scramble} for the best seats.
+screenplay|n|senaryo|He wrote the {screenplay} for the film.
+screenwriter|n|senarist|She is a Hollywood {screenwriter}.
+scrutinize|v|incelemek|
+scrutiny|n|inceleme, mercek altına alma|The plan is under {scrutiny}.
+sedate|v|sakinleştirici vermek|
+sedate|adj|sakin, ağırbaşlı|They walked at a {sedate} pace.
+sedately|adv|ağır ağır, sakince|The boat moved {sedately} down the river.
+sedentary|adj|hareketsiz|
+seedling|n|fide|Plant the {seedlings} in spring.
+self-conscious|adj|utangaç, kendine fazla dikkat eden|
+self-worth|n|öz değer|Praise builds {self-worth}.
+sentient|adj|duyarlı, hisseden|
+sentiment|n|duygu, düşünce|I share your {sentiment}.
+sentimental|adj|duygusal|The ring has {sentimental} value.
+sentimentally|adv|duygusal olarak|
+sequel|n|devam filmi/kitabı|The {sequel} was better than the first film.
+settee|n|kanepe|They sat on the {settee}.
+shambles|n|karmakarışıklık|The house was a {shambles}.
+shed|v|dökmek (yaprak, tüy)|
+shortlist|v|kısa listeye almak|She was {shortlisted} for the prize.
+shortlist|n|kısa liste|Her name is on the {shortlist}.
+showy|adj|gösterişli|
+signal|v|işaret vermek|
+silhouette|n|siluet|We saw the {silhouette} of a man.
+simplicity|n|sadelik|
+sketch|n|taslak, kroki; skeç|She drew a {sketch} of the house.
+sketchbook|n|çizim defteri|He always carries a {sketchbook}.
+slack|v|gevşemek, tembellik etmek|Don't {slack} at work.
+slack|n|gevşeklik|
+slack|adj|gevşek; durgun|Business is {slack} in winter.
+slackly|adv|gevşekçe|The rope hung {slackly}.
+slob|n|pasaklı kimse|Don't be such a {slob}!
+smug|adj|kendini beğenmiş|
+smugly|adv|kendini beğenmişçe|
+snail|n|salyangoz|The {snail} moved slowly.
+snooze|v|şekerleme yapmak|He {snoozed} on the sofa.
+socialization|n|sosyalleşme|
+somber|adj|kasvetli, ağırbaşlı|
+somberly|adv|ağırbaşlılıkla|
+somersault|n|takla|The gymnast did a {somersault}.
+somersault|v|takla atmak|The car {somersaulted} off the road.
+spacious|adj|ferah, geniş|The flat is very {spacious}.
+spartan|adj|sade, Spartalı|The room was {spartan}.
+specification|n|teknik özellik|Check the {specifications} of the laptop.
+specimen|n|numune, örnek|
+speculate|v|tahmin yürütmek; spekülasyon yapmak|
+speculation|n|spekülasyon|
+speculative|adj|spekülatif|The report is {speculative}.
+splatter|v|sıçratmak|Mud {splattered} my coat.
+sponsorship|n|sponsorluk|The team got new {sponsorship}.
+spontaneous|adj|kendiliğinden, anlık|It was a {spontaneous} decision.
+spontaneously|adv|kendiliğinden|The crowd {spontaneously} began to sing.
+sprawl|n|düzensiz yayılma|Urban {sprawl} is destroying farmland.
+sprawl|v|yayılmak; yayılıp uzanmak|The city {sprawls} along the coast.
+sprout|v|filizlenmek|
+sprout|n|filiz; Brüksel lahanası|I don't like Brussels {sprouts}.
+squander|v|boşa harcamak|
+staccato|adj|kesik kesik|He spoke in a {staccato} voice.
+staccato|adv|kesik kesik|Play this part {staccato}.
+stagger|v|sendelemek; hayrete düşürmek|
+staggering|adj|şaşırtıcı, inanılmaz|
+stamina|n|dayanıklılık|Running builds {stamina}.
+staple|n|temel gıda; zımba teli|
+startling|adj|şaşırtıcı|
+startlingly|adv|şaşırtıcı biçimde|She looks {startlingly} like her mother.
+stately|adj|heybetli, görkemli|They visited a {stately} home.
+stiffen|v|sertleşmek, kaskatı kesilmek|
+stimuli|n|uyaranlar|Babies respond to {stimuli}.
+stock|v|stok tutmak|
+stoke|v|beslemek (ateş); körüklemek|He {stoked} the fire.
+strap|n|kayış, askı|The {strap} of my bag broke.
+strap|v|kayışla bağlamak|He {strapped} the baby into the seat.
+strapping|adj|iri yarı|
+stray|v|yoldan sapmak|
+stray|adj|sokak (hayvanı); başıboş|We fed a {stray} cat.
+stray|n|sokak hayvanı|The dog is a {stray}.
+stressfully|adv|stresli şekilde|He worked {stressfully} all week.
+stretching|n|esneme hareketleri|Do some {stretching} before running.
+structural|adj|yapısal|
+structurally|adv|yapısal olarak|
+stuffily|adv|kendini beğenmişçe; havasızca|
+stuffiness|n|havasızlık|The {stuffiness} of the room gave me a headache.
+stuffy|adj|havasız; resmî, sıkıcı|
+stylistic|adj|üslupla ilgili|There are {stylistic} differences between the writers.
+stylistically|adv|üslup açısından|The essay is {stylistically} weak.
+subordinate|n|ast|He was kind to his {subordinates}.
+substantially|adv|önemli ölçüde|
+subtly|adv|incelikle|
+suburban|adj|banliyö|They live in a {suburban} house.
+suburbia|n|banliyöler|She grew up in {suburbia}.
+succession|n|art arda gelme; veraset|
+succulent|n|etli yapraklı bitki|Cacti are {succulents}.
+succulent|adj|sulu, lezzetli|
+succulently|adv|sulu ve lezzetli şekilde|The meat was {succulently} tender.
+suds|n|sabun köpüğü|The sink was full of {suds}.
+suffice|v|yetmek|
+suitor|n|talip|She had many {suitors}.
+superficial|adj|yüzeysel|
+superficially|adv|yüzeysel olarak|{Superficially}, the two cases look similar.
+supple|adj|esnek, yumuşak|Yoga keeps your body {supple}.
+suspension|n|askıya alma; süspansiyon|He got a three-match {suspension}.
+sustainable|adj|sürdürülebilir|We need {sustainable} energy.
+sustainably|adv|sürdürülebilir şekilde|The wood is {sustainably} produced.
+swap|v|takas etmek, değiş tokuş etmek|Can we {swap} seats?
+swap|n|takas|Let's do a {swap}.
+symptomatic|adj|belirtisi olan|
+synopsis|n|özet|Read the {synopsis} of the film.
+synthetic|adj|sentetik|
+synthetically|adv|sentetik olarak|
+tact|n|incelik, nezaket|She handled it with {tact}.
+tactful|adj|ince düşünceli|
+tactfully|adv|nezaketle|
+tailor|n|terzi|The {tailor} made him a suit.
+tailor|v|uyarlamak, kişiye göre ayarlamak|
+tangle|v|dolaşmak, karışmak|The wires got {tangled}.
+tangle|n|karışıklık, düğüm|
+tangled|adj|karmakarışık|
+tantamount|adj|eşdeğer|
+tantrum|n|öfke nöbeti|The child had a {tantrum} in the shop.
+tastebud|n|tat alma tomurcuğu|Spicy food excites my {tastebuds}.
+taut|adj|gergin|
+tautly|adv|gergince|
+tedious|adj|sıkıcı, bıktırıcı|
+tediously|adv|sıkıcı şekilde|The film was {tediously} long.
+tedium|n|sıkıntı, tekdüzelik|The {tedium} of the job made him quit.
+telltale|adj|ele veren|
+temperament|n|mizaç|She has a calm {temperament}.
+temperamental|adj|huysuz, değişken|
+temperamentally|adv|mizaç olarak|
+terrain|n|arazi|
+testament|n|kanıt; vasiyet|
+thereby|adv|böylece|
+till|n|kasa (dükkân)|Please pay at the {till}.
+timid|adj|ürkek, çekingen|
+tinker|v|kurcalamak|
+tinker|n|tamirci (seyyar)|The {tinker} fixed pots and pans.
+tone|v|sıkılaştırmak (kas)|Exercise {tones} your muscles.
+torment|v|eziyet etmek|
+torment|n|ıstırap|
+torturous|adj|işkence gibi|It was a {torturous} journey.
+toughness|n|dayanıklılık, sertlik|We admired her {toughness}.
+tract|n|bölge, arazi; kanal (vücut)|A huge {tract} of forest was destroyed.
+trampoline|n|trambolin|The kids jumped on the {trampoline}.
+tranquil|adj|sakin, huzurlu|
+tranquility|n|huzur, dinginlik|We enjoyed the {tranquility} of the village.
+transatlantic|adj|Atlantik ötesi|They took a {transatlantic} flight.
+transfix|v|olduğu yerde dondurmak|She was {transfixed} by the sight.
+transit|n|transit, geçiş|The goods were damaged in {transit}.
+trauma|n|travma|She suffered a {trauma} after the accident.
+traumatic|adj|travmatik|
+tread|n|lastik dişi; ayak sesi|The {tread} on the tyres is worn.
+trying|adj|yorucu, zor|
+tune|v|akort etmek; ayarlamak|
+turmoil|n|kargaşa|The country was in {turmoil}.
+turn to|v|başvurmak, yönelmek|
+twitch|v|seğirmek|His eye {twitched}.
+twitch|n|seğirme|I have a {twitch} in my eye.
+tycoon|n|iş kodamanı|He is a shipping {tycoon}.
+unassisted|adj|yardımsız|He walked {unassisted}.
+unconventional|adj|alışılmamış|
+unconvincing|adj|inandırıcı olmayan|
+unconvincingly|adv|inandırıcı olmayan şekilde|He smiled {unconvincingly}.
+undaunted|adj|yılmayan|
+unenviable|adj|kimsenin istemeyeceği|
+unenviably|adv|gıpta edilmeyecek şekilde|He was {unenviably} placed in the middle of the argument.
+uneventful|adj|olaysız|
+uniformity|n|tekdüzelik, aynılık|There is a {uniformity} in the houses.
+uninspiring|adj|ilham vermeyen, sıradan|
+unison|n|uyum, birlik (in unison: hep bir ağızdan)|
+unmanageable|adj|yönetilemez|The class was {unmanageable}.
+unmanned|adj|insansız|
+unmusical|adj|müzik kulağı olmayan|
+unmusically|adv|ahenksiz şekilde|He sang loudly and {unmusically}.
+unoccupied|adj|boş (oturulmayan)|The house is {unoccupied}.
+unplug|v|fişini çekmek|
+unreliably|adv|güvenilmez şekilde|The bus runs {unreliably}.
+unscathing|adj|zarar vermeyen|His comments were mild and {unscathing}.
+unsettle|v|huzursuz etmek|The news {unsettled} her.
+unsettling|adj|tedirgin edici|It was an {unsettling} experience.
+unsustainable|adj|sürdürülemez|This level of spending is {unsustainable}.
+unsustainably|adv|sürdürülemez şekilde|The forests are {unsustainably} cut.
+untangle|v|çözmek (dolaşık şeyi)|She {untangled} the wires.
+untangled|adj|çözülmüş|Her hair was finally {untangled}.
+unwavering|adj|sarsılmaz|She has {unwavering} faith.
+unwaveringly|adv|kararlılıkla|He {unwaveringly} supported her.
+upheaval|n|altüst oluş, çalkantı|The war caused great {upheaval}.
+usher|n|yer gösterici|The {usher} showed us to our seats.
+utensil|n|mutfak gereci|Wash the cooking {utensils}.
+vegetation|n|bitki örtüsü|
+venerate|v|saygı göstermek, tapınmak|They {venerate} their ancestors.
+veneration|n|derin saygı|
+ventilate|v|havalandırmak|
+ventilation|n|havalandırma|
+verandah|n|veranda|We had tea on the {verandah}.
+verdict|n|karar (mahkeme)|The jury reached a {verdict}.
+versatile|adj|çok yönlü|
+versatility|n|çok yönlülük|The actor is known for his {versatility}.
+vertical|adj|dikey|

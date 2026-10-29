@@ -1,0 +1,390 @@
+form|n|form; biçim|
+forty|num|kırk|My father is {forty} years old.
+four|num|dört|A car has {four} wheels.
+fourteen|num|on dört|She is {fourteen}.
+free|adj|özgür; ücretsiz; boş|
+Friday|n|cuma|See you on {Friday}.
+friend|n|arkadaş|
+frog|n|kurbağa|A {frog} jumped into the pond.
+from|prep|-den, -dan|I am {from} Turkey.
+front|adj|ön|Sit in the {front} row.
+fruit|n|meyve|
+full|adj|dolu; tok|
+fun|adj|eğlenceli|The party was really {fun}.
+fun|n|eğlence|
+funny|adj|komik|
+future|n|gelecek|Nobody knows the {future}.
+game|n|oyun|
+garbage|n|çöp|
+garden|n|bahçe|We grow tomatoes in our {garden}.
+get|v|almak, elde etmek; olmak|
+ghost|n|hayalet|
+gift|n|hediye|Thank you for the {gift}.
+girl|n|kız|
+girlfriend|n|kız arkadaş|
+give|v|vermek|
+glad|adj|memnun|
+glass|n|cam; bardak|Can I have a {glass} of water?
+glasses|n|gözlük|I need my {glasses} to read.
+go|v|gitmek|
+goal|n|gol; hedef|
+gold|adj|altın|
+good|adj|iyi|
+good afternoon|int|tünaydın, iyi günler|{Good afternoon}, everyone.
+good morning|int|günaydın|{Good morning}! Did you sleep well?
+good night|int|iyi geceler|{Good night}, see you tomorrow.
+grade|n|not; sınıf|
+grammar|n|dilbilgisi|English {grammar} is not very difficult.
+grandfather|n|büyükbaba, dede|My {grandfather} was a farmer.
+grandma|n|nine, babaanne/anneanne|{Grandma} makes the best cookies.
+grandmother|n|büyükanne|My {grandmother} lives with us.
+grandpa|n|dede|{Grandpa} tells funny stories.
+grandparent|n|büyükanne veya büyükbaba|All my {grandparents} live in Konya.
+grape|n|üzüm|I like green {grapes}.
+grass|n|çimen, ot|The children sat on the {grass}.
+gray|adj|gri|He has {gray} hair.
+gray|n|gri|{Gray} is a calm colour.
+great|adj|harika; büyük|
+green|adj|yeşil|The grass is {green}.
+greet|v|selamlamak|
+ground|n|yer, zemin|
+group|n|grup|We worked in a {group}.
+grow|v|büyümek, yetiştirmek|
+guess|v|tahmin etmek|
+guest|n|misafir|We have a {guest} for dinner.
+guitar|n|gitar|He plays the {guitar}.
+guy|n|adam, çocuk|
+habit|n|alışkanlık|
+had|have|-
+hair|n|saç|
+haircut|n|saç kesimi|I need a {haircut}.
+half|n|yarım, yarı|
+hall|n|salon, koridor|
+hamburger|n|hamburger|I ordered a {hamburger}.
+hand|n|el|
+handsome|adj|yakışıklı|
+happen|v|olmak, meydana gelmek|
+happy|adj|mutlu|
+hard|adj|zor; sert|
+hard|adv|sıkı, çok çalışarak|
+has|have|-
+hat|n|şapka|
+have|have|-
+have to|modal|zorunda olmak|I {have to} go now.
+he|pron|-
+head|n|baş, kafa|
+headache|n|baş ağrısı|I have a {headache}.
+health|n|sağlık|
+healthy|adj|sağlıklı|
+hear|v|duymak|
+heart|n|kalp|
+heavy|adj|ağır|
+hello|n|merhaba|
+help|v|yardım etmek|
+her|det|-
+her|pron|-
+here|adv|burada, buraya|
+hers|pron|-
+hi|int|selam|{Hi}, how are you?
+hide|v|saklanmak, saklamak|
+high|adj|yüksek|
+hill|n|tepe|
+him|pron|-
+his|det|-
+his|pron|-
+history|n|tarih|
+hobby|n|hobi|My {hobby} is painting.
+hold|n|tutma, kavrama|
+hole|n|delik|
+holiday|n|tatil|
+home|n|ev, yuva|
+hometown|n|memleket|
+homework|n|ev ödevi|I did my {homework}.
+hope|n|umut|
+horse|n|at|
+hospital|n|hastane|She works in a {hospital}.
+hot|adj|sıcak; acı|
+hotel|n|otel|We stayed in a nice {hotel}.
+hour|n|saat (süre)|
+house|n|ev|
+how|adv|nasıl|{How} are you?
+hungry|adj|aç|
+hurry|n|acele|
+hurt|v|acıtmak, yaralamak|
+husband|n|koca, eş|Her {husband} is a doctor.
+I|pron|-
+ice|n|buz|
+ice cream|n|dondurma|Let's have an {ice cream}.
+idea|n|fikir|
+ideal|adj|ideal|
+if|conj|eğer|{If} it rains, we'll stay home.
+imagine|v|hayal etmek|
+important|adj|önemli|
+in|prep|içinde, -de|The keys are {in} my bag.
+information|n|bilgi|
+inside|prep|içinde|The cat is {inside} the box.
+interested|adj|ilgili, meraklı|
+interesting|adj|ilginç|It's an {interesting} book.
+Internet|n|internet|I found it on the {Internet}.
+interview|n|mülakat, röportaj|
+interviewer|n|mülakatçı|The {interviewer} asked me many questions.
+into|prep|içine|She went {into} the room.
+introduce|v|tanıtmak|
+is|be|-
+island|n|ada|We visited a small {island}.
+it|pron|-
+item|n|madde, ürün|
+its|det|-
+its|pron|-
+jacket|n|ceket|
+January|n|ocak (ay)|It is cold in {January}.
+jeans|n|kot pantolon|She is wearing blue {jeans}.
+jet|n|jet uçağı|A {jet} flew over the city.
+jewelry|n|mücevher, takı|She wears a lot of {jewelry}.
+job|n|iş|
+join|v|katılmak|
+judge|v|yargılamak|
+juice|n|meyve suyu|
+July|n|temmuz|It's very hot in {July}.
+jump|v|zıplamak, atlamak|
+June|n|haziran|School finishes in {June}.
+just|adv|sadece; az önce|
+keep|v|tutmak, saklamak|
+key|adj|anahtar, önemli|This is a {key} point.
+key|n|anahtar|
+kick|n|tekme|
+kick|v|tekmelemek|
+kid|n|çocuk|
+kill|v|öldürmek|
+kind|n|tür, çeşit|
+king|n|kral|
+kiss|n|öpücük|
+kitchen|n|mutfak|She is cooking in the {kitchen}.
+kite|n|uçurtma|The children are flying a {kite}.
+knee|n|diz|I hurt my {knee}.
+knife|n|bıçak|Cut the bread with a {knife}.
+know|v|bilmek, tanımak|
+lady|n|hanımefendi|
+language|n|dil, lisan|
+large|adj|büyük, geniş|
+last name|n|soyadı|What is your {last name}?
+late|adj|geç|
+late|adv|geç|
+later|adv|sonra|
+laugh|v|gülmek|We {laughed} at the joke.
+lazy|adj|tembel|
+leader|n|lider|He is the {leader} of the team.
+leaf|n|yaprak|A {leaf} fell from the tree.
+learn|v|öğrenmek|
+leave|v|ayrılmak, bırakmak|
+left|adj|sol|
+leg|n|bacak|He broke his {leg}.
+lesson|n|ders|
+let|v|izin vermek|
+letter|n|mektup; harf|
+library|n|kütüphane|
+life|n|hayat|
+light|adj|hafif; açık (renk)|
+light|n|ışık|
+like|prep|gibi|She looks {like} her mother.
+like|v|sevmek, hoşlanmak|
+lily|n|zambak|She bought a white {lily}.
+line|n|çizgi; sıra|
+lion|n|aslan|The {lion} is the king of the jungle.
+list|n|liste|
+listen|v|dinlemek|
+little|adj|küçük|
+little|adv|az|
+live|v|yaşamak, oturmak|
+living|adj|yaşayan|
+living room|n|oturma odası|We watch TV in the {living room}.
+lonely|adj|yalnız (kendini yalnız hisseden)|
+long|adj|uzun|
+look|n|bakış; görünüş|
+look|v|bakmak; görünmek|
+lot|adv|çok|Thanks a {lot}!
+lot|pron|çok şey|I learned a {lot} today.
+love|n|aşk, sevgi|
+love|v|sevmek|
+lovely|adj|güzel, hoş|What a {lovely} day!
+luck|n|şans|
+lucky|adj|şanslı|You are very {lucky}.
+lunch|n|öğle yemeği|Let's have {lunch} together.
+machine|n|makine|
+magazine|n|dergi|
+mail|n|posta|
+make|v|yapmak|
+man|n|adam|
+many|det|çok (sayılabilen)|There are {many} people here.
+many|pron|birçoğu|{Many} of my friends live abroad.
+map|n|harita|Look at the {map}.
+March|n|mart|
+match|n|maç; kibrit|
+math|n|matematik|I'm good at {math}.
+matter|n|mesele, konu|
+may|modal|-ebilir|It {may} rain tomorrow.
+May|n|mayıs|My birthday is in {May}.
+maybe|adv|belki|{Maybe} he is right.
+me|pron|-
+meal|n|öğün, yemek|We had a nice {meal}.
+mean|v|anlamına gelmek; kastetmek|
+meat|n|et|I don't eat {meat}.
+medicine|n|ilaç; tıp|
+meet|v|buluşmak, tanışmak|
+meeting|n|toplantı|
+memory|n|hafıza; anı|
+merry|adj|neşeli, mutlu|{Merry} Christmas!
+message|n|mesaj|
+middle|adj|orta|
+milk|n|süt|Children drink {milk}.
+mind|n|zihin, akıl|
+mine|pron|-
+minute|n|dakika|
+Miss|n|Bayan (bekâr)|{Miss} Smith is our teacher.
+miss|v|özlemek; kaçırmak|
+mobile|n|cep telefonu|Call me on my {mobile}.
+mobile phone|n|cep telefonu|I lost my {mobile phone}.
+mom|n|anne|My {mom} is a nurse.
+moment|n|an|
+mommy|n|anneciğim|{Mommy}, I'm hungry!
+Monday|n|pazartesi|I go to the gym on {Monday}.
+money|n|para|
+monkey|n|maymun|The {monkey} climbed the tree.
+month|n|ay (zaman)|
+moon|n|ay (gök cismi)|
+more|det|daha fazla|I need {more} time.
+more|pron|daha fazlası|Can I have some {more}?
+morning|n|sabah|
+most|det|çoğu|{Most} people like music.
+mother|n|anne|
+mountain|n|dağ|We climbed a {mountain}.
+mouse|n|fare|
+mouth|n|ağız|
+move|n|hareket; taşınma|
+movie|n|film|
+Mr.|n|Bay|{Mr.} Yılmaz is our teacher.
+Mrs.|n|Bayan (evli)|{Mrs.} Demir called you.
+much|adv|çok|
+much|det|çok (sayılamayan)|I don't have {much} time.
+much|pron|çok şey|There isn't {much} left.
+mum|n|anne|My {mum} makes great soup.
+music|n|müzik|
+musician|n|müzisyen|He is a talented {musician}.
+must|modal|-meli, -malı|You {must} wear a seat belt.
+my|det|-
+name|n|isim|
+nationality|n|uyruk|
+near|prep|yakınında|I live {near} the school.
+neck|n|boyun|
+need|modal|gerek (olumsuz/soru)|You {need} not come tomorrow.
+neighbor|n|komşu|
+never|adv|asla, hiç|
+new|adj|yeni|
+news|n|haber|
+newspaper|n|gazete|
+nice|adj|hoş, güzel|
+night|n|gece|
+nine|num|dokuz|The shop opens at {nine}.
+nineteen|num|on dokuz|He is {nineteen}.
+ninety|num|doksan|My grandmother is {ninety}.
+no|adv|hayır|
+no|det|hiç|There is {no} milk in the fridge.
+noise|n|gürültü|
+nose|n|burun|
+not|adv|değil|
+note|n|not|
+note|v|not etmek, dikkat etmek|
+notebook|n|defter|Write it in your {notebook}.
+nothing|pron|hiçbir şey|There is {nothing} in the box.
+November|n|kasım|It rains a lot in {November}.
+now|adv|şimdi|
+number|n|sayı, numara|
+nurse|n|hemşire|The {nurse} gave me some medicine.
+o'clock|adv|saat (tam)|
+October|n|ekim|Republic Day is in {October}.
+of|prep|-in, -den|A cup {of} tea, please.
+off|adj|kapalı|
+office|n|ofis, büro|
+officer|n|memur, subay|
+often|adv|sık sık|
+OK|adj|iyi, tamam|Are you {OK}?
+OK|adv|iyi, tamam|{OK}, let's go.
+old|adj|yaşlı; eski|
+Olympics|n|olimpiyatlar|She won a medal at the {Olympics}.
+on|prep|üstünde|The book is {on} the table.
+once|adv|bir kez|
+one|det|bir|I have {one} sister.
+one|num|bir|{One} plus one is two.
+only|adj|tek|
+only|adv|sadece|
+open|adj|açık|
+open|v|açmak|
+opera|n|opera|We went to the {opera}.
+or|conj|veya|Tea {or} coffee?
+orange|adj|turuncu|She has an {orange} bag.
+orange|n|portakal|I'd like an {orange} juice.
+order|n|sipariş; düzen; emir|
+other|det|diğer, başka|Where are the {other} students?
+our|det|-
+ours|pron|-
+out|adv|dışarı|
+outside|adv|dışarıda|
+over|prep|üzerinde; -den fazla|The bird flew {over} the house.
+own|adj|kendi|
+owner|n|sahip|
+p.m.|adv|öğleden sonra|The film starts at 8 {p.m.}
+page|n|sayfa|Open your books at {page} ten.
+paint|n|boya|
+paint|v|boyamak|
+painting|n|tablo, resim|
+pair|n|çift|I bought a {pair} of shoes.
+palace|n|saray|
+pants|n|pantolon|He wore black {pants}.
+paper|n|kâğıt; gazete|
+paragraph|n|paragraf|Read the first {paragraph}.
+pardon|n|efendim? (tekrar)|{Pardon}? I didn't hear you.
+parent|n|ebeveyn|My {parents} live in Ankara.
+park|n|park|
+partner|n|ortak, partner|She is my business {partner}.
+party|n|parti, eğlence|
+past|adv|geçerek, yanından|
+past|prep|geçe; ötesinde|It's ten {past} five.
+pay|n|ücret, maaş|
+pay|v|ödemek|
+peace|n|barış; huzur|
+pen|n|kalem (tükenmez)|Can I borrow your {pen}?
+pencil|n|kurşun kalem|
+people|n|insanlar|
+period|n|dönem; nokta|
+person|n|kişi|
+personal|adj|kişisel|
+pet|n|evcil hayvan|Do you have a {pet}?
+phone|n|telefon|My {phone} is ringing.
+phone|v|telefon etmek|I'll {phone} you later.
+photo|n|fotoğraf|Let's take a {photo}.
+piano|n|piyano|She plays the {piano}.
+pick|v|seçmek; toplamak|
+picnic|n|piknik|
+picture|n|resim|
+piece|n|parça|
+pig|n|domuz|The {pig} is in the mud.
+pink|adj|pembe|She has a {pink} dress.
+pizza|n|pizza|Let's order a {pizza}.
+place|n|yer|
+plan|n|plan|
+plane|n|uçak|
+play|n|oyun (tiyatro)|
+play|v|oynamak; çalmak|
+player|n|oyuncu|
+please|adv|lütfen|Sit down, {please}.
+pleasure|n|zevk, memnuniyet|
+pocket|n|cep|
+poem|n|şiir|She wrote a {poem}.
+point|n|nokta; puan|
+pollution|n|kirlilik|Air {pollution} is a big problem.
+pool|n|havuz|
+poor|adj|fakir; zavallı|
+pop|n|pop müzik|I like {pop} music.
+post|n|posta; gönderi|
+poster|n|afiş, poster|
+potato|n|patates|I'd like baked {potatoes}.

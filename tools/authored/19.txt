@@ -1,0 +1,63 @@
+undemonstrative|adj|duygularını belli etmeyen|He is a quiet, {undemonstrative} man.
+undemonstratively|adv|duygusunu belli etmeden|She nodded {undemonstratively}.
+undiminishing|adj|azalmayan|She showed {undiminishing} enthusiasm.
+unencumbered|adj|engelsiz, yüksüz|He travelled {unencumbered} by luggage.
+unequivocal|adj|kesin, açık|
+unequivocally|adv|kesinlikle|
+unexceptional|adj|sıradan|
+unexceptionally|adv|sıradan şekilde|The day passed {unexceptionally}.
+unexcused|adj|mazeretsiz|He had three {unexcused} absences.
+unfeasible|adj|uygulanamaz|
+unfeasibly|adv|inanılmayacak derecede|The phone is {unfeasibly} thin.
+unharried|adj|telaşsız|She worked at an {unharried} pace.
+unmediated|adj|aracısız, doğrudan|We want {unmediated} access to the data.
+unnerve|v|cesaretini kırmak, tedirgin etmek|The silence {unnerved} him.
+unnerving|adj|tedirgin edici|
+unnervingly|adv|tedirgin edici şekilde|The house was {unnervingly} quiet.
+unobtrusive|adj|göze batmayan|
+unobtrusively|adv|dikkat çekmeden|
+unobtrusiveness|n|göze batmama|The waiter's {unobtrusiveness} was appreciated.
+unpromising|adj|umut vaat etmeyen|
+unravel|v|çözmek; çözülmek|
+unsurpassed|adj|eşsiz, geçilmemiş|The view is {unsurpassed}.
+unsuspected|adj|beklenmedik, akla gelmeyen|
+utilitarian|adj|faydacı, kullanışlı|The furniture is plain and {utilitarian}.
+utilization|n|kullanım, yararlanma|
+utter|adj|tam, mutlak|It was an {utter} disaster.
+vandal|n|vandal|{Vandals} broke the windows.
+vandalize|v|tahrip etmek|Someone {vandalized} the bus stop.
+venomous|adj|zehirli; kin dolu|Some snakes are {venomous}.
+venomously|adv|kinle|She spoke {venomously} about her ex-husband.
+verbatim|adj|kelimesi kelimesine|This is a {verbatim} report of the speech.
+verbatim|adv|kelimesi kelimesine|
+verily|adv|gerçekten (eski)|
+verisimilitude|n|gerçeğe benzerlik|The film has great {verisimilitude}.
+veritable|adj|tam anlamıyla, gerçek|
+vermin|n|haşere|
+vestigial|adj|körelmiş|The appendix is a {vestigial} organ.
+vestigially|adv|kalıntı olarak|The custom survives {vestigially}.
+vicinity|n|civar, yakın çevre|
+vindicate|v|haklı çıkarmak|
+vindication|n|haklı çıkma|
+virginal|adj|el değmemiş, saf|
+virtuosity|n|virtüözlük|We admired the pianist's {virtuosity}.
+virtuoso|n|virtüöz|He is a violin {virtuoso}.
+vis-a-vis|prep|ile ilgili olarak, karşısında|What is our position {vis-a-vis} the new law?
+vocational|adj|mesleki|
+voracity|n|açgözlülük|He read with {voracity}.
+vortex|n|girdap|The boat was pulled into a {vortex}.
+wallow|v|çamurda yuvarlanmak; kendini kaptırmak|
+wane|v|azalmak, sönmek|
+wayward|adj|dik başlı, söz dinlemez|She has a {wayward} son.
+wheeze|v|hırıltılı solumak|He {wheezed} after climbing the stairs.
+whir|v|vızıldamak, pırlamak|The fan {whirred} quietly.
+whirlwind|n|kasırga; koşuşturma|It was a {whirlwind} romance.
+wholly|adv|tamamen|I {wholly} agree with you.
+wistful|adj|hüzünlü özlem dolu|
+wistfully|adv|hüzünlü bir özlemle|
+wordage|n|kelime sayısı|The {wordage} of the article is 2,000.
+wordsmith|n|söz ustası|She is a gifted {wordsmith}.
+wrack|v|harap etmek, perişan etmek|He was {wracked} with guilt.
+zoologist|n|zoolog|The {zoologist} studies lions.
+zoology|n|zooloji|
+lunchtime|n|öğle yemeği saati|I usually go for a walk at {lunchtime}.

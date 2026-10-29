@@ -5,7 +5,7 @@
 
   // ---------- sabitler ----------
   const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
-  const STUDY_LEVELS = ['A2', 'B1', 'B2', 'C1', 'C2'];
+  const STUDY_LEVELS = LEVELS;
   const SESSION_SIZE = 50;
   const STORE_KEY = 'kelimebahcesi.v1';
   const DAY = 86400000;
@@ -96,10 +96,14 @@
     .filter(x => x.tr);
   const PV = (window.PHRASAL || []).map(r => ({ w: r[0], pos: 'phrasal verb', lvl: r[1], tr: r[2], def: r[3], ex: r[4], key: 'pv|' + r[0] }));
   const byLevel = { word: {}, sentence: {}, phrasal: {} };
-  for (const l of LEVELS) {
-    byLevel.word[l] = WORDS.filter(x => x.lvl === l);
-    byLevel.sentence[l] = WORDS.filter(x => x.lvl === l && x.ex && x.ex.includes('{'));
-    byLevel.phrasal[l] = PV.filter(x => x.lvl === l);
+  // Havuzlar başlangıçta (yardımcı fonksiyonlar tanımlandıktan sonra) doldurulur.
+  function buildPools() {
+    const gapOk = x => { const p = parseEx(x.ex); return !!(p && formKind(x.w, p.form, x.pos)); };
+    for (const l of LEVELS) {
+      byLevel.word[l] = WORDS.filter(x => x.lvl === l);
+      byLevel.sentence[l] = WORDS.filter(x => x.lvl === l && gapOk(x));
+      byLevel.phrasal[l] = PV.filter(x => x.lvl === l);
+    }
   }
   const byPos = {};
   for (const x of WORDS) (byPos[x.pos] = byPos[x.pos] || []).push(x);
@@ -124,7 +128,7 @@
 
   // Seviye aralığı: kullanıcının seviyesi + 2 seviye üstü (C2 ile sınırlı)
   function range() {
-    const i = Math.max(lvIdx(S.level || 'B1'), 1);
+    const i = Math.max(lvIdx(S.level || 'B1'), 0);
     return LEVELS.slice(i, Math.min(i + 3, LEVELS.length));
   }
 
@@ -235,9 +239,11 @@
     for (const k of (pos === 'adjective' || pos === 'adverb') ? ['er', 'est'] : pos === 'noun' ? ['s'] : ['ing', 'past', 's']) {
       if (inflect(b, k, pos) === f) return k;
     }
-    if (/ing$/.test(f)) return 'ing';
-    if (/ed$/.test(f)) return 'past';
-    if (/s$/.test(f) && !/s$/.test(b)) return 's';
+    // tahmin: yalnızca kelime türüne uygun çekimler (isim -ing almaz vb.)
+    const verbish = pos === 'verb' || pos === 'phrasal verb';
+    if (verbish && /ing$/.test(fb)) return 'ing';
+    if (verbish && /ed$/.test(fb)) return 'past';
+    if ((verbish || pos === 'noun') && /s$/.test(f) && !/s$/.test(b)) return 's';
     return null;
   }
   const matchCase = (src, w) => (src[0] && src[0] === src[0].toUpperCase() && src[0] !== src[0].toLowerCase()) ? w[0].toUpperCase() + w.slice(1) : w;
@@ -265,7 +271,8 @@
     }
     if (mode === 'sentence') {
       const p = parseEx(item.ex); if (!p) return null;
-      const kind = formKind(item.w, p.form, item.pos) || 'base';
+      const kind = formKind(item.w, p.form, item.pos);
+      if (!kind) return null; // çeldiricileri aynı biçime sokamıyorsak bu cümleyi sorma
       const pool = byPos[item.pos] && byPos[item.pos].length > 20 ? byPos[item.pos] : WORDS;
       const ds = distractors(item, 3, pool.filter(x => x.w.split(' ').length === item.w.split(' ').length || x.w.split(' ').length === 1));
       if (ds.length < 3) return null;
@@ -293,7 +300,9 @@
         }
         return makeQuestion(mode, item); // uygun değilse başka tip seç
       }
-      const ds = distractors(item, 3, PV);
+      // bağlam sorusunda aynı fiilli phrasal'lar (get on / get off) cümleye uyabilir; onları çeldirici yapma
+      const verb0 = item.w.split(' ')[0];
+      const ds = distractors(item, 3, PV, t === 'pv_gap' ? (x => x.w.split(' ')[0] === verb0) : null);
       if (ds.length < 3) return null;
       if (t === 'pv_gap') {
         const kind = formKind(item.w, p.form, 'verb') || 'base';
@@ -399,7 +408,7 @@
           <button class="menu-item" data-go="placement"><span class="emoji">🎯</span><span><span class="t">Seviye testi</span><span class="d">Yeniden ölç</span></span></button>
         </div>
       </div>
-      <p class="muted small" style="margin-top:16px;text-align:center">Havuz: ${WORDS.length.toLocaleString('tr')} kelime + ${PV.length} phrasal verb (CEFR A2–C2)</p>`;
+      <p class="muted small" style="margin-top:16px;text-align:center">Havuz: ${WORDS.length.toLocaleString('tr')} kelime + ${PV.length} phrasal verb (CEFR A1–C2)</p>`;
     app.querySelectorAll('[data-start]').forEach(b => b.onclick = () => startSession(b.dataset.start));
   }
 
@@ -434,8 +443,8 @@
       const pool = shuffle(byLevel.word[l].slice());
       let n = 0;
       for (const item of pool) {
-        if (n >= 6) break;
-        const sp = n % 3 === 2 && item.ex && item.ex.includes('{');
+        if (n >= 5) break;
+        const sp = n % 2 === 1 && item.ex && item.ex.includes('{');
         const q = sp ? makeQuestion('sentence', item) : makeQuestion('word', item);
         if (q) { q.placement = true; qs.push(q); n++; }
       }
@@ -447,7 +456,7 @@
   function placementResult() {
     const sc = {}; for (const l of STUDY_LEVELS) sc[l] = { c: 0, n: 0 };
     current.answers.forEach((a, i) => { const l = current.qs[i].item.lvl; sc[l].n++; if (a.ok) sc[l].c++; });
-    let placed = 'A2';
+    let placed = 'A1';
     for (const l of STUDY_LEVELS) {
       const r = sc[l].n ? sc[l].c / sc[l].n : 0;
       if (r >= 0.66) placed = l; else if (r < 0.5) break;
@@ -713,7 +722,7 @@
         <button class="btn" id="imp">İçe aktar</button>
         <button class="btn" id="rst" style="color:var(--bad)">Tüm ilerlemeyi sıfırla</button>
       </div>
-      <p class="muted small" style="margin:12px 4px">Kelime listeleri: CEFR-J Vocabulary Profile 1.5 (A1–B2) ve Octanove Vocabulary Profile (C1–C2), CC BY-SA 4.0. İngilizce tanımlar: Princeton WordNet 3.0.</p>`;
+      <p class="muted small" style="margin:12px 4px">Kelime listeleri: CEFR-J Vocabulary Profile 1.5 (A1–B2, © Tono Lab, TUFS) ve Octanove Vocabulary Profile C1/C2 (CC BY-SA 4.0). İngilizce tanımlar: Princeton WordNet 3.0. Türkçe anlamlar, örnek cümleler ve phrasal verb listesi uygulamaya özel hazırlandı.</p>`;
     $('#s-th').value = st.theme;
     $('#s-img').onchange = e => { st.images = e.target.checked; save(); };
     $('#s-sp').onchange = e => { st.speech = e.target.checked; save(); };
@@ -733,9 +742,9 @@
   }
 
   // ---------- başlat ----------
-  load(); applyTheme();
+  buildPools(); load(); applyTheme();
   if ('speechSynthesis' in window) speechSynthesis.getVoices();
   if ('serviceWorker' in navigator && location.protocol !== 'file:') navigator.serviceWorker.register('sw.js').catch(() => { });
-  window.__kb = { buildSession, makeQuestion, inflect, formKind, WORDS, PV, range, state: () => S }; // test için
+  window.__kb = { buildSession, makeQuestion, inflect, formKind, WORDS, PV, range, state: () => S, current: () => current }; // test için
   render('home');
 })();
