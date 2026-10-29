@@ -1,0 +1,390 @@
+populated|adj|nüfuslu|
+probation|n|şartlı tahliye; deneme süresi|
+receptor|n|alıcı (biyoloji)|The drug blocks a {receptor} in the brain.
+remake|v|yeniden yapmak (film)|They {remade} the classic film.
+reproduction|n|üreme; kopya|
+subjective|adj|öznel|Taste in music is very {subjective}.
+trillion|n|trilyon|
+vendor|n|satıcı|A street {vendor} sold us simit.
+amended|adj|değiştirilmiş|The {amended} law came into force.
+apparatus|n|aygıt, düzenek|The firefighters wore breathing {apparatus}.
+bodily|adv|bedenen, tamamen|
+chapman|n|-
+constructive|adj|yapıcı|Thanks for the {constructive} criticism.
+developmental|adj|gelişimsel|The child has {developmental} problems.
+exempt|adj|muaf|
+fertility|n|doğurganlık; verimlilik|The {fertility} of the soil is high.
+foam|n|köpük|
+foremost|adj|en önde gelen|
+forge|v|dövmek (metal); sahtesini yapmak|
+hierarchy|n|hiyerarşi|
+invalid|n|hasta, yatalak kişi|She cared for her father, who was an {invalid}.
+jointly|adv|ortaklaşa|
+lightweight|n|hafif sıklet|He is a {lightweight} boxer.
+metabolism|n|metabolizma|Exercise speeds up your {metabolism}.
+notch|v|kazanmak (notch up)|The team {notched} up another win.
+omega|n|omega|
+parody|n|parodi|The film is a {parody} of spy movies.
+parole|n|şartlı tahliye|He was released on {parole}.
+precedent|n|emsal|The decision set a {precedent}.
+prevalent|adj|yaygın|The disease is {prevalent} in hot countries.
+python|n|piton yılanı|The {python} wrapped around the branch.
+questionable|adj|şüpheli, tartışmalı|
+sociology|n|sosyoloji|She studied {sociology} at university.
+tenant|n|kiracı|
+traction|n|çekiş, tutunma; ilgi|
+tractor|n|traktör|The farmer drove his {tractor}.
+trout|n|alabalık|We caught a {trout} in the river.
+variant|n|varyant, türev|
+visibility|n|görüş mesafesi; görünürlük|
+algebra|n|cebir|I'm good at {algebra}.
+antenna|n|anten|
+bravo|n|bravo|The audience shouted {bravo}.
+digit|n|rakam, hane|
+drainage|n|drenaj|The garden has poor {drainage}.
+fairness|n|adalet, hakkaniyet|
+felony|n|ağır suç|Robbery is a {felony}.
+floral|adj|çiçekli|She wore a {floral} dress.
+fortress|n|kale|The {fortress} was never captured.
+fundamentally|adv|temelden|The two plans are {fundamentally} different.
+ideological|adj|ideolojik|
+kidnapping|n|adam kaçırma|The {kidnapping} shocked the town.
+lunar|adj|aya ait|We watched the {lunar} eclipse.
+memoir|n|anı kitabı|The actor wrote a {memoir}.
+occurrence|n|olay, oluş|
+pathway|n|patika, yol|A narrow {pathway} led to the beach.
+registry|n|sicil, kayıt dairesi|They got married at the {registry} office.
+scripture|n|kutsal metin|He reads {scripture} every day.
+stereo|n|müzik seti|He turned up the {stereo}.
+surrey|n|-
+sustainability|n|sürdürülebilirlik|The company focuses on {sustainability}.
+tesla|n|-
+theological|adj|teolojik|They had a {theological} debate.
+undercover|adj|gizli (görevli)|An {undercover} police officer joined the gang.
+activate|v|etkinleştirmek|{Activate} your card before using it.
+behold|v|görmek, seyretmek|The view was a wonder to {behold}.
+biased|adj|taraflı|
+billionaire|n|milyarder|The {billionaire} bought a football club.
+brewing|n|bira yapımı|{Brewing} beer is his hobby.
+cancellation|n|iptal|The {cancellation} of the flight upset everyone.
+cedar|n|sedir ağacı|The chest is made of {cedar}.
+dementia|n|bunama, demans|My grandmother has {dementia}.
+designation|n|atama, unvan|The area has a special {designation}.
+dice|n|zar|Roll the {dice}.
+dispatch|v|göndermek, sevk etmek|
+duchess|n|düşes|The {duchess} opened the new hospital.
+foil|n|folyo|
+horrific|adj|korkunç, dehşet verici|
+mentality|n|zihniyet|I don't understand his {mentality}.
+neural|adj|sinirsel|Scientists study {neural} networks.
+newsletter|n|bülten|Subscribe to our {newsletter}.
+nineteenth|adj|on dokuzuncu|The house was built in the {nineteenth} century.
+nitrogen|n|azot|Air is mostly {nitrogen}.
+ooh|v|-
+payroll|n|maaş bordrosu|
+photographic|adj|fotoğrafla ilgili|She has a {photographic} memory.
+pinch|v|çimdiklemek|
+professionally|adv|profesyonelce|She plays tennis {professionally}.
+resurrection|n|diriliş; yeniden canlanma|
+rover|n|gezgin; keşif aracı|The Mars {rover} sent back photos.
+shipment|n|sevkiyat|The {shipment} arrived on Monday.
+stainless|n|paslanmaz çelik|The sink is made of {stainless}.
+statutory|adj|yasal|You have {statutory} rights.
+stellar|adj|yıldızlara ait; mükemmel|She gave a {stellar} performance.
+syrup|n|şurup|The doctor gave me cough {syrup}.
+transplant|v|nakletmek|
+turf|n|çim; bölge|
+unveiled|adj|açıklanmış, gün yüzüne çıkmış|
+accelerated|adj|hızlandırılmış|
+ark|n|gemi (Nuh'un gemisi)|Noah built an {ark}.
+congo|n|-
+cue|n|ipucu, işaret|That was my {cue} to leave.
+disciplinary|adj|disiplin|
+eligibility|n|uygunluk, hak|
+finite|adj|sınırlı|The Earth has {finite} resources.
+flagship|n|amiral gemisi; en önemli ürün|
+glucose|n|glikoz|The test measures blood {glucose}.
+gore|v|boynuzla yaralamak|The bull {gored} the farmer.
+halo|n|hale|The angel has a {halo}.
+infamous|adj|kötü şöhretli|He was an {infamous} criminal.
+internally|adv|içeride, dahili olarak|The problem was solved {internally}.
+lateral|n|yan pas|He threw a {lateral} to his teammate.
+limestone|n|kireçtaşı|The cliffs are made of {limestone}.
+migrant|n|göçmen|{Migrants} crossed the border.
+moron|n|-
+pyramid|v|-
+relevance|n|ilgi, alaka|I don't see the {relevance} of your question.
+rigid|adj|katı, esnemez|
+spacecraft|n|uzay aracı|The {spacecraft} landed on Mars.
+splendid|adj|harika, görkemli|We had a {splendid} time.
+terminated|adj|sona erdirilmiş|His {terminated} contract was not renewed.
+textile|n|tekstil|Bursa has a big {textile} industry.
+valuation|n|değerleme|
+veterinary|adj|veterinerlik|She studies {veterinary} medicine.
+allocation|n|tahsis, dağıtım|The {allocation} of funds was unfair.
+authorization|n|yetki, izin|
+beacon|n|fener, işaret ışığı|A {beacon} guided the ships.
+bounty|n|ödül; bolluk|There is a {bounty} on his head.
+ceramic|adj|seramik|She bought a {ceramic} vase.
+clergy|n|din adamları|The {clergy} met with the president.
+compass|n|pusula|
+dwelling|n|konut|
+expenditure|n|harcama|Public {expenditure} increased.
+falcon|n|doğan, şahin|The {falcon} caught a bird.
+groove|n|oluk; ritim|The song has a great {groove}.
+homosexuality|n|eşcinsellik|The film deals with {homosexuality} in the 1950s.
+initiate|v|başlatmak|
+jealousy|n|kıskançlık|
+jewellery|n|-
+laden|adj|yüklü|
+mil|n|-
+palette|n|palet (boya)|The painter mixed colours on his {palette}.
+psycho|n|-
+renovation|n|yenileme, tadilat|
+reverend|n|papaz (unvan)|The {Reverend} gave a short speech.
+rust|v|paslanmak|
+seizure|n|nöbet; el koyma|
+serum|n|serum|The {serum} protected the patients.
+storyline|n|hikâye, olay örgüsü|The film has a simple {storyline}.
+stud|v|süslemek, bezemek (çivi/taşla)|The sky was {studded} with stars.
+systemic|adj|sistemik|It is a {systemic} problem.
+tempo|n|tempo|The song has a fast {tempo}.
+thereof|adv|onun, ondan|
+uprising|n|ayaklanma|The {uprising} was crushed by the army.
+acceleration|n|hızlanma, ivme|
+aerospace|n|havacılık ve uzay|She works in {aerospace}.
+aluminium|n|-
+analog|n|analog|The watch is an {analog}, not digital.
+analytical|adj|analitik|She has an {analytical} mind.
+arcade|n|oyun salonu; pasaj|We played games in the {arcade}.
+asthma|n|astım|He uses an inhaler for his {asthma}.
+bacterial|adj|bakteriyel|It is a {bacterial} infection.
+coil|v|sarmak, dolamak|
+contention|n|iddia; çekişme|
+covenant|n|sözleşme, ahit|They signed a {covenant}.
+das|n|-
+ethnicity|n|etnik köken|
+eventual|adj|nihai|
+flex|v|esnetmek, kaslarını germek|
+genus|n|cins (biyoloji)|The lion belongs to the {genus} Panthera.
+greed|n|açgözlülük|{Greed} destroyed the company.
+hose|n|hortum|Water the garden with a {hose}.
+longtime|adj|uzun süreli|He is my {longtime} friend.
+magnet|n|mıknatıs|The {magnet} held the note on the fridge.
+negro|adj|-
+notify|v|bildirmek|Please {notify} us of any changes.
+null|adj|geçersiz|The contract is {null} and void.
+oriental|adj|-
+pact|n|antlaşma, pakt|The two countries signed a {pact}.
+paranoid|adj|paranoyak, aşırı kuşkulu|He is {paranoid} about germs.
+proxy|n|vekil|You can vote by {proxy}.
+quantitative|adj|niceliksel|
+retro|n|retro, eski moda tarz|She loves {retro} fashion.
+revolt|n|isyan|The peasants started a {revolt}.
+saddle|n|eyer; sele|He put the {saddle} on the horse.
+shrine|n|türbe, kutsal yer|Pilgrims visited the {shrine}.
+sniper|n|keskin nişancı|A {sniper} hid on the roof.
+termination|n|fesih, sona erme|
+thrive|v|gelişmek, serpilmek|Plants {thrive} in this climate.
+troll|n|trol|Ignore the {troll} in the comments.
+unpaid|adj|ödenmemiş; ücretsiz|
+vest|v|vermek (yetki)|
+vine|n|asma; sarmaşık|Grapes grow on a {vine}.
+xxx|adj|-
+yen|n|yen; özlem|He has a {yen} for travel.
+almighty|adj|her şeye kadir|{Almighty} God, help us.
+amino|n|amino (asit)|Proteins are made of {amino} acids.
+apparel|n|giyim|
+arbitration|n|tahkim|
+auburn|adj|kestane rengi|She has long {auburn} hair.
+bilateral|adj|ikili, iki taraflı|
+brace|v|hazırlanmak; desteklemek|
+cholesterol|n|kolesterol|Eat less fat to lower your {cholesterol}.
+confrontation|n|yüzleşme, çatışma|
+contributor|n|katkıda bulunan|She is a regular {contributor} to the magazine.
+deluxe|adj|lüks|We stayed in a {deluxe} room.
+dismissal|n|işten çıkarma|He appealed against his {dismissal}.
+empathy|n|empati|Good doctors show {empathy}.
+ensemble|n|topluluk (müzik); takım|A jazz {ensemble} played at the party.
+feasible|adj|yapılabilir|Is the plan {feasible}?
+grease|n|gres, yağ|There was {grease} on his hands.
+hallway|n|koridor, hol|Leave your shoes in the {hallway}.
+homosexual|n|-
+hulk|n|iri yarı kimse; enkaz|The {hulk} of an old ship lay on the beach.
+hydraulic|adj|hidrolik|The truck has a {hydraulic} lift.
+incapable|adj|beceriksiz, -emeyen|
+insanity|n|delilik|It's {insanity} to drive in this weather.
+intentional|adj|kasıtlı|It wasn't {intentional}.
+jeep|n|cip|We drove a {jeep} through the desert.
+mayo|n|mayonez|I'd like {mayo} on my burger.
+onset|n|başlangıç|The {onset} of winter brought snow.
+pixel|n|piksel|
+plantation|n|plantasyon|They grow tea on a {plantation}.
+presently|adv|şu anda; birazdan|
+prostitution|n|fuhuş|{Prostitution} is illegal in many countries.
+radioactive|adj|radyoaktif|The area is {radioactive}.
+tow|n|çekme (araç)|We needed a {tow} after the accident.
+unarmed|adj|silahsız|
+unfinished|adj|bitmemiş|
+unlawful|adj|yasa dışı|The arrest was {unlawful}.
+viii|adj|-
+volatile|adj|değişken, uçucu|
+accredited|adj|akredite, yetkili|It is an {accredited} university.
+apex|n|zirve, doruk|She reached the {apex} of her career.
+apocalypse|n|kıyamet|The film is about a zombie {apocalypse}.
+bingo|n|tombala|My grandmother plays {bingo} on Fridays.
+boulder|n|kaya parçası|A huge {boulder} blocked the road.
+consolidation|n|birleştirme, pekiştirme|
+continuation|n|devam|The film is a {continuation} of the story.
+convoy|n|konvoy|A {convoy} of trucks carried food.
+cork|n|mantar (tıpa)|Pull the {cork} out of the bottle.
+cosmetic|n|kozmetik ürün|She sells {cosmetics} online.
+cubic|adj|kübik|The tank holds ten {cubic} metres of water.
+descendants|n|-
+detector|n|dedektör|The smoke {detector} went off.
+diplomacy|n|diplomasi|The conflict was solved by {diplomacy}.
+directive|n|yönerge|
+disruption|n|aksama, kesinti|The strike caused {disruption} to flights.
+friction|n|sürtünme; anlaşmazlık|There is {friction} between the two managers.
+infrared|adj|kızılötesi|The camera uses {infrared} light.
+instability|n|istikrarsızlık|Political {instability} hurts the economy.
+linguistic|adj|dilbilimsel|Children have amazing {linguistic} abilities.
+lump|n|topak, şişlik|There's a {lump} on my head.
+macro|n|makro|I recorded a {macro} in Excel.
+magistrate|n|sulh hâkimi|He appeared before a {magistrate}.
+masculine|adj|erkeksi; eril|
+milestone|n|dönüm noktası|Graduation is an important {milestone}.
+municipality|n|belediye|The {municipality} built a new park.
+observatory|n|gözlemevi|We visited an {observatory}.
+penetration|n|nüfuz etme, içine işleme|
+pod|n|kabuk (bezelye); kapsül|There are six peas in each {pod}.
+predator|n|yırtıcı|The lion is a {predator}.
+prophecy|n|kehanet|The {prophecy} came true.
+recurring|adj|tekrarlayan|I have a {recurring} dream.
+respectful|adj|saygılı|Be {respectful} to your elders.
+routinely|adv|rutin olarak|
+salute|v|selam vermek (askerî)|
+scum|n|-
+severity|n|şiddet, ağırlık|We didn't know the {severity} of the problem.
+shady|adj|gölgeli; şüpheli|
+slick|n|petrol tabakası|An oil {slick} covered the sea.
+template|n|şablon|Use this {template} for your CV.
+theorem|n|teorem|Pythagoras' {theorem} is famous.
+tribune|n|halk temsilcisi; kürsü|The {tribune} spoke to the people.
+vista|n|manzara|The hotel offers a beautiful {vista}.
+vogue|n|moda, rağbet|
+volcanic|adj|volkanik|
+akin|adj|benzer|
+baseline|n|temel çizgi, başlangıç değeri|
+beware|v|sakınmak, dikkat etmek|{Beware} of the dog!
+bisexual|n|-
+boulevard|n|bulvar|We walked along the {boulevard}.
+chronicle|v|kaydetmek, anlatmak|The book {chronicles} the history of the city.
+comprehend|v|kavramak|
+confederate|n|suç ortağı; müttefik|The thief and his {confederate} were arrested.
+contamination|n|kirlenme, bulaşma|Water {contamination} made people ill.
+counterpart|n|muadil, karşılık|The minister met his French {counterpart}.
+creed|n|inanç, itikat|People of every {creed} live here.
+crust|n|kabuk|I love the {crust} of fresh bread.
+deploy|v|konuşlandırmak; kullanmak|
+dietary|adj|beslenmeyle ilgili|Do you have any {dietary} needs?
+dissertation|n|tez|She is writing her {dissertation}.
+emission|n|salım, emisyon|Car {emissions} pollute the air.
+fin|n|yüzgeç|We saw a shark's {fin}.
+fracture|v|kırılmak, çatlamak|
+gamma|n|gama|{Gamma} rays are dangerous.
+gravel|n|çakıl|The path is covered with {gravel}.
+highland|n|yayla, dağlık bölge|They live in the {highlands}.
+hustle|v|itip kakmak; acele ettirmek|
+indictment|n|iddianame|
+manually|adv|elle|You have to start the machine {manually}.
+millennium|n|bin yıl|The building is over a {millennium} old.
+oracle|n|kâhin|The ancient Greeks asked the {oracle} for advice.
+peek|n|gizlice bakış|Take a {peek} inside.
+prairie|n|çayır, bozkır|Buffalo once lived on the {prairie}.
+prank|n|eşek şakası|The students played a {prank} on their teacher.
+premature|adj|erken, vakitsiz|
+quad|n|dörtlü avlu; ATV|Students relaxed in the {quad}.
+quartz|n|kuvars|The watch has a {quartz} movement.
+residency|n|ikamet; asistanlık|He got {residency} in Germany.
+responsive|adj|duyarlı, tepki veren|
+rot|v|çürümek|The fruit began to {rot}.
+songwriter|n|söz yazarı, besteci|She is a talented {songwriter}.
+spear|v|zıpkınlamak|
+technician|n|teknisyen|A {technician} fixed the computer.
+tidal|adj|gelgitle ilgili|They built a {tidal} power station.
+trench|n|hendek, siper|Soldiers fought in the {trenches}.
+validity|n|geçerlilik|We questioned the {validity} of the test.
+varsity|n|üniversite takımı|He plays for the {varsity} team.
+verification|n|doğrulama|Email {verification} is required.
+vulnerability|n|savunmasızlık; açık|They fixed a security {vulnerability}.
+wrath|n|gazap, öfke|He feared his father's {wrath}.
+yuan|n|yuan (Çin parası)|It costs a hundred {yuan}.
+accomplishment|n|başarı|Winning the award was a great {accomplishment}.
+aide|n|yardımcı, asistan|The president's {aide} answered the questions.
+allegiance|n|bağlılık, sadakat|He swore {allegiance} to the king.
+avatar|n|avatar, profil resmi|
+beads|n|boncuklar|She wore a necklace of colourful {beads}.
+beverage|n|içecek|
+chalk|n|tebeşir|The teacher wrote with {chalk}.
+constituency|n|seçim bölgesi|He represents a {constituency} in Ankara.
+contingent|n|grup, birlik|
+councillor|n|meclis üyesi|The local {councillor} visited our street.
+eldest|adj|en büyük (kardeş)|My {eldest} son is twenty.
+entirety|n|bütünlük, tümü|
+fallout|n|radyoaktif serpinti; olumsuz sonuç|
+hemisphere|n|yarımküre|Turkey is in the northern {hemisphere}.
+inconvenience|n|rahatsızlık, zahmet|We apologize for any {inconvenience}.
+insured|adj|sigortalı|
+intriguing|adj|ilgi çekici|
+invasive|adj|istilacı; cerrahi müdahaleli|It is an {invasive} species.
+irrigation|n|sulama|Farmers use {irrigation} in summer.
+lipstick|n|ruj|She put on red {lipstick}.
+midway|adj|orta noktadaki|We stopped at a {midway} point.
+moist|adj|nemli|The cake is soft and {moist}.
+monarch|n|hükümdar|The {monarch} ruled for fifty years.
+persona|n|kişilik, imaj|His public {persona} is very different.
+poetic|adj|şiirsel|
+scoop|n|kepçe; özel haber|
+scotch|n|İskoç viskisi|He drank a glass of {scotch}.
+scrub|v|ovarak temizlemek|
+shale|n|şeyl (kaya)|They extract gas from {shale}.
+shin|n|incik|He kicked me in the {shin}.
+solicitor|n|avukat (İngiltere)|My {solicitor} handled the sale of the house.
+squadron|n|filo (hava/deniz)|A {squadron} of planes flew over.
+squirrel|n|sincap|A {squirrel} ran up the tree.
+stigma|n|damga, leke|There is still a {stigma} attached to mental illness.
+taco|n|tako|We ate {tacos} at a Mexican restaurant.
+titan|n|dev, büyük figür|He is a {titan} of industry.
+wallpaper|n|duvar kâğıdı|They chose blue {wallpaper}.
+watt|n|vat|Use a 60-{watt} bulb.
+ale|n|bira (İngiliz)|He ordered a pint of {ale}.
+archaeological|adj|arkeolojik|Göbeklitepe is an important {archaeological} site.
+betrayal|n|ihanet|She felt a deep sense of {betrayal}.
+cardiovascular|adj|kalp-damar|Running is good for {cardiovascular} health.
+chic|adj|şık|She looked very {chic}.
+communal|adj|ortak, toplu|
+consortium|n|konsorsiyum|A {consortium} of banks lent the money.
+countdown|n|geri sayım|The {countdown} to New Year began.
+courier|n|kurye|A {courier} delivered the package.
+defect|n|kusur|
+efficacy|n|etkinlik (ilaç)|
+freelance|n|serbest çalışan|She works as a {freelance}.
+gin|n|cin (içki)|He drank a {gin} and tonic.
+ignition|n|kontak; ateşleme|Turn the key in the {ignition}.
+investigative|adj|araştırmacı|She is an {investigative} journalist.
+manifest|v|göstermek, ortaya koymak|
+obese|adj|obez|Many children are {obese}.
+outreach|n|toplumsal erişim, yardım çalışması|
+perimeter|n|çevre, sınır|Guards patrolled the {perimeter}.
+pike|n|turna balığı; mızrak|He caught a large {pike}.
+procurement|n|tedarik, satın alma|
+protector|n|koruyucu|The dog is a loyal {protector}.
+pulp|n|lapa, posa|
+reel|n|makara|He bought a new fishing {reel}.
+restart|v|yeniden başlatmak|{Restart} your computer.
+rigorous|adj|titiz, sıkı|
+sensory|adj|duyusal|Babies need {sensory} experiences.
+skeptical|adj|kuşkucu|
+suppression|n|bastırma|
+sushi|n|suşi|We had {sushi} for dinner.

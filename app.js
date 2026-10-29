@@ -143,8 +143,12 @@
     S.stats.answered++; if (ok) S.stats.correct++;
   }
   const learned = r => r && r.l === 1 && r.b >= 1;
+  // Kullanıcının seviyesinin altındaki ağaçlar seviye testiyle geçilmiş sayılır (o seviyelerden soru gelmez).
+  const passedBelow = lvl => S.level && lvIdx(lvl) < lvIdx(S.level);
   function treeProgress(mode, lvl) {
-    const pool = byLevel[mode][lvl]; if (!pool.length) return { done: 0, total: 0, p: 0 };
+    const pool = byLevel[mode][lvl];
+    if (passedBelow(lvl)) return { done: pool.length, total: pool.length, p: 1, passed: true };
+    if (!pool.length) return { done: 0, total: 0, p: 0 };
     let done = 0; for (const x of pool) if (learned(S.srs[mode][x.key])) done++;
     return { done, total: pool.length, p: done / pool.length };
   }
@@ -418,7 +422,7 @@
         <div style="font-size:56px">🌱</div>
         <h1>Kelime Bahçesi'ne hoş geldin</h1>
         <p>Her oturumda 50 soru; seviyene göre kelime, cümle tamamlama ve phrasal verb çalışacaksın. Öğrendikçe her CEFR seviyesi için bir ağaç yeşerecek.</p>
-        <p class="muted">Önce kısa bir seviye testi (30 soru, ~5 dk) ile başlangıç seviyeni belirleyelim. Sonra seviyenden 2 seviye yukarısına kadar soru gelecek.</p>
+        <p class="muted">Önce kısa bir seviye testi (çoğu kişi için 10 soru, ~2 dk). Test B1'den başlar; bildikçe zorlaşır, basit seviyeler yalnızca gerekirse sorulur. Sonra seviyenden 2 seviye yukarısına kadar soru gelir; altındaki seviyelerin ağaçları baştan yeşerir.</p>
       </div>
       <div class="stack" style="margin-top:16px">
         <button class="btn primary" data-go="placement">🎯 Seviye testine başla</button>
@@ -437,42 +441,57 @@
   }
 
   // ---------- seviye testi ----------
-  function placement() {
-    const qs = [];
-    for (const l of STUDY_LEVELS) {
-      const pool = shuffle(byLevel.word[l].slice());
-      let n = 0;
-      for (const item of pool) {
-        if (n >= 5) break;
-        const sp = n % 2 === 1 && item.ex && item.ex.includes('{');
-        const q = sp ? makeQuestion('sentence', item) : makeQuestion('word', item);
-        if (q) { q.placement = true; qs.push(q); n++; }
-      }
+  // Uyarlamalı seviye testi: B1'den başlar. Geçilen seviyede (5'te 4) bir üste çıkar, geçilemezse durur.
+  // B1 geçilemezse A2 ve gerekirse A1 sorulur; böylece B1+ kullanıcıya basit kelime sorulmaz.
+  const PLACE_N = 5, PLACE_PASS = 4, PLACE_START = 'B1';
+  function placementBlock(lvl) {
+    const out = []; let n = 0;
+    for (const item of shuffle(byLevel.word[lvl].slice())) {
+      if (n >= PLACE_N) break;
+      const sp = n % 2 === 1 && byLevel.sentence[lvl].includes(item);
+      const q = sp ? makeQuestion('sentence', item) : makeQuestion('word', item);
+      if (q) { q.placement = true; out.push(q); n++; }
     }
+    return out;
+  }
+  function placement() {
+    const qs = placementBlock(PLACE_START);
     if (!qs.length) { app.innerHTML = topbar('Seviye testi') + '<div class="card">Kelime verisi yüklenemedi.</div>'; return; }
-    current = { view: 'quiz', mode: 'placement', qs, i: 0, answers: [] };
+    current = { view: 'quiz', mode: 'placement', qs, i: 0, answers: [], lvl: PLACE_START, dir: 0, sc: {}, placed: null };
     quiz();
   }
+  // Bir seviye bloğu bittiğinde çağrılır; sıradaki bloğu ekler ya da sonucu belirler.
+  function placementStep() {
+    const c = current, l = c.lvl;
+    const ans = c.answers.slice(-PLACE_N);
+    const ok = ans.filter(a => a.ok).length;
+    c.sc[l] = { c: ok, n: ans.length };
+    const pass = ok >= PLACE_PASS, i = lvIdx(l);
+    let nextLvl = null;
+    if (c.dir >= 0 && pass) { if (i < LEVELS.length - 1) { nextLvl = LEVELS[i + 1]; c.dir = 1; } else c.placed = l; }
+    else if (c.dir > 0 && !pass) c.placed = LEVELS[i - 1];
+    else if (!pass) { if (i > 0) { nextLvl = LEVELS[i - 1]; c.dir = -1; } else c.placed = l; }
+    else c.placed = l; // aşağı inerken geçilen ilk seviye
+    if (nextLvl) { c.lvl = nextLvl; c.qs.push(...placementBlock(nextLvl)); c.i++; window.scrollTo(0, 0); quiz(); return; }
+    placementResult();
+  }
   function placementResult() {
-    const sc = {}; for (const l of STUDY_LEVELS) sc[l] = { c: 0, n: 0 };
-    current.answers.forEach((a, i) => { const l = current.qs[i].item.lvl; sc[l].n++; if (a.ok) sc[l].c++; });
-    let placed = 'A1';
-    for (const l of STUDY_LEVELS) {
-      const r = sc[l].n ? sc[l].c / sc[l].n : 0;
-      if (r >= 0.66) placed = l; else if (r < 0.5) break;
-    }
+    const c = current, placed = c.placed, sc = c.sc;
     S.level = placed; S.placedAt = Date.now(); save();
     const r = range();
+    const below = LEVELS.slice(0, lvIdx(placed));
     app.innerHTML = `
       <div class="hero stack" style="text-align:center">
         <div style="font-size:56px">🎯</div>
         <h1>Seviyen: ${lvChip(placed)}</h1>
         <p>Çalışma aralığın: ${r.map(lvChip).join(' ')}</p>
+        <p class="muted small">${c.qs.length} soruda belirlendi.</p>
       </div>
       <div class="card stack" style="margin-top:12px">
         <h3>Seviyelere göre sonuç</h3>
-        <div class="level-bars">${STUDY_LEVELS.map(l => `<div class="row">${lvChip(l)}<div class="bar grow"><i style="width:${sc[l].n ? 100 * sc[l].c / sc[l].n : 0}%"></i></div><span>${sc[l].c}/${sc[l].n}</span></div>`).join('')}</div>
-        <p class="muted small">Bir seviyede %66 ve üzeri doğru yaptığında o seviye “geçildi” sayılır. İstediğin zaman Ayarlar’dan seviyeni değiştirebilirsin.</p>
+        <div class="level-bars">${LEVELS.filter(l => sc[l]).map(l => `<div class="row">${lvChip(l)}<div class="bar grow"><i style="width:${100 * sc[l].c / sc[l].n}%"></i></div><span>${sc[l].c}/${sc[l].n}</span></div>`).join('')}</div>
+        ${below.length ? `<p>🌳 ${below.map(lvChip).join(' ')} ağaçların seviye testiyle tamamlandı; bu seviyelerden soru gelmeyecek.</p>` : ''}
+        <p class="muted small">Bir seviyede 5 sorudan en az 4'ünü bilirsen o seviye “geçildi” sayılır. Seviyeni istediğin zaman Ayarlar’dan değiştirebilirsin.</p>
       </div>
       <div class="stack" style="margin-top:16px"><button class="btn primary" data-go="home">Bahçeme git 🌳</button></div>`;
     current = null;
@@ -505,9 +524,10 @@
       ask = 'Bu anlamı veren İngilizce kelime hangisi?';
     }
     const exBefore = S.settings.showExampleFirst && showWord && item.ex;
-    const total = c.qs.length;
+    const total = c.qs.length, isPl = c.mode === 'placement';
+    const prog = isPl ? 100 * (c.i % PLACE_N) / PLACE_N : 100 * c.i / total;
     app.innerHTML = `
-      <div class="topbar"><button class="icon-btn" data-go="home" aria-label="Çık">✕</button><div class="progress"><i style="width:${100 * c.i / total}%"></i></div><span class="small muted">${c.i + 1}/${total}</span></div>
+      <div class="topbar"><button class="icon-btn" data-go="home" aria-label="Çık">✕</button><div class="progress"><i style="width:${prog}%"></i></div><span class="small muted">${isPl ? `${item.lvl} · ${c.i % PLACE_N + 1}/${PLACE_N}` : `${c.i + 1}/${total}`}</span></div>
       <div class="card">
         <div class="q-meta">${lvChip(item.lvl)}${posChip(item.pos)}<span class="q-type">${c.mode === 'placement' ? 'Seviye testi' : QTYPE_TR[q.type]}</span></div>
         ${imgBlock(item)}
@@ -559,7 +579,7 @@
   function next() {
     const c = current;
     if (c.i < c.qs.length - 1) { c.i++; window.scrollTo(0, 0); quiz(); return; }
-    if (c.mode === 'placement') return placementResult();
+    if (c.mode === 'placement') return placementStep();
     S.stats.sessions++; bumpStreak();
     const correct = c.answers.filter(a => a.ok).length;
     S.history.push({ t: Date.now(), mode: c.mode, n: c.qs.length, c: correct });
@@ -651,7 +671,7 @@
         return `<div class="tree-card ${cls}">${treeSvg(p.p, l)}
           <div class="row between">${lvChip(l)}<span class="pct">%${(100 * p.p).toFixed(1)}</span></div>
           <div class="bar"><i style="width:${100 * p.p}%"></i></div>
-          <div class="small muted">${stage} · ${p.done}/${p.total}${cls === 'locked' ? ' · 🔒' : ''}</div></div>`;
+          <div class="small muted">${p.passed ? 'Seviye testiyle geçildi ✓' : `${stage} · ${p.done}/${p.total}${cls === 'locked' ? ' · 🔒' : ''}`}</div></div>`;
       }).join('')}</div>`;
     app.querySelectorAll('[data-tab]').forEach(b => b.onclick = () => garden(b.dataset.tab));
   }

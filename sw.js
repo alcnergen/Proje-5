@@ -1,5 +1,5 @@
 // Çevrimdışı çalışma: uygulama dosyaları önbelleğe alınır, AI görselleri ilk görüldükten sonra saklanır.
-const VERSION = 'kb-v2';
+const VERSION = 'kb-v3';
 const CORE = ['./', 'index.html', 'styles.css', 'app.js', 'data/words.js', 'data/phrasal.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 const IMG_CACHE = 'kb-img-v1';

@@ -6,14 +6,14 @@
 
 | | |
 |---|---|
-| **Havuz** | **10.005 öğe**: CEFR seviyeli 9.703 kelime (A1 1.108 · A2 1.411 · B1 2.445 · B2 2.771 · C1 1.041 · C2 927) + 302 phrasal verb |
-| **Seviye testi** | Her seviyeden 5 soru (30 soru). Bir seviyede %66+ (5'te 4) doğru → o seviye geçildi sayılır. |
+| **Havuz** | **11.530 öğe**: 11.228 kelime (A1 1.108 · A2 1.411 · B1 2.445 · B2 2.835 · C1 2.415 · C2 1.014) + 302 phrasal verb |
+| **Seviye testi** | Uyarlamalı: B1'den 5 soruyla başlar. 5'te 4 doğru → bir üst seviyeye geçer, değilse durur. B1 geçilemezse A2 ve A1 sorulur. B1 düzeyindeki biri 10 soruda yerleşir, basit kelimelerle vakit kaybetmez. |
 | **Çalışma aralığı** | Seviyen + 2 üst seviye (ör. B1 → B1, B2, C1). Ayarlardan elle de değiştirilebilir. |
 | **Kelime Testi** | 50 soru, 4 şık. Üç soru tipi karışık gelir: İngilizce → Türkçe, Türkçe → İngilizce, İngilizce → İngilizce tanım. |
 | **Cümle Tamamlama** | 50 soru. Boşluğa doğru kelime; çeldiriciler aynı kelime türünden ve aynı çekimde (-s, -ed, -ing, düzensiz fiiller) seçilir. |
 | **Phrasal Verbs** | Ayrı test grubu (302 fiil, A2–C2). Anlam, Türkçe → phrasal, bağlamda phrasal ve **doğru edat (particle)** soruları. |
 | **Her soruda** | Seviye etiketi, kelime türü, örnek cümle, İngilizce tanım, Türkçe anlam, 🔊 telaffuz, AI görsel, “yanlış arkadaş” uyarısı |
-| **Ağaçlar** | Her mod için her CEFR seviyesinin ağacı ayrı büyür: Tohum → Filiz → Fidan → Genç ağaç → Ulu ağaç → Meyve veren ağaç 🏆 (seviyedeki tüm öğeler öğrenildiğinde). |
+| **Ağaçlar** | Seviyenin altındaki ağaçlar seviye testiyle geçilmiş sayılır ve baştan meyve verir (ör. B1 çıkan kullanıcının A1–A2 ağaçları dolu). Çalışılan seviyelerde her mod için ağaç ayrı büyür: Tohum → Filiz → Fidan → Genç ağaç → Ulu ağaç → Meyve veren ağaç 🏆 (seviyedeki tüm öğeler öğrenildiğinde). |
 | **Aralıklı tekrar** | Leitner kutuları (1-3-7-16-35 gün). Yanlışlar bir sonraki oturuma öncelikli girer; “Hatalarım” ekranında listelenir. |
 
 Oturumlar kolaydan zora sıralanır (%45 kendi seviyen, %35 bir üstü, %20 iki üstü).
@@ -41,7 +41,7 @@ Yerelde denemek için: `python3 -m http.server` → `http://localhost:8000`.
 
 ## Veri kaynakları ve dürüst notlar
 
-- **Kelime listesi:** Oxford 3000/5000 ve Cambridge English Vocabulary Profile telif hakkıyla korunduğu için yeniden dağıtılamıyor. Onların yerine aynı CEFR ölçeğine göre etiketlenmiş açık listeler kullanıldı: **CEFR-J Vocabulary Profile 1.5** (A1–B2, Tokyo Yabancı Diller Üniversitesi, atıfla ticari kullanım serbest) ve **Octanove Vocabulary Profile C1/C2** (CC BY-SA 4.0). Toplam havuz 10.000'in üzerinde.
+- **Kelime listesi:** Oxford 3000/5000 ve Cambridge English Vocabulary Profile telif hakkıyla korunduğu için yeniden dağıtılamıyor. Onların yerine aynı CEFR ölçeğine göre etiketlenmiş açık listeler kullanıldı: **CEFR-J Vocabulary Profile 1.5** (A1–B2, Tokyo Yabancı Diller Üniversitesi, atıfla ticari kullanım serbest) ve **Octanove Vocabulary Profile C1/C2** (CC BY-SA 4.0). Bu iki liste 9.703 kelime veriyor. Havuzu 11.500'ün üzerine çıkarmak için İngilizce kullanım sıklığı verisinden (wordfreq) listelerde olmayan en yaygın 1.525 kelime eklendi; bunların seviyesi kullanım sıklığına göre **tahmin** edildi (çoğu C1).
 - **İngilizce tanımlar:** Princeton WordNet 3.0 (kelimenin en yaygın anlamı). Bazı tanımlar kelimenin farklı bir anlamını verebilir.
 - **Türkçe anlamlar, ~4.800 örnek cümle ve phrasal verb listesi** uygulama için elle hazırlandı; diğer örnek cümleler WordNet'ten geliyor. Hata görürseniz `tools/authored/*.txt` dosyasında düzeltip veriyi yeniden üretebilirsiniz.
 - **AI görseller:** Her kelime için görsel, açıldığı anda ücretsiz [Pollinations.ai](https://pollinations.ai) servisinde yapay zekâyla üretilir ve cihazda önbelleğe alınır. Servis yavaşsa/limitliyse görsel yerine harf kartı görünür. Ayarlar'dan kapatılabilir veya kendi görsel servisinizin adresi (`{prompt}`, `{word}`, `{seed}` yer tutucularıyla) girilebilir. Soyut kelimelerde (ör. *nevertheless*) görseller doğal olarak daha az anlamlıdır.
@@ -55,6 +55,7 @@ Yerelde denemek için: `python3 -m http.server` → `http://localhost:8000`.
 pip install nltk
 # WordNet: nltk_data/corpora/wordnet (https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet.zip)
 NLTK_DATA=/yol/nltk_data python3 tools/base_list.py   # CEFR listeleri + WordNet → tools/base.json
+NLTK_DATA=/yol/nltk_data python3 tools/extra_list.py 1625   # + sık kullanılan ek kelimeler (pip install wordfreq; names korpusu gerekir)
 python3 tools/build_data.py                             # + Türkçe/örnekler → data/words.js, data/phrasal.js
 python3 tools/make_icons.py                             # ikonlar
 ```
