@@ -112,6 +112,7 @@
   // ---------- veri ----------
   const WORDS = (window.WORDS || []).map(r => ({ w: r[0], pos: r[1], lvl: r[2], tr: r[3], def: r[4], ex: r[5], key: r[0] + '|' + r[1] }))
     .filter(x => x.tr);
+  const ILLUS = window.ILLUS || {};
   const PV = (window.PHRASAL || []).map(r => ({ w: r[0], pos: 'phrasal verb', lvl: r[1], tr: r[2], def: r[3], ex: r[4], key: 'pv|' + r[0] }));
   const byLevel = { word: {}, sentence: {}, phrasal: {} };
   // Havuzlar başlangıçta (yardımcı fonksiyonlar tanımlandıktan sonra) doldurulur.
@@ -130,7 +131,7 @@
   const defaultState = () => ({
     v: 1, level: null, placedAt: null, srs: { word: {}, sentence: {}, phrasal: {} },
     stats: { answered: 0, correct: 0, sessions: 0, streak: 0, lastDay: null },
-    history: [], settings: { images: true, imgTemplate: '', speech: true, theme: 'auto', showExampleFirst: true }
+    history: [], settings: { aiImages: false, imgTemplate: '', speech: true, theme: 'auto', showExampleFirst: true }
   });
   let S;
   function load() {
@@ -277,6 +278,7 @@
     return { before: ex.slice(0, m.index).replace(/[{}]/g, ''), form: m[1], after: ex.slice(m.index + m[0].length).replace(/[{}]/g, '') };
   }
   const exHtml = ex => esc((ex || '').replace(/[{}]/g, m => m === '{' ? '\u0001' : '\u0002')).replace(/\u0001/g, '<mark>').replace(/\u0002/g, '</mark>');
+  const exMasked = ex => exHtml(ex).replace(/<mark>.*?<\/mark>/, '<span class="gap">&nbsp;?&nbsp;</span>');
   const exPlain = ex => (ex || '').replace(/[{}]/g, '');
 
   // ---------- soru üretimi ----------
@@ -351,11 +353,14 @@
   }
   const prefetched = new Set();
   function prefetch(item) {
-    if (!S.settings.images || !item || prefetched.has(item.key)) return;
+    if (!S.settings.aiImages || !item || ILLUS[item.key] || prefetched.has(item.key)) return;
     prefetched.add(item.key); const i = new Image(); i.referrerPolicy = 'no-referrer'; i.src = imgUrl(item);
   }
+  // Görsel: önce el ile doğrulanmış Fluent Emoji çizimi; yoksa (ayarlarda açıksa) AI görseli; yoksa hiç alan ayırma.
   function imgBlock(item) {
-    if (!S.settings.images) return '';
+    const il = ILLUS[item.key];
+    if (il) return `<div class="q-illus"><img alt="" src="images/emoji/${esc(il)}" decoding="async"></div>`;
+    if (!S.settings.aiImages) return '';
     return `<div class="q-img"><div class="ph"><div><span class="big">${esc(item.w[0].toUpperCase())}</span>Görsel üretiliyor…</div></div>
       <img alt="“${esc(item.w)}” için yapay zekâ görseli" referrerpolicy="no-referrer" src="${esc(imgUrl(item))}"
         onload="this.classList.add('ok');this.previousElementSibling.style.display='none'"
@@ -392,8 +397,9 @@
     S.stats.streak = S.stats.lastDay === y ? S.stats.streak + 1 : 1; S.stats.lastDay = d;
   }
 
+  function clearNext() { app.classList.remove('has-next'); const n = document.getElementById('nextbar'); if (n) n.remove(); }
   function render(view, arg) {
-    window.scrollTo(0, 0); app.classList.remove('has-next');
+    window.scrollTo(0, 0); clearNext();
     ({ home, welcome, placement, quiz, result, garden, method, settings, levelPick, review }[view] || home)(arg);
   }
   app.addEventListener('click', e => {
@@ -504,7 +510,7 @@
     placementResult();
   }
   function placementResult() {
-    app.classList.remove('has-next');
+    clearNext();
     const c = current, placed = c.placed, sc = c.sc;
     S.level = placed; S.placedAt = Date.now(); save();
     const r = range();
@@ -540,7 +546,7 @@
 
   function quiz() {
     const c = current; const q = c.qs[c.i]; const item = q.item;
-    c.view = 'quiz'; c.answered = false; app.classList.remove('has-next');
+    c.view = 'quiz'; c.answered = false; clearNext();
     prefetch(c.qs[c.i + 1] && c.qs[c.i + 1].item);
     const isGap = q.type === 'gap' || q.type === 'pv_gap' || q.type === 'pv_particle';
     const showWord = q.type === 'en_tr' || q.type === 'en_def' || q.type === 'pv_tr';
@@ -555,7 +561,7 @@
       prompt = `<p class="prompt tr">${esc(item.tr)}</p>`;
       ask = 'Bu anlamı veren İngilizce kelime hangisi?';
     }
-    const exBefore = S.settings.showExampleFirst && showWord && item.ex;
+    const exBefore = S.settings.showExampleFirst && !isGap && item.ex ? (showWord ? exHtml(item.ex) : exMasked(item.ex)) : '';
     const total = c.qs.length, isPl = c.mode === 'placement';
     const prog = isPl ? 100 * (c.i % PLACE_N) / PLACE_N : 100 * c.i / total;
     app.innerHTML = `
@@ -565,7 +571,7 @@
         ${imgBlock(item)}
         ${prompt}
         <p class="ask">${ask}</p>
-        ${exBefore ? `<div class="example">${exHtml(item.ex)}</div>` : ''}
+        ${exBefore ? `<div class="example">${exBefore}</div>` : ''}
         <div class="options">${q.options.map((o, i) => `<button class="opt" data-i="${i}" style="--i:${i}"><span class="k">${'ABCD'[i]}</span><span>${esc(o.text)}</span></button>`).join('')}</div>
         <button class="idk">Bilmiyorum</button>
         <div id="fb"></div>
@@ -589,21 +595,32 @@
     if (ok && navigator.vibrate) try { navigator.vibrate(15); } catch (e) { }
     const ff = FALSE_FRIENDS[item.w.toLowerCase()];
     const last = c.i === c.qs.length - 1;
+    const canLucky = ok && c.mode !== 'placement';
     $('#fb').innerHTML = `
       <div class="feedback ${ok ? 'good' : 'bad'}">
-        <div class="row between"><div class="headline">${ok ? '✓ Doğru!' : i < 0 ? 'Sorun değil, öğreniyoruz' : '✗ Yanlış'}</div>
-          <button class="speak" data-say="${esc(item.ex ? exPlain(item.ex) : item.w)}" aria-label="Cümleyi dinle">${ICON.sound}</button></div>
-        <dl class="kv">
-          <dt>Kelime</dt><dd><b>${esc(item.w)}</b></dd>
-          <dt>Türkçe</dt><dd>${esc(item.tr)}</dd>
-          <dt>Tür</dt><dd>${esc(POS_TR[item.pos] || item.pos)}</dd>
-          <dt>Seviye</dt><dd>${lvChip(item.lvl)}</dd>
-          ${item.def ? `<dt>Tanım</dt><dd>${esc(item.def)}</dd>` : ''}
-        </dl>
+        <div class="row between"><div class="headline">${ok ? 'Doğru' : i < 0 ? 'Birlikte öğrenelim' : 'Yanlış'}</div>
+          <button class="speak" data-say="${esc(item.ex ? exPlain(item.ex) : item.w)}" aria-label="Dinle">${ICON.sound}</button></div>
+        <div class="fb-word"><span class="w">${esc(item.w)}</span>${lvChip(item.lvl)}${posChip(item.pos)}</div>
+        <p class="fb-tr">${esc(item.tr)}</p>
+        ${item.def ? `<p class="fb-def">${esc(item.def)}</p>` : ''}
         ${item.ex ? `<div class="example">${exHtml(item.ex)}</div>` : ''}
-        ${ff ? `<div class="tip"><b>⚠️ Yanlış arkadaş (false friend):</b> ${ff[0] ? `“${esc(item.w)}” ≠ ${esc(ff[0])}. ` : ''}Anlamı: ${esc(ff[1])}.${ff[2] ? ` (${esc(ff[2])})` : ''}</div>` : ''}
+        ${ff ? `<div class="tip"><b>Yanlış arkadaş:</b> ${ff[0] ? `“${esc(item.w)}” ≠ ${esc(ff[0])}. ` : ''}Anlamı: ${esc(ff[1])}.${ff[2] ? ` (${esc(ff[2])})` : ''}</div>` : ''}
+        ${canLucky ? `<button class="lucky" id="lucky">${ICON.repeat}<span>Şans eseri bildim, tekrar sor</span></button>` : ''}
       </div>
-      <div class="sticky-next"><button class="btn primary" id="next">${last ? 'Sonuçları gör' : 'Devam →'}</button></div>`;
+`;
+    // Devam çubuğu animasyonlu kartın dışında, doğrudan body'de durur (sabit konum bozulmasın)
+    clearNext();
+    const bar = document.createElement('div'); bar.className = 'sticky-next'; bar.id = 'nextbar';
+    bar.innerHTML = `<button class="btn primary" id="next">${last ? 'Sonuçları gör' : 'Devam'}</button>`;
+    document.body.appendChild(bar);
+    if (canLucky) $('#lucky').onclick = () => {
+      const r = S.srs[c.mode][item.key];
+      if (r) { r.c = Math.max(0, r.c - 1); r.b = 0; r.d = Date.now(); r.l = 0; }
+      S.stats.correct = Math.max(0, S.stats.correct - 1);
+      const a = c.answers[c.answers.length - 1]; a.ok = false; a.lucky = true;
+      save();
+      const b = $('#lucky'); b.disabled = true; b.querySelector('span').textContent = 'Tekrar listesine eklendi';
+    };
     $('#fb').querySelectorAll('[data-say]').forEach(b => b.onclick = () => speak(b.dataset.say));
     $('#next').onclick = next;
     app.classList.add('has-next');
@@ -623,7 +640,7 @@
 
   // ---------- sonuç ----------
   function result() {
-    app.classList.remove('has-next');
+    clearNext();
     const c = current; if (!c) return home();
     c.view = 'result';
     const n = c.qs.length, ok = c.answers.filter(a => a.ok).length, pct = Math.round(100 * ok / n);
@@ -634,8 +651,8 @@
     app.innerHTML = topbar(MODES[c.mode].name + ' · Sonuç') + `
       <div class="card" style="text-align:center">
         <svg class="score-ring" viewBox="0 0 150 150"><circle cx="75" cy="75" r="${R}" fill="none" stroke="var(--surface-2)" stroke-width="12"/>
-          <circle cx="75" cy="75" r="${R}" fill="none" stroke="var(--primary)" stroke-width="12" stroke-linecap="round" stroke-dasharray="${C * pct / 100} ${C}" transform="rotate(-90 75 75)"/>
-          <text x="75" y="72" text-anchor="middle" font-size="30" font-weight="800" fill="var(--text)">${ok}/${n}</text>
+          <circle cx="75" cy="75" r="${R}" fill="none" stroke="var(--accent)" stroke-width="12" stroke-linecap="round" stroke-dasharray="${C * pct / 100} ${C}" transform="rotate(-90 75 75)"/>
+          <text x="75" y="72" text-anchor="middle" font-size="30" font-weight="800" fill="var(--ink)">${ok}/${n}</text>
           <text x="75" y="96" text-anchor="middle" font-size="14" fill="var(--muted)">%${pct}</text></svg>
         <h2>${pct >= 85 ? 'Bahçen çiçek açıyor' : pct >= 65 ? 'Güzel gidiyor' : 'Her yanlış yeni bir tohum'}</h2>
       </div>
@@ -647,7 +664,7 @@
         <h3 style="margin-bottom:10px">Ağaçların büyüdü</h3>
         <div class="garden">${lvls.map(l => { const p = treeProgress(c.mode, l); const d = p.p - (c.before[l] || 0); return `<div class="tree-card">${treeSvg(p.p, l)}<div>${lvChip(l)} <span class="pct">%${(100 * p.p).toFixed(1)}</span></div><div class="small muted">${d > 0 ? '+' + (100 * d).toFixed(2) + ' puan' : 'değişmedi'}</div></div>`; }).join('')}</div>
       </div>
-      ${mistakes.length ? `<div class="card"><h3 style="margin-bottom:6px">Hatalar (tekrar listene eklendi)</h3>${mistakes.map(({ q, a }) => `<div class="mistake"><b>${esc(q.item.w)}</b> ${lvChip(q.item.lvl)} — ${esc(q.item.tr)}${a.choice ? `<div class="small muted">Senin cevabın: ${esc(a.choice)}</div>` : ''}</div>`).join('')}</div>` : ''}
+      ${mistakes.length ? `<div class="card"><h3 style="margin-bottom:6px">Hatalar (tekrar listene eklendi)</h3>${mistakes.map(({ q, a }) => `<div class="mistake"><b>${esc(q.item.w)}</b> ${lvChip(q.item.lvl)} — ${esc(q.item.tr)}${a.choice ? `<div class="small muted">${a.lucky ? 'Şans eseri bildin, tekrar sorulacak' : `Senin cevabın: ${esc(a.choice)}`}</div>` : ''}</div>`).join('')}</div>` : ''}
       <div class="stack" style="margin-top:16px">
         <button class="btn primary" id="again">Yeni 50 soru</button>
         <button class="btn" data-go="home">Ana sayfa</button>
@@ -762,7 +779,7 @@
       <div class="card">
         <div class="switch"><span>Seviyem: ${lvChip(S.level || '-')}</span><button class="btn small" data-go="levelPick">Değiştir</button></div>
         <div class="switch"><span>Seviye testini yeniden yap</span><button class="btn small" data-go="placement">Başlat</button></div>
-        <label class="switch"><span>AI görselleri göster</span><input type="checkbox" id="s-img" ${st.images ? 'checked' : ''}></label>
+        <label class="switch"><span>AI görselleri (çizimi olmayan kelimelerde)</span><input type="checkbox" id="s-img" ${st.aiImages ? 'checked' : ''}></label>
         <label class="switch"><span>Sesli telaffuz</span><input type="checkbox" id="s-sp" ${st.speech ? 'checked' : ''}></label>
         <label class="switch"><span>Örnek cümleyi cevaptan önce göster (EN→TR sorularında)</span><input type="checkbox" id="s-ex" ${st.showExampleFirst ? 'checked' : ''}></label>
         <div class="switch"><span>Tema</span><select id="s-th" style="width:auto"><option value="auto">Sistem</option><option value="light">Açık</option><option value="dark">Koyu</option></select></div>
@@ -770,7 +787,7 @@
       <div class="card stack">
         <div class="field"><label for="s-tpl">Görsel üretim adresi (gelişmiş)</label>
           <input type="text" id="s-tpl" placeholder="${esc(DEFAULT_IMG)}" value="${esc(st.imgTemplate)}">
-          <p class="muted small">Boş bırakılırsa ücretsiz Pollinations.ai görsel üreticisi kullanılır. Kendi servisini kullanmak için {prompt}, {word} ve {seed} yer tutucularını içeren bir adres gir.</p></div>
+          <p class="muted small">Pollinations.ai'nin ücretsiz kotası 45 saniyede 1 görsel olduğu için AI görselleri varsayılan olarak kapalı. Kendi Pollinations anahtarınla ya da başka bir servisle kullanmak için {prompt}, {word} ve {seed} yer tutucularını içeren adresi gir (ör. sonuna &amp;token=ANAHTAR ekleyerek).</p></div>
       </div>
       <div class="card stack">
         <h3>Veri</h3>
@@ -781,7 +798,7 @@
       </div>
       <p class="muted small" style="margin:12px 4px">Kelime listeleri: CEFR-J Vocabulary Profile 1.5 (A1–B2, © Tono Lab, TUFS) ve Octanove Vocabulary Profile C1/C2 (CC BY-SA 4.0). İngilizce tanımlar: Princeton WordNet 3.0. Türkçe anlamlar, örnek cümleler ve phrasal verb listesi uygulamaya özel hazırlandı.</p>`;
     $('#s-th').value = st.theme;
-    $('#s-img').onchange = e => { st.images = e.target.checked; save(); };
+    $('#s-img').onchange = e => { st.aiImages = e.target.checked; save(); };
     $('#s-sp').onchange = e => { st.speech = e.target.checked; save(); };
     $('#s-ex').onchange = e => { st.showExampleFirst = e.target.checked; save(); };
     $('#s-th').onchange = e => { st.theme = e.target.value; save(); applyTheme(); };

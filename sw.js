@@ -1,6 +1,6 @@
 // Çevrimdışı çalışma: uygulama dosyaları önbelleğe alınır, AI görselleri ilk görüldükten sonra saklanır.
-const VERSION = 'kb-v4';
-const CORE = ['./', 'index.html', 'styles.css', 'app.js', 'data/words.js', 'data/phrasal.js', 'manifest.webmanifest',
+const VERSION = 'kb-v5';
+const CORE = ['./', 'index.html', 'styles.css', 'app.js', 'data/words.js', 'data/phrasal.js', 'data/illustrations.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png',
   'fonts/fraunces-latin.woff2', 'fonts/fraunces-latin-ext.woff2', 'fonts/schibsted-latin.woff2', 'fonts/schibsted-latin-ext.woff2'];
 const IMG_CACHE = 'kb-img-v1';
