@@ -1,0 +1,450 @@
+coal|n|kömür|They used {coal} to heat the house.
+coast|v|yokuş aşağı kendiliğinden gitmek; zahmetsizce ilerlemek|The car {coasted} down the hill.
+coastal|adj|kıyı, sahil|Antalya is a {coastal} city.
+cod|n|morina balığı|We had {cod} and chips.
+coffin|n|tabut|The {coffin} was carried into the church.
+collapse|n|çöküş, yıkılma|
+collar|n|yaka; tasma|
+columnist|n|köşe yazarı|She is a {columnist} for a national newspaper.
+combination|n|kombinasyon, birleşim|
+combine|v|birleştirmek|
+comedian|n|komedyen|The {comedian} made everyone laugh.
+comedy|n|komedi|We watched a romantic {comedy}.
+comet|n|kuyruklu yıldız|A {comet} appeared in the night sky.
+comfort|n|rahatlık, konfor; teselli|
+comma|n|virgül|Put a {comma} after "however".
+command|n|emir, komut|
+comment|n|yorum|
+commercial|adj|ticari|The film was a {commercial} success.
+commit|v|işlemek (suç); adamak|
+common sense|n|sağduyu|
+commonly|adv|genellikle, yaygın olarak|This word is {commonly} used in English.
+companion|n|arkadaş, yoldaş|Her dog is her best {companion}.
+comparison|n|karşılaştırma|
+compete|v|yarışmak, rekabet etmek|Ten teams will {compete} in the tournament.
+competitive|adj|rekabetçi|
+competitor|n|rakip, yarışmacı|Our main {competitor} lowered its prices.
+complement|n|tamamlayıcı; tümleç|
+complete|v|tamamlamak|
+completely|adv|tamamen|
+complex|adj|karmaşık|
+complicate|v|karmaşıklaştırmak|
+complicated|adj|karmaşık|The instructions are too {complicated}.
+compliment|n|iltifat|She paid me a nice {compliment}.
+compose|v|bestelemek; oluşturmak|
+composition|n|beste; kompozisyon; bileşim|
+compound|n|bileşik|Water is a {compound} of hydrogen and oxygen.
+compromise|n|uzlaşma, orta yol|
+concentration|n|konsantrasyon|Noise affects my {concentration}.
+concept|n|kavram|The {concept} of time is hard to explain.
+concerned|adj|endişeli; ilgili|
+conclude|v|sonuçlandırmak; sonucuna varmak|
+conclusion|n|sonuç|
+conduct|n|davranış, tutum|He was praised for his good {conduct}.
+confidence|n|güven, özgüven|
+confirm|v|onaylamak, teyit etmek|
+confirmation|n|onay, teyit|
+conflict|n|çatışma|
+confusing|adj|kafa karıştırıcı|
+confusion|n|karışıklık|
+congratulate|v|tebrik etmek|I {congratulated} her on her new job.
+connect|v|bağlamak|
+connection|n|bağlantı|
+conquer|v|fethetmek|The Ottomans {conquered} Istanbul in 1453.
+conscious|adj|bilinçli; farkında|
+consequently|adv|sonuç olarak|
+conservation|n|koruma (doğa)|They work on wildlife {conservation}.
+conservative|adj|muhafazakâr, tutucu|My grandfather has {conservative} views.
+considerable|adj|hatırı sayılır, önemli|
+consideration|n|dikkate alma; özen|
+consonant|n|ünsüz harf|"B" is a {consonant}.
+constantly|adv|sürekli|
+constitute|v|oluşturmak|
+constitution|n|anayasa|
+construct|v|inşa etmek|
+construction|n|inşaat, yapım|
+consume|v|tüketmek|
+consumer|n|tüketici|{Consumers} want cheaper products.
+consumption|n|tüketim|
+contain|v|içermek|
+content|n|içerik|
+continual|adj|sürekli, aralıksız|
+continually|adv|sürekli olarak|
+continuous|adj|kesintisiz, sürekli|
+continuously|adv|kesintisiz olarak|
+contrary|adj|aksi, zıt|
+contribute|v|katkıda bulunmak|Everyone {contributed} to the project.
+contribution|n|katkı|
+control|v|kontrol etmek, yönetmek|
+controversial|adj|tartışmalı|
+convey|v|iletmek, aktarmak|
+convince|v|ikna etmek|
+copyright|n|telif hakkı|The {copyright} belongs to the author.
+correction|n|düzeltme|
+cotton|n|pamuk|This shirt is made of {cotton}.
+cough|v|öksürmek|
+council|n|konsey, meclis|The city {council} meets every month.
+counseling|n|danışmanlık, rehberlik|She received {counseling} after the accident.
+count|n|sayım|
+counter|v|karşılık vermek, karşı koymak|
+countless|adj|sayısız|I've told you {countless} times!
+county|n|ilçe, kontluk|
+courage|n|cesaret|It takes {courage} to say sorry.
+courageous|adj|cesur|
+courgette|n|kabak|Fry the {courgette} in olive oil.
+craft|n|el sanatı, zanaat|
+crash|n|kaza, çarpışma; çöküş|
+crash|v|çarpmak; çökmek|
+creator|n|yaratıcı|He is the {creator} of a famous cartoon.
+criminal|n|suçlu|The {criminal} was sent to prison.
+crisis|n|kriz|
+critic|n|eleştirmen|The film {critic} loved the movie.
+critical|adj|eleştirel; kritik|
+crop|n|ürün, mahsul|
+crossing|n|geçit|Use the pedestrian {crossing}.
+crossroads|n|kavşak, dört yol ağzı|
+crow|n|karga|A {crow} sat on the fence.
+cruel|adj|zalim, acımasız|It's {cruel} to keep animals in small cages.
+crush|n|platonik aşk; izdiham|She has a {crush} on her teacher.
+cucumber|n|salatalık|Slice the {cucumber} for the salad.
+cultivate|v|ekip biçmek; geliştirmek|Farmers {cultivate} rice here.
+cultural|adj|kültürel|
+cure|n|tedavi, çare|There is no {cure} for the common cold.
+curiosity|n|merak|Children are full of {curiosity}.
+curious|adj|meraklı; tuhaf|
+curiously|adv|merakla; tuhaf bir şekilde|
+curly|adj|kıvırcık|
+currency|n|para birimi, döviz|
+current|adj|şimdiki, güncel|What is your {current} address?
+currently|adv|şu anda|
+curriculum|n|müfredat|Coding is now part of the school {curriculum}.
+curtain|n|perde|Close the {curtains}, please.
+curve|n|eğri, viraj|Slow down; there's a sharp {curve} ahead.
+cushion|n|minder, yastık|She sat on a soft {cushion}.
+customs|n|gümrük|We went through {customs} at the airport.
+cut|n|kesik; kesinti|
+CV|n|özgeçmiş|Send your {CV} by email.
+cycle|n|döngü; bisiklet|
+cycle|v|bisiklet sürmek|
+daisy|n|papatya|The field was full of {daisies}.
+damage|n|hasar, zarar|
+damage|v|hasar vermek, zarar vermek|
+damaged|adj|hasarlı|
+damp|adj|nemli, rutubetli|The walls are {damp}.
+dangerously|adv|tehlikeli bir şekilde|
+dare|v|cesaret etmek|
+darkness|n|karanlık|
+date|v|tarih atmak; çıkmak (biriyle)|
+dating|n|flört etme, çıkma|Online {dating} is very common now.
+daze|n|sersemlik|He walked around in a {daze}.
+dazzle|n|göz kamaştırıcı parlaklık|The {dazzle} of the headlights blinded me.
+deadline|n|son teslim tarihi|The {deadline} for the project is Friday.
+deadly|adj|ölümcül|It is a {deadly} disease.
+deaf|adj|sağır|My grandmother is a little {deaf}.
+deal|v|ilgilenmek, uğraşmak (with); dağıtmak|
+dealer|n|bayi, satıcı|
+debris|n|enkaz, döküntü|The street was covered in {debris} after the storm.
+debt|n|borç|
+decision|n|karar|
+declaration|n|bildiri, beyanname|They signed a {declaration} of independence.
+declare|v|ilan etmek, beyan etmek|
+decline|n|düşüş, azalma|There has been a {decline} in sales.
+decrease|n|azalma|
+decrease|v|azalmak, azaltmak|
+dedicate|v|adamak, ithaf etmek|
+deed|n|eylem, iş; tapu|He did a good {deed} by helping her.
+defeat|v|yenmek, mağlup etmek|Our team {defeated} theirs 3-0.
+defend|v|savunmak|The soldiers {defended} the city.
+defender|n|savunma oyuncusu; savunucu|He plays as a {defender}.
+defense|n|savunma|
+deficiency|n|eksiklik|
+define|v|tanımlamak|
+definite|adj|kesin, belirli|
+definite article|n|belirli tanımlık (the)|"The" is the {definite article}.
+definitely|adv|kesinlikle|I'll {definitely} come to your party.
+definition|n|tanım|
+delay|v|ertelemek, geciktirmek|
+delete|v|silmek|
+delicate|adj|narin, hassas|
+delight|n|büyük sevinç, zevk|
+delighted|adj|çok memnun|I'm {delighted} to meet you.
+delightful|adj|çok hoş, zevkli|We had a {delightful} evening.
+deliver|v|teslim etmek, dağıtmak|
+delivery|n|teslimat|
+demand|n|talep|
+demand|v|talep etmek|
+democracy|n|demokrasi|{Democracy} gives power to the people.
+democratic|adj|demokratik|
+demonstrate|v|göstermek, kanıtlamak; gösteri yapmak|
+demonstration|n|gösteri, protesto; tanıtım|
+deny|v|inkâr etmek, reddetmek|
+depart|v|kalkmak, ayrılmak|
+department|n|bölüm, departman|
+departure|n|kalkış, ayrılış|Check the {departure} time on your ticket.
+dependent|adj|bağımlı|
+deposit|n|depozito; mevduat|
+depressed|adj|depresif, bunalımlı|
+depressing|adj|iç karartıcı|
+depression|n|depresyon; ekonomik bunalım|
+deprive|v|yoksun bırakmak|The prisoners were {deprived} of sleep.
+depth|n|derinlik|
+derive|v|türemek, elde etmek|
+deserve|v|hak etmek|
+design|v|tasarlamak|
+designer|n|tasarımcı|
+desire|n|arzu, istek|
+despair|n|umutsuzluk|
+desperate|adj|çaresiz, umutsuz|
+despite|prep|-e rağmen|We went out {despite} the rain.
+destination|n|varış yeri, hedef|
+destruction|n|yıkım, tahribat|The war caused great {destruction}.
+destructive|adj|yıkıcı|
+detective|n|dedektif|The {detective} solved the case.
+determination|n|kararlılık|
+determine|v|belirlemek|
+devastate|v|harap etmek, yıkmak|
+devastating|adj|yıkıcı|
+development|n|gelişim, gelişme|
+device|n|cihaz, alet|
+devotion|n|bağlılık, adanmışlık|
+diagram|n|şema, diyagram|Look at the {diagram} on page ten.
+dial|n|kadran|Turn the {dial} to change the temperature.
+dial|v|numara çevirmek|
+dialog|n|diyalog|Read the {dialog} with your partner.
+diameter|n|çap|The circle has a {diameter} of ten centimetres.
+diaper|n|bebek bezi|She changed the baby's {diaper}.
+differ|v|farklı olmak|
+dig|v|kazmak|
+digital|adj|dijital|Most people use {digital} cameras now.
+diligence|n|çalışkanlık, titizlik|
+diligent|adj|çalışkan, gayretli|
+dioxide|n|dioksit|Cars produce carbon {dioxide}.
+direct|v|yönetmek; yönlendirmek|
+directly|adv|doğrudan|
+dirt|n|kir, toprak|His shoes were covered in {dirt}.
+disability|n|engellilik|He has a physical {disability}.
+disable|v|devre dışı bırakmak; sakat bırakmak|
+disabled|adj|engelli|There is a parking space for {disabled} drivers.
+disagreement|n|anlaşmazlık|We had a {disagreement} about money.
+disappoint|v|hayal kırıklığına uğratmak|I don't want to {disappoint} my parents.
+disappointment|n|hayal kırıklığı|
+disaster|n|felaket|
+disastrous|adj|felaket, feci|
+disc jockey|n|DJ, disk jokey|The {disc jockey} played old songs.
+discomfort|n|rahatsızlık|You may feel some {discomfort} after the operation.
+discount|n|indirim|Students get a ten percent {discount}.
+discourage|v|cesaretini kırmak; caydırmak|
+discovery|n|keşif|The {discovery} of penicillin saved many lives.
+discrimination|n|ayrımcılık|Racial {discrimination} is illegal.
+disease|n|hastalık|Heart {disease} is very common.
+disgusting|adj|iğrenç|This food tastes {disgusting}.
+dishwasher|n|bulaşık makinesi|Put the plates in the {dishwasher}.
+disk|n|disk|
+dislike|v|sevmemek, hoşlanmamak|
+display|v|sergilemek, göstermek|
+dissolve|v|erimek, çözünmek|
+distance|n|mesafe, uzaklık|
+distant|adj|uzak|
+distinction|n|ayrım, fark; üstün başarı|
+distinctly|adv|açıkça, belirgin şekilde|
+distinguish|v|ayırt etmek|
+distribute|v|dağıtmak|
+distribution|n|dağıtım|
+district|n|semt, bölge|We live in a quiet {district}.
+disturbance|n|rahatsızlık; kargaşa|
+dive|n|dalış|She made a perfect {dive} into the pool.
+dive|v|dalmak|
+diver|n|dalgıç|The {diver} found an old ship.
+diverse|adj|çeşitli, farklı|
+divide|n|ayrım, uçurum|There is a growing {divide} between rich and poor.
+divine|adj|ilahi, tanrısal|
+diving|n|dalış|We went {diving} in Kaş.
+divorced|adj|boşanmış|Her parents are {divorced}.
+DJ|n|DJ|The {DJ} played music all night.
+doc|n|doktor (konuşma dili)|I need to see the {doc} about my knee.
+document|n|belge|Sign the {document} here.
+documentary|n|belgesel|We watched a {documentary} about whales.
+dolphin|n|yunus|We saw a {dolphin} near the boat.
+dot|n|nokta|
+downstairs|adj|alt kattaki|
+downward|adj|aşağı doğru|
+doze|n|şekerleme, kestirme|I had a short {doze} after lunch.
+dozen|det|düzine|I bought a {dozen} eggs.
+dozen|n|düzine|Eggs are sold by the {dozen}.
+drag|v|sürüklemek|
+dramatic|adj|dramatik, çarpıcı|
+drown|v|boğulmak (suda)|
+drunk|adj|sarhoş|He was too {drunk} to drive.
+dude|n|ahbap, adamım|Hey {dude}, how's it going?
+dull|adj|sıkıcı; donuk|
+dump|n|çöplük|We took the old sofa to the {dump}.
+dump|v|atmak, boşaltmak; terk etmek|
+dustbin|n|çöp kutusu|Throw it in the {dustbin}.
+dusty|adj|tozlu|
+duty|n|görev; vergi|
+duty-free|adj|gümrüksüz|I bought perfume at the {duty-free} shop.
+duvet|n|yorgan|I need a warmer {duvet} for winter.
+dynasty|n|hanedan|The Ottoman {dynasty} ruled for 600 years.
+eager|adj|istekli, hevesli|She is {eager} to start her new job.
+eagerness|n|istek, heves|
+earache|n|kulak ağrısı|I have a bad {earache}.
+earnest|adj|ciddi, samimi|
+eastern|adj|doğu|
+easygoing|adj|rahat, uysal|
+eco|n|çevre, ekoloji|They live in an {eco} village.
+ecological|adj|ekolojik|Plastic causes serious {ecological} problems.
+ecology|n|ekoloji|
+economic|adj|ekonomik (ekonomiyle ilgili)|
+economics|n|ekonomi bilimi, iktisat|He studied {economics} at university.
+economy|n|ekonomi|
+ecosystem|n|ekosistem|Pollution harms the {ecosystem}.
+ecstasy|n|kendinden geçme, coşku|She was in {ecstasy} when she won.
+edge|n|kenar, uç|
+edition|n|baskı (kitap)|
+educate|v|eğitmek|
+effective|adj|etkili|
+efficiency|n|verimlilik|
+efficient|adj|verimli|
+either|det|her iki ... de; ikisinden biri|You can sit on {either} side.
+either|pron|ikisinden biri|"Tea or coffee?" "{Either} is fine."
+elbow|n|dirsek|
+election|n|seçim|
+electrical|adj|elektrikle ilgili, elektrik|
+electricity|n|elektrik|
+electron|n|elektron|An {electron} has a negative charge.
+electronic|adj|elektronik|She bought an {electronic} dictionary.
+element|n|öğe, unsur; element|
+eliminate|v|ortadan kaldırmak, elemek|
+embarrass|v|utandırmak, mahcup etmek|Please don't {embarrass} me in front of my friends.
+embarrassed|adj|utanmış, mahcup|
+embarrassment|n|utanç, mahcubiyet|
+emerge|v|ortaya çıkmak|
+emotion|n|duygu|She couldn't hide her {emotion}.
+emotional|adj|duygusal|
+emotionally|adv|duygusal olarak|
+emperor|n|imparator|The {emperor} lived in a huge palace.
+emphasis|n|vurgu|
+emphasize|v|vurgulamak|
+empire|n|imparatorluk|
+employment|n|istihdam, iş|
+enable|v|olanak sağlamak|
+enclose|v|ekte göndermek; çevirmek|I {enclose} a copy of my CV.
+encounter|n|karşılaşma|
+encouragement|n|cesaretlendirme, teşvik|Her teacher gave her a lot of {encouragement}.
+encouraging|adj|cesaret verici|
+encyclopedia|n|ansiklopedi|Look it up in the {encyclopedia}.
+endanger|v|tehlikeye atmak|
+endless|adj|sonsuz, bitmek bilmeyen|The journey seemed {endless}.
+endure|v|katlanmak, dayanmak|
+enemy|n|düşman|
+engage|v|meşgul etmek; ilgisini çekmek|
+engaged|adj|nişanlı; meşgul|
+engine|n|motor|The car's {engine} won't start.
+engineering|n|mühendislik|
+Englishman|n|İngiliz (erkek)|He is an {Englishman} living in Bodrum.
+enjoyable|adj|zevkli, keyifli|We had an {enjoyable} evening.
+enjoyment|n|keyif, zevk|Music gives me a lot of {enjoyment}.
+enrich|v|zenginleştirmek|
+ensure|v|sağlamak, garanti etmek|
+entertain|v|eğlendirmek; ağırlamak|
+entertainer|n|eğlence sanatçısı, şovmen|He was a popular {entertainer} in the 1980s.
+enthusiasm|n|coşku, heves|
+enthusiast|n|meraklı, hayran|He is a football {enthusiast}.
+enthusiastic|adj|hevesli, coşkulu|
+entire|adj|bütün, tüm|
+entirely|adv|tamamen|
+entry|n|giriş; kayıt|There is no {entry} without a ticket.
+environmental|adj|çevresel|Pollution is a serious {environmental} problem.
+environmentalist|n|çevreci|{Environmentalists} protested against the new road.
+equal|adj|eşit|
+equality|n|eşitlik|They fought for {equality} between men and women.
+equally|adv|eşit olarak|
+equipment|n|ekipman, donanım|The gym has modern {equipment}.
+era|n|çağ, dönem|We live in the digital {era}.
+escape|v|kaçmak|
+essence|n|öz, esas|The {essence} of the problem is money.
+essential|adj|gerekli, temel|
+establishment|n|kuruluş, müessese|
+estimate|v|tahmin etmek|
+eternal|adj|ebedi, sonsuz|They promised {eternal} love.
+eternity|n|sonsuzluk|The wait seemed like an {eternity}.
+even|adj|düz; eşit; çift (sayı)|
+evenly|adv|eşit olarak|
+eventually|adv|sonunda, nihayetinde|{Eventually}, they found the hotel.
+evident|adj|apaçık, belli|
+exact|adj|tam, kesin|
+examination|n|sınav; muayene|The doctor gave me a full {examination}.
+examine|v|incelemek; muayene etmek|
+examiner|n|sınav görevlisi|
+excellence|n|mükemmellik|
+excess|n|fazlalık|An {excess} of sugar is bad for your health.
+exchange|v|değiş tokuş etmek|
+exchange rate|n|döviz kuru|The {exchange rate} changes every day.
+excitedly|adv|heyecanla|
+excitement|n|heyecan|
+exclusive|adj|özel, seçkin; tek|
+excuse|v|affetmek, mazur görmek|
+exhausted|adj|çok yorgun, bitkin|
+existence|n|varoluş, varlık|
+exit|n|çıkış|Where is the emergency {exit}?
+exit|v|çıkmak|{Exit} the motorway at junction 5.
+expand|v|genişlemek, genişletmek|
+expense|n|masraf, gider|
+experience|v|yaşamak, deneyimlemek|Many people {experience} stress at work.
+experienced|adj|deneyimli|We need an {experienced} teacher.
+experiment|n|deney|
+exploration|n|keşif, araştırma|
+explosion|n|patlama|
+expose|v|açığa çıkarmak; maruz bırakmak|
+express|v|ifade etmek|
+extend|v|uzatmak, genişletmek|
+extensively|adv|kapsamlı olarak|
+extent|n|ölçü, kapsam|
+extinct|adj|nesli tükenmiş|
+extinction|n|yok olma, nesli tükenme|
+extra|n|ekstra; figüran|
+extraordinary|adj|olağanüstü|
+extreme|adj|aşırı, uç|
+extreme sports|n|ekstrem sporlar|He loves {extreme sports} like skydiving.
+eyesight|n|görme yeteneği|My {eyesight} is getting worse.
+face to face|adv|yüz yüze|
+face-to-face|adj|yüz yüze|I prefer {face-to-face} meetings.
+facility|n|tesis, olanak|
+fade|v|solmak, kaybolmak|
+failure|n|başarısızlık|
+faint|adj|hafif, belli belirsiz; baygın|
+fair|n|fuar, panayır|
+faithful|adj|sadık|
+fake|adj|sahte|
+fall|n|sonbahar; düşüş|
+fallen|adj|düşmüş, devrilmiş|
+fancy|n|hoşlanma, heves|She has taken a {fancy} to the new boy.
+fancy|v|canı istemek; hoşlanmak|
+fantasy|n|fantezi, hayal|
+faraway|adj|uzak|
+farewell|n|veda|We had a {farewell} party for our teacher.
+farming|n|çiftçilik|
+farmland|n|tarım arazisi|The village is surrounded by {farmland}.
+farther|adv|daha uzağa|
+farthest|adv|en uzağa|
+fascinate|v|büyülemek|
+fashionable|adj|moda, modaya uygun|
+fasten|v|bağlamak, iliklemek|
+favorable|adj|elverişli, olumlu|
+fax|n|faks|Please send me a {fax}.
+fax|v|fakslamak|
+feast|n|ziyafet; bayram|
+feed|v|beslemek|
+fellow|n|adam, arkadaş|
+ferry|n|feribot, vapur|We took the {ferry} to Kadıköy.
+festive|adj|şenlikli, bayram havasında|
+fetch|v|gidip getirmek|
+feverishly|adv|telaşla, hararetle|They worked {feverishly} to finish on time.
+few|pron|birkaç tane, azı|{Few} of the students passed the test.
+fifth|n|beşte bir; beşinci|
+fight|v|kavga etmek, savaşmak|The two boys {fought} in the playground.
+filling|n|dolgu; iç (yiyecek)|
+film|v|film çekmek|They {filmed} the wedding.
+film-maker|n|film yapımcısı|She is a young {film-maker} from Istanbul.
+filter|n|filtre|Change the water {filter} every month.
+finance|v|finanse etmek|

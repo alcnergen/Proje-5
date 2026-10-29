@@ -1,0 +1,450 @@
+ability|n|yetenek, beceri|She has the {ability} to learn languages quickly.
+abroad|adv|yurt dışında, yurt dışına|
+accept|v|kabul etmek|
+acceptable|adj|kabul edilebilir|
+accident|n|kaza|
+account|n|hesap|
+achieve|v|başarmak, elde etmek|
+across|adv|karşıya, öbür tarafa|
+across|prep|karşısında, boyunca|There is a café {across} the street.
+act|n|eylem, hareket; perde (tiyatro)|
+actually|adv|aslında, gerçekte|
+addition|n|ekleme, ilave|
+additional|adj|ek, ilave|We need {additional} staff for the summer.
+adjective|n|sıfat|"Happy" is an {adjective}.
+adjust|v|ayarlamak, uyum sağlamak|
+admire|v|hayran olmak, takdir etmek|I really {admire} your courage.
+admit|v|itiraf etmek, kabul etmek|
+adult|adj|yetişkin|This film is for an {adult} audience only.
+adult|n|yetişkin|Tickets are ten pounds for an {adult}.
+advanced|adj|ileri düzey, gelişmiş|
+advantage|n|avantaj, üstünlük|
+adventure|n|macera|Our trip to the jungle was a real {adventure}.
+advertisement|n|reklam, ilan|I saw an {advertisement} for the job in the paper.
+advertising|n|reklamcılık|She works in {advertising}.
+advice|n|tavsiye, öğüt|Can you give me some {advice} about my career?
+advise|v|tavsiye etmek, öğüt vermek|
+affair|n|mesele, iş; ilişki|
+after|adv|sonra, ardından|
+against|prep|karşı, aleyhine|Most people voted {against} the plan.
+aged|adj|yaşında; yaşlı|
+agency|n|ajans, acente|
+agent|n|ajan, temsilci|
+ahead|adv|ileride, önde|
+air|n|hava|
+aisle|n|koridor (sıralar arası)|Would you like a seat by the window or the {aisle}?
+alarm|n|alarm|The fire {alarm} went off at midnight.
+alarm clock|n|çalar saat|I set my {alarm clock} for six o'clock.
+alive|adj|canlı, hayatta|
+all|adv|tamamen, bütünüyle|
+allow|v|izin vermek|
+alone|adj|yalnız|
+along|prep|boyunca|We walked {along} the beach.
+alright|adj|iyi, fena değil|Are you {alright}? You look pale.
+alright|adv|pekâlâ, peki|{Alright}, let's start the meeting.
+although|conj|-e rağmen, gerçi|{Although} it was raining, we went out.
+ambition|n|hırs, tutku, hedef|
+among|prep|arasında (çok kişi/şey)|She was {among} the best students in the class.
+amused|adj|eğlenmiş, keyiflenmiş|He looked {amused} by the joke.
+amusement|n|eğlence, keyif|To our {amusement}, the dog started dancing.
+ancestor|n|ata, cet|My {ancestors} came from the Black Sea region.
+ancient|adj|antik, çok eski|
+angel|n|melek|She is an {angel}; she always helps everyone.
+angrily|adv|öfkeyle|
+ankle|n|ayak bileği|I twisted my {ankle} while running.
+anniversary|n|yıl dönümü|It's our wedding {anniversary} today.
+annoy|v|sinirlendirmek, rahatsız etmek|His loud music {annoys} the neighbours.
+annoying|adj|sinir bozucu|
+another|pron|başka biri, bir başkası|This cup is dirty; can I have {another}?
+anxious|adj|endişeli, kaygılı|
+anymore|adv|artık (olumsuz)|
+anyway|adv|neyse, her neyse; yine de|
+anywhere|adv|herhangi bir yerde|
+apart|adv|ayrı, uzak|
+apartment|n|daire, apartman dairesi|They live in a small {apartment} downtown.
+apologize|v|özür dilemek|
+apparently|adv|görünüşe göre|
+appear|v|görünmek; ortaya çıkmak|
+appearance|n|görünüş; ortaya çıkış|
+apply|v|başvurmak; uygulamak|
+appointment|n|randevu|
+appreciate|v|takdir etmek, minnettar olmak|
+appropriate|adj|uygun, yerinde|
+architecture|n|mimari|
+area|n|alan, bölge|
+argue|v|tartışmak|
+argument|n|tartışma; argüman|
+armchair|n|koltuk|Grandpa fell asleep in his {armchair}.
+armed|adj|silahlı|The bank was robbed by two {armed} men.
+around|adv|etrafta, civarında|
+artificial|adj|yapay|
+as|conj|-dığı için; iken; gibi|{As} it was late, we took a taxi.
+asleep|adj|uykuda|
+assistant|adj|yardımcı, asistan|She was promoted to {assistant} manager.
+association|n|dernek; ilişki|
+astronaut|n|astronot|
+athlete|n|atlet, sporcu|Every {athlete} trained hard for the Olympics.
+atom|n|atom|A water molecule has three {atoms}.
+attack|n|saldırı|
+attack|v|saldırmak|
+attempt|n|girişim, deneme|
+attention|n|dikkat|
+attitude|n|tutum, yaklaşım|
+attractive|adj|çekici|
+audience|n|seyirci, izleyici kitlesi|
+audio|adj|ses ile ilgili, işitsel|The museum offers an {audio} guide in Turkish.
+author|n|yazar|The {author} signed copies of her new book.
+automatic|adj|otomatik|
+automatically|adv|otomatik olarak|The door opens {automatically}.
+average|adj|ortalama|
+average|n|ortalama|
+avoid|v|kaçınmak|
+award|n|ödül|
+awful|adj|berbat, korkunç|
+back|adj|arka|
+background|n|arka plan; geçmiş|
+badly|adv|kötü bir şekilde|
+badminton|n|badminton|We play {badminton} every Sunday.
+bake|v|fırında pişirmek|
+balcony|n|balkon|We had breakfast on the {balcony}.
+balloon|n|balon|The children blew up a {balloon} for the party.
+bank|v|bankaya yatırmak|
+banking|n|bankacılık|He has a career in {banking}.
+barbecue|n|mangal, barbekü|We're having a {barbecue} in the garden tonight.
+barber|n|berber|I go to the {barber} once a month.
+bargain|n|kelepir, kapış|
+base|n|temel, taban; üs|
+basic|adj|temel|
+basically|adv|temelde, aslında|{Basically}, we need more time.
+basket|n|sepet|She put the apples in a {basket}.
+batch|n|parti, grup (bir seferde yapılan)|I baked a {batch} of cookies.
+battery|n|pil, batarya|
+bay|n|koy, körfez|
+bear|v|katlanmak, dayanmak|
+beauty|n|güzellik|The {beauty} of the mountains took my breath away.
+been|be|bulunmuş (be fiilinin 3. hali)|Have you ever {been} to Paris?
+beer|noun|bira|He ordered a cold {beer}.
+before|conj|-meden önce|Wash your hands {before} you eat.
+beg|v|yalvarmak; dilenmek|
+beginner|n|acemi, yeni başlayan|This course is perfect for a {beginner}.
+beginning|n|başlangıç|
+behavior|n|davranış|
+being|n|varlık, canlı|
+belly|n|göbek, karın|
+belong|v|ait olmak|
+belt|n|kemer|
+bench|n|bank, sıra|
+bend|v|eğilmek, bükmek|
+besides|adv|ayrıca, üstelik|
+better|adv|daha iyi|
+beyond|prep|ötesinde|The village is just {beyond} the hill.
+bill|n|fatura, hesap|
+bit|n|parça, biraz|
+bite|n|ısırık|
+blackboard|n|kara tahta|The teacher wrote the answer on the {blackboard}.
+blame|v|suçlamak|
+blanket|n|battaniye|
+blonde|adj|sarışın|She has long {blonde} hair.
+blood|n|kan|
+bloom|n|çiçek; çiçeklenme|
+blow|n|darbe|
+board game|n|masa oyunu|Monopoly is my favourite {board game}.
+boil|v|kaynatmak, kaynamak|
+boiled|adj|haşlanmış|I had a {boiled} egg for breakfast.
+bonus|n|prim, ikramiye|All workers got a {bonus} at the end of the year.
+bookcase|n|kitaplık|The {bookcase} is full of old novels.
+bookshelf|n|kitap rafı|Put the dictionary back on the {bookshelf}.
+bookshop|n|kitapçı|There's a nice {bookshop} near the station.
+bored|adj|sıkılmış|
+boss|n|patron, şef|
+bother|v|rahatsız etmek; zahmet etmek|
+bra|n|sutyen|She bought a new {bra} and some socks.
+brainstorm|n|beyin fırtınası|Let's have a quick {brainstorm} before we decide.
+brake|n|fren|
+branch|n|dal; şube|
+brand|n|marka|
+brave|adj|cesur|
+break|n|mola, ara|
+breeze|n|esinti, meltem|
+bride|n|gelin|The {bride} wore a beautiful white dress.
+brilliant|adj|parlak, harika|
+brown|n|kahverengi|{Brown} is my favourite colour for autumn.
+budget|n|bütçe|
+bug|n|böcek; yazılım hatası|There's a {bug} in the program.
+bulb|n|ampul; soğan (bitki)|
+burn|n|yanık|He has a small {burn} on his hand.
+bury|v|gömmek|
+bus station|n|otogar|The {bus station} is in the city centre.
+bus stop|n|otobüs durağı|I waited at the {bus stop} for twenty minutes.
+bush|n|çalı|The cat is hiding under the {bush}.
+businessman|n|iş adamı|He is a successful {businessman}.
+businesswoman|n|iş kadını|She became a famous {businesswoman}.
+cab|n|taksi|Let's take a {cab} to the airport.
+cafeteria|n|kafeterya|We had lunch in the school {cafeteria}.
+calendar|n|takvim|
+call|v|aramak; çağırmak; adlandırmak|
+camp|v|kamp yapmak|
+camping|n|kamp yapma|We went {camping} in the mountains.
+campus|n|kampüs|The library is in the centre of the {campus}.
+can|n|teneke kutu|He opened a {can} of soup.
+capital|n|başkent; sermaye|
+capital letter|n|büyük harf|Names begin with a {capital letter}.
+captain|n|kaptan|The {captain} spoke to the passengers.
+car park|n|otopark|The {car park} was full, so we parked on the street.
+carrot|n|havuç|
+cash|n|nakit para|
+cassette|n|kaset|My dad still has an old {cassette} player.
+castle|n|kale, şato|We visited a medieval {castle} in Scotland.
+cause|v|neden olmak|Heavy rain {caused} the floods.
+cent|n|sent|It costs ninety-nine {cents}.
+center|n|merkez|
+centimeter|n|santimetre|The line is ten {centimeters} long.
+century|n|yüzyıl|The house was built in the 18th {century}.
+cereal|n|tahıl gevreği; tahıl|I eat {cereal} with milk every morning.
+certain|adj|emin; belirli|
+certainly|adv|kesinlikle|
+chain|n|zincir|He locked his bike with a {chain}.
+chairman|n|başkan (yönetim kurulu)|The {chairman} opened the meeting.
+challenge|n|meydan okuma, zorluk|
+champagne|n|şampanya|They opened a bottle of {champagne} to celebrate.
+championship|n|şampiyona|Our team won the {championship} last year.
+chance|n|şans, fırsat; ihtimal|
+chapter|n|bölüm (kitap)|
+chart|n|grafik, çizelge|The {chart} shows sales for each month.
+chat|v|sohbet etmek|We {chatted} for hours on the phone.
+cheap|adj|ucuz|
+check|v|kontrol etmek|
+cheek|n|yanak|She kissed him on the {cheek}.
+cheer|v|tezahürat yapmak, alkışlamak|
+chef|n|aşçıbaşı, şef|The {chef} prepared a special dinner.
+chemical|adj|kimyasal|There was a {chemical} reaction in the test tube.
+cheque|n|çek|He paid by {cheque}.
+chess|n|satranç|My brother taught me how to play {chess}.
+chest|n|göğüs; sandık|He felt a pain in his {chest}.
+childhood|n|çocukluk|I spent my {childhood} in İzmir.
+chili|n|acı biber|Don't put too much {chili} in the soup.
+chimpanzee|n|şempanze|A {chimpanzee} can use simple tools.
+chin|n|çene|He has a small scar on his {chin}.
+chirp|n|cıvıltı|We heard the {chirp} of a bird outside.
+choice|n|seçim, tercih|
+cigarette|n|sigara|He hasn't smoked a {cigarette} for years.
+citizen|n|vatandaş|She became a British {citizen} last year.
+claim|v|iddia etmek; talep etmek|
+classic|adj|klasik, ölümsüz|"Casablanca" is a {classic} film.
+classical music|n|klasik müzik|I listen to {classical music} when I study.
+cleaner|n|temizlikçi; temizleyici|The {cleaner} comes on Fridays.
+clear|adj|açık, net|
+clearly|adv|açıkça|
+clerk|n|memur, kâtip|The {clerk} stamped my passport.
+click|v|tıklamak|
+climb|v|tırmanmak|
+climbing|n|tırmanış, dağcılık|{Climbing} is popular in this area.
+clone|v|klonlamak|Scientists have {cloned} a sheep.
+clown|n|palyaço|The {clown} made the children laugh.
+clue|n|ipucu|The police found an important {clue}.
+coast|n|sahil, kıyı|
+coin|n|madeni para|I found a gold {coin} in the garden.
+cola|n|kola|Can I have a {cola}, please?
+colorful|adj|renkli, rengârenk|
+column|n|sütun; köşe yazısı|
+comb|n|tarak|
+comfortable|adj|rahat, konforlu|
+comic|adj|komik, mizahi|He is a {comic} actor.
+comic|n|çizgi roman|My son reads a {comic} every week.
+commitment|n|bağlılık, taahhüt|
+committee|n|komite, kurul|
+common|adj|yaygın, ortak|
+communicate|v|iletişim kurmak|
+communication|n|iletişim|
+company|n|şirket; arkadaşlık|
+comparative|n|karşılaştırma derecesi (dilbilgisi)|
+compare|v|karşılaştırmak|
+competition|n|yarışma; rekabet|
+complain|v|şikâyet etmek|
+complaint|n|şikâyet|We received a {complaint} about the noise.
+complete|adj|tam, eksiksiz|
+composer|n|besteci|Mozart was a famous {composer}.
+concentrate|v|konsantre olmak, odaklanmak|
+concern|n|endişe; ilgi|
+condition|n|durum, koşul|
+confident|adj|kendinden emin|
+confuse|v|kafasını karıştırmak|
+confused|adj|kafası karışık|
+consequence|n|sonuç|
+consider|v|düşünmek, göz önünde bulundurmak|
+consist|v|oluşmak (of)|
+contact|n|temas, iletişim|
+contact|v|iletişime geçmek|
+container|n|kap, konteyner|Keep the food in an airtight {container}.
+context|n|bağlam|You can guess the meaning from the {context}.
+continent|n|kıta|
+continue|v|devam etmek|
+contrast|n|zıtlık, karşıtlık|There is a big {contrast} between the two cities.
+control|n|kontrol, denetim|
+convenience|n|kolaylık, rahatlık|
+convenient|adj|uygun, elverişli|
+cooker|n|ocak, fırın|Put the pan on the {cooker}.
+cooking|n|yemek pişirme|
+cooler|n|soğutucu, buzluk|We put the drinks in the {cooler}.
+copy|v|kopyalamak|
+correctly|adv|doğru bir şekilde|
+cost|n|maliyet|
+cost|v|mal olmak, tutmak|
+count|v|saymak|
+country|n|ülke; kırsal|
+countryside|n|kırsal bölge, kır|We love walking in the {countryside}.
+couple|n|çift; birkaç|
+court|n|mahkeme; kort|
+cover|v|örtmek, kaplamak|
+crazy|adj|deli, çılgın|
+cream|adj|krem rengi|She wore a {cream} jacket.
+create|v|yaratmak, oluşturmak|
+creative|adj|yaratıcı|She is a very {creative} designer.
+creativity|n|yaratıcılık|This job requires a lot of {creativity}.
+creature|n|yaratık, canlı|The ocean is full of strange {creatures}.
+credit|n|kredi; itibar|
+cricket|n|kriket; cırcırböceği|{Cricket} is very popular in India.
+crime|n|suç|
+crisp|n|cips (İngiliz)|He opened a packet of {crisps}.
+criticize|v|eleştirmek|
+cross|n|çarpı işareti; haç|
+cross|v|karşıdan karşıya geçmek|
+crowd|n|kalabalık|
+crowded|adj|kalabalık|
+crown|n|taç|
+cruise|n|deniz yolculuğu, gemi turu|They went on a {cruise} around the Greek islands.
+cry|v|ağlamak; bağırmak|
+cupboard|n|dolap|The glasses are in the {cupboard}.
+curry|n|köri|We ordered a chicken {curry}.
+curse|n|lanet; küfür|
+custom|n|gelenek, âdet|
+customer|n|müşteri|The {customer} asked for a refund.
+cycling|n|bisiklet sürme|{Cycling} is a great way to stay fit.
+daily|adj|günlük|Exercise is part of my {daily} routine.
+daily|adv|her gün, günlük olarak|The museum is open {daily}.
+dam|n|baraj|They built a {dam} across the river.
+dancer|n|dansçı|She is a professional {dancer}.
+danger|n|tehlike|
+dangerous|adj|tehlikeli|It's {dangerous} to swim here.
+daylight|n|gün ışığı|The photo was taken in {daylight}.
+dead|adj|ölü|
+deal|n|anlaşma|
+death|n|ölüm|
+debate|n|tartışma, münazara|There was a {debate} about the new law.
+decide|v|karar vermek|
+deep|adv|derine, derinde|
+deeply|adv|derinden|
+degree|n|derece; diploma|
+delay|n|gecikme|
+dentist|n|diş hekimi|I have an appointment with the {dentist}.
+department store|n|büyük mağaza|We bought the sofa at a {department store}.
+depend|v|bağlı olmak (on)|
+description|n|tanım, betimleme|
+desert|n|çöl|The Sahara is the largest hot {desert}.
+dessert|n|tatlı (yemek sonu)|We had ice cream for {dessert}.
+destroy|v|yok etmek, tahrip etmek|
+detail|n|ayrıntı|
+develop|v|geliştirmek, gelişmek|
+developed|adj|gelişmiş|
+diamond|n|elmas|
+diary|n|günlük, ajanda|She writes in her {diary} every night.
+die|v|ölmek|
+diet|n|diyet, beslenme|A healthy {diet} includes lots of vegetables.
+differently|adv|farklı şekilde|
+difficulty|n|zorluk|
+digital camera|n|dijital fotoğraf makinesi|I bought a new {digital camera} for my trip.
+dinosaur|n|dinozor|My son loves {dinosaur} books.
+direct|adj|doğrudan, direkt|
+direction|n|yön; talimat|
+director|n|yönetmen; müdür|The film {director} won an award.
+disadvantage|n|dezavantaj|One {disadvantage} of living here is the noise.
+disagree|v|katılmamak, aynı fikirde olmamak|
+disappear|v|kaybolmak, gözden kaybolmak|
+disappointed|adj|hayal kırıklığına uğramış|
+disappointing|adj|hayal kırıklığı yaratan|
+disco|n|disko|We went to a {disco} after dinner.
+discover|v|keşfetmek|
+discussion|n|tartışma, görüşme|
+dishonest|adj|sahtekâr, dürüst olmayan|It was {dishonest} of him to lie.
+dislike|n|hoşlanmama|
+display|n|sergi, gösterim|
+disturb|v|rahatsız etmek|
+divide|v|bölmek|
+dizzy|adj|başı dönen|I feel {dizzy} when I stand up quickly.
+done|do|yapılmış (do fiilinin 3. hali)|Have you {done} your homework?
+double|adj|çift, iki kat|
+doubt|n|şüphe|There is no {doubt} that she is right.
+down|prep|aşağı, aşağısında|She walked {down} the stairs.
+download|v|indirmek (internetten)|You can {download} the app for free.
+downstairs|adv|alt katta, aşağıda|The kitchen is {downstairs}.
+downtown|adv|şehir merkezinde/merkezine|Let's go {downtown} for dinner.
+draw|n|beraberlik|
+drawer|n|çekmece|The scissors are in the top {drawer}.
+drawing|n|çizim, resim|
+dream|v|rüya görmek, hayal etmek|
+dress|v|giyinmek, giydirmek|
+dressed|adj|giyinik, giyinmiş|Get {dressed}; we're leaving in five minutes.
+drill|n|matkap; tatbikat|He used a {drill} to make a hole in the wall.
+drive|v|araba sürmek|
+driver's license|n|sürücü belgesi, ehliyet|She got her {driver's license} at eighteen.
+drop|n|damla; düşüş|
+drug|n|ilaç; uyuşturucu|This {drug} is used to treat headaches.
+drugstore|n|eczane|I bought some vitamins at the {drugstore}.
+dry|v|kurutmak, kurumak|
+duck|n|ördek|The children fed the {ducks} at the lake.
+during|prep|sırasında, boyunca|He fell asleep {during} the film.
+dust|n|toz|
+early|adj|erken|
+earn|v|kazanmak (para)|
+earring|n|küpe|She lost an {earring} at the party.
+earth|n|dünya; toprak|
+earthquake|n|deprem|
+easily|adv|kolayca|
+east|adj|doğu|The {east} side of the city is quieter.
+east|adv|doğuya|We drove {east} for two hours.
+east|n|doğu|The sun rises in the {east}.
+editor|n|editör|The {editor} checked the article.
+education|n|eğitim|
+educational|adj|eğitici, eğitsel|This is an {educational} game for kids.
+effect|n|etki|
+effort|n|çaba|
+either|conj|ya ... ya da|You can have {either} tea or coffee.
+elderly|adj|yaşlı|
+electric|adj|elektrikli|
+elephant|n|fil|An {elephant} never forgets.
+elevator|n|asansör|Let's take the {elevator} to the tenth floor.
+elsewhere|adv|başka bir yerde|
+email|v|e-posta göndermek|I'll {email} you the details.
+embarrassing|adj|utandırıcı|
+emergency|n|acil durum|
+empty|adj|boş|
+encourage|v|cesaretlendirmek, teşvik etmek|
+end|v|bitmek, bitirmek|
+endangered|adj|nesli tükenmekte olan|The panda is an {endangered} species.
+ending|n|son, bitiş|
+energetic|adj|enerjik|
+enormous|adj|devasa, kocaman|They live in an {enormous} house.
+enough|adv|yeterince|Is the water warm {enough} to swim?
+enough|det|yeterli|We don't have {enough} chairs.
+enough|pron|yeterli miktar|I've had {enough}, thank you.
+enter|v|girmek|
+entertainment|n|eğlence|The hotel offers live {entertainment} every night.
+entrance|n|giriş|
+envelope|n|zarf|
+envy|n|kıskançlık, gıpta|She looked at his new car with {envy}.
+episode|n|bölüm (dizi)|I watched the last {episode} of the series.
+error|n|hata|
+escalator|n|yürüyen merdiven|Take the {escalator} to the second floor.
+escape|n|kaçış|
+especially|adv|özellikle|
+essay|n|deneme, kompozisyon|I have to write an {essay} about climate change.
+establish|v|kurmak, tesis etmek|
+euro|n|avro|It costs twenty {euros}.
+even|adv|bile; hatta|
+ever|adv|hiç, şimdiye kadar|
+evidence|n|kanıt|
+exactly|adv|tam olarak|
+exam|n|sınav|I passed my driving {exam}.
+except|conj|dışında, -mesi hariç|I'd go, {except} I don't have time.
+except|prep|hariç, dışında|Everyone came {except} Ali.
+exchange|n|değişim, takas; döviz|
