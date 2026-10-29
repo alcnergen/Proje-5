@@ -39,6 +39,16 @@ Uygulama tam ekran açılır, ilk açılıştan sonra internet olmadan da çalı
 
 Yerelde denemek için: `python3 -m http.server` → `http://localhost:8000`.
 
+## Tasarım
+
+Görsel dil, [TasteCode](https://github.com/Leonxlnx/tastecode) Design Mode'un tasarım kurallarına göre hazırlandı (TasteCode bir masaüstü ajan uygulaması olduğu için uygulamaya “kurulmadı”; kuralları uygulandı):
+
+- **Tek tasarım dili:** iki yazı tipi, tek palet, tek köşe/kart dili ve tek vurgulu kart varyantı.
+- **Yazı tipleri** TasteCode'un rastgele çekilişiyle seçildi: başlıklarda **Fraunces**, arayüzde **Schibsted Grotesk**. İkisi de SIL Open Font License ile `fonts/` klasöründe gömülü olduğundan çevrimdışı da çalışır.
+- **Palet:** krem kâğıt zemin, koyu orman yeşili, tek vurgu rengi ve meyve sarısı. Koyu tema da var.
+- **Hareket:** ekran girişleri (rise), kademeli beliren şıklar, sırayla açan yapraklar (grow), doğru/yanlış geri bildirimi (pop/shake). “Hareketi azalt” ayarına uyar.
+- Süs etiketleri, kart kenarına yapışık çizgiler ve emoji ikonlar kaldırıldı; yerlerine sade çizgi ikonlar kullanıldı.
+
 ## Veri kaynakları ve dürüst notlar
 
 - **Kelime listesi:** Oxford 3000/5000 ve Cambridge English Vocabulary Profile telif hakkıyla korunduğu için yeniden dağıtılamıyor. Onların yerine aynı CEFR ölçeğine göre etiketlenmiş açık listeler kullanıldı: **CEFR-J Vocabulary Profile 1.5** (A1–B2, Tokyo Yabancı Diller Üniversitesi, atıfla ticari kullanım serbest) ve **Octanove Vocabulary Profile C1/C2** (CC BY-SA 4.0). Bu iki liste 9.703 kelime veriyor. Havuzu 11.500'ün üzerine çıkarmak için İngilizce kullanım sıklığı verisinden (wordfreq) listelerde olmayan en yaygın 1.525 kelime eklendi; bunların seviyesi kullanım sıklığına göre **tahmin** edildi (çoğu C1).

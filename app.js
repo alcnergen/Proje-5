@@ -10,10 +10,28 @@
   const STORE_KEY = 'kelimebahcesi.v1';
   const DAY = 86400000;
   const BOX_DAYS = [0, 1, 3, 7, 16, 35]; // Leitner kutuları
+  // Basit çizgi ikonlar (tek işlevsel ikon dili; emoji yerine)
+  const svg = d => `<svg class="i" viewBox="0 0 24 24" aria-hidden="true">${d}</svg>`;
+  const ICON = {
+    book: svg('<path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5z"/><path d="M4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/><path d="M8 7h8"/>'),
+    pen: svg('<path d="M4 20h4L19 9a2.8 2.8 0 0 0-4-4L4 16z"/><path d="M13.5 6.5l4 4"/>'),
+    link: svg('<path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/>'),
+    tree: svg('<path d="M12 21v-6"/><path d="M12 15c-4 0-7-2.6-7-6a7 7 0 0 1 14 0c0 3.4-3 6-7 6z"/><path d="M9 21h6"/>'),
+    repeat: svg('<path d="M4 12a8 8 0 0 1 13.7-5.6L20 9"/><path d="M20 4v5h-5"/><path d="M20 12a8 8 0 0 1-13.7 5.6L4 15"/><path d="M4 20v-5h5"/>'),
+    compass: svg('<circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/>'),
+    target: svg('<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.2"/>'),
+    gear: svg('<path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2"/><circle cx="10" cy="17" r="2"/>'),
+    back: svg('<path d="M15 5l-7 7 7 7"/>'),
+    close: svg('<path d="M6 6l12 12M18 6L6 18"/>'),
+    chevron: svg('<path d="M9 5l7 7-7 7"/>'),
+    sound: svg('<path d="M4 9v6h4l5 4V5L8 9z"/><path d="M16.5 8.5a5 5 0 0 1 0 7"/><path d="M19 6a8.5 8.5 0 0 1 0 12"/>'),
+    flame: svg('<path d="M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5 .2 1.6 1 2.6 2 3 0-3-.5-5.5.5-8z"/>'),
+    sprout: svg('<path d="M12 21v-9"/><path d="M12 12c0-4-3-6-7-6 0 4 3 6 7 6z"/><path d="M12 10c0-3.5 2.5-5.5 7-5.5 0 3.5-2.5 5.5-7 5.5z"/>')
+  };
   const MODES = {
-    word: { name: 'Kelime Testi', emoji: '📚', desc: 'EN ⇄ TR ve İngilizce tanım soruları' },
-    sentence: { name: 'Cümle Tamamlama', emoji: '✍️', desc: 'Boşluğa uygun kelimeyi bul' },
-    phrasal: { name: 'Phrasal Verbs', emoji: '🔗', desc: 'Anlam, edat ve bağlam soruları' }
+    word: { name: 'Kelime Testi', short: 'Kelime', emoji: ICON.book, desc: 'EN ⇄ TR ve İngilizce tanım soruları' },
+    sentence: { name: 'Cümle Tamamlama', short: 'Cümle', emoji: ICON.pen, desc: 'Boşluğa uygun kelimeyi bul' },
+    phrasal: { name: 'Phrasal Verbs', short: 'Phrasal', emoji: ICON.link, desc: 'Anlam, edat ve bağlam soruları' }
   };
   const POS_TR = {
     noun: 'isim', verb: 'fiil', adjective: 'sıfat', adverb: 'zarf', preposition: 'edat', conjunction: 'bağlaç',
@@ -366,7 +384,7 @@
   const lvChip = l => `<span class="level-chip lv-${l}">${l}</span>`;
   const posChip = p => `<span class="pos-chip">${esc(POS_TR[p] || p)}</span>`;
   function topbar(title, back = 'home') {
-    return `<div class="topbar"><button class="icon-btn" data-go="${back}" aria-label="Geri">←</button><div class="title">${esc(title)}</div></div>`;
+    return `<div class="topbar"><button class="icon-btn" data-go="${back}" aria-label="Geri">${ICON.back}</button><div class="title">${esc(title)}</div></div>`;
   }
   function bumpStreak() {
     const d = today(); if (S.stats.lastDay === d) return;
@@ -375,7 +393,7 @@
   }
 
   function render(view, arg) {
-    window.scrollTo(0, 0);
+    window.scrollTo(0, 0); app.classList.remove('has-next');
     ({ home, welcome, placement, quiz, result, garden, method, settings, levelPick, review }[view] || home)(arg);
   }
   app.addEventListener('click', e => {
@@ -388,46 +406,56 @@
     const r = range();
     const acc = S.stats.answered ? Math.round(100 * S.stats.correct / S.stats.answered) : 0;
     const dueCount = m => r.flatMap(l => byLevel[m][l]).filter(x => { const q = rec(m, x.key); return q && (!learned(q) || q.d <= Date.now()); }).length;
+    const overall = r.reduce((a, l) => a + treeProgress('word', l).p, 0) / r.length;
     app.innerHTML = `
       <div class="hero">
-        <div class="row between"><h1>Kelime Bahçesi</h1><button class="icon-btn" data-go="settings" aria-label="Ayarlar">⚙️</button></div>
-        <p class="muted">Seviyen ${lvChip(S.level)} · çalışma aralığın ${r.map(lvChip).join(' ')}</p>
+        <div class="hero-tree">${treeSvg(Math.max(overall, 0.45), 'B1', true)}</div>
+        <div class="row between" style="position:relative"><h1>Kelime<br>Bahçesi</h1><button class="icon-btn" data-go="settings" aria-label="Ayarlar">${ICON.gear}</button></div>
+        <div class="hero-body">
+          <p class="muted lvline" style="margin-top:10px">Seviyen ${lvChip(S.level)}</p>
+          <p class="muted lvline">Çalışma aralığı ${r.map(lvChip).join('')}</p>
+        </div>
         <div class="stats">
-          <div class="stat"><b>🔥 ${S.stats.streak}</b><span>gün seri</span></div>
+          <div class="stat"><b>${ICON.flame}${S.stats.streak}</b><span>gün seri</span></div>
           <div class="stat"><b>${S.stats.answered}</b><span>cevap</span></div>
           <div class="stat"><b>%${acc}</b><span>başarı</span></div>
         </div>
       </div>
       <div class="menu">
-        ${Object.entries(MODES).map(([k, m]) => `
-          <button class="menu-item" data-start="${k}">
+        ${Object.entries(MODES).map(([k, m], i) => `
+          <button class="menu-item${i === 0 ? ' featured' : ''}" data-start="${k}" style="--i:${i}">
             <span class="emoji">${m.emoji}</span>
-            <span class="grow"><span class="t">${m.name}</span><span class="d">${m.desc} · ${k === 'phrasal' ? Math.min(SESSION_SIZE, r.flatMap(l => byLevel.phrasal[l]).length) : SESSION_SIZE} soru${dueCount(k) ? ` · ${dueCount(k)} tekrar bekliyor` : ''}</span></span>
-            <span>›</span>
+            <span class="grow"><span class="t">${m.name}</span><span class="d">${m.desc} · ${k === 'phrasal' ? Math.min(SESSION_SIZE, r.flatMap(l => byLevel.phrasal[l]).length) : SESSION_SIZE} soru${dueCount(k) ? ` · ${dueCount(k)} tekrar` : ''}</span></span>
+            <span class="go">${ICON.chevron}</span>
           </button>`).join('')}
-        <div class="menu-grid">
-          <button class="menu-item" data-go="garden"><span class="emoji">🌳</span><span><span class="t">Bahçem</span><span class="d">Seviye ağaçların</span></span></button>
-          <button class="menu-item" data-go="review"><span class="emoji">🔁</span><span><span class="t">Hatalarım</span><span class="d">Yanlış yaptıkların</span></span></button>
-          <button class="menu-item" data-go="method"><span class="emoji">🧭</span><span><span class="t">Yöntem</span><span class="d">Nasıl çalışmalı?</span></span></button>
-          <button class="menu-item" data-go="placement"><span class="emoji">🎯</span><span><span class="t">Seviye testi</span><span class="d">Yeniden ölç</span></span></button>
+        <div class="menu-grid" style="--i:3">
+          <button class="menu-item" data-go="garden"><span class="emoji">${ICON.tree}</span><span><span class="t">Bahçem</span><span class="d">Seviye ağaçların</span></span></button>
+          <button class="menu-item" data-go="review"><span class="emoji">${ICON.repeat}</span><span><span class="t">Hatalarım</span><span class="d">Tekrar listesi</span></span></button>
+          <button class="menu-item" data-go="method"><span class="emoji">${ICON.compass}</span><span><span class="t">Yöntem</span><span class="d">Nasıl çalışmalı?</span></span></button>
+          <button class="menu-item" data-go="placement"><span class="emoji">${ICON.target}</span><span><span class="t">Seviye testi</span><span class="d">Yeniden ölç</span></span></button>
         </div>
       </div>
-      <p class="muted small" style="margin-top:16px;text-align:center">Havuz: ${WORDS.length.toLocaleString('tr')} kelime + ${PV.length} phrasal verb (CEFR A1–C2)</p>`;
+      <p class="muted small footnote">${(WORDS.length + PV.length).toLocaleString('tr')} öğelik havuz · ${WORDS.length.toLocaleString('tr')} kelime + ${PV.length} phrasal verb</p>`;
     app.querySelectorAll('[data-start]').forEach(b => b.onclick = () => startSession(b.dataset.start));
   }
 
   function welcome() {
     app.innerHTML = `
-      <div class="hero stack">
-        <div style="font-size:56px">🌱</div>
-        <h1>Kelime Bahçesi'ne hoş geldin</h1>
-        <p>Her oturumda 50 soru; seviyene göre kelime, cümle tamamlama ve phrasal verb çalışacaksın. Öğrendikçe her CEFR seviyesi için bir ağaç yeşerecek.</p>
+      <div class="hero welcome">
+        <div class="hero-tree">${treeSvg(0.8, 'B1', true)}</div>
+        <div class="hero-body">
+          <h1>Kelime<br>Bahçesi</h1>
+          <p class="lead">Her gün 50 soruyla kelime ek, cümleyle sula, ağacını büyüt.</p>
+        </div>
+      </div>
+      <div class="card stack" style="margin-top:14px">
+        <p>Kelime, cümle tamamlama ve phrasal verb çalışacaksın. Öğrendikçe her CEFR seviyesi için bir ağaç yeşerecek.</p>
         <p class="muted">Önce kısa bir seviye testi (çoğu kişi için 10 soru, ~2 dk). Test B1'den başlar; bildikçe zorlaşır, basit seviyeler yalnızca gerekirse sorulur. Sonra seviyenden 2 seviye yukarısına kadar soru gelir; altındaki seviyelerin ağaçları baştan yeşerir.</p>
       </div>
       <div class="stack" style="margin-top:16px">
-        <button class="btn primary" data-go="placement">🎯 Seviye testine başla</button>
+        <button class="btn primary" data-go="placement">${ICON.target} Seviye testine başla</button>
         <button class="btn" data-go="levelPick">Seviyemi biliyorum, kendim seçeceğim</button>
-        <button class="btn ghost" data-go="method">🧭 Önce yöntemi okuyayım</button>
+        <button class="btn ghost" data-go="method">Önce yöntemi okuyayım</button>
       </div>`;
   }
 
@@ -476,24 +504,28 @@
     placementResult();
   }
   function placementResult() {
+    app.classList.remove('has-next');
     const c = current, placed = c.placed, sc = c.sc;
     S.level = placed; S.placedAt = Date.now(); save();
     const r = range();
     const below = LEVELS.slice(0, lvIdx(placed));
     app.innerHTML = `
-      <div class="hero stack" style="text-align:center">
-        <div style="font-size:56px">🎯</div>
-        <h1>Seviyen: ${lvChip(placed)}</h1>
-        <p>Çalışma aralığın: ${r.map(lvChip).join(' ')}</p>
-        <p class="muted small">${c.qs.length} soruda belirlendi.</p>
+      <div class="hero welcome">
+        <div class="hero-tree">${treeSvg(0.25 + 0.13 * lvIdx(placed), placed, true)}</div>
+        <div class="hero-body">
+          <p class="muted">Seviyen</p>
+          <h1 style="font-size:64px">${placed}</h1>
+          <p class="lead">Çalışma aralığın ${r.map(lvChip).join(' ')}</p>
+          <p class="muted small">${c.qs.length} soruda belirlendi.</p>
+        </div>
       </div>
       <div class="card stack" style="margin-top:12px">
         <h3>Seviyelere göre sonuç</h3>
         <div class="level-bars">${LEVELS.filter(l => sc[l]).map(l => `<div class="row">${lvChip(l)}<div class="bar grow"><i style="width:${100 * sc[l].c / sc[l].n}%"></i></div><span>${sc[l].c}/${sc[l].n}</span></div>`).join('')}</div>
-        ${below.length ? `<p>🌳 ${below.map(lvChip).join(' ')} ağaçların seviye testiyle tamamlandı; bu seviyelerden soru gelmeyecek.</p>` : ''}
+        ${below.length ? `<p>${below.map(lvChip).join(' ')} ağaçların seviye testiyle tamamlandı; bu seviyelerden soru gelmeyecek.</p>` : ''}
         <p class="muted small">Bir seviyede 5 sorudan en az 4'ünü bilirsen o seviye “geçildi” sayılır. Seviyeni istediğin zaman Ayarlar’dan değiştirebilirsin.</p>
       </div>
-      <div class="stack" style="margin-top:16px"><button class="btn primary" data-go="home">Bahçeme git 🌳</button></div>`;
+      <div class="stack" style="margin-top:16px"><button class="btn primary" data-go="home">Bahçeme git</button></div>`;
     current = null;
   }
 
@@ -508,7 +540,7 @@
 
   function quiz() {
     const c = current; const q = c.qs[c.i]; const item = q.item;
-    c.view = 'quiz'; c.answered = false;
+    c.view = 'quiz'; c.answered = false; app.classList.remove('has-next');
     prefetch(c.qs[c.i + 1] && c.qs[c.i + 1].item);
     const isGap = q.type === 'gap' || q.type === 'pv_gap' || q.type === 'pv_particle';
     const showWord = q.type === 'en_tr' || q.type === 'en_def' || q.type === 'pv_tr';
@@ -517,7 +549,7 @@
       prompt = `<p class="prompt sentence">${esc(q.parts.before)}<span class="blank">&nbsp;?&nbsp;</span>${esc(q.parts.after)}</p>`;
       ask = q.type === 'pv_particle' ? 'Boşluğa hangi edat (particle) gelir?' : 'Boşluğa en uygun ifade hangisi?';
     } else if (showWord) {
-      prompt = `<div class="row"><p class="prompt grow">${esc(item.w)}</p><button class="speak" data-say="${esc(item.w)}" aria-label="Dinle">🔊</button></div>`;
+      prompt = `<div class="row"><p class="prompt grow">${esc(item.w)}</p><button class="speak" data-say="${esc(item.w)}" aria-label="Dinle">${ICON.sound}</button></div>`;
       ask = q.type === 'en_def' ? 'Bu kelimenin İngilizce tanımı hangisi?' : 'Bu kelimenin Türkçe anlamı hangisi?';
     } else {
       prompt = `<p class="prompt tr">${esc(item.tr)}</p>`;
@@ -527,14 +559,14 @@
     const total = c.qs.length, isPl = c.mode === 'placement';
     const prog = isPl ? 100 * (c.i % PLACE_N) / PLACE_N : 100 * c.i / total;
     app.innerHTML = `
-      <div class="topbar"><button class="icon-btn" data-go="home" aria-label="Çık">✕</button><div class="progress"><i style="width:${prog}%"></i></div><span class="small muted">${isPl ? `${item.lvl} · ${c.i % PLACE_N + 1}/${PLACE_N}` : `${c.i + 1}/${total}`}</span></div>
+      <div class="topbar"><button class="icon-btn" data-go="home" aria-label="Çık">${ICON.close}</button><div class="progress"><i style="width:${prog}%"></i></div><span class="small muted">${isPl ? `${item.lvl} · ${c.i % PLACE_N + 1}/${PLACE_N}` : `${c.i + 1}/${total}`}</span></div>
       <div class="card">
         <div class="q-meta">${lvChip(item.lvl)}${posChip(item.pos)}<span class="q-type">${c.mode === 'placement' ? 'Seviye testi' : QTYPE_TR[q.type]}</span></div>
         ${imgBlock(item)}
         ${prompt}
         <p class="ask">${ask}</p>
         ${exBefore ? `<div class="example">${exHtml(item.ex)}</div>` : ''}
-        <div class="options">${q.options.map((o, i) => `<button class="opt" data-i="${i}"><span class="k">${'ABCD'[i]}</span><span>${esc(o.text)}</span></button>`).join('')}</div>
+        <div class="options">${q.options.map((o, i) => `<button class="opt" data-i="${i}" style="--i:${i}"><span class="k">${'ABCD'[i]}</span><span>${esc(o.text)}</span></button>`).join('')}</div>
         <button class="idk">Bilmiyorum</button>
         <div id="fb"></div>
       </div>`;
@@ -560,7 +592,7 @@
     $('#fb').innerHTML = `
       <div class="feedback ${ok ? 'good' : 'bad'}">
         <div class="row between"><div class="headline">${ok ? '✓ Doğru!' : i < 0 ? 'Sorun değil, öğreniyoruz' : '✗ Yanlış'}</div>
-          <button class="speak" data-say="${esc(item.ex ? exPlain(item.ex) : item.w)}" aria-label="Cümleyi dinle">🔊</button></div>
+          <button class="speak" data-say="${esc(item.ex ? exPlain(item.ex) : item.w)}" aria-label="Cümleyi dinle">${ICON.sound}</button></div>
         <dl class="kv">
           <dt>Kelime</dt><dd><b>${esc(item.w)}</b></dd>
           <dt>Türkçe</dt><dd>${esc(item.tr)}</dd>
@@ -574,7 +606,8 @@
       <div class="sticky-next"><button class="btn primary" id="next">${last ? 'Sonuçları gör' : 'Devam →'}</button></div>`;
     $('#fb').querySelectorAll('[data-say]').forEach(b => b.onclick = () => speak(b.dataset.say));
     $('#next').onclick = next;
-    $('#next').scrollIntoView({ behavior: 'smooth', block: 'end' });
+    app.classList.add('has-next');
+    $('#fb').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'nearest' });
   }
   function next() {
     const c = current;
@@ -590,6 +623,7 @@
 
   // ---------- sonuç ----------
   function result() {
+    app.classList.remove('has-next');
     const c = current; if (!c) return home();
     c.view = 'result';
     const n = c.qs.length, ok = c.answers.filter(a => a.ok).length, pct = Math.round(100 * ok / n);
@@ -603,7 +637,7 @@
           <circle cx="75" cy="75" r="${R}" fill="none" stroke="var(--primary)" stroke-width="12" stroke-linecap="round" stroke-dasharray="${C * pct / 100} ${C}" transform="rotate(-90 75 75)"/>
           <text x="75" y="72" text-anchor="middle" font-size="30" font-weight="800" fill="var(--text)">${ok}/${n}</text>
           <text x="75" y="96" text-anchor="middle" font-size="14" fill="var(--muted)">%${pct}</text></svg>
-        <h2>${pct >= 85 ? 'Harika iş! 🌟' : pct >= 65 ? 'Güzel gidiyor! 🌿' : 'Her yanlış bir tohum 🌱'}</h2>
+        <h2>${pct >= 85 ? 'Bahçen çiçek açıyor' : pct >= 65 ? 'Güzel gidiyor' : 'Her yanlış yeni bir tohum'}</h2>
       </div>
       <div class="card stack">
         <h3>Seviyelere göre</h3>
@@ -624,54 +658,57 @@
   }
 
   // ---------- ağaç ----------
-  function treeSvg(p, lvl) {
+  // Ağaç çizimi. Yapraklar "grow" hareketiyle sırayla açar (bkz. styles.css). hero=true: koyu zemin için.
+  function treeSvg(p, lvl, hero) {
     p = Math.max(0, Math.min(1, p));
     const seed = hash(lvl);
     const rnd = (i) => { const x = Math.sin(seed + i * 12.9898) * 43758.5453; return x - Math.floor(x); };
-    const ground = `<ellipse cx="60" cy="128" rx="46" ry="8" fill="#8a6a43" opacity=".35"/>`;
-    if (p === 0) return `<svg viewBox="0 0 120 140" role="img" aria-label="Tohum">${ground}<ellipse cx="60" cy="124" rx="6" ry="4" fill="#7a5530"/></svg>`;
-    const h = 18 + 72 * Math.sqrt(p); // gövde boyu
+    const ground = hero ? '' : `<ellipse cx="60" cy="128" rx="46" ry="7" style="fill:var(--soil)" opacity=".55"/>`;
+    if (p === 0) return `<svg viewBox="0 0 120 140" role="img" aria-label="Tohum">${ground}<ellipse cx="60" cy="124" rx="6" ry="4" style="fill:var(--trunk)"/><path d="M60 121c0-6-4-9-9-9 0 5 4 9 9 9z" style="fill:var(--leaf-3)" class="leaf"/></svg>`;
+    const h = 18 + 72 * Math.sqrt(p);
     const top = 126 - h;
     const trunkW = 3 + 7 * p;
-    const color = getComputedStyle(document.documentElement).getPropertyValue('--' + lvl).trim() || '#2f7d4f';
+    const lv = `var(--${lvl})`;
+    const shades = hero ? ['#7fbf86', '#5aa36a', '#a8d38f'] : [lv, 'var(--leaf-1)', 'var(--leaf-2)', 'var(--leaf-3)'];
     let leaves = '';
     const crownR = 10 + 34 * Math.sqrt(p);
     const nLeaves = Math.max(3, Math.round(70 * p));
     for (let i = 0; i < nLeaves; i++) {
       const a = rnd(i) * Math.PI * 2, r = Math.sqrt(rnd(i + 100)) * crownR;
       const x = 60 + Math.cos(a) * r * 1.1, y = top + 4 + Math.sin(a) * r * 0.8;
-      const s = 4 + rnd(i + 200) * 5 * (0.5 + p);
-      const shade = rnd(i + 300) > 0.5 ? color : '#3f9a5b';
-      leaves += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${s.toFixed(1)}" fill="${shade}" opacity="${(0.7 + rnd(i + 400) * 0.3).toFixed(2)}"/>`;
+      const sz = 4 + rnd(i + 200) * 5 * (0.5 + p);
+      const shade = shades[Math.floor(rnd(i + 300) * shades.length)];
+      leaves += `<circle class="leaf" style="fill:${shade};--d:${Math.round(i * (360 / nLeaves))}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${sz.toFixed(1)}" opacity="${(0.75 + rnd(i + 400) * 0.25).toFixed(2)}"/>`;
     }
     let fruits = '';
     if (p >= 0.7) {
       const nf = p >= 1 ? 9 : Math.round((p - 0.7) * 20);
       for (let i = 0; i < nf; i++) {
         const a = rnd(i + 500) * Math.PI * 2, r = Math.sqrt(rnd(i + 600)) * crownR * 0.85;
-        fruits += `<circle cx="${(60 + Math.cos(a) * r).toFixed(1)}" cy="${(top + 4 + Math.sin(a) * r * 0.8).toFixed(1)}" r="3.2" fill="${p >= 1 ? '#f2b705' : '#e4572e'}" stroke="#fff" stroke-width=".8"/>`;
+        fruits += `<circle class="leaf" style="fill:${p >= 1 ? 'var(--fruit)' : 'var(--bad)'};--d:${400 + i * 40}" cx="${(60 + Math.cos(a) * r).toFixed(1)}" cy="${(top + 4 + Math.sin(a) * r * 0.8).toFixed(1)}" r="3.4"/>`;
       }
     }
-    const branches = p > 0.1 ? `<path d="M60 ${top + h * 0.45} q -12 -8 -20 -18 M60 ${top + h * 0.35} q 12 -8 20 -16" stroke="#7a5530" stroke-width="${(trunkW * 0.5).toFixed(1)}" fill="none" stroke-linecap="round"/>` : '';
+    const trunk = hero ? '#d8c3a0' : 'var(--trunk)';
+    const branches = p > 0.1 ? `<path d="M60 ${top + h * 0.45} q -12 -8 -20 -18 M60 ${top + h * 0.35} q 12 -8 20 -16" style="stroke:${trunk}" stroke-width="${(trunkW * 0.5).toFixed(1)}" fill="none" stroke-linecap="round"/>` : '';
     const stage = TREE_STAGES.filter(s => p >= s[0]).pop()[1];
     return `<svg viewBox="0 0 120 140" role="img" aria-label="${stage}">${ground}
-      <path d="M${60 - trunkW / 2} 126 L${60 - trunkW / 4} ${top + 6} L${60 + trunkW / 4} ${top + 6} L${60 + trunkW / 2} 126 Z" fill="#7a5530"/>
-      ${branches}${leaves}${fruits}${p >= 1 ? '<text x="60" y="16" text-anchor="middle" font-size="14">🏆</text>' : ''}</svg>`;
+      <path d="M${60 - trunkW / 2} 126 L${60 - trunkW / 4} ${top + 6} L${60 + trunkW / 4} ${top + 6} L${60 + trunkW / 2} 126 Z" style="fill:${trunk}"/>
+      ${branches}${leaves}${fruits}</svg>`;
   }
 
   function garden(mode) {
     mode = mode || 'word';
     const r = range();
     app.innerHTML = topbar('Bahçem') + `
-      <div class="tabs">${Object.entries(MODES).map(([k, m]) => `<button data-tab="${k}" class="${k === mode ? 'on' : ''}">${m.emoji} ${m.name.split(' ')[0]}</button>`).join('')}</div>
-      <p class="muted small" style="margin-bottom:12px">Bir kelimeyi doğru bildiğinde yaprak açar; yanlış yaptığında tekrar listesine düşer. Seviyedeki tüm kelimeleri öğrendiğinde ağaç meyve verir 🏆</p>
+      <div class="tabs">${Object.entries(MODES).map(([k, m]) => `<button data-tab="${k}" class="${k === mode ? 'on' : ''}">${m.emoji} ${m.short}</button>`).join('')}</div>
+      <p class="muted small" style="margin-bottom:12px">Bir kelimeyi doğru bildiğinde yaprak açar; yanlış yaptığında tekrar listesine düşer. Seviyedeki tüm kelimeleri öğrendiğinde ağaç meyve verir.</p>
       <div class="garden">${STUDY_LEVELS.map(l => {
         const p = treeProgress(mode, l); const stage = TREE_STAGES.filter(s => p.p >= s[0]).pop()[1];
-        const cls = r.includes(l) ? 'active' : (lvIdx(l) > lvIdx(r[r.length - 1]) ? 'locked' : '');
+        const cls = p.passed ? 'passed' : r.includes(l) ? 'active' : (lvIdx(l) > lvIdx(r[r.length - 1]) ? 'locked' : '');
         return `<div class="tree-card ${cls}">${treeSvg(p.p, l)}
           <div class="row between">${lvChip(l)}<span class="pct">%${(100 * p.p).toFixed(1)}</span></div>
           <div class="bar"><i style="width:${100 * p.p}%"></i></div>
-          <div class="small muted">${p.passed ? 'Seviye testiyle geçildi ✓' : `${stage} · ${p.done}/${p.total}${cls === 'locked' ? ' · 🔒' : ''}`}</div></div>`;
+          <div class="small muted">${p.passed ? 'Seviye testiyle geçildi' : `${stage} · ${p.done}/${p.total}${cls === 'locked' ? ' · kilitli' : ''}`}</div></div>`;
       }).join('')}</div>`;
     app.querySelectorAll('[data-tab]').forEach(b => b.onclick = () => garden(b.dataset.tab));
   }
@@ -685,7 +722,7 @@
     rows.sort((a, b) => b.r.n - b.r.c - (a.r.n - a.r.c));
     app.innerHTML = topbar('Hatalarım') + `
       <div class="card">${rows.length ? `<p class="muted small" style="margin-bottom:8px">${rows.length} öğe tekrar bekliyor. Bunlar sonraki oturumlarına öncelikli olarak eklenir.</p>` +
-        rows.slice(0, 300).map(({ m, x, r }) => `<div class="mistake"><div class="row between"><span><b>${esc(x.w)}</b> ${lvChip(x.lvl)} <span class="small muted">${MODES[m].emoji}</span></span><span class="small muted">${r.c}/${r.n}</span></div>
+        rows.slice(0, 300).map(({ m, x, r }) => `<div class="mistake"><div class="row between"><span><b>${esc(x.w)}</b> ${lvChip(x.lvl)} <span class="small muted">${MODES[m].short}</span></span><span class="small muted">${r.c}/${r.n}</span></div>
           <div>${esc(x.tr)}</div>${x.ex ? `<div class="small muted">${exHtml(x.ex)}</div>` : ''}</div>`).join('')
         : '<p>Henüz yanlış yaptığın kelime yok. 🎉</p>'}</div>`;
   }
@@ -711,7 +748,7 @@
         <ul><li><b>Phrasal verbs</b>: Türkçede karşılığı yok; fiil + edat birlikte tek anlam taşır (give up = vazgeçmek). Ayrı test grubunda edat odaklı sorular var.</li>
           <li><b>Yanlış arkadaşlar</b>: Türkçeye benzeyen ama farklı anlama gelen kelimeler. Soru sırasında ⚠️ uyarısı çıkar.</li>
           <li><b>Kelime türü</b>: İngilizcede aynı kök isim/fiil/sıfat olarak değişir (decide, decision, decisive). Her soruda kelime türü gösterilir.</li>
-          <li><b>Telaffuz</b>: 🔊 düğmesiyle kelimeyi ve örnek cümleyi dinle, sesli tekrar et.</li></ul>
+          <li><b>Telaffuz</b>: hoparlör düğmesiyle kelimeyi ve örnek cümleyi dinle, sesli tekrar et.</li></ul>
         <h3>Sık karşılaşılan yanlış arkadaşlar</h3>
         <div class="ff">${['sympathetic', 'actually', 'eventually', 'sensible', 'nervous', 'fabric', 'lecture', 'agenda', 'pension', 'terrific', 'realize', 'confident', 'economic', 'smoking'].map(k => `<div>${k}</div><div>${esc(FALSE_FRIENDS[k][1])}</div>`).join('')}</div>
         <h3>Önerilen günlük rutin</h3>
